@@ -77,8 +77,10 @@
 26. **Laser peripheral iridotomy peri-procedure regimen**: apraclonidine or brimonidine, one drop before and one after;
     prednisolone acetate 1% four times daily for about a week (Baidya) — the same on G4 and GX.
 27. **UBM depth of penetration**: "about 4 mm" (Baidya) wherever it appears.
-28. **Pigment dispersion / pigmentary glaucoma age**: "30–50 years" (Namrata's differential table, fitz 225) on G1, G6
-    and G11. Aravind 4.10 says "young (third decade)" — the older book; logged in the working notes, not on the cards.
+28. **Pigmentary glaucoma / pigment dispersion age** (corrected 8 Oct 13:20 IST): "younger age group, 20–30 years"
+    (Namrata's POAG chapter, fitz 192; Aravind 4.10 "young, third decade") on G1, G6 and G11. Namrata's
+    pseudoexfoliation differential table (fitz 225) prints 30–50 years for pigment dispersion — logged in the working
+    notes, not on the cards.
 29. **"Diamox"** where a book's wording is kept: gloss it once as "(oral acetazolamide)", as item 9 does for Cidamex.
 30. **SLT energy**: 0.5–1.5 mJ per spot (Baidya) on every card (item 13 applies).
 31. **"100-day glaucoma"** on every card — never "90-day" (no book uses it). Iris new vessels at 2–4 months after

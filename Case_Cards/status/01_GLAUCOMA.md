@@ -16,7 +16,7 @@ Next step: examiner review (pass 2) running for every card; then the independent
 | G10 | drafted | Humphrey field (chart) |
 | G2 | reviewed | POAG with trabeculectomy |
 | G3 | reviewed | POAG with drainage device |
-| G11 | drafted | New (extra, 8 Oct): other glaucomas the examiner may ask — buphthalmos, Sturge–Weber, lens-induced, uveitic, steroid-induced, pigmentary. Added on the candidate's request for wider topic coverage |
+| G11 | reviewed | New (extra, 8 Oct): other glaucomas the examiner may ask — buphthalmos, Sturge–Weber, lens-induced, uveitic, steroid-induced, pigmentary. Added on the candidate's request for wider topic coverage |
 
 ## How to resume (read this first if this session has stopped)
 - **All work is on branch `claude/new-session-h6zrwy` (pull request #1), not yet on `main`.** A new session must start
