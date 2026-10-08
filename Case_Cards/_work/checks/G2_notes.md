@@ -473,3 +473,54 @@ NAMRATA (fitz 189–225)
 - No viva question on trabeculectomy or blebs. Filtration-surgery indications and GDD indications (fitz 194) → must-know
   and ladder. Q6 (GAT before gonioscopy and dilatation, fitz 195) → Step 7 Do line. Fields frequency (fitz 194) → Step
   10 viva.
+
+## Examiner additions
+
+Pass 2 (senior examiner), 8 Oct 2026. Builder 5,330 → 5,652 words; lint 5,979; `wc -w` 6,425. Q/A 51 → 52 (22 in the
+ten steps + 30 in the viva section). Every new or changed claim, with its page:
+
+- History row "laser treatment of the angle before surgery": risk of encapsulated blebs up to 3 times after ALT — ARAVIND
+  fitz 296 (4.17 Q20)
+- Cornea row gloss "Dellen (local thinning from tear-film break-up)" — ARAVIND fitz 313 (Q59); the dellen viva question
+  was cut for space
+- Step 3 viva "Why do you note the scleral flap sutures?": visibility of flap sutures through the conjunctival flap is part
+  of the postoperative evaluation — ARAVIND fitz 306 (Q31 iv); suture lysis "when the target IOP is not reached", "within
+  few days to 6 months", "gentle pressure over conjunctiva makes sutures more visible" — ARAVIND fitz 298 (4.17 Q29);
+  tenonectomy improves visibility of the nylon sutures — ARAVIND fitz 305 (Q27) (the tenonectomy viva was merged here)
+- Step 10 viva "How do you stage the damage?": severe = marked cupping, defect within central 5°, MD worse than −12 dB;
+  end-stage = gross cupping, small residual field — BAIDYA fitz 178 (Q21), worded as on card G1
+- Key step 4 "paracentesis: an entry for fluid into the AC at any stage of the operation" — ARAVIND fitz 305 (Q21); step 7
+  "BSS through the paracentesis" (Rycroft cannula) — ARAVIND fitz 304 (Q12 xii)
+- Preoperative care: timolol (2 weeks) and CAIs (1–2 days) stopped "to prevent ocular hypotony and establish a filtering
+  bleb" — ARAVIND fitz 303 (Q11 iv)
+- New viva "How will you improve the success of the repeat operation?": treat surface infections; discontinue aqueous
+  suppressants, CAIs and aspirin; constrict the pupil; prevent conjunctival buttonhole or scleral flap disinsertion; ostium
+  1.5 × 2 mm with a larger iridectomy; tight closure; wound-healing modulation with corticosteroids, 5-FU, MMC — ARAVIND fitz
+  309 (Q43). Q43 also says "discontinue pilocarpine"; left out because Q11 vi (fitz 303) gives pilocarpine 1% one hour
+  before surgery. "Here mitomycin C": MMC essential after failed trabeculectomy — BAIDYA fitz 179 (Q28 a)
+- New viva "What will you consider before cataract surgery in this eye?": miotic pupils, posterior synechiae, congested
+  eyes (bleeding), prior surgery (scarring / filtering bleb), diabetes and hypertension, postoperative IOP rise,
+  suprachoroidal haemorrhage; temporal clear-corneal approach preserves conjunctiva; after cataract alone "subsequent
+  filtering surgery prone for failure" — ARAVIND fitz 25–26 (model case sheet, printed p.666–667)
+- **Bleb-related endophthalmitis, reworded as the books support it.** No book gives a bleb-specific regimen: ARAVIND
+  fitz 312 (Q55–Q57) gives only the earliest sign, bleb-infection treatment and organisms; BAIDYA fitz 458 lists the
+  bleb-related organisms inside its endophthalmitis chapter, where exogenous = postoperative / post-traumatic. The card now
+  says "your books give no bleb-specific regimen; I treat it by the general protocol for postoperative endophthalmitis".
+  Protocol claims: B-scan; aqueous or vitreous sampling; intravitreal vancomycin 1 mg/0.1 ml plus ceftazidime 2 mg/0.1 ml;
+  "intravitreal may be repeated after 48 hours" — BAIDYA fitz 461 (printed p.447); vitrectomy if not responding after
+  intravitreal injection, and immediate PPV (EVS) when vision is perception of light — BAIDYA fitz 462 (printed p.448).
+  The full protocol sits in a new viva question; the Complications bullet points to it.
+- CCT row in investigations reworded to CONSISTENCY item 11: GAT calibrated for 520 µm; thinner falsely low, thicker
+  falsely high, about 0.7 mm Hg per 10 µm — ARAVIND fitz 210; BAIDYA fitz 754
+- Drug table: oral acetazolamide "250 mg two to four times a day" — BAIDYA fitz 172 (CONSISTENCY item 15, as on GX)
+- Drug table: CAI contraindications now sulpha allergy, renal failure, chronic liver disease — ARAVIND fitz 281
+  (CONSISTENCY item 17)
+
+Cut or merged for space (all minor; facts kept where noted): viva "How are corneal dellen formed?" (gloss kept in the
+cornea row); viva "How do you repair a conjunctival buttonhole?"; viva "Which drugs besides antimetabolites modulate wound
+healing?" (steroids kept in the new success question and the drug table); viva "Why do a tenonectomy?" (merged into Step
+3); the must-know indications paragraph now points to the viva answer; the two Recent-advances bullets now point to the
+two *(extra)* viva questions.
+
+Format changes (no new claims): Steps 5 and 6 swapped so the anterior chamber comes before the iridectomy, in slit-lamp
+order; 28 viva or step answers reworded to open with the bold keyword; ladder steps 1, 5, 6, 7 put in the first person.
