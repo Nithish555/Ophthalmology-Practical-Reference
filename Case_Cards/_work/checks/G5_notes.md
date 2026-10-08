@@ -376,3 +376,44 @@ Every v2 claim above is kept unless listed under "Changed".
 - NAMRATA Q1 (causes) → Must know, causes list; viva "three commonest". Q2 (where NV starts) → viva Diagnosis. Q3 (NVA without NVI 12%) → Step 5 viva. Q4 (normal vs new vessels) → Step 3 viva; DD table. Q5 (NVA on gonioscopy) → Step 5 viva. Q6 (hundred-day glaucoma) → related terms; viva Why did you ask. Q7 (stages) → Classification table; Step 5 viva; Step 4 viva. Q8 (surgery and NV) → viva Why did you ask (cataract surgery). Q9 (theories) → Pathogenesis; viva Diagnosis (theories question).
 - ARAVIND 4.9: Q1 (other names) → Definition. Q2 (Weiss) → omitted (eponym history; CARD_SPEC §2.2). Q3 (first sign) → viva Diagnosis. Q4 (ectropion uveae) → Step 2 viva. Q5 (aetiology) → causes list. Q6 (new vs normal) → Step 3 viva. Q7 (theories) → Pathogenesis; viva Diagnosis (theories question). Q8 (proangiogenic factors) → Pathogenesis. Q9 (stages) → Classification. Q10 (Wand's) → Classification; viva. Q11 (types) → viva. Q12 (histopathology) → Pathogenesis. Q13 (cause of angle closure) → viva. Q14 (origin of NV) → viva (with Q2). Q15 (CRVO timing) → viva Why did you ask. Q16 (diabetic risk factors) → viva Why did you ask. Q17 (occlusive diseases) → causes list. Q18 (DD) → DD table; viva. Q19 (FHI) → DD table. Q20 (late complications) → Complications; viva. Q21 (other pupillary leakage) → viva Investigations. Q22 (why leak) → viva Investigations. Q23 (contraindicated drugs) → viva drugs; ladder. Q24 (treatment of choice) → viva. Q25 (PRP mechanism) → viva. Q26 (prophylactic PRP) → viva. Q27 (laser options; settings) → PRP settings per Baidya (newer); goniophotocoagulation *(extra)* viva (settings left out for length); non-contact Nd:YAG CPC protocol in the laser table (ARAVIND fitz 251, 331). Q28 (surgical procedures) → Laser and surgery table. Q29 (management) → Aim; ladder. Q30 (cryo indication) → ladder step 6 (hazy media). Q31 (Ex-PRESS) → Recent advances *(extra)*. Q32 (cyclodestruction indication) → viva. Q33 (newer treatments) → Recent advances; viva. Q34 (probe sizes) → omitted (number no examiner would ask; book self-disagreement, item 13). Q35 (rubeosis iridis) → Definition; short-case viva. Q36 (bevacizumab) → ladder; viva drugs.
 - Extra FAQs answered from other chapters: ARAVIND 7.16 Q4–Q8 (ocular ischaemic syndrome: definition, symptoms, tests, treatment) → related terms, positive history, viva Diagnosis and Investigations, ladder step 8; BAIDYA CRVO Q4, Q8, Q12 (fitz 281–283) → viva Diagnosis; BAIDYA PRP (fitz 451–452: settings, sittings, adverse effects, indirect delivery) → ladder, laser table, viva.
+
+## Examiner additions
+
+Pass 2 (senior examiner), 8 Oct 2026. Builder count after review: 5,849 (budget 3,300–5,500; within the ~6,000
+allowance because every addition is basic or important); `wc -w` 6,575; Q/A pairs 57 (19 in the steps, 33 in the viva
+section, 5 in the short-case block). Full review: `checks/G5_review.md`.
+
+### Added (read-and-answer gaps)
+- Tonopen useful in oedematous and scarred corneas; portable — ARAVIND fitz 211 (4.1 Q48) → Step 4 viva
+- Gonioscopy through corneal oedema after one or two drops of anhydrous glycerin — ARAVIND fitz 233 (4.6 Q24) → Step 5 viva (the Do line keeps Baidya's "defer while oedematous", BAIDYA fitz 193; glycerine is "if it cannot wait"). The UBM answer lost its *(extra)* tag (ARAVIND fitz 228, already in the ledger)
+- Long-standing NVG signs: pigment on the inferior endothelium, Descemet's folds, pigmented keratic precipitates; segmental iris atrophy, posterior synechiae; pigment on the anterior lens capsule; festooned pupil on dilatation from multifocal posterior synechiae — BAIDYA fitz 192 → RE | LE table, Step 6 Do
+- Optociliary shunt vessels: abnormal disc vessels carrying blood from the retinal to the choroidal circulation; a sign of good compensatory circulation — BAIDYA fitz 287 (CRVO Q18) → Step 6 viva
+- Fellow-eye CRVO risk 1% a year, 7% within 5 years — BAIDYA fitz 281 (CRVO Q2) → Step 7 viva
+- Ischaemic vs non-ischaemic CRVO: VA counting fingers or worse; RAPD > 0.7 log unit; more extensive haemorrhages, cotton-wool spots, disc and macular oedema; non-perfusion > 10 DD; ERG always depressed — BAIDYA fitz 281–282 (CRVO Q4) → viva Diagnosis
+- "10 disc areas" (CVOS definition) — NAMRATA fitz 238; Baidya prints "10 DD". Card now says "10 disc areas" in the investigations row and the viva, to match card G7
+- Ocular ischaemic syndrome vs CRVO vs diabetic retinopathy: OIS veins dilated but not tortuous, dot-blot haemorrhages in the mid-periphery, disc normal, delayed choroidal filling; CRVO dilated tortuous veins, flame haemorrhages throughout, swollen disc; NPDR always bilateral, hard exudates always present, posterior pole — BAIDYA fitz 281 (table) → viva Diagnosis
+- NVG closes the angle without pupillary block (anterior "pulling" mechanism) — ARAVIND fitz 229 (4.6 Q1); NVG is a contraindication to laser peripheral iridotomy — ARAVIND fitz 293 (4.17 Q5); laser trabeculoplasty contraindicated in "NV glaucoma" — BAIDYA fitz 180 (Q35); ALT contraindicated in NVG — ARAVIND fitz 296 (4.17 Q15) → new viva Q and a new trap bullet
+- CVOS: prompt PRP once NVI/NVA develops, not prophylactic; prophylactic PRP only when frequent follow-up is not possible or with risk factors (extensive haemorrhage or non-perfusion, male, short duration) — BAIDYA fitz 286–287 (CRVO Q16, Q19) → prophylactic-PRP viva answer
+- Anti-VEGF cannot eliminate neovascularisation permanently; when stopped, neovascular activity returns to a higher extent — BAIDYA fitz 286 (CRVO Q15) → anti-VEGF role viva
+- Bevacizumab a complete antibody, off-label, much cheaper; ranibizumab a humanised monoclonal antibody fragment binding all isoforms of VEGF-A; aflibercept a recombinant fusion protein binding VEGF-A, VEGF-B and placental growth factor — NAMRATA fitz 301 → anti-VEGF agents viva (doses unchanged, BAIDYA fitz 265, CONSISTENCY 19)
+- Retrobulbar alcohol: 2–3 ml lignocaine retrobulbar, needle held, syringe changed to 1 ml of 95–100% alcohol (some use 50%); effective 3–6 months; transient ptosis, eyelid swelling, restricted ocular movement, periocular anaesthesia, tissue necrosis — ARAVIND fitz 236 (4.6 Q33–34) → new viva Q (card gives the first three effects)
+- NVG is a poor-prognosis factor for filtering surgery — ARAVIND fitz 306 (4.18 Q33); a high-risk indication for adjuvant antimetabolite — ARAVIND fitz 314 (4.18 Q66) → trabeculectomy viva answer
+
+### Changed (CONSISTENCY)
+- Item 12: MMC "0.2–0.4 mg/ml for 2 minutes" → "0.2–0.5 mg/ml for 1–5 minutes" (ladder and laser/surgery table); 5-FU now "50 mg/ml for 5 minutes, or 5 mg subconjunctival injections after surgery" — ARAVIND 4.19 via card GX. Aravind's NVG figure (fitz 252–253) lies inside the range and is no longer printed.
+- Item 13: cyclophotocoagulation row now quotes GX/Baidya: transscleral diode 1500–2000 mW for 1.5–2 s, 12–24 burns behind the limbus over 360°, sparing 3 and 9 o'clock — BAIDYA fitz 455. The Aravind non-contact Nd:YAG protocol (30–40 spots, fitz 251, 331) is removed from the card.
+- Item 15: acetazolamide "250 mg twice daily" → "250 mg two to four times a day" (ladder, drug table). Aravind's NVG regimen (250 mg twice daily, fitz 253) lies inside it.
+- Item 17: dorzolamide contraindication "liver disease" → "chronic liver disease" (ARAVIND fitz 281).
+- Item 19: anti-VEGF doses and the 2–3-day timing already matched; no change.
+- Item 20: mannitol "over 20–30 minutes" added to the drug table and Quick recall (the ladder already had it).
+
+### Cut for length (minor or duplicated)
+- Ex-PRESS shunt *(extra)* bullet under Recent advances (ARAVIND fitz 253, still in the ledger above).
+- Goniophotocoagulation *(extra)* viva (ARAVIND fitz 251; Baidya fitz 194 lists it with PRP).
+- Viva "What are the differential diagnoses?" (duplicated the differential table).
+- Viva "Where else does fluorescein leak at the pupil margin?" (minor; ARAVIND fitz 250 Q21).
+- Viva "What closes the angle?" merged into "Which types of glaucoma occur in NVG, and what closes the angle?".
+
+### Looked for, not in the books
+- Complications of intravitreal anti-VEGF injection (no list in any of the three books) — not added.
+- Atropine adverse effects (still none) — drug-table cell unchanged.

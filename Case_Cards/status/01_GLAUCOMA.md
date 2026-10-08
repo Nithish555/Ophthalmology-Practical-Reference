@@ -8,7 +8,7 @@ Next step: examiner review (pass 2) running for every card; then the independent
 | GX | drafted | New in v3/v4: glaucoma treatment toolkit (§8.2) |
 | G1 | drafted | POAG + glaucomatous optic disc — add block "Glaucomatous optic disc" |
 | G4 | drafted | Primary angle-closure disease — thesis topic, deepest card |
-| G5 | drafted | Neovascular glaucoma — add block "Rubeosis iridis" |
+| G5 | reviewed | Neovascular glaucoma — add block "Rubeosis iridis" |
 | G6 | drafted | Pseudoexfoliation — add block "Pseudoexfoliation" |
 | G7 | drafted | CRVO with POAG |
 | G8 | drafted | Applanation tonometry (task) |
