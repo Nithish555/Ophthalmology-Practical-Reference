@@ -63,3 +63,9 @@
 20. **Mannitol**: 20%, 1–2 g/kg intravenously over 20–30 minutes on every card (the AIIMS book's 1.5 g/kg lies inside
     this range; logged in the working notes).
 21. **Steroid responders**: any card that grades them uses Namrata's Becker and Armaly table (G11).
+22. **Glaucoma drainage devices** (from the G3 ledger, Aravind 4.20 page images): Ahmed plate 184 mm² (double plate
+    364 mm²), valve opens above 8–10 mm Hg; Molteno tube 0.63 / 0.3 mm, Baerveldt 0.64 / 0.3 mm (outer / inner
+    diameter); ligature on a non-valved tube releases at about 2–3 weeks; plate 8–10 mm behind the limbus; tube 1.5–2 mm
+    into the anterior chamber, bevel up (pars plana tube 3–4 mm, bevel down); patch graft covering 3–5 mm of tube.
+    **Hypertensive phase**: "a transient pressure rise soon after surgery, with poor control although the device
+    works". No trials and no Aurolab implant on any card (not in the books). GX and G2 must match these figures.

@@ -15,7 +15,7 @@ Next step: pass 1 (ledger + v4 draft) running for every card in parallel since 8
 | G9 | drafted | Gonioscopy (task) |
 | G10 | v2 | Humphrey field (chart) |
 | G2 | drafted | POAG with trabeculectomy |
-| G3 | ledger | POAG with drainage device |
+| G3 | drafted | POAG with drainage device |
 | G11 | drafted | New (extra, 8 Oct): other glaucomas the examiner may ask — buphthalmos, Sturge–Weber, lens-induced, uveitic, steroid-induced, pigmentary. Added on the candidate's request for wider topic coverage |
 
 Checkpoint 8 Oct 12:35 IST: ledgers committed; card drafts mid-edit (pass 1 still running). A card at `ledger` whose draft is half-edited must be finished from its ledger, not restarted.
