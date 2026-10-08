@@ -1,7 +1,7 @@
 # 01 GLAUCOMA — status
 Owner: claude/new-session-h6zrwy · claimed 8 Oct 2026 12:02 IST
-State: in progress — v2 file delivered 7 Oct 2026; upgrade to v4 pending (MASTER_PROMPT_PRACTICALS_v4.md §11)
-Next step: tag `v2-build`, build GX, then upgrade G1
+State: in progress — v4 upgrade under way (MASTER_PROMPT_PRACTICALS_v4.md §11). v2 file stays at commit 3fcc773 (tag push not possible from this environment)
+Next step: GX — ledger and draft (toolkit first), then upgrade G1
 
 | Card | Stage | Notes |
 |---|---|---|
@@ -16,6 +16,7 @@ Next step: tag `v2-build`, build GX, then upgrade G1
 | G10 | v2 | Humphrey field (chart) |
 | G2 | v2 | POAG with trabeculectomy |
 | G3 | v2 | POAG with drainage device |
+| G11 | todo | New (extra, 8 Oct): other glaucomas the examiner may ask — buphthalmos, Sturge–Weber, lens-induced, uveitic, steroid-induced, pigmentary. Added on the candidate's request for wider topic coverage |
 
 Questions for the user:
 Requests for other subjects:
