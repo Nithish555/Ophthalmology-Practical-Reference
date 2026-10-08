@@ -224,3 +224,35 @@ NAMRATA POAG viva Q6 (why GAT before gonioscopy and dilatation) → Steps row 1 
 - v2 items cut for the budget (still verified, can return): peak IOP 3–4 hours after the cortisol peak; posture (0.3–6 mm Hg); Tono-Pen in the operation theatre; Mackay–Marg and pneumatic tonometers for corneal scarring; the "Tono-Pen: CCT influences" point; NCT disadvantages (tear-film damage, false positives and negatives); Pascal's-principle wording; Schiotz advantages (portable, cheap, screening) and the Moses effect.
 - Lint flags the Keywords line as a 43-word "sentence"; it is a list line, not prose, so it was left.
 - "Examiners tick it" (Steps row 2) rests on the candidate's observed-station checklist (consent, patient instruction, tonometer checked, topical drops applied, handling) noted in the v2 ledger.
+
+## Examiner additions
+
+Pass 2 (senior examiner), 8 Oct 2026. Every new or changed claim, with its page. Review: `checks/G8_review.md`.
+
+### Added
+- Factors that change IOP: diurnal, postural, exertional, lid and eye movement, intraocular, systemic, environmental, general anaesthesia, food and drugs — ARAVIND fitz 205 (4.1 Q7)
+- Lying down raises IOP by 0.3–6 mm Hg (episcleral venous pressure) — ARAVIND fitz 205 (Q11)
+- Valsalva raises IOP; prolonged exercise lowers it; hard lid squeezing raises it — ARAVIND fitz 206 (Q12, Q13)
+- General anaesthetic agents in general reduce IOP; trichloroethylene, ketamine, succinylcholine and suxamethonium raise it (card names ketamine only) — ARAVIND fitz 206 (Q17)
+- Caffeine and tobacco smoking raise IOP; alcohol (and heroin, marijuana) lower it (card names caffeine and alcohol) — ARAVIND fitz 206 (Q18)
+- Phasing = IOP measured at various times of day and night to record diurnal variation — ARAVIND fitz 239 (4.8 Q4)
+- Diurnal variation test: IOP every 3 hours for 24 hours; difference of 8 mm Hg or more between any two readings is significant; uses: baseline IOP, nocturnal rise, timing of medications — NAMRATA fitz 192; timing of peak IOP — NAMRATA fitz 194 (Q2); explaining progressive damage despite apparently good pressure control — ARAVIND fitz 239 (Q6)
+- CCT measured with an ultrasonic pachymeter (also Orbscan, Pentacam, AS-OCT) — NAMRATA fitz 155; pachymetry estimates CCT for IOP correction — NAMRATA fitz 192
+- Schiotz procedure: sterilise; zero on the metal (test) plate; lids apart without pressing the globe; footplate on the anaesthetised cornea; scale reading converted with the chart — BAIDYA fitz 753; supine patient — BAIDYA fitz 752; "touch the artificial cornea till the reading is at zero" — ARAVIND fitz 208 (Q28)
+- Tono-Pen usable over a bandage contact lens — BAIDYA fitz 754; ARAVIND fitz 211 (Q48)
+- Perkins: portable, hand-held applanation, bed-bound or anaesthetised patients — BAIDYA fitz 753; children — BAIDYA fitz 184 (moved from the viva to Indications)
+
+### Changed
+- CCT bullet reworded to CONSISTENCY item 11 (calibrated for a mean 520 µm; thinner falsely low, thicker falsely high, about 0.7 mm Hg per 10 µm; thin < 500 µm, thick > 570 µm) — ARAVIND fitz 210, 243; BAIDYA fitz 754; NAMRATA fitz 196. The old wording tied the error to "thin corneas under 500 µm" only.
+- Keywords: "calibration arm" and "astigmatism over 3 dioptres" dropped (both stay in Instrument check and Common errors); "phasing" added (used in a viva answer). Nine keywords.
+- Steps row 11 "Why" now explains the time (diurnal variation, ARAVIND fitz 205); the quick-repeat fall stays in Common errors (BAIDYA fitz 754 f).
+
+### Cut for the budget (verified, can return)
+- Viva "limitations of GAT" (its content is in Instrument check, Indications and Common errors; ARAVIND fitz 210 Q43; BAIDYA fitz 754).
+- Viva "Perkins tonometer" (folded into Indications).
+- *(extra)* dynamic contour tonometry (Pascal; independent of CCT, no fluorescein — ARAVIND fitz 211 Q53; BAIDYA fitz 754) and the named newer tonometers (rebound, Corvis ST).
+
+### Not added (considered)
+- Tonography and the C value 0.22–0.30 µL/min/mm Hg (ARAVIND fitz 207 Q20–21): minor; budget.
+- Volume of aqueous displaced (ARAVIND fitz 209 Q33): unit garbled in the book.
+- Complications or contraindications of applanation tonometry; after-care; time of the last drop: not in the three books.

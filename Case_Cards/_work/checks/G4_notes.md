@@ -425,3 +425,31 @@ ARAVIND 4.17 (fitz 292–298): Q1–2 → not on card (GX); Q3 → Viva (why YAG
   chipping); provocative-test and CCT rows of the investigations table (both still answered in viva / step 6);
   "Define PACS, PAC and PACG", phacomorphic-versus-PACG and drugs-after-LPI viva questions
   (answered in tables and the ladder); the glycerol-in-diabetes viva (drug table).
+
+## Examiner additions (8 Oct 2026, pass 2 — senior examiner)
+New or changed claims on the card, each with its source (Baidya printed = fitz − 14; Namrata printed = fitz − 18):
+- Iris whorling = sectoral infarction of the iris sphincter (Step 4 viva) — NAMRATA fitz 198 (p.180)
+- CCT: GAT calibrated for a mean CCT of 520 µm; error about 0.7 mm Hg per 10 µm (Step 6 viva) — CONSISTENCY 11 (ARAVIND fitz 210; BAIDYA fitz 754); thin < 500, thick > 570 µm — NAMRATA fitz 196
+- Causes of PAS: primary angle closure, anterior uveitis, ICE syndrome, secondary glaucoma after intraocular surgery (wound leak), trauma (Step 7 viva) — ARAVIND fitz 216 (4.2 Q17)
+- Nd:YAG LPI: pilocarpine 1% (NAMRATA fitz 201; matches GX); apraclonidine or brimonidine one drop before and one after — BAIDYA fitz 455 (p.441), CONSISTENCY 26
+- Iridoplasty row: shrinks the peripheral iris and relieves the closed angle; most suspected plateau iris has some pupillary block, so PI first — ARAVIND fitz 231 (4.6 Q10); BAIDYA fitz 166 (Q4 "an element of pupillary block is usually present"); wording aligned with GX
+- Trabeculectomy row: MMC 0.2–0.5 mg/ml for 1–5 min; 5-FU 50 mg/ml for 5 min — CONSISTENCY 12 (ARAVIND 4.19); PI with trabeculectomy prevents closure of the ostium by the peripheral iris and pupillary block — BAIDYA fitz 178 (p.164, Q24)
+- After LPI: oral acetazolamide in advanced glaucomatous damage or high IOP — BAIDYA fitz 455 (p.441); prednisolone acetate 1% four times daily for about a week — CONSISTENCY 26 (BAIDYA fitz 455 "potent topical steroid four times daily for 1 week"; NAMRATA fitz 202 prednisolone acetate 1%)
+- Inverse glaucoma moved from an *(extra)* viva into the classification bullet (same fact) — ARAVIND fitz 233 (4.6 Q22)
+- Spaeth contour S = steep or convex, R = regular or flat, Q = queer, deeply concave — ARAVIND fitz 217 (4.2 Q3)
+- Plateau iris: sine-wave iris because the iris hangs over the anterior ciliary processes — ARAVIND fitz 231 (Q8); UBM confirms the iris plateau — BAIDYA fitz 729 (p.715); some pupillary block, PI first, then argon iridoplasty — ARAVIND fitz 231 (Q10)
+- UBM: supine position may falsely widen the AC — BAIDYA fitz 730 (p.716); sees behind the iris pigment epithelium; AS-OCT wider field of view — BAIDYA fitz 730 table; AS-OCT principle = low-coherence interferometry, resolution higher than UBM — BAIDYA fitz 735 (p.721)
+- Dark-room provocative testing with UBM gives objective results — ARAVIND fitz 227 (4.5 Q3 a i)
+- Phacoemulsification in the short eye: shallow AC is an ocular factor for posterior capsule rent — BAIDYA fitz 143 (p.129, Q2); "a hyperopic eye with shallow AC depth" is an intraoperative cause of corneal oedema after cataract surgery — BAIDYA fitz 86 (p.72, Q1); IOL formula by axial length: < 20 mm Holladay II/Hoffer Q, 20–22 mm Hoffer Q — BAIDYA fitz 160 (p.146)
+- Trap: an attack without glaucomatous optic neuropathy is PAC, not PACG — ISGEO table already on the card (BAIDYA fitz 165; ARAVIND fitz 229; NAMRATA fitz 200)
+- Quick recall: ISGEO "(almost 270°)" — CONSISTENCY 25 (BAIDYA fitz 165)
+- Watering row reworded to CONSISTENCY 24 ("surface toxicity of long-term drops") — BAIDYA fitz 163
+- @readmore: added Baidya p.72, 129, 146.
+
+Removed (minor, to make room): viva "How are UBM and OCT images described?" (IMAGING fitz 22 terms; not one of the three books); viva "What is inverse glaucoma?" (fact kept in the classification).
+Diagnosis example line shortened to 19 words ("intraocular pressure controlled on one medication").
+
+For the fact-checker:
+- Apraclonidine "Contraindications: Children" (drug table, writer's v4 line) — ARAVIND fitz 279 Q32 says "α agonists (brimonidine)" should be avoided in children; Q34 says apraclonidine has minimal blood–brain barrier penetration. Not changed by the examiner; check whether the class statement supports it, or reword to match GX.
+- Aravind's Vogt's triad (glaukomflecken, patches of iris atrophy, slightly dilated non-reacting pupil; fitz 236) is NOT on the card, per CONSISTENCY 25.
+- Kanski passages (Lens extraction bullets and the lens-extraction viva) untouched; no new Kanski fact; no AS-OCT parameter values added (Baidya's Visante 1320 nm / Cirrus figures at fitz 735 deliberately not used).

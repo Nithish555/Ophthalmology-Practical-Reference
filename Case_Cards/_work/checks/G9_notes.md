@@ -282,3 +282,39 @@ NAMRATA PACG (p.178–184): Q1 Van Herick → Normal values · Q2–Q8 (risk fac
 - Inferred, kept as procedure: "Disinfect the lens before and after each patient — it touches every patient's cornea" (Template D asks for disinfection; no book gives a goniolens agent); "The lens curve is steeper than the cornea" is the book's reason for the coupling fluid (BAIDYA fitz 756).
 - Cut for the budget (verified, can return): CBB narrower in hypermetropes, wider in myopes; TM width 600 µm; Schlemm's canal blood; trabecular dialysis; blood in Schlemm's canal causes; Wand stage 4; pigmentary-glaucoma gonioscopy; indentation breaking an acute attack is kept only under Indications; the Goldmann three-mirror mnemonic (only the angle-structures mnemonic stays).
 - Lint flags the Keywords line (35 words, a list) and the CONSISTENCY 2 sentence (22 words, contains a quotation); both left as they are.
+
+## Examiner additions
+
+Pass 2 (senior examiner), 8 Oct 2026. Every new or changed claim, with its page. Review: `checks/G9_review.md`.
+
+### Added
+- Record a closed quadrant as appositional (opens on indentation) or synechial (PAS) — BAIDYA fitz 755 (indentation opens apposition, PAS stays closed); ARAVIND fitz 217 (grade O needs indentation to tell them apart); two forms of iridotrabecular contact, appositional and synechial — ARAVIND fitz 230 (4.6 Q4)
+- Written example: pigmented TM as the deepest structure = Shaffer grade 2 (moderately narrow) — ARAVIND fitz 216 (book Shaffer, Arabic numeral, outside the diagram, per CONSISTENCY 1–2)
+- CBB wider in myopic eyes (narrower in hypermetropes) — BAIDYA fitz 756
+- Blood in Schlemm's canal: after gonioscopy, raised episcleral venous pressure (carotid-cavernous fistula, dural shunt, Sturge–Weber, superior vena cava obstruction, ocular hypotony), low IOP (after trabeculectomy, hypotony) — ARAVIND fitz 215–216 (Q16); blood can sometimes be seen in the canal — BAIDYA fitz 756
+- Plateau iris on indentation: double hump — BAIDYA fitz 166; sine-wave peripheral iris "hanging over the anterior ciliary processes" — ARAVIND fitz 231 (4.6 Q8)
+- ISGEO staging: PACS = posterior-meshwork ITC in 3 or more quadrants (almost 270°), no PAS, normal IOP, disc and field — BAIDYA fitz 165; PAC = ITC > 270° with elevated IOP and/or PAS, normal disc and fields; PACG = adds optic nerve and field damage — ARAVIND fitz 229 (4.6 Q2). Same wording as card G4.
+- Direct versus indirect rewritten as sentences: direct — erect view, can see over a convex iris, time-consuming, supine; indirect — quicker, compression possible, orientation confusing initially — ARAVIND fitz 212 (Q5), 213–214 (Q7)
+- Angle recession: widening of the ciliary body band is the most important sign; compare with the fellow eye — NAMRATA fitz 216, 372
+
+### Moved or changed
+- Occludable-angle definition moved from Normal values into the viva (same wording) — ARAVIND fitz 217 (CONSISTENCY 1).
+- Old viva "Gonioscopy in angle closure?" replaced by the occludable + ISGEO answer (acute/chronic line from ARAVIND fitz 233 dropped).
+- "IOP" avoided in the new answer ("pressure"), because the card never expands IOP.
+- Indications line shortened to "secondary causes" (Step 12 lists them).
+
+### Disagreement noted
+- ITC extent for PACS: BAIDYA fitz 165 "3 or more quadrants (almost 270°)"; ARAVIND fitz 229 "greater than 270°"; NAMRATA fitz 200 "> 180°". Card: Baidya (newest), as on G4.
+
+### Cut for the budget (verified; all are on other cards)
+- Viva "Why do miotics fail in angle-recession glaucoma?" (ARAVIND fitz 243) — on G11.
+- *(extra)* congenital glaucoma gonioscopy (BAIDYA fitz 185) — on G11.
+- Indications "indentation can break an acute attack" (ARAVIND fitz 214) — on G4.
+- Common-errors row "not comparing the fellow eye" (NAMRATA fitz 372) — kept in the trauma answer.
+- The mnemonic line "I CAN SEE TILL SCHWALBE'S LINE" (MNEMONICS PDF fitz 61) — the order stays in Step 10 and the structures table.
+
+### Not added (considered)
+- Deferring gonioscopy 4–6 weeks after acute trauma (NAMRATA fitz 216): on G11; budget.
+- Goldmann three-mirror: central lens 30° posterior pole, equatorial and peripheral mirrors (BAIDYA fitz 756; ARAVIND fitz 213): budget.
+- Coupling-fluid name: the books name methylcellulose only for UBM and laser lenses (BAIDYA fitz 729, UBM; NAMRATA fitz 452, YAG capsulotomy lens), never for a goniolens.
+- Van Herick technique (slit beam at the temporal limbus at 60°): only on the department slide; it is on G4 Step 3.
