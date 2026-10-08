@@ -310,3 +310,92 @@ Steroid-induced — NAMRATA fitz 219–220: Q1 → Definition · Q2 time course 
 Pigmentary — ARAVIND 4.10: Q1 → Signs step 1 · Q2 chromosome → not on card · Q3 → Signs steps 2–5 · Q4 → Signs step 6 · Q5 angle pigment causes → PIGMENT mnemonic in Quick recall · Q6 → Signs step 7 · Q7–8 → Viva (mechanism) · Q9 histopathology → Viva (mechanism, last line) · Q10 → How to tell it apart · Q11 → How to tell it apart + Viva · Q12 → How I will manage.
 Angle recession — NAMRATA fitz 217: Q1 → Viva (incidence; masked by hyphaema in the gonioscopy viva) · Q2 → Viva · Q3 mechanism of recession → not on card (cut) · Q4 → Viva (mechanism of glaucoma) · Q5 hyphaema sources → not on card · Q6 → Viva · Q7 → Viva · Q8 → How to tell it apart. ARAVIND 4.8 Q39 → How I will manage + Viva.
 Malignant glaucoma — ARAVIND fitz 308 Q38 → Signs + How I will manage; fitz 298 Q27 → Viva; fitz 227 → Signs step 5 + Viva (UBM); fitz 307 Q35 → Viva (shallow AC after trabeculectomy); fitz 305 Q26 → Manage step 5. BAIDYA fitz 165 Q1b → Signs.
+
+## Examiner additions
+Examiner pass 2, 8 Oct 2026. Every new or changed claim, with its fitz page.
+
+### Buphthalmos
+- Photophobia from corneal oedema and breaks in Descemet's membrane — NAMRATA fitz 206
+- Haab's striae "horizontal or concentric to the limbus" — NAMRATA fitz 208 (Table 1)
+- Acute hydrops in severe cases — NAMRATA fitz 206
+- Loch Ness monster = vascular loops from the major arterial circle at the iris root; Lister's morning mist = fine fluffy tissue on the peripheral iris (glosses added to the EUA table) — BAIDYA fitz 185; NAMRATA fitz 207
+- Birth trauma: soft-tissue injuries may be present — NAMRATA fitz 208 (Table 1)
+- CAI contraindications now the full three (sulpha allergy, renal failure, chronic liver disease) — ARAVIND fitz 281 (4.15 Q42); CONSISTENCY item 17
+- Trabeculotomy advantage now "it can be done when the cornea is hazy" — BAIDYA fitz 186; NAMRATA fitz 207. REMOVED the inferred "no view of the angle is needed" and the inferred disadvantage "if it fails, filtering surgery follows" (now written as the next step)
+- After failed goniotomy/trabeculotomy: trabeculectomy with or without MMC, or combined with trabeculotomy — BAIDYA fitz 187; NAMRATA fitz 207
+- Drainage devices in children (Molteno, Ahmed, Baerveldt); complications cornea–tube touch, implant migration, cataract — BAIDYA fitz 187
+- Cyclodestruction (endolaser or transscleral diode cyclophotocoagulation) for refractory cases; hypotony, retinal detachment — BAIDYA fitz 187
+- Viva "What will you ask the parents?": triad, large eyes or hazy white cornea; forceps delivery → hazy cornea with vertical Descemet tears; 90% sporadic, 10% autosomal recessive, examine siblings — BAIDYA fitz 183–184; NAMRATA fitz 206
+- Keratoglobus has a normal corneal diameter (differentiates it from buphthalmos) — NAMRATA fitz 160
+- Classification answer: primary (newborn 25% / infantile 65% / juvenile 10%) — BAIDYA fitz 185 (Q4); secondary list (chromosomal; metabolic — Lowe, Zellweger; phakomatoses — Sturge–Weber; anterior segment dysgenesis, aniridia, congenital ectropion uveae, nanophthalmos; retinoblastoma, ROP, PHPV, trauma, uveitis) — NAMRATA fitz 208 (Q5)
+- Prognosis line rewritten to what the books say: "the earlier the onset, the more severe the damage" — BAIDYA fitz 183. REMOVED the inferred "the outlook is worse with corneal scarring and amblyopia"
+- Cut: the 5 B's mnemonic (ABCDDE kept); the separate secondary-causes Q merged into the classification Q
+
+### Sturge–Weber syndrome
+- Heterochromic iris; cataract or subluxated lens — BAIDYA fitz 188
+- Fundus: serous retinal detachment and cystoid macular oedema with the choroidal haemangioma — BAIDYA fitz 188
+- Trabeculectomy advantage: "an alternate passage of aqueous outflow, independent of the episcleral veins" — BAIDYA fitz 189 (Q3b)
+- One or more sclerotomies before trabeculectomy — NAMRATA fitz 204
+- Drainage device "while minimizing intraocular complications" — NAMRATA fitz 204
+- Cyclophotocoagulation for refractory cases or poor visual potential; hypotony and phthisis — BAIDYA fitz 189 (Q3d); NAMRATA fitz 204
+- Viva "visual outcome": variable, long-term follow-up; loss from glaucoma and its surgery, diffuse choroidal haemangioma, occipital leptomeningeal angioma — BAIDYA fitz 190 (Q5)
+- Cut: tri-/bi-/monosymptomatic Q (minor)
+
+### Lens-induced glaucomas
+- Differential row "uveitic glaucoma versus phacolytic": phacolytic has no keratic precipitates — ARAVIND fitz 271 (4.14 Q4); uveitic KPs and posterior synechiae — ARAVIND fitz 249 (4.9 Q18 ii)
+- Apraclonidine reduces aqueous production — ARAVIND fitz 279 (4.15 Q30)
+- Mannitol "over 20–30 minutes" — CONSISTENCY item 20 (as GX)
+- The 3-month quiet-eye rule before cataract surgery in uveitis does not apply to phacolytic and other lens-induced uveitis; surgery can be done immediately — ARAVIND fitz 175 (3.1 Q49)
+- Hypermature morgagnian cataract: high intralenticular pressure causes capsulorhexis run-off; nick the anterior capsule, aspirate the milky fluid, dispersive OVD; hydroprocedures contraindicated — BAIDYA fitz 751 (printed p.737, added to @readmore)
+- Viva "What causes ectopia lentis?" — ARAVIND fitz 273–274 (4.14 Q20)
+- Cut: inverse glaucoma Q (already on card G4)
+
+### Uveitic glaucoma
+- Definition relabelled "Definition (working description)" — no book gives a one-line definition (ARAVIND fitz 265 Q1 mechanisms); no quotation marks
+- Surgery: 5-FU "significantly improves the success rate"; Ahmed valve once inflammation is controlled, with steroid cover so exudate does not block the lumen — ARAVIND fitz 267 (4.12 Q4 iv, viii)
+- Differential row "steroid-induced glaucoma in a treated uveitis": quiet chamber — NAMRATA fitz 218; IOP falls after stopping or switching the steroid — NAMRATA fitz 219
+- Fuchs row: chronic non-granulomatous unilateral — BAIDYA fitz 397 (Q91); OAG from trabecular sclerosis — ARAVIND fitz 250 (4.9 Q19); posterior synechiae rare — ARAVIND fitz 179 (3.3). The separate Fuchs viva Q was merged into this row
+- Viva "Which uveitic conditions raise IOP?": viral, toxoplasmosis, sarcoidosis, Fuchs, Posner–Schlossman, steroid-induced, lens-induced — ARAVIND fitz 173 (3.1 Q40)
+- Cut: CMV DNA in Posner–Schlossman *(extra)*; cyclophotocoagulation line
+
+### Steroid-induced glaucoma
+- The inserted word in the quoted definition is now marked "[of]" — NAMRATA fitz 219 Q1 prints "adverse effect exogenous"
+- Differential row glaucomatocyclitic crisis (unilateral, KPs, AC reaction) — NAMRATA fitz 218 (congestion left out: the books disagree, see Disagreements)
+- Laser trabeculoplasty when drugs fail or are not tolerated; trabeculectomy with or without antimetabolites when both fail — NAMRATA fitz 219; BAIDYA fitz 180 (Q35)
+- Viva "How will you take the steroid history?": drops, ointments, pills — ARAVIND fitz 269 (4.13 Q8); nasal and inhalational — ARAVIND fitz 269 (Q7); topical, systemic, local, IVTA, Ozurdex — NAMRATA fitz 218; inhalers and dermatological — NAMRATA fitz 219 (Table 1)
+- Viva "Which route is most dangerous?": periocular long-acting depot most dangerous; topical often raises IOP; systemic least likely; NSAIDs do not raise IOP — ARAVIND fitz 270 (Q11, Q12)
+- Cut: myocilin gene *(extra)*
+
+### Pigmentary glaucoma
+- Age now "30–50 years" — NAMRATA fitz 225 (Table 3); CONSISTENCY item 28. Replaces "20–30 years". Disagreement logged: NAMRATA fitz 192 "20–30 years" (pigmentary glaucoma, POAG differential); ARAVIND fitz 255 "3rd decade"
+- Pseudoexfoliation row age now "over 60 years, both sexes" — NAMRATA fitz 225 (Table 3), matching card G6
+- Definition relabelled "Definition (working description)"; "an open-angle glaucoma that develops in pigment dispersion syndrome" — ARAVIND fitz 257 (Q11: open-angle; 35% of PDS develop glaucoma); NAMRATA fitz 225 pathomechanism. "Secondary" dropped (no book calls it that)
+- Laser iridotomy advantage reworded to "treats the cause, the backward bowing of the iris" — ARAVIND fitz 257–258 (Q12 "relieves the posterior bowing")
+- CAI contraindications now the full three — ARAVIND fitz 281; CONSISTENCY item 17
+- Viva "What else causes a heavily pigmented angle?" — ARAVIND fitz 255 (4.10 Q5)
+- "Reverse pupillary block" Q folded into the mechanism answer (keyword kept in a viva answer)
+
+### Angle-recession glaucoma
+- New sign step "Cornea and anterior chamber": early stromal oedema, endothelial pigment or blood staining, hyphaema; deep, irregular chamber; iridodialysis (D-shaped pupil) — NAMRATA fitz 215–216
+- Gonioscopy deferred 4–6 weeks because a concomitant hyphaema masks the recession — NAMRATA fitz 216, 217 (Q1) (the separate timing Q merged into the sign step)
+- Drainage devices give limited benefit — NAMRATA fitz 217
+- Viva "How does angle recession happen?": AP compression, equatorial expansion, limbal stretch, posterior displacement of the lens–iris diaphragm — NAMRATA fitz 217 (Q3)
+
+### Malignant glaucoma
+- Definition relabelled "Definition (working description)" and the partial quotation removed (paraphrase of ARAVIND fitz 308 Q38 "cause"); "secondary angle closure without pupillary block" — ARAVIND fitz 229 (4.6 Q1, posterior pushing, ciliary block glaucoma); after surgery — BAIDYA fitz 165; after laser — NAMRATA fitz 202, ARAVIND fitz 295, 332
+- IOP "high or normal" — BAIDYA fitz 165; CONSISTENCY item 18
+- Nd:YAG step: REMOVED the inferred "Advantage: it acts directly on the barrier. Disadvantage: it needs a patent iridectomy". Now: hyaloidotomy "through a patent iridectomy" — ARAVIND fitz 308 (Q38 iii); viva "How does the laser help?" — anterior hyaloid is the barrier; relieves ciliovitreal compression — ARAVIND fitz 298 (4.17 Q27)
+- Mannitol "over 20–30 minutes" — CONSISTENCY item 20
+- Anterior vitrectomy "with a vitreous cutter" — ARAVIND fitz 308 (Q38 vi)
+- Differential row: in malignant glaucoma the iridectomy is patent and the chamber is shallow centrally too — ARAVIND fitz 308 (patent iridectomy); BAIDYA fitz 165 (diffuse shallowing)
+- Shallow AC after trabeculectomy with hypotony also from serous choroidal detachment — ARAVIND fitz 307 (Q35); after cataract surgery with raised IOP: pupillary block, suprachoroidal haemorrhage, malignant glaucoma — ARAVIND fitz 338 (5 Q29)
+- Viva "How does ultrasound biomicroscopy help?" (four sites of angle closure) — ARAVIND fitz 227 (4.5)
+
+### Disagreements (examiner)
+- Pigment dispersion age: Namrata fitz 225 "30–50 years" (card, per CONSISTENCY 28) vs Namrata fitz 192 "20–30 years" vs Aravind fitz 255 "3rd decade".
+- Laser trabeculoplasty in steroid-induced glaucoma: Aravind fitz 270 "respond poorly to ALT" — not on the card (Baidya fitz 180 and Namrata fitz 219 support its use).
+
+### Not added (not in the three books)
+- How to measure the horizontal corneal diameter (calipers) — no book gives the method.
+- Why malignant glaucoma is called "malignant"; management of the fellow eye; the mydriatic regimen.
+- A trap box: template G has no "Examiner traps" section, so none was added; the key traps sit in Quick recall and the viva answers.
