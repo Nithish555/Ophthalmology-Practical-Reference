@@ -249,3 +249,37 @@ Final counts: lint 1,210 · builder 1,134 · `wc -w` 1,331 (brief: about 1,100, 
 - Not on the final card: the *(extra)* tubular-vision differential (BAIDYA fitz 339); "nuclear sclerosis mimics defects on SWAP" (BAIDYA fitz 177); the SITA-Standard/SITA-Fast labels; "general reduction of sensitivity = diffuse loss" (IMAGING zone 7); the PSD and VFI values in the say-it (only MD −8 dB is quoted); the probability-symbol key; "yearly in high-risk ocular hypertension".
 - The dense hemifield (altitudinal) row is placed after the sequence and marked "Not a stage", because neither book puts it in the order of appearance (BAIDYA fitz 173 NTG notching; fitz 178 Q22c NAAION).
 - "Repeat fields 6-monthly in mild to moderate, 3-monthly in advanced glaucoma" — NAMRATA fitz 194. "On maximal medical therapy, [progression] calls for trabeculectomy" — NAMRATA fitz 194.
+
+## Examiner additions
+
+Examiner pass 2 (senior examiner), 8 Oct 2026. Builder count 1,134 → 1,218 (lint 1,285; `wc -w` 1,407). Viva pairs 12 → 10
+(2 new basics added; 4 removed whose content stays on the card or on G1 — see below). Every new claim found by grep, page opened.
+
+### New or changed claims
+- What it is: "Automated perimetry is the current gold standard" — BAIDYA fitz 195 (wording made exact).
+- Threshold: "a higher threshold relates to lower sensitivity" — BAIDYA fitz 177 (Q19); card wording "needing a brighter light means lower sensitivity", so that it is not confused with the decibel scale.
+- Programme uses: 24-2 for glaucoma suspect and established glaucoma; 30-2 for glaucoma suspect — BAIDYA fitz 199 (table).
+- Zone 6: numerical plots above, probability-symbol plots below — BAIDYA fitz 203 (TDNP numerical; TDPP "all numerical values are expressed in terms of symbol for P value"); position from the department's practice printouts (layout only).
+- Zone 7: "GHT is based on the fact that field loss in glaucoma is not symmetrical in superior and inferior hemifields" — BAIDYA fitz 204–205 (moved here from the viva).
+- Findings, fixation loss: dots flashed in the physiological blind spot; seen = fixation loss — BAIDYA fitz 200 (3a).
+- Findings, false positive: the patient responds although no stimulus has been presented ("trigger happy") — BAIDYA fitz 200 (3b); ARAVIND fitz 223 (Q27).
+- Findings, false negative: failure to respond to a supra-threshold stimulus where a weaker one was seen before — BAIDYA fitz 200 (3c); ARAVIND fitz 223 (Q28).
+- Findings, GHT results: within normal limits, borderline (p<3%), outside normal limits (p<1%), a general reduction in sensitivity, abnormally high sensitivity — BAIDYA fitz 205. The card names the last two but does not interpret "abnormally high sensitivity" (no book explains it).
+- Findings, VFI "unaffected by cataract" — BAIDYA fitz 204 (ii), wording shortened.
+- Bjerrum's area "the central 25°; first defects 10–25° from fixation" — BAIDYA fitz 196; CONSISTENCY item 4.
+- Say-it (rewritten to walk every zone): pupil 4 mm (normal > 2.5 mm, BAIDYA fitz 198), foveal threshold fits the acuity (BAIDYA fitz 198 a, 200 d), PSD 9 dB at p<0.5% and VFI 80% — illustrative values (already listed in the v4 additions above); MD −8 dB = moderate (BAIDYA fitz 208); superior arcuate scotoma in Bjerrum's area (BAIDYA fitz 196–197).
+- Viva, visual field: Traquair, "an island of vision in the sea of darkness" — BAIDYA fitz 196; ARAVIND fitz 220 (Q1). Extent 60° superior, 75° inferior, 60° nasal, 100° temporal — BAIDYA fitz 196 (ARAVIND fitz 220 Q2 gives temporal 120°; card uses Baidya, the newer book).
+- Viva, scotoma: an area of decreased retinal sensitivity surrounded by an area of greater sensitivity — BAIDYA fitz 196; ARAVIND fitz 221 (Q9). Absolute: not perceived even with the larger, brightest target; relative: a brighter light is still detected but not a dimmer one — BAIDYA fitz 196.
+- Viva, decibel (keyword-first wording, moved up as a basic) — BAIDYA fitz 178 (Q20); ARAVIND fitz 223–224 (Q30).
+- Management, progression: "trend and progression analyses" — BAIDYA fitz 206 (change/trend analysis, GPA); "progression of visual fields despite maximum medical therapy" → trabeculectomy — NAMRATA fitz 194.
+
+### Removed (budget; nothing basic lost)
+- Anderson criteria: "(or corrected PSD)" removed — Baidya's criteria say "PSD <5%"; CPSD (ARAVIND Q40) was the only unexplained term on the card.
+- Grading table: the row "pattern deviation points at p<5% / p<1%: <18 / <10, <37 / <20, >37 / >20" (ARAVIND fitz 225 Q39) removed — numbers rarely asked; MD and central 5° / 10° rows kept.
+- Line "Card G1 stages glaucoma with these MD cut-offs…" removed; the management line still points to G1 for staging and target pressure.
+- Viva removed: "What is Bjerrum's area?" (definition now in the Glaucomatous defects lead line); "False positives are 20%. What now?" (Findings row + management line); "What is the basis of the hemifield test?" (now zone 7); "Which tests detect glaucoma earlier?" (SWAP and FDT are on card G1; minor).
+- Kinetic perimetry line drafted (BAIDYA fitz 195; ARAVIND fitz 220 Q4) and cut for budget.
+
+### Consistency
+- Item 32: the severity table stays unnamed ("How severe?"); MD stages "−6 dB or better · −6 to −12 dB · −12 dB or worse" (BAIDYA fitz 207–208); normal MD "typically within 2 dB of 0" (BAIDYA fitz 206). Same MD stage wording as G1's staging table (G1 line 303–305). G1 has no "within 2 dB of 0" line — for the G1 owner, not changed here.
+- Item 4: Bjerrum's area 10–25°.

@@ -360,3 +360,34 @@ Wording changes made while cutting (same facts):
 - Q/A count: 7 in the steps + 12 in the viva section = 19. The brief asked for 15–18 in the viva section; 12 (the Template B minimum) is what fits the word budget.
 
 FAQ coverage changed by the cuts: ARAVIND Q8 and BAIDYA Q8 (why classify) — now only implicit in the Must know numbers; ARAVIND Q27 (tomato ketchup), Q29 (NV in non-ischaemic), BAIDYA Q11 (cilioretinal) — not on the card; ARAVIND Q43 — one clause in the CVOS answer.
+
+## Examiner additions
+
+Examiner pass 2 (senior examiner), 8 Oct 2026. Builder count 1,766 → 1,898 (lint 2,008; `wc -w` 2,133). Q/A pairs 19 → 22
+(steps 7 → 8; viva section 12 → 14). Every new claim below was found by grep in the books, page opened.
+
+### New or changed claims
+- Spot: "superficial flame-shaped and deep dot-blot haemorrhages" — NAMRATA fitz 236 ("both superficial flame shaped and deep blot type"); BAIDYA fitz 279 ("superficial or deep, dot and flame-shaped").
+- Step 6 Do, the disc in CRVO: swelling (acute) — BAIDYA fitz 279; pallor (late) — NAMRATA fitz 237, BAIDYA fitz 280 (optic atrophy); glaucomatous cupping — BAIDYA fitz 280; shunts and NVD — BAIDYA fitz 280; the work-up list "disc edema, disc pallor, shunts vessels, NVD" — BAIDYA fitz 283 (Q13a).
+- Step 6 viva, flame versus dot-blot: flame-shaped in the nerve fibre layer, which runs parallel to the retinal surface — BAIDYA fitz 255 (DR Q30), fitz 289 (HTN Q32), ARAVIND fitz 359 (6.3 Q24); dot-blot in the compact middle layer, whose structure is perpendicular to the retina — BAIDYA fitz 255 (Q30), ARAVIND fitz 359 (Q25); deep = inner nuclear or outer plexiform layer — NAMRATA fitz 260 (Q4). (DR and HTN pages; not added to @readmore.)
+- History row, oral contraceptives and diuretics as drug risk factors — BAIDYA fitz 279; NAMRATA fitz 234; ARAVIND fitz 382 (Q9 v). Wording only (was "Drug risk factors").
+- Manage step 2: doses now written "bevacizumab 1.25 mg/0.05 ml, ranibizumab 0.5 mg/0.05 ml, aflibercept 2 mg/0.05 ml" — CONSISTENCY item 19; BAIDYA fitz 265. Same figures as before, now in the G5 format and order.
+- Viva, risk factors: major systemic — DM, hypertension, hyperlipidaemia, cardiac disease, carotid insufficiency, especially over 60 — BAIDYA fitz 278; under 60, hypercoagulable states and inflammatory disease (vasculitis: SLE, sarcoidosis, Behçet's; HIV, syphilis, herpes zoster) — BAIDYA fitz 279; ARAVIND fitz 381–382 (Q9 iii–iv); OCP and diuretics — as above; ocular — open-angle glaucoma first, ischaemic optic neuropathy, tilted disc, optic disc drusen — BAIDYA fitz 283 (Q10); hypermetropia — BAIDYA fitz 279; NAMRATA fitz 234.
+- Viva, pathogenesis: artery and vein in a common sheath through the rigid sieve-like lamina cribrosa; compression by mechanical stretching and posterior bowing of the lamina in glaucoma; atherosclerotic artery aggravates; thrombus at or just proximal to the lamina — BAIDYA fitz 283 (Q9 a–d); NAMRATA fitz 239 (Q2). Block sites (unchanged) — ARAVIND fitz 382 (Q10–12).
+- Viva, "tomato ketchup fundus" = widespread haemorrhages in ischaemic CRVO — ARAVIND fitz 384 (Q27).
+- Viva, cotton-wool spots = ischaemic infarction of the nerve fibre layer — ARAVIND fitz 359 (6.3 Q26).
+- Viva, why the type matters: prediction of neovascular risk, poor visual prognosis, likelihood of spontaneous improvement, follow-up interval — ARAVIND fitz 381 (Q8); BAIDYA fitz 282 (Q8). New vessels in a non-ischaemic CRVO → suspect DM and other proliferative retinopathy, or carotid artery disease — ARAVIND fitz 384 (Q29).
+- Viva, complications: macular oedema, macular ischaemia, NVG, vitreous haemorrhage, tractional retinal detachment, optic atrophy — NAMRATA fitz 237; macular oedema the commonest cause of visual loss — ARAVIND fitz 383 (Q17).
+- Must know definition: "a thrombus blocks the central retinal vein at or just proximal to the lamina cribrosa" — wording only (BAIDYA fitz 283 Q9).
+
+### Removed or moved (no fact lost)
+- Must know: "Within 6 months: NVI 49%, NVG 29%" cut for length (BAIDYA fitz 282–283; still in this ledger). "Open-angle glaucoma heads the ocular associations" moved into the risk-factor viva.
+- Viva CVOS answer: "(56% versus 22%)" cut for length (BAIDYA fitz 287; ledger).
+- Differentials: the row "Ischaemic versus non-ischaemic CRVO" removed — it pointed to the Must know table, which holds the same content.
+- Spot: "the blood and thunder fundus" removed from Spot; the term is defined in the viva (keyword check passes).
+- Considered and not added (minor, over budget): trials CRUISE, GALILEO, COPERNICUS, SCORE, GENEVA (NAMRATA fitz 238); vitrectomy for non-resolving vitreous haemorrhage or tractional detachment (NAMRATA fitz 239).
+
+### Consistency
+- Item 31: "100-day glaucoma" only; NVI 2–4 months (NAMRATA fitz 240), NVG 3–5 months (ARAVIND fitz 249). Checked — no "90-day" on the card.
+- Item 19: anti-VEGF doses as above.
+- Item 32: not applicable (G7 only points to card G10 for fields).
