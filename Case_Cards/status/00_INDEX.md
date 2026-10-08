@@ -1,14 +1,14 @@
 # 00 INDEX — status
 Owner: claude/new-session-h6zrwy · claimed 8 Oct 2026 12:02 IST
-State: in progress — v2 file delivered 7 Oct 2026; upgrade to v4 pending (MASTER_PROMPT_PRACTICALS_v4.md §11)
-Next step: build 00 with 01 (after the glaucoma reviews), render and check every page, then deliver.
+State: delivered (v4 build, 8 Oct 2026 13:15 IST)
+Next step: none for v4. Keep card D in step with the other subjects as they are built (block names, card titles).
 
 | Card | Stage | Notes |
 |---|---|---|
-| A | checked | Master long-case proforma and the 8–10 minute presentation — add the five-asks method |
-| B | checked | Master fundus format |
-| C | checked | Master short-case method — align with template B |
-| D | checked | Card index — replace with card index + checklist coverage map (§8.3) + toolkit list |
+| A | done | Master long-case proforma and the 8–10 minute presentation — add the five-asks method |
+| B | done | Master fundus format |
+| C | done | Master short-case method — align with template B |
+| D | done | Card index — replace with card index + checklist coverage map (§8.3) + toolkit list |
 
 Questions for the user:
 How to resume: all work is on branch `claude/new-session-h6zrwy` (pull request #1). Cards A–D are drafted; the

@@ -414,7 +414,7 @@ What the typed formats ask for on top of this proforma:
 @widths 17 66 17
 | Case | Extra examination | Cards |
 |---|---|---|
-| Glaucoma | Colour vision; bleb; Krukenberg spindle; new vessels, PxF, iridotomy patency; vertical and horizontal CDR, disc haemorrhage, nerve fibre layer defects; gonioscopy diagram; automated perimetry | G1–G10 |
+| Glaucoma | Head and ocular posture; colour vision; skin naevi and phakomatosis (neurofibromatosis, Lisch nodules); patent ductus arteriosus with congenital rubella; lid hyperpigmentation, port-wine stain; conjunctival follicles, adrenochrome pigmentation, bleb; Krukenberg spindle; new vessels, PxF, iridotomy patency; retrolental cells; vertical and horizontal CDR, disc haemorrhage, vessel tortuosity, nerve fibre layer defects; gonioscopy diagram; automated perimetry | G1–G11 |
 | Cornea | Lid apposition, punctum, tear meniscus; evert the upper lid; corneal sensation, staining; each slit-lamp illumination; ulcer site, size, shape, edge, margin; labelled colour diagram | C1–C11 |
 | Proptosis | Axial or eccentric; pulsation; change with Valsalva; thrill, finger insinuation, retropulsion; auscultation for bruit; Hertel exophthalmometry; pressure in upgaze; forced duction | O1 |
 | Paralytic squint | Head tilt, face turn; primary and secondary deviation; diplopia charting, Hess chart; Park–Bielschowsky three-step test; double Maddox rod; past pointing | N1–N3, O3; charting on NX |
