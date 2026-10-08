@@ -390,6 +390,14 @@ I = investigations; M = management; elsewhere = the card that owns it.
 **Aravind 4.4 (fitz 220–226)**: Q1–Q10 definitions → card G10 · Q11 sequence → V · Q13–14 Bjerrum → S7 · Q15 arcuate DD → omitted · Q16–19 scotoma names → V (sequence) · Q21 neurological vs glaucomatous → S7 · Q22–26 SAP, SWAP, FDT → V (pre-perimetric) · Q27–28 reliability → I (Humphrey bullets) · Q31–34 strategies, programs → I · Q35–37 MD, PSD, GHT → I · Q38 progression → card G10 · Q39 grading → MK table · Q40 Anderson → V · Q41–43 → omitted (tangent screen, Goldmann, other tests).
 **Aravind 4.15 and 4.16 (fitz 275–291)**: goal → M aim · advantages and disadvantages of medical therapy → M ladder note · mechanisms, side effects, contraindications of each class → M drugs table · timolol timing → V · systemic absorption → V · brimonidine in children → M table · CAI contraindications → H, M table · PG bedtime → V · percentage falls → M table · fixed combinations → V · PG + pilocarpine → M drug table (pilocarpine contraindications) · uveitis contraindications → M table · neuroprotection, ROCK → MK recent advances · hyperosmotics, gel formulations, newer drug classes → card GX.
 
+### CONSISTENCY.md items applied in the final pass (items 11–32, added while this card was drafted)
+- 11 CCT wording ("calibrated for a mean CCT of 520 µm", 0.7 mm Hg per 10 µm, < 500 / > 570 µm) — step 4 viva, investigations, quick recall.
+- 23 spelling "glaukomflecken" — negative-history row and RE | LE table.
+- 24 watering row — already matches.
+- 28 pigmentary glaucoma age 30–50 years (NAMRATA fitz 225) replaces the v2 "20–30" (NAMRATA fitz 192) in the differential table.
+- 32 MD stages worded "−6 dB or better", "−6 to −12 dB", "−12 dB or worse"; table left unnamed.
+- 13, 14, 15, 17, 22, 30 (SLT 0.5–1.5 mJ; no laser trabeculoplasty in uveitic glaucoma; acetazolamide 250 mg 2–4 times daily; CAI contraindications; drainage-device figures) — already consistent.
+
 ### Proposals for CONSISTENCY.md
 - Normal monocular field extent, if any card quotes it: BAIDYA fitz 196 (60° superior, 75° inferior, 60° nasal, 100° temporal).
 - Diurnal fluctuation cut-off: "≥ 8 mm Hg significant" (Namrata) on every card.

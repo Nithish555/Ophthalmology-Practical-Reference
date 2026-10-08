@@ -86,3 +86,7 @@
 32. **Visual field severity grading**: none of the three books names the system, so G1 and G10 leave the table unnamed
     (no "Hodapp–Parrish–Anderson" label). Mean deviation stages from Baidya's figure captions: early −6 dB or better ·
     moderate −6 to −12 dB · severe −12 dB or worse; normal MD "typically within 2 dB of 0". Same wording on G1 and G10.
+33. **Diurnal fluctuation of IOP**: a swing of **≥ 8 mm Hg** is significant (Namrata; Aravind's ≥ 10 mm Hg is older) on
+    every card.
+34. **Normal monocular field**, if a card quotes it: 60° superior, 75° inferior, 60° nasal, 100° temporal (Baidya
+    fitz 196).
