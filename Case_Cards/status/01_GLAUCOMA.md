@@ -1,0 +1,21 @@
+# 01 GLAUCOMA — status
+Owner: none
+State: in progress — v2 file delivered 7 Oct 2026; upgrade to v4 pending (MASTER_PROMPT_PRACTICALS_v4.md §11)
+Next step: tag `v2-build`, build GX, then upgrade G1
+
+| Card | Stage | Notes |
+|---|---|---|
+| GX | todo | New in v3/v4: glaucoma treatment toolkit (§8.2) |
+| G1 | v2 | POAG + glaucomatous optic disc — add block "Glaucomatous optic disc" |
+| G4 | v2 | Primary angle-closure disease — thesis topic, deepest card |
+| G5 | v2 | Neovascular glaucoma — add block "Rubeosis iridis" |
+| G6 | v2 | Pseudoexfoliation — add block "Pseudoexfoliation" |
+| G7 | v2 | CRVO with POAG |
+| G8 | v2 | Applanation tonometry (task) |
+| G9 | v2 | Gonioscopy (task) |
+| G10 | v2 | Humphrey field (chart) |
+| G2 | v2 | POAG with trabeculectomy |
+| G3 | v2 | POAG with drainage device |
+
+Questions for the user:
+Requests for other subjects:
