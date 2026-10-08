@@ -1,5 +1,5 @@
 # 01 GLAUCOMA — status
-Owner: none
+Owner: claude/new-session-h6zrwy · claimed 8 Oct 2026 12:02 IST
 State: in progress — v2 file delivered 7 Oct 2026; upgrade to v4 pending (MASTER_PROMPT_PRACTICALS_v4.md §11)
 Next step: tag `v2-build`, build GX, then upgrade G1
 

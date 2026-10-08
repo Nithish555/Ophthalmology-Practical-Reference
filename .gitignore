@@ -1,0 +1,4 @@
+Case_Cards/_work/cache/
+node_modules/
+__pycache__/
+.DS_Store
