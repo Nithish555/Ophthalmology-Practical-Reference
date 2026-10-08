@@ -279,7 +279,7 @@ Aravind 4.2 tables) — the v4 card follows the check file.
 - Lids: prostaglandin lid-margin hyperpigmentation and hypertrichosis; brimonidine allergic dermatitis — BAIDYA fitz 163
 - Swinging torch-light test for RAPD — NAMRATA fitz 370 (printed p.352)
 - RAPD indicates advanced glaucoma — NAMRATA fitz 191 (printed p.173); BAIDYA fitz 168 (printed p.154, "advanced cases")
-- Festooned pupil on dilatation from multifocal posterior synechiae — BAIDYA fitz 164
+- Festooned pupil on dilatation from multifocal posterior synechiae — BAIDYA fitz 164 (drafted, then cut for length; not on the card)
 - Pupil: Baidya Q8 reasons (sympathetic overactivity from pain; sphincter ischaemic above 40 mm Hg) — BAIDYA fitz 166; Aravind Q21 sphincter ischaemia and paresis — ARAVIND fitz 233
 - Mid-dilated pupil: posterior vector of sphincter maximal, peripheral iris slack and pushed forward, bunching; full dilatation = no lens contact, no block — ARAVIND fitz 230 (Q6); maximum iris–lens contact — BAIDYA fitz 166 (Q7)
 - Van Herick is an initial guide to who needs detailed angle examination — BAIDYA fitz 163
@@ -289,7 +289,8 @@ Aravind 4.2 tables) — the v4 card follows the check file.
 - Surgical iridectomy vs laser iridotomy (margins clean-cut triangular vs ragged irregular; near limbal incision, mostly 12 o'clock vs any clock hour; closure not possible vs possible; surrounding iris not altered vs pigment dispersion) — ARAVIND fitz 295 (4.17 Q13)
 - Department slide example site "2 o'clock" — proforma p.11 (card example uses 11 o'clock, illustrative)
 - IOP: higher in the morning; normal diurnal variation 3–6 mm Hg, more in glaucoma — BAIDYA fitz 170 (Q8)
-- CCT thin < 500 µm, thick > 570 µm; influences applanation — NAMRATA fitz 196 (POAG Q9); postpone CCT until an acute attack resolves — NAMRATA fitz 198
+- CCT wording per CONSISTENCY item 11: Goldmann calibrated for 520 µm; thin cornea reads falsely low, thick falsely high (Aravind 4.1 fitz 210; Baidya fitz 754 — as decided in CONSISTENCY); thin < 500 µm, thick > 570 µm — NAMRATA fitz 196 (POAG Q9); postpone CCT until an acute attack resolves — NAMRATA fitz 198
+- Acetazolamide maintenance wording "250 mg two to four times a day" (CONSISTENCY 15); CAI contraindications sulpha allergy, renal failure, chronic liver disease (CONSISTENCY 17); malignant glaucoma IOP "high or normal" (CONSISTENCY 18)
 - Gonioscopy: asking the patient to look toward the mirror improves the view into a narrow angle — ARAVIND fitz 213 (4.2 Q6)
 - Angle structures from behind forward: ciliary body band, scleral spur, trabecular meshwork (posterior part primary outflow site), Schwalbe's line — ARAVIND fitz 214 (Q9)
 - Compression = dynamic = indentation gonioscopy; Zeiss lens; aqueous forced into the angle; appositional vs synechial — ARAVIND fitz 214 (Q8); Zeiss mirrors tilted 64° — ARAVIND fitz 213
@@ -411,6 +412,16 @@ NAMRATA fitz 201–202:
 - Q7 Progression of PACS → Prognosis
 - Q8 ISGEO → Classification
 ARAVIND 4.5 (fitz 227–228): Q1–2 → Viva (Investigations, "What is UBM"); Q3 → Viva "UBM in each mechanism"; Q4 → Viva "angle measurements"; Q5 → UBM vs AS-OCT viva.
-ARAVIND 4.6 (fitz 229–237): Q1 → Classification; Q2 → ISGEO; Q3 → risk factors; Q4 → Pathogenesis; Q5 → Viva; Q6 → Viva; Q7–9 → related terms; Q8 → Step 3 viva + DD; Q10 → ladder + viva iridoplasty; Q11 → history table (Namrata's correct grouping; Aravind's garbled pairs not used); Q12 → Negative history row + viva; Q13 → Step 1 viva; Q14–16 → history model row + viva; Q17 → history model row + viva; Q18 → Prognosis; Q19 → Classification (stages); Q20 → DD + mimics line; Q21 → Step 2 viva; Q22 → Viva *(extra)*; Q23 → Viva; Q24 → Step 7 Do; Q25 → Step 4 viva; Q26 → Viva (provocative tests) + investigations row; Q27 → Step 8 viva; Q28 → Step 9 viva; Q29 → ladder + viva; Q30 → Viva (trabeculectomy); Q31 → Step 4 viva; Q32–34 → Viva *(extra)* absolute glaucoma; Q35 → related terms; Q36 → Recent advances.
+ARAVIND 4.6 (fitz 229–237): Q1 → Classification; Q2 → ISGEO; Q3 → risk factors; Q4 → Pathogenesis; Q5 → Pathogenesis (age); Q6 → Viva; Q7–9 → related terms; Q8 → Step 3 viva + DD; Q10 → ladder step 6 + laser table (iridoplasty); Q11 → history table (Namrata's correct grouping; Aravind's garbled pairs not used); Q12 → Negative history row + viva; Q13 → Step 1 viva; Q14–16 → history model row + viva; Q17 → history model row + viva; Q18 → Prognosis; Q19 → Classification (stages); Q20 → DD + mimics line; Q21 → Step 2 viva; Q22 → Viva *(extra)*; Q23 → Viva; Q24 → Step 7 Do; Q25 → Step 4 viva; Q26 → Viva (provocative tests; the investigations row was cut for length); Q27 → Step 8 viva; Q28 → Step 9 viva; Q29 → ladder + viva; Q30 → Viva (trabeculectomy); Q31 → Step 4 viva; Q32–34 → Viva *(extra)* absolute glaucoma; Q35 → related terms; Q36 → Recent advances.
 ARAVIND 4.7 (fitz 238) → The ladder, steps 1–3; drug table.
-ARAVIND 4.17 (fitz 292–298): Q1–2 → not on card (GX); Q3 → Viva (why YAG); Q4 → Viva (indications); Q5 → Viva (contraindications); Q6–8 → Viva (YAG vs argon); Q9 → Viva (technique) + laser table; Q10 → Viva (penetration); Q11 → laser table (argon techniques); Q12 → Viva (complications); Q13 → Step 5 viva; Q14–23 (ALT, SLT) → card GX; Q24–25 → laser table + viva iridoplasty; Q27 → Viva malignant glaucoma.
+ARAVIND 4.17 (fitz 292–298): Q1–2 → not on card (GX); Q3 → Viva (why YAG); Q4 → Viva (indications); Q5 → Viva (contraindications); Q6–8 → Viva (YAG vs argon); Q9 → Viva (technique) + laser table; Q10 → Viva (penetration); Q11 (argon techniques) → not on the card (card GX; cut for length); Q12 → Viva (complications); Q13 → Step 5 viva; Q14–23 (ALT, SLT) → card GX; Q24–25 → laser table (iridoplasty row) + ladder step 6; Q27 → Viva malignant glaucoma.
+
+### v4 card statistics (writer, end of pass 1)
+- `wc -w` 6,496 · lint count 6,041 (budget 5,500 + 10%) · builder count 5,736, 0 warnings.
+- Q/A pairs 54: 23 in the nine examination steps, 31 in the viva section (no short-case block on this card).
+- Kanski: the three approved bullets are unchanged from v2 (diffed against tag v2-build); the v2 viva answer on lens
+  extraction is kept word for word. No new Kanski fact.
+- Cut for length after drafting (all sourced, all in this ledger): festooned pupil viva; argon LPI row (hump, drumhead,
+  chipping); provocative-test and CCT rows of the investigations table (both still answered in viva / step 6);
+  "Define PACS, PAC and PACG", phacomorphic-versus-PACG and drugs-after-LPI viva questions
+  (answered in tables and the ladder); the glycerol-in-diabetes viva (drug table).
