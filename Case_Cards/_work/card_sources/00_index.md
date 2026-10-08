@@ -287,7 +287,7 @@ For each test, know what you do, why, the expected finding and what it changes.
 |---|---|---|
 | To confirm | Gonioscopy | An open angle. It excludes angle closure and secondary causes such as angle recession and pigment dispersion |
 | To confirm and stage | Humphrey 24-2 or 30-2 field | Paracentral scotoma, arcuate scotoma, nasal step. The mean deviation (cut-offs −6 dB and −12 dB) stages the damage as mild, moderate or severe |
-| To find a risk factor and correct the reading | Pachymetry: central corneal thickness | A thin cornea (below 500 µm) reads falsely low and is a risk factor. A thick cornea (above 570 µm) reads falsely high |
+| To find a risk factor and correct the reading | Pachymetry: central corneal thickness | Goldmann applanation is accurate at 520 µm; the error is about 0.7 mm Hg per 10 µm. A thin cornea (below 500 µm) reads falsely low and is a risk factor. A thick cornea (above 570 µm) reads falsely high |
 | Baseline for follow-up | Diurnal phasing; optical coherence tomography of the nerve fibre layer | A pressure swing of 8 mm Hg or more is significant. Superior and inferior nerve fibre thinning; the scan is the baseline for progression |
 | Fitness for surgery | The tests the planned operation needs | Example: specular microscopy and biometry before cataract surgery in pseudoexfoliation (card G6) |
 
@@ -311,7 +311,7 @@ If he cannot use drops reliably, I will offer laser trabeculoplasty. Selective l
 
 The pressure may stay above target on three drugs, or the field may progress on maximal tolerated therapy. Then I will do a trabeculectomy. Its partial-thickness flap gives uniform pressure control and less hypotony. Its risks are hypotony with a flat chamber, bleb leak, bleb infection, endophthalmitis and cataract.
 
-I will review him every three months, or monthly if the damage is advanced. Each time I will check the pressure and his compliance. I will repeat the field every six months and gonioscopy every year. I will counsel him that the drops are lifelong and that lost vision does not return.
+I will review him every three months, or monthly if the damage is advanced. Each time I will check the pressure and his compliance. I will repeat the field every six months, or every three months if advanced. I will repeat gonioscopy every year. I will counsel him that glaucoma is chronic, so the drops and the follow-up must continue. Lost vision does not return.
 :::
 
 **The triggers to step up**, as the books give them for trabeculectomy:
@@ -349,7 +349,13 @@ The older scheme gave the long case 20 + 10 minutes without saying how they are 
 | 8.5–9 | Complete diagnosis | "My provisional diagnosis is …", by the formula |
 | 9–10 | Differentials, investigations, plan | One line each; then stop for questions |
 
-### Model opening — the first 2 minutes
+**Saying the examination (minutes 4–7.5):**
+- Go row by row, in the table's order. In each row give the right eye, then the left eye.
+- Group the normal rows in one sentence: "The lids, conjunctiva and cornea are normal in both eyes."
+- Slow down on the key structure. Describe each finding, then say "suggestive of …".
+- Give the pressure with its method and time. Then give the special tests for this case.
+
+### Model opening — about 1 minute
 :::say
 My patient is a 35-year-old man, a labourer by occupation. He came with pain, redness, watering and defective vision in the left eye for the past 10 days.
 
@@ -418,7 +424,10 @@ What the typed formats ask for on top of this proforma:
 @title Master fundus format
 @badge Use with every fundus card · Fundus: 60 marks (2 × 30) · 10 + 5 minutes per case
 @kind index
-@readmore Department fundus case sheets (13 cases) · Department fundus write-ups (case-sheet proforma p.21, 30) · Aravind "Case sheet writing" p.649–650; 1.6; 1.7; 4.11; 6.1; 6.3; 6.6; 6.8 · Baidya p.231, 249, 258, 286, 318, 744–749 · Namrata p.173, 196, 218 · Kanski p.27
+@readmore Department fundus case sheets (13 cases) · Department fundus write-ups (case-sheet proforma p.21, 30) · Aravind "Case sheet writing" p.649–650; 1.6; 1.7; 4.11; 6.1; 6.3; 6.5; 6.6; 6.8 · Baidya p.231–232, 249, 258, 273, 286, 318, 744–749 · Namrata p.173, 196, 218 · Kanski p.27
+
+## The instruction you may get
+"Examine the fundus of this patient." Do exactly that, in the order below. Introduce yourself and take consent first.
 
 ## The order
 1. **Particulars and chief complaint** (shorthand as on card A), each eye with its own duration. Jot the history beside it (the history table below).
@@ -451,7 +460,10 @@ Q: Why do you look at the iris before dilating?
 A: **Iris new vessels** are looked for at the pupillary margin, under high magnification, before the pupil is dilated. In vein occlusion they are an important sign that decides the management.
 
 Q: Why check the pupils before dilating?
-A: A **relative afferent pupillary defect** is an ominous sign in vein occlusion. It can only be looked for before the pupil is dilated.
+A: A **relative afferent pupillary defect** is an ominous sign in vein occlusion. Look for it before the pupil is dilated.
+
+Q: Why record the lens status?
+A: The **lens status** explains part of the vision loss. Every diagnosis line carries it: "NS-2" or "PCIOL".
 
 Q: Why note pseudoexfoliation in a fundus case?
 A: **Pseudoexfoliation** is linked with central retinal vein occlusion and glaucoma. It also means weak zonules if cataract surgery is needed later.
@@ -469,7 +481,7 @@ A: **Pseudoexfoliation** is linked with central retinal vein occlusion and glauc
 | Periphery | "Indirect ophthalmoscopy with a 20 dioptre lens shows the peripheries to be normal." |
 | Confirm | "On slit-lamp biomicroscopy with a plus 90 dioptre lens, the above findings were confirmed." |
 
-The diabetic retinopathy write-up follows this order exactly. The optic atrophy write-up puts the +90 dioptre confirmation before the periphery.
+The diabetic retinopathy write-up follows this order as far as the macula, where it stops. The optic atrophy write-up puts the +90 dioptre confirmation before the periphery.
 
 ### Describe each lesion, then name it
 @widths 24 76
@@ -489,7 +501,7 @@ The diabetic retinopathy write-up follows this order exactly. The optic atrophy 
 Fundus examination of the right eye. On distant direct ophthalmoscopy at one arm's distance, there is a good red glow. Direct ophthalmoscopy close to the face reveals clear media. The disc is normal in size, vertically oval and pink, with well-defined margins. The cup–disc ratio is 0.3, with a healthy neuroretinal rim. The vessels arise from the centre of the disc and branch dichotomously. They maintain an arteriovenous ratio of 2 is to 3, with no attenuation, crossing changes or sheathing. The background retina is normal, with no haemorrhages, exudates or pigment. The macula is normal, and the foveal reflex is present. On indirect ophthalmoscopy with a 20 dioptre lens, the peripheries are normal. On slit-lamp biomicroscopy with a plus 90 dioptre lens, the above findings were confirmed. The left fundus is the same.
 :::
 
-### Say it — an abnormal fundus (the department's diabetic retinopathy write-up)
+### Say it — an abnormal fundus (the department's diabetic retinopathy write-up, with the last two steps added)
 :::say
 Fundus examination of the right eye. On distant direct ophthalmoscopy at one arm's distance, there is a good red glow. Direct ophthalmoscopy close to the face reveals clear media. The disc is normal in size, vertically oval and pink, with well-defined margins. The cup–disc ratio is 0.3, with a healthy neuroretinal rim. The vessels arise from the centre of the disc and branch dichotomously. They maintain an arteriovenous ratio of 2 is to 3. Multiple yellowish lesions with distinct margins lie inferior to the disc and around the macula, suggestive of hard exudates. Multiple pinhead red lesions are seen in all four quadrants, suggestive of dot and blot haemorrhages. Multiple linear red lesions lie temporal to the disc, suggestive of flame-shaped superficial haemorrhages. Large, fluffy, yellow lesions lie in the superotemporal and superonasal quadrants, suggestive of cotton-wool spots. The macula shows oedema. On indirect ophthalmoscopy with a 20 dioptre lens, the peripheries are normal. On slit-lamp biomicroscopy with a plus 90 dioptre lens, the above findings were confirmed.
 :::
@@ -551,11 +563,24 @@ Where the department differs, use the standard colour and label it.
 | Chloroquine or phenothiazine (thioridazine) tablets? | Drug toxicity can mimic retinitis pigmentosa |
 | Any similar symptoms in the other eye? | The other eye may be affected too |
 
-## Diagnosis, investigations and plan
-- **Diagnosis.** Write "Diagnosis:" with one line per eye and condition. Add the lens status and the grade, which the department's sheets leave out. Example: "Right eye high-risk proliferative diabetic retinopathy with clinically significant macular oedema · right eye pseudophakia".
-- **Plan**: the eye, then the treatment. Examples: "(BE, both eyes) panretinal photocoagulation (PRP)", "LE sectoral PRP". Or "LE intravitreal bevacizumab, 3 doses", written "Inj Avastin".
-- **Management**: say the ladder in the first person, as on card A (ask 5). The drug, laser and surgery profiles are on card RX.
+## Complete diagnosis
+- **Write "Diagnosis:"** with one line per eye and condition. Add the lens status and the grade, which the department's sheets leave out.
+- **Example:** "Right eye high-risk proliferative diabetic retinopathy with clinically significant macular oedema · right eye pseudophakia".
 
+## Differentials
+**Method:** a table of Condition · How to tell apart, 2–4 rows, the most likely first. The last column names a sign you can show or a test result.
+
+**Worked example — haemorrhages and hard exudates in one fundus:**
+
+@widths 30 70
+| Condition | How to tell apart |
+|---|---|
+| Diabetic retinopathy | Microaneurysms, the earliest sign, with dot and blot haemorrhages and hard exudates; a history of diabetes |
+| Central retinal vein occlusion | Flame and blot haemorrhages in all four quadrants, with dilated, tortuous veins: the "blood and thunder" appearance |
+| Hypertensive retinopathy | Arteriolar narrowing and arteriovenous crossing changes come first; haemorrhages and cotton-wool spots come later |
+| Drusen, mistaken for hard exudates | Round or oval, whitish or yellowish, with punched-out areas of choroidal or pigment epithelial atrophy. Hard exudates are waxy yellow, with distinct margins, among microaneurysms and haemorrhages |
+
+## How I will proceed
 @widths 26 40 34
 | Test | What it shows | Significance |
 |---|---|---|
@@ -564,6 +589,10 @@ Where the department differs, use the standard colour and label it.
 | B-scan ultrasonography | The retina behind hazy media, such as dense vitreous haemorrhage | Whether the retina is attached or detached; traction |
 | Systemic work-up | Complete blood count, fasting and postprandial blood sugar, glycated haemoglobin, lipid profile, urea and creatinine, electrocardiogram | The basic tests in vitreous haemorrhage; diabetes control |
 
+## How I will manage
+- **Plan**: the eye, then the treatment. Examples: "(BE, both eyes) panretinal photocoagulation (PRP)", "LE sectoral PRP". Or "LE intravitreal bevacizumab, 3 doses", written "Inj Avastin".
+- **Management**: say the ladder in the first person, as on card A (ask 5). The drug, laser and surgery profiles are on card RX.
+
 ## Common fundus-description mistakes
 - Naming a lesion without describing it (colour, shape, size, margins, number, location, then "suggestive of").
 - Skipping the red glow and the media; a cup–disc ratio without the rim; no AV ratio.
@@ -571,6 +600,16 @@ Where the department differs, use the standard colour and label it.
 - Pupil and iris checked after dilating, so an RAPD or iris new vessels are missed.
 - A diagnosis without its grade, stage or lens status.
 - Unlabelled circles, eyes swapped; abbreviations aloud ("NVE" for new vessels elsewhere).
+
+## Quick recall
+:::recall
+- **Order:** red glow → media → disc → vessels → background → macula → periphery → +90 dioptre confirmation.
+- **Each lesion:** number, colour, shape, size in disc diameters, margins, location → "suggestive of …".
+- **Before dilating:** iris new vessels, lens status, pseudoexfoliation, relative afferent pupillary defect.
+- **Arteriovenous ratio:** 2:3, judged after the first branching.
+- **Draw in red** the attached retina and haemorrhages; **in blue** the detached retina and veins.
+- **Draw in black** pigment; **in yellow** exudates; **in green** vitreous opacities.
+:::
 
 @card C
 @title Master short-case method
@@ -615,7 +654,7 @@ Every short-case card follows template B, in this order. This card teaches each 
 **Record:** "RTL (3 mm); no RAPD" (round, reacting to light).
 
 Q: Why do you look at the pupil before dilating?
-A: The hallmark flecks and the loss of the pupillary ruff are on the **pupillary margin**. **Poor mydriasis** is itself a sign of pseudoexfoliation.
+A: The **pupillary margin** carries the hallmark flecks and shows loss of the pupillary ruff. **Poor mydriasis** is itself a sign of pseudoexfoliation.
 
 ### Step 2 — Slit lamp, undilated
 **Do:** grade the chamber by Van Herick. Examine the pupillary margin and iris, and retro-illuminate for transillumination defects. Look for iridodonesis and phacodonesis, and compare the chamber depth of the two eyes.
@@ -669,7 +708,7 @@ My diagnosis is right eye pseudoexfoliation syndrome with raised intraocular pre
 |---|---|
 | Any heart attack, stroke or high blood pressure? | Pseudoexfoliation is systemic: it is linked with myocardial infarction, stroke, hypertension and aortic aneurysm |
 | Any glass blowing, or work with heat or infrared exposure? | A "yes" points to true exfoliation: the capsule itself splits into thin, clear scrolls |
-| Any coloured haloes, or headache with vomiting? | A "yes" points to angle closure: weak zonules let the lens move forward |
+| Any coloured haloes? | A "yes" points to angle closure: weak zonules let the lens move forward |
 | Which drops, how often, since when? | One drug is usually not enough in pseudoexfoliation glaucoma; check compliance |
 | Any eye surgery before? | After cataract surgery the intraocular lens may decentre late, because the zonules are weak |
 | Asthma? | Beta-blocker drops are contraindicated, so no timolol |

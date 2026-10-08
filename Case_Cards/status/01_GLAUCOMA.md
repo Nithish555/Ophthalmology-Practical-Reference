@@ -18,7 +18,23 @@ Next step: examiner review (pass 2) running for every card; then the independent
 | G3 | drafted | POAG with drainage device |
 | G11 | drafted | New (extra, 8 Oct): other glaucomas the examiner may ask — buphthalmos, Sturge–Weber, lens-induced, uveitic, steroid-induced, pigmentary. Added on the candidate's request for wider topic coverage |
 
-Checkpoint 8 Oct 12:35 IST: ledgers committed; card drafts mid-edit (pass 1 still running). A card at `ledger` whose draft is half-edited must be finished from its ledger, not restarted.
+## How to resume (read this first if this session has stopped)
+- **All work is on branch `claude/new-session-h6zrwy` (pull request #1), not yet on `main`.** A new session must start
+  from that branch: merge pull request #1 into `main` first, or run §10.3 step 2 (it merges unmerged branches that change
+  `Case_Cards/`). Then send: `Read MASTER_PROMPT_PRACTICALS_v4.md and follow it. SUBJECT: INDEX, GLAUCOMA`.
+- **Pass 1 (writing) is finished for every card** (stage `drafted` or later). Do not redraft any card.
+- **Pass 2 (examiner) was running in parallel for every card** when this note was written. A card still at `drafted`
+  may carry part of its examiner's edits (committed in checkpoint commits) but has no `checks/<ID>_review.md` yet:
+  re-run the examiner on it (brief: `Case_Cards/_work/briefs/EXAMINER_BRIEF.md`; it edits in place, so partial edits
+  are kept and completed).
+- **Fact-check** (brief: `Case_Cards/_work/briefs/FACTCHECK_BRIEF.md`) follows each review; it writes
+  `checks/<ID>_check_v4.md` (upgraded cards) or `checks/<ID>_check.md` (GX, G11). A card whose report exists is
+  `checked`.
+- **Then build** (`Case_Cards/_work/README.md`; file order GX G1 G4 G5 G6 G7 G8 G9 G10 G2 G3 G11) and run the §12 checks
+  (`python3 Case_Cards/_work/tools/lint_card.py`, coverage file `checks/01_coverage.md`, render and look at every page).
+- Every session must first rebuild the cache (master prompt §10.2): `pip install pymupdf`, extract the books to
+  `Case_Cards/_work/cache/txt/`, `npm install` in `Case_Cards/_work/tools/`.
+- Cross-card decisions made during this upgrade are CONSISTENCY.md items 11–34; apply them.
 
 Questions for the user:
 Requests for other subjects:

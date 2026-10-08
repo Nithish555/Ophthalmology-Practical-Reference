@@ -313,3 +313,54 @@ Namrata POAG viva Q10 (classify drugs, side effects) → drug tables + viva. Nam
 - `wc -w` 3,855 (tables add pipe tokens); lint_card.py body words 3,502; builder rendered words 3,368; builder warnings 0.
 - 30 Q/A pairs, all in the viva section (Drugs 12 · Lasers 8 · Surgery 8 · Recent advances 2, both extra).
 - Test build: 7 PDF pages including the cover, so 6 card pages (toolkit budget 4–6).
+
+## Examiner additions (pass 2, 8 Oct 2026)
+
+New or changed claims on the card, each checked in the books (fitz pages):
+
+### Drugs
+- Topical CAI contraindications now match acetazolamide and CONSISTENCY 17: sulpha allergy, renal failure, chronic liver disease — ARAVIND fitz 281 (4.15 Q42)
+- Prednisolone acetate 1% four times a day after laser — BAIDYA fitz 455 (potent topical steroid four times daily for 1 week); after an attack — ARAVIND fitz 238; hourly for a failing bleb — ARAVIND fitz 309 (Q42 "increase the steroids to hourly dosing")
+- Steroid mechanism: inhibits phospholipase A2 (so fewer prostaglandins), suppresses fibroplasia — ARAVIND fitz 315 (4.19 Q2)
+- Topical steroid side effects: cataract (PSC), glaucoma, corneal melting, reactivation of herpes simplex, secondary bacterial infection — BAIDYA fitz 388 (Q53)
+- Bleb infection: topical steroids only 12–24 hours after starting antibiotics — ARAVIND fitz 312 (Q56)
+- POAG is a risk factor for steroid-induced glaucoma ("glaucoma patients respond more often") — NAMRATA fitz 218
+- Atropine 1% three times daily (NVG) — BAIDYA fitz 193; mechanism (paralyses ciliary muscle, tightens lens–iris diaphragm, deepens AC, blood–aqueous barrier, relieves ciliary spasm, dilates, prevents posterior synechiae) — ARAVIND fitz 306 (4.18 Q32)
+- Atropine: strongest cycloplegic; mydriasis 7–10 days; flushing, tachycardia, fever, delirium — BAIDYA fitz 592 (cycloplegic table)
+- Topical anticholinergics (atropine, cyclopentolate, tropicamide) can induce an angle-closure attack — NAMRATA fitz 197
+- Atropine uses: NVG — BAIDYA fitz 193; uveitic glaucoma (cycloplegics) — ARAVIND fitz 266; overfiltration/shallow AC ("atropine to prevent pupillary block") — ARAVIND fitz 308 (Q37); malignant glaucoma "strong topical mydriatics" — ARAVIND fitz 308 (Q38)
+- Bevacizumab 1.25 mg/0.05 ml intravitreal via pars plana; near-total regression of NVI within 48 h; effect lasts some weeks; allows PRP and surgery with less bleeding — ARAVIND fitz 254 (4.9 Q36); regression within 24–48 h, adjunct to PRP — NAMRATA fitz 212; 2–3 days before surgery — BAIDYA fitz 194
+- Acute attack step 1 reworded only ("miotics fail at very high pressure") — ARAVIND fitz 238
+
+### Lasers
+- Iridoplasty row reworded: PI first because most plateau-iris eyes also have pupillary block; iridoplasty shrinks the peripheral iris and relieves the closed angle — ARAVIND fitz 231 (4.6 Q10), 297 (Q24). No book lists iridoplasty complications; the cell says only what is sourced.
+- PRP for NVG: 500 µm, 0.1 s, mild white burns one burn-width apart, 3–4 sittings, 1200–1600 burns; 532 nm green — BAIDYA fitz 450 (as G5 and CONSISTENCY/R1); PRP effective while synechial closure ≤ 270° — NAMRATA fitz 212, ARAVIND fitz 253; NVI regression after PRP starts by 2 weeks, complete by 4–6 weeks — NAMRATA fitz 212; PRP destroys ischaemic retina, VEGF stops — BAIDYA fitz 194
+- PRP complications: decreased night, colour and peripheral vision, glare; corneal burns, iritis, AC shallowing — ARAVIND fitz 371 (6.4 Q41)
+- Non-contact Nd:YAG cyclophotocoagulation: 30–40 evenly spaced spots for 360°, 3 and 9 o'clock not treated — ARAVIND fitz 251 (4.9; as G5)
+- Laser suture lysis also releases the tie on a non-valved tube ("released by argon laser suturolysis") — ARAVIND fitz 323 (4.20)
+
+### Surgery
+- Trabeculectomy: timolol stopped 2 weeks and CAIs 1–2 days before "to prevent ocular hypotony and establish a filtering bleb" — ARAVIND fitz 303 (Q11); PI "to prevent blockage of the internal ostium by the peripheral iris" — ARAVIND fitz 304 (Q12 x)
+- Surgical peripheral iridectomy: acute attack, cornea not clear and closure < 2/3 → surgical iridectomy, YAG iridotomy for the fellow eye; > 2/3 → primary trabeculectomy — ARAVIND fitz 238 (4.7); margins clean-cut triangular, near the limbal incision (mostly 12 o'clock), closure not possible, surrounding iris not altered — ARAVIND fitz 295 (4.17 Q13). "An open intraocular operation" as on G4 (no book lists its specific complications).
+- Cataract surgery alone (row moved from the deleted comparison table, wording unchanged in substance) — ARAVIND fitz 25 (model case sheet)
+- Goniotomy: clear cornea, direct goniolens, incision in the anterior TM just behind Schwalbe's line, Swan knife, about 120°; complications hyphaema, iridodialysis, AC shallowing. Trabeculotomy: ab externo, hazy cornea, Schlemm's canal deroofed, probes rotated into the AC — BAIDYA fitz 186 (Q9); trabeculotomy for hazy cornea; failure → filtration surgery combined with trabeculotomy (trab + trab) — NAMRATA fitz 207; BAIDYA fitz 187
+- Non-penetrating surgery: angle closure a relative contraindication because the TM is very close to the iris root, so filtration may not occur — ARAVIND fitz 236 (4.6 Q30)
+- MMC toxicity cell gains "corneal and scleral necrosis" (moved from the deleted viva) — BAIDYA fitz 179 (Q29)
+
+### Viva
+- Aim of therapy = target IOP that arrests or prevents optic nerve head damage and field progression; advantages (serious side effects rare; most controlled with one or two drugs) and disadvantages (less effective than surgery, costly, effect wanes, may interfere with later surgery, compliance) — ARAVIND fitz 275 (4.15 Q1–3)
+- Timolol short-term escape and long-term drift (beta receptors respond to constant antagonist exposure) — ARAVIND fitz 277 (Q16)
+- Poor prognosis in filtering surgery: age < 40, previous failed filter, aphakia/pseudophakia, NVG, active uveitis, congenital glaucoma, Stevens–Johnson syndrome, ocular pemphigoid — ARAVIND fitz 306 (Q33)
+- Malignant glaucoma: aqueous forced backwards into the vitreous; strong topical mydriatics → IV mannitol → Nd:YAG disruption of the anterior hyaloid face through a patent iridectomy → anterior vitrectomy via the pars plana — ARAVIND fitz 308 (Q38); 298 (4.17 Q27)
+- Painful blind eye (absolute glaucoma): topical antiglaucoma drugs, topical steroids, cycloplegics (atropine); if pain persists cryo/cyclophotocoagulation, retrobulbar alcohol injection, evisceration/enucleation — ARAVIND fitz 236; cyclocryotherapy ice crystals, ischaemic necrosis, destroys corneal nerves — ARAVIND fitz 328–329 (4.21 Q6–7)
+- GDD answer gains "trabeculectomy first: its IOP fall is larger" (from the deleted choice question) — ARAVIND fitz 326 (4.20 Q35)
+- Uveitic/NVG answer gains "and atropine" — ARAVIND fitz 266; BAIDYA fitz 193
+
+### Removed for the word budget (examiner)
+- *(extra)* Newer-drugs table (Rho-kinase inhibitors) and the two recent-advances viva questions; MIGS kept as a surgery-table row because card G1 uses it.
+- "SLT versus drops" comparison table (every fact duplicated the SLT row, the say box and the new aim-of-therapy answer).
+- "Cataract surgery alone versus combined" table (replaced by a "Cataract surgery alone" row in the Surgery table).
+- Viva questions that repeated a table row word for word: pilocarpine action, prostaglandin + pilocarpine, iridoplasty, laser-trabeculoplasty contraindications, antimetabolite complications, trabeculectomy-versus-device choice (merged into the GDD answer), diode laser, non-penetrating surgery. Two prostaglandin questions merged into one.
+- Combinations: the "separate bottles" sentence (duplicated the "Overall, for" line) and "pseudoexfoliation needs more than one drug" (on G6).
+
+Counts after the examiner pass: lint 3,626 words (toolkit 2,200–3,300, +10% = 3,630); builder 3,513; 21 Q/A pairs.

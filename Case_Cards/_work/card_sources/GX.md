@@ -105,6 +105,7 @@ A fixed combination needs complementary mechanisms and similar dosing.
 | **Goniotomy** and **trabeculotomy**: primary congenital glaucoma (card G11) | Goniotomy (clear cornea): under a direct goniolens, a Swan knife cuts the anterior meshwork just behind Schwalbe's line, over about 120°. Trabeculotomy (hazy cornea): Schlemm's canal is deroofed ab externo; a probe is rotated into the chamber | Aqueous reaches Schlemm's canal directly; trabeculotomy needs no view of the angle | Hyphaema, iridodialysis, shallow chamber. Failure: combined trabeculotomy–trabeculectomy |
 | **Non-penetrating surgery**: deep sclerectomy, viscocanalostomy, canaloplasty; for POAG | Deep sclerectomy: 5 × 5 mm superficial flap; deeper 4 × 4 mm flap removed with the roof of Schlemm's canal; space maintainer. Viscocanalostomy: canal dilated with viscoelastic; tight flap | Chamber not entered; inner meshwork kept, so less overfiltration and hypotony | Not for neovascular glaucoma or angle closure: there the iris root lies against the meshwork, so filtration fails |
 | **Cyclocryotherapy**: painful blind eye; repeated surgical failure; aphakic or post-keratoplasty glaucoma | 2.5 mm probe, anterior edge 1 mm from the limbus; **−60 to −80 °C for 60 seconds**; 3–4 freezes per quadrant, under 180° per session; repeat after at least 1 month | Also destroys corneal nerves, so it relieves pain | Pain, uveitis, hyphaema, transient IOP rise, **hypotony and phthisis**, anterior segment ischaemia, sympathetic ophthalmia |
+| **Microinvasive glaucoma surgery (MIGS)** *(extra)*: mild to moderate glaucoma | Schlemm's canal micro-stent; goniotomy or trabeculotomy; canal dilatation with viscoelastic; suprachoroidal micro-stent | Minimal tissue handling | Mild to moderate disease only |
 
 ### Antimetabolites with trabeculectomy
 @widths 18 41 41
@@ -200,9 +201,6 @@ A: **Mitomycin C** is an alkylating agent that acts in all phases of the cell cy
 
 Q: When will you advise a glaucoma drainage device rather than trabeculectomy?
 A: **Refractory glaucoma**: neovascular, uveitic, congenital, post-keratoplasty, aniridia; failed trabeculectomy with antimetabolite; heavily scarred conjunctiva. Useful visual potential is a must. In primary glaucoma trabeculectomy comes first: its IOP fall is larger.
-
-Q: What is non-penetrating glaucoma surgery?
-A: **Deep sclerectomy** or viscocanalostomy: the chamber is not entered and the inner meshwork stays, so there is less hypotony. It suits POAG, not angle closure.
 
 Q: How do you manage a painful blind eye, and how does cyclocryotherapy help?
 A: **Pain relief** is the aim, because vision cannot return. I start antiglaucoma drops, topical steroid and atropine. Then cyclocryotherapy: ice crystals and ischaemic necrosis destroy the ciliary processes and the corneal nerves, so pain eases. If pain persists: retrobulbar alcohol injection, then evisceration or enucleation.

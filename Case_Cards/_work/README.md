@@ -19,6 +19,8 @@ What is here, so the next chats build RETINA, CORNEA, MISC, NERVES, OCULOPLASTY 
 - `card_sources/` — the source of every finished card (edit a card here and rebuild).
 - `cache/` — per-page book text (`cache/txt/<book>/pNNNN.txt`, `cache/txt/<book>_all.txt`), packets, renders and
   `node_modules`. Never committed; rebuild it each session (master prompt §10.2).
+- `briefs/` — the exact instructions given to the writer, examiner and fact-check sub-agents in the v4 upgrade
+  (8 Oct 2026). Reuse them for the other subjects (change the card IDs and the subject brief).
 - `transcripts/` — the department's handwritten sheets typed up WITH ALL PATIENT NAMES AND NUMBERS REMOVED:
   Case Sheet Proforma (pp 1–31), FUNDUS CASE (pp 1–20) and last year's case lists. Note: FUNDUS CASE has drawings only,
   no written fundus description; the written fundus formula is on proforma pp 21 and 30.

@@ -348,3 +348,45 @@ Namrata (no device viva questions; device content is in the management text):
 - Q:/A: pairs 53 = 22 in the examination steps + 31 in the viva section; no short-case blocks (long case only).
 - Lint long-sentence flags left on purpose: the keywords line, the quoted exam diagnosis line, the quoted book definition (twice), and one 21-word diagnosis sentence in the closing say-it.
 - @readmore: Baidya p.109–110, 165, 173–180, 421, 596 · Namrata p.175–177, 186, 194–195, 198–199, 339 · Aravind 4.6, 4.12, 4.19, 4.20, 4.21, glaucoma model case sheet p.661–664.
+
+## Examiner additions
+Pass 2 (senior examiner), 8 Oct 2026. Each new or changed claim with its page. Printed pages: Baidya = fitz − 14,
+Namrata = fitz − 18.
+
+### Read-and-answer gaps filled
+- Failed trabeculectomy bleb, model wording: "flat, diffuse translucent bleb … with dilated tortuous vessels over its surface and subconjunctival fibrosis" — ARAVIND fitz 21 (model case sheet p.662). Department bleb order (height · clarity · horizontal extent · location over limbus · vascularity · microcysts · subconjunctival fibrosis · sutures) and the failing-bleb example (flat, opaque, highly vascular with corkscrew vessels, no microcysts, fibrosis present) — proforma transcript PDF page 11 (DigiNerve slide). Step 3 Do/Record and new Step 3 viva.
+- Signs of a failing bleb: reduced height, increased wall thickness, vascularisation, loss of microcysts, raised IOP — ARAVIND fitz 302 (4.18 Q9)
+- Surgical iridectomy vs laser iridotomy (sharp well-defined edges, normal surrounding iris vs ragged edges with pigment dispersion); retroillumination light reflex = patent — proforma transcript PDF page 11 (DigiNerve slide); ARAVIND fitz 21 (surgical iridectomy, retroillumination positive). New Step 4 viva; iris row of the RE | LE table.
+- RAPD looked for in the pupil row (before any drop) — ARAVIND fitz 21 (model sheet records grade 3 RAPD in the advanced eye); the RAPD viva lives on card G1.
+- Dellen: localised disruption of the precorneal tear film → corneal dehydration → stromal thinning; treatment artificial tears and patching — ARAVIND fitz 313 (4.18 Q59; a general dellen answer printed in the trabeculectomy section). Device cause (elevated conjunctiva over the patch graft, poor tear lubrication) — ARAVIND fitz 326. Positive-history row and Step 3 patch-graft answer.
+- Options after failed filtration: repeat filtering procedure with antimetabolites, or drainage implants — ARAVIND fitz 309 (4.18 Q42). Mitomycin C 0.2–0.5 mg/ml for 1–5 minutes — ARAVIND fitz 315 (4.19 Q5), CONSISTENCY item 12. Device when conjunctiva too scarred or after failure with antimetabolites — NAMRATA fitz 194. New viva.
+- Commonest cause of bleb failure = subconjunctival fibrosis; other causes of failure of filtration (fistula blocked by clot, iris, ciliary body, lens, vitreous; poor surgical technique) — ARAVIND fitz 308 (4.18 Q40–41). New viva.
+- Flat chamber after device surgery: hypotony = excess run-off with flat AC and choroidal effusion — ARAVIND fitz 326; malignant glaucoma = history of intraocular surgery, diffuse shallowing of the AC with normal or elevated IOP, UBM shows anterior rotation of the ciliary processes — BAIDYA fitz 165 (p.151), CONSISTENCY item 18; B-scan anechoic (serous) vs echoic (haemorrhagic) suprachoroidal space — BAIDYA fitz 435 (p.421). New viva.
+- Transscleral diode cyclophotocoagulation settings: local anaesthesia; 1.5–2 s, 1500–2000 mW; 12–24 burns posterior to the limbus over 360° avoiding 3 and 9 o'clock; fewer shots in eyes with good vision — BAIDYA fitz 455 (p.441), matches card GX (CONSISTENCY item 13). Laser table.
+- Cyclophotocoagulation indications: refractory pain in blind eyes; repeated failure of other glaucoma surgeries; glaucoma after PKP; high-risk cases where other surgery failed or is not feasible — ARAVIND fitz 330 (4.21 Q12). New viva.
+- Argon laser suturolysis settings 50 µm, 0.02–0.1 s, 250–1000 mW — ARAVIND fitz 309 (4.18 Q42), CONSISTENCY item 16. Laser table.
+- Ahmed valve: Venturi effect (Bernoulli's principle); fully open at high pressure, opening narrows as the pressure falls — ARAVIND fitz 321 (Q12). Viva answer extended.
+- Bevacizumab 1.25 mg/0.05 ml — BAIDYA fitz 265 (p.251), CONSISTENCY item 19; timing 2–3 days before PPV + PRP + valve — BAIDYA fitz 194. Recent-advances bullet.
+- Blepharitis = risk of late postoperative infection — ARAVIND fitz 322 (Q14 vi); endophthalmitis associated with tube exposure — ARAVIND fitz 327 (xiii). New "Why did you ask" viva.
+
+### Consistency fixes
+- CCT row (item 11): GAT calibrated for 520 µm; ~0.7 mm Hg per 10 µm — ARAVIND fitz 210; thin < 500 µm, thick > 570 µm — NAMRATA fitz 196; corneal oedema → IOP taken as higher — BAIDYA fitz 193.
+- Dorzolamide contraindications now sulpha allergy, renal failure, chronic liver disease (item 17) — ARAVIND 4.15; dry eye added — NAMRATA fitz 193.
+- Timolol systemic adverse effects bronchospasm, bradycardia, hypotension — BAIDYA fitz 171 (p.157).
+- Hypertensive-phase viva wording made identical to the definition line (item 22). Item 22 figures checked: all match.
+
+### Inferences removed or narrowed
+- Complications table, hypotony with flat AC: removed "treat as over-filtration after trabeculectomy: patching, atropine, steroids, reform the AC". That answer (ARAVIND fitz 307–308) belongs to trabeculectomy (section 4.18, not 4.19 as the v4 ledger said). The row now gives only the books' prevention and says the books give no device-specific treatment.
+- Ladder step 3 (early high pressure with a tied tube): no longer says "release the tie" as an immediate response. It now gives only book facts: the rise is a risk to an advanced nerve (fitz 326), the tie stays 2–3 weeks for the capsule (fitz 323 Q16), then release by argon laser suturolysis or the rip cord (Q17).
+- Not added: AS-OCT or UBM imaging of the tube (not in the books). The UBM line in the new flat-chamber viva is Baidya's malignant-glaucoma sign, not tube imaging.
+
+### Cut for space (minor, first-rank only)
+- Viva: superior rectus insertion in staphyloma or scleritis, second plate (ARAVIND fitz 324 Q22, Q25); conjunctival flap closure (fitz 323 Q16); non-valved sizing (fitz 325 Q33); the ridge on the plate (fitz 319 Q5); "Why did you ask which device" (duplicated the history row and the valved/non-valved viva); the *(extra)* anti-VEGF viva (the bullet stays under Recent advances).
+- Classification: the modified Schocket (suprachoroidal) route row (fitz 320).
+
+### @readmore
+Added Baidya p.151, 157, 251, 441, 740; Namrata p.178; Aravind 4.1, 4.18.
+
+### Final state (examiner pass)
+- Builder 5,537 words (budget 3,300–5,500; every addition basic or important); `wc -w` 6,305; lint 5,858.
+- Q:/A: pairs 54 = 24 in the examination steps + 30 in the viva section.
