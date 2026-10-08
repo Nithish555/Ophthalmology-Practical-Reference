@@ -247,8 +247,14 @@ Every v2 claim above is kept unless listed under "Changed".
 - PRP settings re-verified on the page: 532 nm green/yellow, 500 µm, 0.1 s (0.05–0.2), mild white 2+–3+ burns, edges
   1 burn-width apart, 3–4 sittings, up to the equator, 1200–1600 burns — BAIDYA fitz 451 (= printed p.437). Matches
   progress.md / CONSISTENCY (R1 must match G5).
-- "Mildly dilated" pupil now "mid-dilated" in the record line only? NO — kept the book's "mildly dilated, oval, fixed"
-  (BAIDYA fitz 192) everywhere.
+- Pupil wording kept as the book's "mildly dilated, oval, fixed" (BAIDYA fitz 192) everywhere.
+- Antimetabolites kept as v2 (MMC 0.2–0.4 mg/ml for 2 min; 5-FU 50 mg/ml for 5 min — ARAVIND fitz 252–253).
+- Cut for length from v2 wording (facts kept elsewhere on the card): "NVI regresses from 2 weeks" (card keeps 4–6 weeks);
+  the v2 "Investigations" sub-section under Must know (moved up to `## How I will proceed`); v2 management prose
+  (now the ladder). Homatropine 2% kept as the alternative cycloplegic.
+- Word count after the v4 draft: builder 5,471 (budget 3,300–5,500); lint 5,812; `wc -w` 6,188. Q/A pairs 55
+  (17 in the examination steps, 33 in the viva section, 5 in the short-case block). Say-it: opening 160 words,
+  closing 218, short-case description 101; no abbreviations (lint clean).
 
 ### History (new)
 - Most NVG patients present or are detected in the angle-closure stage — NAMRATA fitz 214 (Q7)
@@ -274,7 +280,8 @@ Every v2 claim above is kept unless listed under "Changed".
 - CAIs avoided in renal transplant, renal failure, sulpha allergy, chronic liver disease — ARAVIND fitz 281 (Q42)
 - Hyperosmotics contraindicated in anuria, severe dehydration, severe cardiac decompensation, pulmonary oedema — ARAVIND fitz 282 (Q50)
 - Oral glycerol 50% 1–1.5 g/kg only after ruling out diabetes — ARAVIND fitz 253; isosorbide safe in diabetics unlike glycerol — ARAVIND fitz 283 (Q54)
-- Smoking a risk factor for diabetic retinopathy — BAIDYA fitz 251
+- Smoking a risk factor for diabetic retinopathy; nephropathy a risk factor too — BAIDYA fitz 251
+- CRVO major risk factors: diabetes, hypertension, hyperlipidaemia, cardiac disease — BAIDYA fitz 278 (card: hypertension causes retinal vein occlusion)
 
 ### Examination (new)
 - PDR: ask/look for neuropathy and nephropathy — BAIDYA fitz 249; systemic exam for complications of diabetes and hypertension — NAMRATA fitz 210
@@ -340,6 +347,13 @@ Every v2 claim above is kept unless listed under "Changed".
 - Prognosis factors: early (pre-glaucoma or open-angle) stage, synechial closure ≤ 270°, working vision after well-treated ischaemia — NAMRATA fitz 212–213, BAIDYA fitz 191; poor: delayed diagnosis or poor management — NAMRATA fitz 210; trabeculectomy alone poor — NAMRATA fitz 213; useful vision rare once PAS extensive — BAIDYA fitz 194
 - Ex-PRESS shunt (extra) — ARAVIND fitz 253 (Q31); goniophotocoagulation settings (extra) — ARAVIND fitz 251 (Q27)
 
+### Inferences and wording choices (new)
+- "Most patients present at the angle-closure stage" → the pain question; "take the true IOP as higher" is the card's plain rendering of BAIDYA fitz 193 "IOP is considered in a higher range".
+- "Haemorrhage or traction → vitrectomy with PRP" (B-scan significance): from BAIDYA fitz 194 (anti-VEGF before PPV + PRP + filtration/valve) and fitz 300 (B-scan for traction).
+- "Kidney and heart checked before acetazolamide and mannitol": from the contraindications (ARAVIND fitz 281–282, 253).
+- Atropine "adverse effects" cell reads "Long-lasting cycloplegia: the strongest, longest-acting cycloplegic" (ARAVIND fitz 198) because no book page lists atropine adverse effects (see Omitted).
+- Anti-VEGF agent doses (ranibizumab, aflibercept) are Baidya's standard intravitreal doses from its DME section; no book gives NVG-specific doses for them.
+
 ### Disagreements (new)
 13. **Cryoprobe size for cyclocryotherapy** — ARAVIND fitz 253 (4.9 Q34): 3.5 mm at −60 to −80 °C; ARAVIND fitz 329 (4.21 Q8): commonly 2.5 mm. Same book. Card gives no probe size (temperature −60 to −80 °C only).
 14. **Prostaglandins** — Baidya "contraindicated" (card) vs Aravind "relative contraindication … may cause mild anterior uveitis". The card keeps "avoid" and adds the uveitis reason.
@@ -359,5 +373,6 @@ Every v2 claim above is kept unless listed under "Changed".
 
 ### Coverage of the books' FAQs
 - BAIDYA Q1 (definition) → Must know, Definition. Q2 (management) → The ladder, Drugs, Laser and surgery table.
-- NAMRATA Q1 (causes) → Must know, causes list; viva "three commonest". Q2 (where NV starts) → viva Diagnosis. Q3 (NVA without NVI 12%) → Step 5 viva. Q4 (normal vs new vessels) → Step 3 viva; DD table. Q5 (NVA on gonioscopy) → Step 5 viva. Q6 (hundred-day glaucoma) → related terms; viva Why did you ask. Q7 (stages) → Classification table; Step 5 viva; Step 4 viva. Q8 (surgery and NV) → viva Why did you ask (cataract surgery). Q9 (theories) → Pathogenesis.
-- ARAVIND 4.9: Q1 (other names) → Definition. Q2 (Weiss) → viva Diagnosis *(extra)*. Q3 (first sign) → viva Diagnosis. Q4 (ectropion uveae) → Step 2 viva. Q5 (aetiology) → causes list. Q6 (new vs normal) → Step 3 viva. Q7 (theories) → Pathogenesis. Q8 (proangiogenic factors) → Pathogenesis. Q9 (stages) → Classification. Q10 (Wand's) → Classification; viva. Q11 (types) → viva. Q12 (histopathology) → Pathogenesis. Q13 (cause of angle closure) → viva. Q14 (origin of NV) → viva (with Q2). Q15 (CRVO timing) → viva Why did you ask. Q16 (diabetic risk factors) → viva Why did you ask. Q17 (occlusive diseases) → causes list. Q18 (DD) → DD table; viva. Q19 (FHI) → DD table. Q20 (late complications) → Complications; viva. Q21 (other pupillary leakage) → viva Investigations. Q22 (why leak) → viva Investigations. Q23 (contraindicated drugs) → viva drugs; ladder. Q24 (treatment of choice) → viva. Q25 (PRP mechanism) → viva. Q26 (prophylactic PRP) → viva. Q27 (laser options; settings) → PRP settings per Baidya (newer); goniophotocoagulation *(extra)* viva; CPC settings in laser table. Q28 (surgical procedures) → Laser and surgery table. Q29 (management) → Aim; ladder. Q30 (cryo indication) → ladder; viva hazy media. Q31 (Ex-PRESS) → Recent advances *(extra)*. Q32 (cyclodestruction indication) → viva. Q33 (newer treatments) → Recent advances; viva. Q34 (probe sizes) → omitted (number no examiner would ask; book self-disagreement, item 13). Q35 (rubeosis iridis) → Definition; short-case viva. Q36 (bevacizumab) → ladder; viva drugs.
+- NAMRATA Q1 (causes) → Must know, causes list; viva "three commonest". Q2 (where NV starts) → viva Diagnosis. Q3 (NVA without NVI 12%) → Step 5 viva. Q4 (normal vs new vessels) → Step 3 viva; DD table. Q5 (NVA on gonioscopy) → Step 5 viva. Q6 (hundred-day glaucoma) → related terms; viva Why did you ask. Q7 (stages) → Classification table; Step 5 viva; Step 4 viva. Q8 (surgery and NV) → viva Why did you ask (cataract surgery). Q9 (theories) → Pathogenesis; viva Diagnosis (theories question).
+- ARAVIND 4.9: Q1 (other names) → Definition. Q2 (Weiss) → omitted (eponym history; CARD_SPEC §2.2). Q3 (first sign) → viva Diagnosis. Q4 (ectropion uveae) → Step 2 viva. Q5 (aetiology) → causes list. Q6 (new vs normal) → Step 3 viva. Q7 (theories) → Pathogenesis; viva Diagnosis (theories question). Q8 (proangiogenic factors) → Pathogenesis. Q9 (stages) → Classification. Q10 (Wand's) → Classification; viva. Q11 (types) → viva. Q12 (histopathology) → Pathogenesis. Q13 (cause of angle closure) → viva. Q14 (origin of NV) → viva (with Q2). Q15 (CRVO timing) → viva Why did you ask. Q16 (diabetic risk factors) → viva Why did you ask. Q17 (occlusive diseases) → causes list. Q18 (DD) → DD table; viva. Q19 (FHI) → DD table. Q20 (late complications) → Complications; viva. Q21 (other pupillary leakage) → viva Investigations. Q22 (why leak) → viva Investigations. Q23 (contraindicated drugs) → viva drugs; ladder. Q24 (treatment of choice) → viva. Q25 (PRP mechanism) → viva. Q26 (prophylactic PRP) → viva. Q27 (laser options; settings) → PRP settings per Baidya (newer); goniophotocoagulation *(extra)* viva (settings left out for length); non-contact Nd:YAG CPC protocol in the laser table (ARAVIND fitz 251, 331). Q28 (surgical procedures) → Laser and surgery table. Q29 (management) → Aim; ladder. Q30 (cryo indication) → ladder step 6 (hazy media). Q31 (Ex-PRESS) → Recent advances *(extra)*. Q32 (cyclodestruction indication) → viva. Q33 (newer treatments) → Recent advances; viva. Q34 (probe sizes) → omitted (number no examiner would ask; book self-disagreement, item 13). Q35 (rubeosis iridis) → Definition; short-case viva. Q36 (bevacizumab) → ladder; viva drugs.
+- Extra FAQs answered from other chapters: ARAVIND 7.16 Q4–Q8 (ocular ischaemic syndrome: definition, symptoms, tests, treatment) → related terms, positive history, viva Diagnosis and Investigations, ladder step 8; BAIDYA CRVO Q4, Q8, Q12 (fitz 281–283) → viva Diagnosis; BAIDYA PRP (fitz 451–452: settings, sittings, adverse effects, indirect delivery) → ladder, laser table, viva.

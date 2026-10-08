@@ -221,6 +221,38 @@ Mnemonics PDF (`Ophthal mnemonics final.pdf`): PDF pages 13, 27, 39.
 ## Why-this-card lines
 - Childhood glaucoma and the secondary glaucomas appear as differentials and FAQs on every glaucoma card (BAIDYA fitz 165, 169; NAMRATA fitz 192, 199; ARAVIND fitz 233, 243). Buphthalmos and Sturge–Weber are short cases in two books (BAIDYA fitz 183–190; NAMRATA fitz 203–209).
 
+## Drug, laser and wording claims used on the card (added after drafting)
+- Beta-blockers reduce aqueous production (inhibit cAMP in ciliary epithelium) — ARAVIND fitz 277 (4.15 Q13)
+- Beta-blockers contraindicated in congestive cardiac failure, 2nd/3rd degree heart block, bradycardia, asthma, COPD — ARAVIND fitz 276 (4.15 Q11)
+- Alpha-2 agonists contraindicated in children (cross the blood–brain barrier) — ARAVIND fitz 278 (Q20); under 2 years — BAIDYA fitz 186
+- Brimonidine: decreases aqueous formation, increases uveoscleral outflow — ARAVIND fitz 278 (Q25); apraclonidine: less production, better trabecular outflow, lower EVP — ARAVIND fitz 279 (Q30)
+- CAIs reduce aqueous production (carbonic anhydrase II, ciliary epithelium) — ARAVIND fitz 279 (Q36); avoid in sulfa allergy, renal failure or transplant, chronic liver disease — ARAVIND fitz 281 (Q42)
+- Prostaglandins increase uveoscleral outflow — ARAVIND fitz 281 (Q43)
+- Hyperosmotics: raise plasma osmolarity, water leaves the eye (mainly vitreous) — ARAVIND fitz 281 (Q48); indications include malignant glaucoma — fitz 281 (Q49); contraindications anuria, severe dehydration, severe cardiac decompensation, pulmonary oedema — fitz 282 (Q50); mannitol 20% IV 1–2 g/kg — fitz 283 (Q53)
+- Pilocarpine: contracts the longitudinal ciliary muscle, pulls the scleral spur, tightens the meshwork, increases outflow; contraindicated in neovascular, uveitic and phacolytic glaucoma; side effect "increased inflammation" — ARAVIND fitz 276 (Q5–7). Used on the card for: no pilocarpine in phacolytic glaucoma; miotics fail in angle recession because the meshwork is scarred (mechanism + ARAVIND fitz 243 Q39); miotics avoided in uveitis.
+- Miotics may increase inflammation and pain; prostaglandins may cause mild anterior uveitis — ARAVIND fitz 250 (4.9 Q23; stated for NVG, applied on the card to the inflamed eye together with ARAVIND fitz 266 "miotics and prostaglandins are contraindicated in the inflamed eye")
+- Laser trabeculoplasty not effective and generally contraindicated in uveitic open-angle glaucoma; may cause an additional significant IOP rise — ARAVIND fitz 267 (Q4 v)
+- LPI common complications: IOP spike, anterior uveitis, iris bleeding and hyphaema, focal cataract, posterior synechiae, visual symptoms, corneal decompensation — NAMRATA fitz 202 (Q6). Used as the disadvantage of laser iridotomy in pigmentary glaucoma.
+- Laser trabeculoplasty in pigmentary glaucoma: good initial response, may not be sustained — BAIDYA fitz 456
+- Krukenberg's spindle on the inferior endothelium in chronic angle closure; Vogt's triad (glaukomflecken, sectoral iris atrophy, Krukenberg spindles) characteristic of PACG — BAIDYA fitz 163–164
+- Angle recession often masked initially by concomitant hyphaema — NAMRATA fitz 217 (Q1); gonioscopy deferred 4–6 weeks — NAMRATA fitz 216
+- Anterior hyaloid acts as a barrier to fluid movement into the AC in malignant glaucoma — ARAVIND fitz 298 (4.17 Q27)
+- UBM: four sites of angle closure — iris (pupillary block), ciliary body (plateau iris), lens (phacomorphic), behind the iris (malignant and other posterior pushing) — ARAVIND fitz 227 (4.5)
+- Malignant glaucoma after transscleral cyclophotocoagulation — ARAVIND fitz 332 (4.21 Q23); after LPI (rare) — NAMRATA fitz 202; ARAVIND fitz 295
+
+### Wording notes for the fact-check
+- **Steroid-induced glaucoma definition**: the book (NAMRATA fitz 219 Q1) prints "as an adverse effect exogenous corticosteroid therapy"; the card inserts the missing "of" inside the quotation.
+- **Uveitic, pigmentary and malignant glaucoma definitions** are not quoted: no book gives a one-line definition. Each is built from that book's mechanism statements (uveitic — ARAVIND fitz 265 Q1; pigmentary — NAMRATA fitz 225 pathomechanism, ARAVIND fitz 256–257; malignant — ARAVIND fitz 308 Q38 "cause", quoted in part, and ARAVIND fitz 229 secondary angle closure). CARD_SPEC asks for "the book's definition"; this is the closest the books allow.
+- **Buphthalmos prognosis line** ("worse with earlier onset, corneal scarring and amblyopia") is assembled from BAIDYA fitz 183 (earlier onset more severe), NAMRATA fitz 207 (permanent corneal scarring) and NAMRATA fitz 208 (amblyopia among associated problems). No book gives a prognosis list.
+- **Goniotomy advantage** ("aqueous flows straight into Schlemm's canal") — BAIDYA fitz 186; **trabeculotomy advantage** ("no view of the angle is needed") is inferred from "used when the cornea is hazy" (BAIDYA fitz 186; NAMRATA fitz 207); its disadvantage ("if it fails, filtering surgery follows") from NAMRATA fitz 207.
+- **Nd:YAG hyaloidotomy advantage/disadvantage** ("acts directly on the barrier"; "needs a patent iridectomy") are inferred from ARAVIND fitz 298 and 308 ("through a patent iridectomy").
+- **Port-wine stain and late-onset Sturge–Weber vs POAG row**: built from NAMRATA fitz 204 (adult angles normal; dense episcleral plexus; unilateral IOP rise in ~50%) and ARAVIND fitz 243 (raised episcleral venous pressure in the POAG differential).
+- **Circumciliary congestion in glaucomatocyclitic crisis**: NAMRATA fitz 218 lists it; ARAVIND fitz 265 says "white eye with minimal congestion"; BAIDYA fitz 381 does not mention congestion. Card: "mild/minimal circumciliary congestion; the eye looks white". (Logged also under Disagreements below.)
+- Items in the ledger above that did NOT go on the final card (cut for the word budget): Lister's/Loch Ness kept; dropped — FOXC1 gene, prevalence variants, nasal-then-temporal goniotomy detail, GDD tube sites and complications, UBM role in PCG, DSAEK, PCG secondary-glaucoma list, Namrata birth-trauma table rows beyond tear direction/oedema/size/IOP/photophobia, SWS skull asymmetry, port-wine stain photothermolysis detail, SWS visual outcome causes, phacoanaphylactic AC details beyond KPs/vitritis, ectopia lentis cause list, lens-induced pars plana lensectomy, uveitic immunosuppressants and intracameral tPA, Fuchs epidemiology, PSS–peptic ulcer link, steroid mechanism details (PGF2α, proteinases), steroid potency table beyond dexamethasone and fluorometholone, endogenous steroid causes, steroid NSAID and steroid-sparing lists, pigmentary chromosome 7q, PDS anisocoria and heterochromia, ALT/SLT settings, angle recession incidence of hyphaema 60–90%, sources of hyphaema, Nd:YAG trabeculopuncture, malignant-glaucoma needling of aqueous pockets.
+
+### Disagreements (additional)
+- **Glaucomatocyclitic crisis congestion**: Namrata (fitz 218) "circumciliary congestion"; Aravind (fitz 265) "white eye with minimal congestion". Card: minimal congestion, white eye.
+
 ### Disagreements
 - **Prevalence of buphthalmos in the West**: Baidya 1 in 10,000 (fitz 185); Namrata 1:10,000–1:20,000 (fitz 206). Card: Baidya.
 - **Hoskins classification names**: Baidya (fitz 185–186) "isolated trabeculodysgenesis / iridodysgenesis / iridocorneal dysgenesis", peripheral corneal defect = Axenfeld–Rieger anomaly; Namrata (fitz 209) "isolated trabeculodysgenesis / iridotrabeculodysgenesis / corneotrabeculodysgenesis", peripheral = Axenfeld's anomaly. Card: Baidya's names.
@@ -250,31 +282,31 @@ Mnemonics PDF (`Ophthal mnemonics final.pdf`): PDF pages 13, 27, 39.
 - **PIGMENT — Causes of trabecular pigmentation**: Pseudoexfoliation and pigment dispersion syndrome · Iritis · Glaucoma (post angle closure) · Melanosis of angle · Endocrine (diabetes, Addison's) · Naevus (Cogan–Reese) · Trauma — mnemonics PDF page 39.
 - None for Sturge–Weber, lens-induced, uveitic, steroid-induced, angle-recession or malignant glaucoma.
 
-### Coverage of the books' FAQs
+### Coverage of the books' FAQs (final card)
 Buphthalmos — BAIDYA fitz 185–187:
-- Q1 What is buphthalmos → Definition line + Viva "What does buphthalmos mean"
-- Q2 Prevalence → Viva (prevalence, bilaterality, males, CYP1B1)
-- Q3 Pathogenesis → Viva (isolated trabeculodysgenesis)
+- Q1 What is buphthalmos → Definition + Viva "What does buphthalmos mean"
+- Q2 Prevalence → Viva (prevalence, bilaterality, boys, sporadic); CYP1B1 → Manage step 1
+- Q3 Pathogenesis → Viva (isolated trabeculodysgenesis, Barkan's membrane)
 - Q4 Classify PCG → Viva (newborn / infantile / juvenile)
 - Q5 Hoskins → Viva (Hoskins)
-- Q6 Differential of corneal clouding → How to tell it apart (CHED, birth trauma) + Viva (differentials list)
-- Q7 Differential of enlarged eye → Viva (differentials list) + How to tell it apart (megalocornea)
+- Q6 Differential of corneal clouding → How to tell it apart (CHED, birth trauma) + Viva (differentials)
+- Q7 Differential of enlarged eye → How to tell it apart (megalocornea) + Viva (differentials)
 - Q8 Disc changes → Viva (reversible cupping)
-- Q9 Treatment → How I will manage steps 2–5
-- Q10 UBM → How I will manage step 1 *(extra)* line
+- Q9 Treatment → How I will manage steps 2–4
+- Q10 UBM in congenital glaucoma → NOT on card (minor; cut for the word budget)
 Buphthalmos — NAMRATA fitz 207–209:
-- Q1 Normal corneal diameter → Signs to show (EUA) + Viva
+- Q1 Normal corneal diameter → EUA table + Signs step 3
 - Q2 Differential → How to tell it apart + Viva
-- Q3 Haab's striae vs forceps → How to tell it apart (birth trauma row) + Viva
+- Q3 Haab's striae vs forceps → How to tell it apart (birth trauma row) + Quick recall
 - Q4 Reversible? → Viva
-- Q5 Classification of congenital glaucoma → Viva (primary vs secondary)
-- Q6 Issues in management → How I will manage step 5
+- Q5 Classification of congenital glaucoma (primary vs secondary) → Viva gives the primary types only; the secondary list was cut for space
+- Q6 Issues in management → How I will manage steps 1 and 5
 - Q7 Hoskins → Viva
-Sturge–Weber — BAIDYA fitz 189–190: Q1 mechanism → Viva · Q2 work-up → Viva · Q3 treatment → How I will manage · Q4 port-wine stain treatment → Viva · Q5 visual outcome → How I will manage step 5.
-Sturge–Weber — NAMRATA fitz 204–205: Q1 cause → Viva (mechanism) · Q2 SWS vs congenital glaucoma → How to tell it apart · Q3 port-wine stain → Viva.
-Lens-induced — ARAVIND 4.14 Q1–23: Q1 → Definition · Q2 → Viva (classification) · Q3–4 → Signs to show · Q5 → Viva (mechanism) · Q6 → Manage step 2 · Q7–9 → Signs + Manage step 3 · Q10–12 → Viva (phacoanaphylactic) · Q13 → Signs/Definition line · Q14–15 → How to tell it apart · Q16 → Viva · Q17 → Manage step 2 · Q18–19 → Viva (ectopia lentis) · Q20 → Viva · Q21–23 → Manage step 4. Also ARAVIND 4.6 Q22 (inverse glaucoma) → Viva.
-Uveitic — ARAVIND 4.12 Q1 → Viva (mechanisms) · Q2 AIDS ciliochoroidal effusion → not used (rare variant; space) · Q3 PSS → How to tell it apart + Viva · Q4 → How I will manage. BAIDYA fitz 381 Q23 PSS → Viva. BAIDYA fitz 397–398 Q91–93 Fuchs → How to tell it apart + Viva. ARAVIND 3.x Q39–41 → Viva.
-Steroid-induced — NAMRATA fitz 219–220 Q1 → Definition · Q2 time course → Viva · Q3 mechanism → Viva · Q4 genes → Viva *(extra)* · Q5 Becker and Armaly → Viva · Q6 low-potency steroids → Manage step 2 · Q7 IOP rise by steroid → Viva. ARAVIND 4.13: Q1 → not used (Namrata used) · Q2 → Disagreements · Q3 → Viva · Q4 → Signs/Manage (risk) · Q5 → Viva (endogenous) · Q6–7 → Signs to show · Q8 → Signs · Q9 → Manage step 2 · Q10 → not used (genes, Namrata used) · Q11 → Manage step 5 · Q12 → Viva (potency) · Q13 → How I will manage.
-Pigmentary — ARAVIND 4.10: Q1 → Signs · Q2 → Viva *(extra)* · Q3 → Signs · Q4 → Signs + Viva · Q5 → Viva (with PIGMENT mnemonic) · Q6 → Signs (fundus) · Q7–8 → Viva (mechanism) · Q9 histopathology → not used (minor) · Q10 → How to tell it apart (partly) · Q11 → How to tell it apart + Viva · Q12 → How I will manage.
-Angle recession — NAMRATA fitz 217 Q1–Q8: Q1 → Viva · Q2 → Viva · Q3 → Viva · Q4 → Viva · Q5 → not used (space) · Q6 → Viva · Q7 → Viva · Q8 → How to tell it apart. ARAVIND 4.8 Q39 → How I will manage + Viva.
-Malignant glaucoma — ARAVIND fitz 308 Q38 → Signs + How I will manage; fitz 298 Q27 → Viva; BAIDYA fitz 165 Q1b → Signs + Viva.
+Sturge–Weber — BAIDYA fitz 189–190: Q1 mechanism → Viva · Q2 work-up → Manage step 1 · Q3 treatment → Manage steps 2–4 + Viva (combined surgery) · Q4 port-wine stain treatment → Manage step 5 · Q5 visual outcome → not on card (cut).
+Sturge–Weber — NAMRATA fitz 204–205: Q1 cause → Viva (mechanism) · Q2 SWS vs congenital glaucoma → How to tell it apart · Q3 port-wine stain → Signs step 1 + Viva (which stains carry glaucoma).
+Lens-induced — ARAVIND 4.14: Q1 → Definition · Q2 classification → Definition · Q3–4 → Signs step 1 · Q5 → Viva (mechanism) · Q6 → Manage steps 1–2 · Q7–8 → Signs step 3 · Q9 → Manage step 3 · Q10–11 → Viva (phacoanaphylactic) · Q12 → Signs step 4 · Q13 → Viva (phacomorphic) · Q14–15 → How to tell it apart · Q16 → Viva · Q17 → Manage steps 1–2 · Q18–19 → Signs step 5 · Q20 causes → Signs step 5 (Marfan, homocystinuria only) · Q21–23 → Manage step 4. ARAVIND 4.6 Q22 inverse glaucoma → Viva.
+Uveitic — ARAVIND 4.12: Q1 → Viva (mechanisms) · Q2 AIDS ciliochoroidal effusion → not on card (rare) · Q3 Posner–Schlossman → How to tell it apart + Viva · Q4 management → How I will manage + Viva (laser trabeculoplasty). BAIDYA fitz 381 Q23 → Viva (PSS). BAIDYA fitz 397–398 Q91–93 → How to tell it apart + Viva (Fuchs). ARAVIND 3.1 Q39 (low IOP) → Signs step 5; Q41 → Viva (PSS treatment).
+Steroid-induced — NAMRATA fitz 219–220: Q1 → Definition · Q2 time course → Viva · Q3 mechanism → Viva · Q4 genes → Viva *(extra)* · Q5 Becker and Armaly → Viva + Quick recall · Q6 low-potency steroids → Manage step 1 · Q7 IOP rise by steroid → Manage step 1 (dexamethasone and fluorometholone only). ARAVIND 4.13: Q1–2 → not used (Namrata preferred; see Disagreements) · Q3 → Viva · Q4 → Viva (risk) · Q5 endogenous → Definition only · Q6 → Signs steps 4–5 · Q7 → Viva (risk: infants) · Q8 → How to tell it apart (ask about steroids in every form) · Q9 → Manage step 1 · Q10 → not used · Q11 → Manage step 5 · Q12 → Manage step 1 · Q13 → How I will manage.
+Pigmentary — ARAVIND 4.10: Q1 → Signs step 1 · Q2 chromosome → not on card · Q3 → Signs steps 2–5 · Q4 → Signs step 6 · Q5 angle pigment causes → PIGMENT mnemonic in Quick recall · Q6 → Signs step 7 · Q7–8 → Viva (mechanism) · Q9 histopathology → Viva (mechanism, last line) · Q10 → How to tell it apart · Q11 → How to tell it apart + Viva · Q12 → How I will manage.
+Angle recession — NAMRATA fitz 217: Q1 → Viva (incidence; masked by hyphaema in the gonioscopy viva) · Q2 → Viva · Q3 mechanism of recession → not on card (cut) · Q4 → Viva (mechanism of glaucoma) · Q5 hyphaema sources → not on card · Q6 → Viva · Q7 → Viva · Q8 → How to tell it apart. ARAVIND 4.8 Q39 → How I will manage + Viva.
+Malignant glaucoma — ARAVIND fitz 308 Q38 → Signs + How I will manage; fitz 298 Q27 → Viva; fitz 227 → Signs step 5 + Viva (UBM); fitz 307 Q35 → Viva (shallow AC after trabeculectomy); fitz 305 Q26 → Manage step 5. BAIDYA fitz 165 Q1b → Signs.

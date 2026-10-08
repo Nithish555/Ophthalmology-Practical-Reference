@@ -57,3 +57,9 @@
     4.15 is the source; use the same three on every card.
 18. **Malignant glaucoma (aqueous misdirection)**: intraocular pressure "high or normal" (Baidya) on every card.
     **Bleb-related endophthalmitis**: "Streptococcus most common" (Baidya) wherever it appears.
+19. **Intravitreal anti-VEGF doses** (Baidya fitz 265): bevacizumab 1.25 mg/0.05 ml, ranibizumab 0.5 mg/0.05 ml,
+    aflibercept 2 mg/0.05 ml — the same on G5, G7 and the retina cards. Anti-VEGF before glaucoma surgery in NVG:
+    2–3 days before (Baidya; the other books' windows are in the working notes).
+20. **Mannitol**: 20%, 1–2 g/kg intravenously over 20–30 minutes on every card (the AIIMS book's 1.5 g/kg lies inside
+    this range; logged in the working notes).
+21. **Steroid responders**: any card that grades them uses Namrata's Becker and Armaly table (G11).
