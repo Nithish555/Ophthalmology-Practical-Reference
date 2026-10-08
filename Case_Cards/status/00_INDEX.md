@@ -1,7 +1,7 @@
 # 00 INDEX — status
 Owner: claude/new-session-h6zrwy · claimed 8 Oct 2026 12:02 IST
 State: in progress — v2 file delivered 7 Oct 2026; upgrade to v4 pending (MASTER_PROMPT_PRACTICALS_v4.md §11)
-Next step: tag `v2-build`, then upgrade card A
+Next step: v4 upgrade of cards A–D running (8 Oct 12:20 IST); then review and build. v2 file stays at commit 3fcc773.
 
 | Card | Stage | Notes |
 |---|---|---|

@@ -1,7 +1,7 @@
 # 01 GLAUCOMA — status
 Owner: claude/new-session-h6zrwy · claimed 8 Oct 2026 12:02 IST
 State: in progress — v4 upgrade under way (MASTER_PROMPT_PRACTICALS_v4.md §11). v2 file stays at commit 3fcc773 (tag push not possible from this environment)
-Next step: GX — ledger and draft (toolkit first), then upgrade G1
+Next step: pass 1 (ledger + v4 draft) running for every card in parallel since 8 Oct 12:20 IST; then examiner review, fact-check, build. If this session stopped, redo pass 1 for any card still at `v2`/`todo` (uncommitted work is lost).
 
 | Card | Stage | Notes |
 |---|---|---|
