@@ -229,3 +229,247 @@ p.661–667.
 
 ## Mnemonic
 - None. The G2 packet contains no mnemonics page, so the card says "**Mnemonic:** none in your mnemonics file for this case."
+
+## v4 additions
+
+Written 8 Oct 2026 (pass 1, writer). Packet: `Case_Cards/_work/cache/packets/G2.txt` — ARAVIND fitz 20–26 (model case
+sheet, printed p.661–667), 227–228 (4.5 UBM), 295–300 (4.17 lasers), 301–314 (4.18), 315–318 (4.19), 338–339, 341 ·
+BAIDYA fitz 165–169, 178–180, 187, 191, 406, 435, 457–462 · NAMRATA fitz 190, 191, 193, 194, 195, 201. Extra pages
+opened by grep: ARAVIND fitz 280–281 (4.15 CAI), BAIDYA fitz 279 (CRVO), 592 (cycloplegic table), NAMRATA fitz 218
+(steroid-induced glaucoma), 22915 table (fitz 219, Armaly — not used).
+
+Card size after v4: builder 5,330 words (budget 3,300–5,500); lint 5,656 (lint counts table pipes differently); `wc -w`
+6,100. Q/A: 51 = 20 in the ten examination steps + 31 in the viva section. Say-it: opening about 165 words, closing about
+245 words.
+
+Kept from v2 unchanged (verified in v2 fact-check): every number in the old ledger (MMC 0.2–0.5 mg/ml 1–5 min; 5-FU 50
+mg/ml 5 min, 5 mg; sponge 4.5 × 4.5 mm; 21 injections 105 mg; flap 3 × 4 mm; ostium 1.5 × 2 mm; 10-0 nylon; 8-0 vicryl;
+tPA 6–12.5 µg; ALSL 50 µm 0.02–0.1 s 250–1000 mW; digital pressure > 12 mm Hg; Tenon's cyst 2–4 months; 41%; steroids
+12–24 h; anterior ciliary vessel 3–4 mm; organisms with Streptococcus most common; malignant glaucoma IOP high or normal).
+
+### New or changed claims, with pages
+
+History
+- Laser suture lysis timing "within few days to 6 months after trabeculectomy"; indication "when the target intraocular
+  pressure is not reached" — ARAVIND fitz 298 (4.17 Q29)
+- Positive-history row "If they were needed, the bleb was failing early" — inference from ARAVIND fitz 309 (Q42 failing
+  bleb list) and fitz 310 (Q48 "rather than waiting for a bleb to fail")
+- Shallow AC leaves PAS, endothelial damage, cataract — ARAVIND fitz 308 (Q39)
+- Bleb infection gloss "(blebitis)" — the term "Blebitis" is in ARAVIND fitz 299 (4.17 Q30 vi)
+- Endophthalmitis symptoms: loss of vision, pain and redness, tearing and photophobia, blepharospasm; signs: hypopyon,
+  vitreous cellular debris, loss of red reflex — BAIDYA fitz 459
+- Endophthalmitis definition "inflammation of the vitreous, inner layers of the eyeball by microbial agents…loss of
+  vision" — BAIDYA fitz 457
+- CRVO: haemorrhages in all four quadrants, dilated tortuous venous system — BAIDYA fitz 279
+- Acute IOP rise with corneal oedema, CRVO, snuff-out as causes of sudden loss — ARAVIND fitz 23
+- Upper eyelid retraction (late) — ARAVIND fitz 311 (Q50 III xi)
+- Beta-blockers contraindicated in asthma, COPD, cardiac failure, bradycardia; timolol 0.5/0.25% OD or BD; dorzolamide 2%
+  TID; oral CAI side effects (paraesthesia, nausea, diarrhoea, loss of appetite and taste, lassitude, renal stones);
+  timolol ocular "irritation and dry eyes" — NAMRATA fitz 193 (Table 1)
+- CAI avoided in renal transplant and renal failure, known sulfa allergy, chronic liver disease — ARAVIND fitz 281
+  (4.15 Q42) [v2 ledger cited BAIDYA fitz 191 for this; Baidya 191 only says "History of allergy to sulpha drugs"]
+- Diabetes, hypertension as considerations before surgery in a glaucoma patient — ARAVIND fitz 25
+- Previous conjunctival surgery (e.g. pterygium) as an antimetabolite indication — ARAVIND fitz 318 (4.19 Q12)
+- Poor prognosis factors incl. previous PK, scleral buckle, conjunctival surgery, aphakia/pseudophakia, active uveitis,
+  previous topical medications — ARAVIND fitz 306–307 (Q33); treat inflammation preoperatively — ARAVIND fitz 303 (Q11 ii)
+- Steroid response: "Following 4–6 weeks of topical steroid… 5%… > 16 mm Hg"; POAG patients a risk factor — NAMRATA
+  fitz 218 (card says only "raise the pressure in some people; POAG patients at higher risk")
+
+Examination
+- EOM row after visual acuity — seniors' correction (transcript p09; CARD_SPEC §5); model case "EOM Full" — ARAVIND fitz 21
+- Pupil "4 mm, round, sluggish, grade 3 RAPD" — ARAVIND fitz 21; RAPD in advanced cases — BAIDYA fitz 168
+- Bleb order and wording (height, clarity, extent, location, vascularity, microcysts, fibrosis, sutures; "suggestive of a
+  good functioning / failing bleb"; Medium / Flat; Translucent / Opaque; corkscrew vessels) — transcript p11 panels A, B
+- Microcysts from transconjunctival flow of aqueous, good filtration — ARAVIND fitz 302 (Q10 i)
+- Late leaking bleb management (minimal leak, good-depth chamber, pale elevated bleb → conservative; aqueous suppressants
+  [beta-blockers and CAIs]; gentamicin irritates conjunctiva and helps healing; patching; shell if flat AC; then surgical
+  repair) — ARAVIND fitz 312 (Q54)
+- PI description order and "Light reflex clearly seen in retro illumination indicating patency" — transcript p11 C, D
+- Surgical iridectomy vs laser iridotomy (margins clean-cut triangular vs ragged irregular; site near limbal incision,
+  mostly 12 o'clock vs any clock hour; closure not possible vs possible; surrounding iris not altered vs pigment
+  dispersion) — ARAVIND fitz 295 (4.17 Q13)
+- Van Herick technique (slit 1 mm inside temporal limbus, 60°) — department slide, transcript p10; CONSISTENCY §3
+- Shallow AC causes by IOP (Q35) — ARAVIND fitz 307
+- GAT before gonioscopy and dilatation, record the time — BAIDYA fitz 168; NAMRATA fitz 195 (Q6)
+- +90 D lens for the disc — BAIDYA fitz 168
+- Fields every 6 months in mild–moderate, every 3 months in advanced disease — NAMRATA fitz 194
+- Humphrey 24-2 for established POAG; OCT ganglion cell complex; baseline fundus photo; CCT — ARAVIND fitz 24
+- Thin CCT → IOP readings falsely low — BAIDYA fitz 168
+- Hypotony maculopathy prevention (partial-thickness flap; tight flap after MMC; releasable sutures/suture lysis; 5-FU if at
+  risk) — ARAVIND fitz 301 (Q4), 316 (4.19 Q5 v), 314 (Q71), 318 (4.19 Q10 ii)
+
+Differentials and investigations
+- Blocked ostium as an early postoperative cause of raised IOP with a deep AC — ARAVIND fitz 311 (Q50 II D)
+- UBM: patency of PI and functional ability of trabeculectomy — BAIDYA fitz 187 (Q10)
+- Malignant glaucoma on UBM: anterior rotation of the ciliary process — BAIDYA fitz 165; all anterior segment structures
+  displaced and pressed against the cornea, with or without supraciliary fluid — ARAVIND fitz 227 (4.5 Q3)
+- B-scan choroidal detachment: smooth dome-shaped hyper-reflective elevation; suprachoroidal space anechoic (serous) or
+  echoic (haemorrhagic); starts at ciliary body, does not involve the optic nerve; "kissing choroids"; A-scan double
+  peak — BAIDYA fitz 435
+
+Management
+- Digital pressure technique: firm compression over the inferior globe through the lower lid, eye upturned, each
+  compression ≤ 10 s — ARAVIND fitz 299 (4.17 Q31); role — fitz 310 (Q47); problems — fitz 310 (Q49)
+- Laser suture lysis: solid Nd:YAG or argon green; Zeiss gonioprism or Hoskins lens; gentle pressure shows the sutures —
+  ARAVIND fitz 298 (4.17 Q29); complications (conjunctival burns, flat AC, conjunctival flap leak, hypotonous
+  maculopathy, iris incarceration, hyphaema, blebitis, endophthalmitis) — ARAVIND fitz 298–299 (4.17 Q30); advantages
+  (tight flap, less hypotony, choroidal separation, suprachoroidal haemorrhage, shorter stay) — ARAVIND fitz 310 (Q45).
+  Settings on the card are Q42's (fitz 309), see Disagreements.
+- Transscleral diode cyclophotocoagulation indicated in eyes with previous failed filtering procedure / refractory
+  glaucoma after failed filtration; 270° sparing temporal quadrant; complications pain, inflammation, CME, hypotony;
+  uncommon phthisis — ARAVIND fitz 299–300 (4.17 Q33–Q35) [v2 omitted cyclodestruction for POAG; it is in 4.17]
+- Partial-thickness flap advantages (uniform IOP control, less hypotony, less hyphaema/iris prolapse/shallow AC, less
+  infection) — ARAVIND fitz 301 (Q4)
+- GDD complications (failure, corneal decompensation, diplopia, hypotony, hyphaema, scleral perforation, tube problems,
+  erosion and endophthalmitis, migration) — BAIDYA fitz 179 (Q31); conjunctiva too scarred to dissect — BAIDYA fitz 179
+  (Q30 a)
+- Combined surgery: indications, advantages, disadvantages — ARAVIND fitz 313 (Q61–Q64); fitz 25–26 ("antimetabolite use
+  possible"; cataract alone with acceptable IOP control on one or two drugs; temporal clear cornea preserves conjunctiva)
+- Topical steroid mechanism (phospholipase A2 inhibition, suppression of fibroplasia) — ARAVIND fitz 315 (4.19 Q2)
+- Atropine 1% role (tightens lens–iris diaphragm, deepens AC, blood–aqueous barrier, ciliary spasm, dilates, prevents
+  posterior synechiae) — ARAVIND fitz 306 (Q32); atropine to prevent pupillary block in overfiltration — fitz 308 (Q37)
+- Atropine systemic adverse effects: flushing, tachycardia, fever, delirium — BAIDYA fitz 592 (cycloplegic table)
+- 5-FU side effects (punctate keratitis, ulceration, cicatricial ectropion, subconjunctival haemorrhage) — ARAVIND fitz
+  317–318 (4.19 Q9); 5-FU pyrimidine analogue, folic-acid antagonist, S phase — fitz 317 (4.19 Q7); fibroblast attachment
+  and migration unaffected — fitz 314 (Q67)
+- MMC side effects list (cystic overfiltering bleb commonest, late leak, corneal decompensation, scleral/corneal
+  necrosis, hypotony, necrotising scleritis, endophthalmitis, iridocyclitis, cataract) — BAIDYA fitz 179 (Q29)
+- Bleb-related endophthalmitis managed as postoperative endophthalmitis: sampling; intravitreal vancomycin 1 mg/0.1 ml +
+  ceftazidime 2 mg/0.1 ml — BAIDYA fitz 461 (writer's application of the general postoperative protocol; flag for the
+  fact-check)
+
+What you must know and viva
+- Trabeculectomy definition (quoted) — ARAVIND fitz 301 (Q3); principle — fitz 301–302 (Q6)
+- Malignant glaucoma cause (aqueous blocked at the secreting ciliary body, forced backwards into the vitreous) — ARAVIND
+  fitz 308 (Q38)
+- Indications: ARAVIND fitz 302 (Q7); NAMRATA fitz 194. Relative contraindications: BAIDYA fitz 178 (Q23)
+- Preoperative care (very high IOP lowered; treat inflammation; timolol 2 weeks, CAIs 1–2 days; pilocarpine 1% three times
+  1 hour before prevents iris prolapse; aspirin 5 days) — ARAVIND fitz 303 (Q11)
+- Structures removed — ARAVIND fitz 304 (Q13)
+- Tenon's cyst risk factors (young, previous conjunctival surgery, secondary glaucoma, laser trabeculoplasty, topical
+  sympathomimetics, fellow eye) — ARAVIND fitz 302–303 (Q10 v); risk of encapsulated blebs up to 3 times after ALT —
+  ARAVIND fitz 296 (4.17 Q20)
+- Tenonectomy (suture visibility; effectiveness of suture lysis determines final pressure) — ARAVIND fitz 305 (Q27)
+- Haemostasis (blood under the flap scars the bleb) — ARAVIND fitz 306 (Q29)
+- Antimetabolite risk tiers (high: NVG, previous failed trabeculectomy or filtering device, inflammatory/post-traumatic/ICE
+  secondary glaucoma; intermediate: sympathomimetics for 3 years, previous conjunctival surgery, previous cataract
+  surgery; low: black patients, under 40) — ARAVIND fitz 314 (Q66)
+- Prevent antimetabolite toxicity (irrigation, watertight closure, careful dissection) — ARAVIND fitz 318 (4.19 Q13)
+- NSAIDs inhibit proliferation of human Tenon fibroblasts in culture; collagen inhibitors β-aminopropionitrile and
+  penicillamine — ARAVIND fitz 315 (4.19 Q1, Q3)
+- Conjunctival buttonhole repair (cyanoacrylate or fibrin glue for pinpoint leaks; direct microsurgical repair; wing
+  suture; glaucoma (Simmons) shell; purse-string suture) — ARAVIND fitz 312 (Q51)
+- Dellen (localised disruption of the precorneal tear film → dehydration, stromal thinning; artificial tears and
+  patching; if ineffective, decrease steroid drops) — ARAVIND fitz 313 (Q59)
+- Intraoperative complications list — ARAVIND fitz 311 (Q50 I)
+- Overfiltration: reform AC with air, sodium hyaluronate or SF6; drain very deep choroidal detachment — ARAVIND fitz 308
+  (Q37)
+- Non-penetrating surgery suits POAG, not angle closure or neovascular cases — BAIDYA fitz 180 (Q32)
+- Photodynamic therapy "limits the treated area" ("control the surface area of treatment") — ARAVIND fitz 318 (4.19 Q11)
+
+Format choices (not clinical claims)
+- Extra `###` sub-heading "Trabeculectomy and wound-healing modulation" under "What you must know" (the brief asks for the
+  procedure there; template A has no slot for it).
+- The MMC and 5-FU mechanism and toxicity sit in the drug table; the must-know antimetabolite table keeps only dose,
+  method and choice, to avoid repetition.
+- Model patient (say-it): Aravind model case (fitz 20–22). Negatives added for the script (no sulpha allergy, no aspirin
+  or steroids, operation notes not available) are script details for "Mr X", not clinical claims.
+
+### Disagreements
+- **Laser suture lysis settings**: ARAVIND 4.18 Q42 (fitz 309) 50 µm, 0.02–0.1 s, 250–1000 mW; ARAVIND 4.17 Q29 (fitz 298)
+  0.02–0.15 s, "50–100 nm" (printed nm, a typo for µm; page image checked) and 300 mW. Baidya and Namrata give none. The
+  card keeps Q42's values (as in v2) and takes only the lasers, lens and timing from 4.17.
+- **Fluorescein excitation**: BAIDYA fitz 406 365–490 nm; ARAVIND fitz 341 465–490 nm. The card gives no wavelength
+  ("cobalt blue light").
+- **5-FU strength**: kept at 50 mg/ml (v2 fact-check: Aravind 4.18 Q65 prints 30 mg/ml; 4.9, 4.10 and 4.19 Q8 give 50
+  mg/ml).
+- **Bleb-related endophthalmitis organisms**: BAIDYA fitz 458 Streptococcus most common, H. influenzae; ARAVIND fitz 312
+  adds Staphylococcus, unranked. Card unchanged from v2.
+- **Seidel status of serous choroidal detachment, pupillary block, delayed suprachoroidal haemorrhage, hypotony
+  maculopathy, blocked ostium**: not stated in any book; shown as "—".
+
+### Omitted (wanted but not in the books)
+- **Named bleb grading systems** (Kronfeld, Indiana Bleb Appearance Grading Scale, Moorfields Bleb Grading System): none
+  of the three books names or gives them. Aravind's four types carry no eponym. The card says "Your books give these four
+  types without a named grading system."
+- **Bleb needling** with 5-FU or MMC, and **bleb revision** for a failed or encapsulated bleb: not in the books (only
+  "internal bleb revision" for an obstructed fistula, and needling of aqueous pockets in malignant glaucoma, ARAVIND fitz
+  308). Supplementary postoperative 5-FU injections (4.19 Q8, Q10) are on the card as the 5-FU regime.
+- **AS-OCT of the bleb**: not in the books. UBM is given for PI patency and trabeculectomy function (BAIDYA fitz 187).
+- **Grading of a shallow anterior chamber after surgery** (iris–cornea or lens–cornea touch grades): not in the books.
+- **Hypotony**: numerical definition and the signs of hypotony maculopathy: not in the books.
+- **Management of delayed suprachoroidal haemorrhage and of post-trabeculectomy pupillary block**: not in the books
+  (ARAVIND fitz 339 covers expulsive haemorrhage during cataract surgery only; not used).
+- **Blebitis staging, and bleb-related endophthalmitis management specific to blebs**: not in the books; the card applies
+  the general postoperative endophthalmitis protocol (BAIDYA fitz 461).
+- **Ptosis (drooping lid) after trabeculectomy**: not in the books; the card asks about "change in the upper lid" for
+  upper eyelid retraction (ARAVIND fitz 311).
+- **Watering as a symptom of a leaking bleb**, and discharge in bleb infection: not in the books; watering is linked only to
+  endophthalmitis (tearing, BAIDYA fitz 459); Seidel's test is the tell-apart test.
+- **Snuff-out** mechanism, timing and risk factors: not in the books.
+- **Atropine contraindications**: none stated in the books for this use; the card says so.
+- **5-FU contraindications**: none stated; the card says so.
+
+### Mnemonic
+- None. `Ophthal mnemonics final.pdf` (71 entries, grep for bleb, trab, filter, mitomycin, antimetabolite, hypotony,
+  malignant) has nothing for trabeculectomy or blebs. Card: "**Mnemonic:** none in your mnemonics file for this case."
+
+### Coverage of the books' FAQs
+ARAVIND 4.18 (fitz 301–314)
+- Q1 types of filtering surgery → Classification. Q2 full thickness → Classification (full thickness, no flap). Q3
+  partial thickness → Definition. Q4 partial vs full thickness → laser and surgery table (repeat trabeculectomy,
+  advantages) and Step 9 viva (hypotony maculopathy). Q5 misnomer → viva. Q6 principle → Definition.
+- Q7 indications → must-know + viva. Q8 good bleb → Step 3 viva + table. Q9 failing bleb → Step 3 viva + Definition.
+  Q10 bleb types and Tenon's cyst risk factors → Classification table + viva (risk factors).
+- Q11 preoperative care → viva. Q12 steps → Key steps. Q13 structures removed → viva. Q14–Q18 flaps → viva (fornix vs
+  limbus). Q19–Q20 12 o'clock and site → viva (Baidya's 3–4 mm). Q21–Q22 corneal incision/needle → not used (trivial).
+  Q23 bridle suture under superior rectus → not used (minor). Q24–Q25 PI → Step 5 viva. Q26 tighter flap → viva.
+  Q27 tenonectomy → viva. Q28 reform AC with BSS/Healon → steps (BSS); Healon not used (minor). Q29–Q30 haemostasis →
+  Pathogenesis. Q31 postoperative evaluation → Follow-up + Step 9 viva. Q32 atropine → viva + drug table. Q33 prognosis →
+  Prognosis + history table.
+- Q34 commonest problem → Step 6 viva. Q35 causes of shallow AC → Step 6 viva + complications table. Q36 wound leak →
+  Step 7 viva + complications. Q37 excessive filtration → complications. Q38 ciliary block glaucoma → Definition,
+  complications table, viva. Q39 complications of shallow AC → Step 6 viva. Q40 causes of failure → viva + Step 8 viva.
+  Q41 commonest cause → Pathogenesis + recall. Q42 management of failure → Step 8 viva + ladder. Q43 improving success
+  (pre-, intra-, postoperative) → covered piecemeal (preoperative care viva, ostium and PI size, tight closure,
+  antimetabolites); "suramin, beta radiation, gamma interferon, calcium ionophores" not used (minor).
+- Q44 antimetabolite complications → viva ("Why did you ask whether an antimetabolite…") + drug table. Q45 suture lysis
+  advantages → laser table. Q46 aqueous in wound modulation → Pathogenesis. Q47–Q49 digital pressure → Step 7 viva,
+  viva, laser table. Q50 complications → Complications. Q51 buttonhole → viva. Q52 aphakic/myopic eyes →
+  complications table. Q53 detecting a leak → Step 4. Q54 leaking bleb → Step 4 viva. Q55–Q56 bleb infection → viva +
+  complications. Q57 organisms → viva. Q58 Tenon's cyst → ladder. Q59 dellen → viva. Q60 older patients → Pathogenesis
+  + Prognosis. Q61–Q64 combined vs two-stage → viva + laser table + Prognosis (41%). Q65 doses → antimetabolite table.
+  Q66 antimetabolite indications → viva. Q67–Q68 mechanisms → viva + drug table. Q69 sub-Tenon's placement →
+  must-know. Q70 long-term drops → history + viva. Q71 releasable sutures → viva.
+
+ARAVIND 4.19 (fitz 315–318)
+- Q1 pharmacological techniques → viva (other drugs) + drug table. Q2 corticosteroids → drug table + viva. Q3 NSAIDs →
+  viva. Q4 MMC role → viva + drug table. Q5 MMC administration → antimetabolite table. Q6 MMC side effects → drug table +
+  viva (Baidya list). Q7 5-FU role → drug table + viva. Q8 5-FU administration → antimetabolite table. Q9 5-FU side
+  effects → drug table. Q10 choosing an agent → antimetabolite table (Choice) + drug table contraindications. Q11 latest
+  advance → Recent advances + viva. Q12 indications for antimetabolites → history table + viva (risk tiers). Q13
+  prevent toxicity → viva.
+
+ARAVIND 4.17 (relevant questions)
+- Q13 surgical iridectomy vs laser iridotomy → Step 5 viva. Q18/Q20 ALT and Tenon's cyst → viva (Tenon's cyst risk).
+  Q27 laser in malignant glaucoma → viva + complications. Q28–Q30 laser suture lysis → laser table. Q31 digital pressure
+  technique → laser table. Q33–Q35 TSCPC → ladder + laser table.
+
+ARAVIND model glaucoma case sheet (fitz 20–26)
+- Q1 night blindness, Q2 frequent change of glasses → card G1 (POAG basics). Q3 sudden loss of vision → negative history +
+  Step 1 viva. Q4 structural abnormalities (bleb points, PI number/position/patency) → Step 3, Step 5. Q5 management
+  scenarios (POAG suspect, established POAG, POAG with cataract) → G1 for the first two; cataract considerations →
+  ladder step 7 + laser table.
+
+BAIDYA (fitz 165–180, 187)
+- Q23 indications and relative contraindications → must-know. Q24 PI → Step 5 viva. Q25 PI size → Step 5 viva. Q26 site
+  → viva. Q27 role of MMC → drug table. Q28 MMC indications → antimetabolite table (Choice) + history. Q29 MMC side
+  effects → viva + drug table. Q30 valve indications → ladder + laser table (detail on G3). Q31 valve complications →
+  laser table. Q32 non-penetrating surgery → Recent advances + viva. Q33 MIGS → not used (belongs to GX; not specific to
+  a failed bleb). PACG Q1 malignant glaucoma features → complications table + investigations (UBM). Congenital glaucoma
+  Q10 UBM → investigations + viva.
+
+NAMRATA (fitz 189–225)
+- No viva question on trabeculectomy or blebs. Filtration-surgery indications and GDD indications (fitz 194) → must-know
+  and ladder. Q6 (GAT before gonioscopy and dilatation, fitz 195) → Step 7 Do line. Fields frequency (fitz 194) → Step
+  10 viva.

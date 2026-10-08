@@ -51,3 +51,9 @@
 14. **Laser trabeculoplasty is contraindicated in uveitic glaucoma** on every card (Baidya; Aravind 4.12).
 15. **Acetazolamide**: maintenance "250 mg two to four times a day"; the acute attack "250–500 mg stat, then 250 mg four
     times a day" (as on GX and G4).
+16. **Laser suture lysis** settings: Aravind 4.18 (50 µm, 0.02–0.1 s, 250–1000 mW) on every card (Aravind 4.17 prints
+    a different set with a typo).
+17. **Carbonic anhydrase inhibitor contraindications** (sulpha allergy, renal failure, chronic liver disease): Aravind
+    4.15 is the source; use the same three on every card.
+18. **Malignant glaucoma (aqueous misdirection)**: intraocular pressure "high or normal" (Baidya) on every card.
+    **Bleb-related endophthalmitis**: "Streptococcus most common" (Baidya) wherever it appears.
