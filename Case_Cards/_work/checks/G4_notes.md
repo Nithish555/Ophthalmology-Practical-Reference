@@ -234,3 +234,183 @@ Not used because the packet text is garbled:
 
 ## Mnemonic
 - "I CAN SEE TILL SCHWALBE'S LINE" — Iris root, Ciliary body, Scleral spur, Trabecular meshwork, Schwalbe's line (angle structures) — MNEMONICS fitz 61.
+
+## v4 additions (8 Oct 2026, writer pass 1)
+
+Packet rebuilt: `cache/packets/G4.txt` = BAIDYA fitz 162–166, 455, 729 · NAMRATA fitz 196–202 · ARAVIND fitz 212–217 (4.2),
+227–238 (4.5, 4.6, 4.7), 271–274 (4.14), 292–300 (4.17). Extra pages read by grep: BAIDYA fitz 159, 163, 168, 170–172,
+178, 223, 730, 735; NAMRATA fitz 191, 370; ARAVIND fitz 173 (3.1), 240, 249, 268 (4.13), 275–285 (4.15), 305, 307,
+311 (4.18). IMAGING ("Short Viva/Interpreting Imaging in Exam 2.pdf") fitz 22 as in v2. TYPED FORMAT = `Case
+Format/Glaucoma Case Presentation Format.pdf`. Page images re-read: ARAVIND fitz 234–235 (provocative tests).
+The v2 ledger lines for LPI settings and Shaffer/Spaeth are superseded by G4_check.md (Baidya 2–5 mJ, 150–200 µm;
+Aravind 4.2 tables) — the v4 card follows the check file.
+
+### History (new or changed)
+- Physiological triggers: mid-dilated pupil, dim illumination, near work, prone position — ARAVIND fitz 230 (4.6 Q3b)
+- Triggers: watching television in a dark room, reading, mydriatic drops, dark room, acute emotional stress — BAIDYA fitz 162
+- Typed format pain items: time of day, prone position, relieved by sleep, emotional factor, associated redness — TYPED FORMAT p.1 (only prone and emotional used; no book reason for "relieved by sleep")
+- Blurred vision first from distortion of corneal lamellae, later corneal epithelial oedema — ARAVIND fitz 232 (Q13)
+- "Blurred vision or smoke filled room" — NAMRATA fitz 196
+- Similar episodes in the same or other eye — BAIDYA fitz 162
+- Previous records: baseline IOP, fields, OCT RNFL, GDxVCC; compliance — BAIDYA fitz 162
+- Surgical history: cataract, trabeculectomy, glaucoma valve, penetrating keratoplasty, vitreoretinal surgery; laser PI — BAIDYA fitz 163
+- Acute attack: unilateral sudden painful loss with severe headache, nausea, vomiting — BAIDYA fitz 162; ipsilateral headache — NAMRATA fitz 196
+- Acute congestive attack: circumcorneal congestion, corneal oedema, pain and vomiting, shallow AC, pupil moderately dilated and vertically oval, very high IOP — ARAVIND fitz 232 (Q19 III)
+- Pain related to rate of rise of IOP — ARAVIND fitz 231 (Q12)
+- Circumciliary congestion (attack) vs inferior bulbar congestion (drug toxicity) — BAIDYA fitz 163; NAMRATA fitz 197
+- Fluorescein 1% staining to rule out corneal surface toxicity in patients on drops — BAIDYA fitz 163
+- Open-angle masqueraders of an acute attack: glaucomatocyclitic crisis, HSV keratouveitis, HZO, pigmentary, exfoliative, phacolytic — ARAVIND fitz 233 (Q20B)
+- Glaucomatocyclitic crisis (Posner–Schlossman): quiet eye, periodic raised IOP with flare and cells, mimics angle closure — ARAVIND fitz 173 (3.1 Q41)
+- Gonioscopy after trauma: angle recession, trabecular dialysis, cyclodialysis, foreign bodies — ARAVIND fitz 216 (4.2 Q18); UBM: angle recession = separation between longitudinal and circular ciliary muscles — ARAVIND fitz 228
+- Traumatic glaucoma in the differential — BAIDYA fitz 165 (Q1h); traumatic secondary angle closure an LPI indication — ARAVIND fitz 293 (Q4 viii)
+- Frequent change of near glasses = POAG complaint — BAIDYA fitz 166
+- Phacolytic: elderly, poor vision, then sudden pain and redness; deep AC, white flocculent material, open angle, IOP > 35 — ARAVIND fitz 271 (4.14 Q3–4)
+- Phacomorphic vs PACG (rapid lens swelling vs normal growth; senile/traumatic cataract vs hypermetrope; asymmetric central shallowing vs both eyes shallow; unilateral mature intumescent cataract vs normal lens) — ARAVIND fitz 273 (4.14 Q15)
+- Drugs precipitating closure — NAMRATA fitz 197: anticholinergic topical (atropine, cyclopentolate, tropicamide) and systemic (antihistamine, antipsychotic especially antidepressants, antiparkinsonian, atropine, gastrointestinal spasmolytics); adrenergic topical (epinephrine, phenylephrine) and systemic (vasoconstrictors, CNS stimulants, bronchodilators, appetite depressants, hallucinogens); sulfonamides, topiramate, phenothiazines → angle narrowing
+- Ciliary body engorgement or suprachoroidal effusion from topiramate, sulfonamides, phenothiazines — NAMRATA fitz 199; ciliary effusion (sulpha, topiramate) — BAIDYA fitz 163
+- Severity and outcome of glaucoma in relatives, visual loss — NAMRATA fitz 197
+- CAI avoided in renal failure, renal transplant, sulpha allergy, chronic liver disease — ARAVIND fitz 281 (4.15 Q42)
+- Beta-blocker contraindications: congestive cardiac failure, second/third-degree heart block, bradycardia, asthma, COPD — ARAVIND fitz 276 (4.15 Q11)
+- Hyperosmotic contraindications: anuria, severe dehydration, severe cardiac decompensation, pulmonary oedema — ARAVIND fitz 282 (4.15 Q50)
+- Glycerol not in diabetes; isosorbide can be given to diabetics — ARAVIND fitz 238; 283 (Q54)
+
+### Examination (new or changed)
+- EOM row after visual acuity — proforma p.9 (senior's note)
+- Lids: prostaglandin lid-margin hyperpigmentation and hypertrichosis; brimonidine allergic dermatitis — BAIDYA fitz 163
+- Swinging torch-light test for RAPD — NAMRATA fitz 370 (printed p.352)
+- RAPD indicates advanced glaucoma — NAMRATA fitz 191 (printed p.173); BAIDYA fitz 168 (printed p.154, "advanced cases")
+- Festooned pupil on dilatation from multifocal posterior synechiae — BAIDYA fitz 164
+- Pupil: Baidya Q8 reasons (sympathetic overactivity from pain; sphincter ischaemic above 40 mm Hg) — BAIDYA fitz 166; Aravind Q21 sphincter ischaemia and paresis — ARAVIND fitz 233
+- Mid-dilated pupil: posterior vector of sphincter maximal, peripheral iris slack and pushed forward, bunching; full dilatation = no lens contact, no block — ARAVIND fitz 230 (Q6); maximum iris–lens contact — BAIDYA fitz 166 (Q7)
+- Van Herick is an initial guide to who needs detailed angle examination — BAIDYA fitz 163
+- Plateau iris: deep axial AC, narrow peripheral AC; flat iris on gonioscopy; sine-wave iris on indentation; remains occludable after PI — ARAVIND fitz 231 (Q8)
+- Iris whorling = sectoral infarction of the iris sphincter; patchy iris stromal atrophy — NAMRATA fitz 198
+- Signs of previous attack: iris pigment on back of cornea and endothelial loss, PAS, sectoral iris atrophy, posterior synechiae, mid-dilated sluggish pupil, glaukomflecken, field loss, diminished outflow facility, optic nerve cupping — ARAVIND fitz 233–234 (Q25)
+- Surgical iridectomy vs laser iridotomy (margins clean-cut triangular vs ragged irregular; near limbal incision, mostly 12 o'clock vs any clock hour; closure not possible vs possible; surrounding iris not altered vs pigment dispersion) — ARAVIND fitz 295 (4.17 Q13)
+- Department slide example site "2 o'clock" — proforma p.11 (card example uses 11 o'clock, illustrative)
+- IOP: higher in the morning; normal diurnal variation 3–6 mm Hg, more in glaucoma — BAIDYA fitz 170 (Q8)
+- CCT thin < 500 µm, thick > 570 µm; influences applanation — NAMRATA fitz 196 (POAG Q9); postpone CCT until an acute attack resolves — NAMRATA fitz 198
+- Gonioscopy: asking the patient to look toward the mirror improves the view into a narrow angle — ARAVIND fitz 213 (4.2 Q6)
+- Angle structures from behind forward: ciliary body band, scleral spur, trabecular meshwork (posterior part primary outflow site), Schwalbe's line — ARAVIND fitz 214 (Q9)
+- Compression = dynamic = indentation gonioscopy; Zeiss lens; aqueous forced into the angle; appositional vs synechial — ARAVIND fitz 214 (Q8); Zeiss mirrors tilted 64° — ARAVIND fitz 213
+- Indentation gonioscopy can break an attack of acute angle closure — ARAVIND fitz 214 (Q10 B i)
+- Iris processes (lacy, fenestrated, structures visible) vs PAS (solid, not fenestrated, hide structures) — ARAVIND fitz 215 (Q11)
+- Gonioscopy findings: chronic closure PAS late; subacute/acute occludable configuration — ARAVIND fitz 233 (Q23)
+- TM pigmentation follows YAG iridotomy and acute angle closure — ARAVIND fitz 215 (Q14)
+- Dilatation at 2 weeks after LPI — ARAVIND fitz 294
+- Plateau iris: attack may follow dilatation even with a patent PI — NAMRATA fitz 199
+- Disc after an attack: congested ± multiple haemorrhages; chronic changes as POAG; chronic congestive stage pale — ARAVIND fitz 235 (Q27); hyperaemic, oedematous, then pale and cupped by 9–10 days — NAMRATA fitz 199
+- Fields during an attack: generalised constriction — ARAVIND fitz 235 (Q28)
+
+### Investigations (new or changed)
+- Gonioscopy remains the gold standard; imaging complementary, not a substitute — BAIDYA fitz 729 (printed p.715)
+- AS-OCT: non-invasive, non-contact, low-coherence interferometry, resolution higher than UBM — BAIDYA fitz 735 (printed p.721)
+- UBM vs AS-OCT table (contact and coupling vs non-contact; skilled operator vs not; lower vs higher axial resolution; slower vs faster; smaller vs wider field; sees behind iris pigment epithelium vs limited; images through opaque media vs clear cornea only; supine vs seated) — BAIDYA fitz 730 (printed p.716)
+- UBM disadvantages: penetration not more than 4 mm from the limbus; immersion; supine position may falsely widen the AC — BAIDYA fitz 730
+- UBM technique: supine, topical anaesthesia, eye cup 22–24 mm, methylcellulose 1–2.5% — BAIDYA fitz 729
+- UBM quantifies angle width by linear distance or geometric angle, and the area between iris and TM; iris thickness and contour; iris–ciliary body relationship; distinguishes pupillary block, plateau iris, lens-related closure; confirms plateau iris — BAIDYA fitz 729
+- UBM characteristics: 50–100 MHz; lateral 50 µm; axial 25 µm; penetration about 4–5 mm; field 5 × 5 mm — ARAVIND fitz 227 (4.5 Q1–2)
+- UBM dark-room provocative testing gives objective results — ARAVIND fitz 227 (Q3 i)
+- UBM quantitative biometry: corneal thickness, AC depth, posterior chamber depth, IOL thickness, scleral thickness — ARAVIND fitz 228 (Q4)
+- UBM advantages: quick, convenient, minimally invasive, images through corneal oedema; disadvantages bulky, limited penetration — ARAVIND fitz 228 (Q5)
+- UBM in pigment dispersion: posterior iris bowing — ARAVIND fitz 228 (not used)
+- A-scan measures axial length (cornea to macula); immersion more accurate than applanation — BAIDYA fitz 159 (printed p.145)
+- Normal adult axial length 22.5–24.5 mm — BAIDYA fitz 223 (printed p.209)
+- Biometry formulas use ACD and lens thickness (Barrett) — BAIDYA fitz 161; optical biometer measures ACD — BAIDYA fitz 728
+- Provocative tests (page images): mydriatic — baseline IOP and gonioscopy, one pupil dilated with 0.5% tropicamide or hydroxyamphetamine, repeat at 4–6 mm, positive IOP rise > 8 mm Hg or closure (tonography: outflow facility down 30%); dark room 90 minutes awake, same criteria; prone 45–60 minutes awake, Perkins tonometer, no mydriasis; dark-room prone combines both; phenylephrine 10% + pilocarpine 2% creates a mid-dilated pupil; triple test weak cycloplegic → 1 litre water → 4% pilocarpine, positive > 10 mm Hg with closed angles — ARAVIND fitz 234–235 (Q26)
+
+### Management (new or changed)
+- "Management of angle closure glaucoma is essentially surgical"; IOP above 50 mm Hg → iris ischaemia, miotics do not help — ARAVIND fitz 238 (4.7)
+- Brimonidine 0.2% three times a day, 10 minutes after timolol — ARAVIND fitz 238
+- Mannitol: drug of choice IV (less irritating, usable in diabetes and renal failure); disadvantages large volume, dehydration, diuresis — ARAVIND fitz 283 (4.15 Q55–56)
+- Hyperosmotics: raise plasma osmolarity, water leaves vitreous; indications acute glaucoma, before surgery, malignant glaucoma; side effects rebound IOP, nausea, vomiting, diuresis, angina, pulmonary oedema, CCF, hyperglycaemia — ARAVIND fitz 281–282 (Q48–51)
+- After IV mannitol do not get up at once: hypotension, rarely coning — ARAVIND fitz 282 (Q52)
+- Glycerol 50% oral 1–1.5 g/kg; isosorbide 45% 1–2 g/kg; mannitol 20% IV 1–2 g/kg — ARAVIND fitz 283 (Q53)
+- Pilocarpine in PACG: constricts pupil, pulls peripheral iris from TM, relieves block; contraindications NVG, uveitic, phacolytic; adverse effects brow ache, dim vision in low light, induced myopia, conjunctival congestion, cataract, iris cysts, retinal holes and detachment — ARAVIND fitz 276 (Q5–7); 0.5–4%, 2–4 times daily; miosis, follicular conjunctivitis, ciliary spasm, salivation, urination — BAIDYA fitz 170
+- Miotics and prostaglandins contraindicated in uveitis — ARAVIND fitz 285 (Q72)
+- Timolol 0.25–0.5% twice daily; irritation, diplopia, ptosis; headache, dizziness, bronchospasm, bradycardia, hypotension — BAIDYA fitz 171; inhibits cAMP in ciliary epithelium, aqueous production down 20–50% — ARAVIND fitz 277 (Q13); systemic side effects incl. heart failure, depression — ARAVIND fitz 277 (Q18)
+- Brimonidine 0.2% tartrate; decreases aqueous, increases uveoscleral outflow, neuroprotection; allergic blepharoconjunctivitis, dry mouth, somnolence; avoid in children (crosses blood–brain barrier) — ARAVIND fitz 278–279 (Q20, 24, 25, 32)
+- Apraclonidine 0.5–1% twice daily; hyperaemia, mydriasis, dryness, diarrhoea, bradycardia, insomnia — BAIDYA fitz 171; reduced production, improved trabecular outflow, reduced episcleral venous pressure — ARAVIND fitz 279 (Q30); 1% for short-term rises after laser iridotomy — ARAVIND fitz 279 (Q34)
+- Acetazolamide 250 mg 2–4 times daily; GI upset, nausea, diuresis, renal calculi, aplastic anaemia, transient myopia — BAIDYA fitz 172; inhibits carbonic anhydrase II in ciliary epithelium — ARAVIND fitz 279 (Q36); metabolic acidosis, potassium depletion, paraesthesia — ARAVIND fitz 280 (Q39)
+- Epinephrine/dipivefrine dilate the pupil — contraindicated in angle closure — ARAVIND fitz 278 (Q27)
+- Topical steroids: 25% of people show an IOP rise after 4 weeks of four-times-daily drops — ARAVIND fitz 268 (4.13 Q1); risk with strong family history of glaucoma — ARAVIND fitz 268 (Q4)
+- Drugs after YAG PI in POAG/PACG: prostaglandin + timolol, dorzolamide + timolol, brimonidine + timolol, pilocarpine + timolol — ARAVIND fitz 285 (Q68)
+- Topical beta-blocker added after LPI in PACS, or continue drops — NAMRATA fitz 202
+- Medical therapy less effective than surgery at lowering IOP — ARAVIND fitz 275 (4.15 Q3)
+- Nd:YAG iridotomy (BAIDYA fitz 455, printed p.441): pilocarpine; apraclonidine/brimonidine one drop before, second at the end; topical anaesthetic; 11–1 o'clock (some prefer 3 or 9 o'clock); outer third to reduce lens damage; crypt; 2–5 mJ; single pulse or up to three; thermal (argon or diode) pre-treatment in thick dark irides; gush of pigment debris; optimal size 150–200 µm; retreat after a few days or another site; oral acetazolamide if advanced damage or high IOP; potent topical steroid four times daily for 1 week; complications IOP rise, iritis, lens damage, corneal burn, bleeding (stopped by increasing contact-lens pressure)
+- Abraham lens: stabilises, keeps lids apart, smooths cornea, magnified peripheral view, reduces axial plasma expansion, increases power density, pressure stops bleeding — NAMRATA fitz 201; +66 D button, gonioscopy solution absorbs heat (fewer corneal burns) — ARAVIND fitz 294
+- Signs of penetration: sudden gush of aqueous, patent PI on retro-illumination, deepening AC, plume of iris pigment — ARAVIND fitz 294 (Q10)
+- Indications for laser iridotomy (acute, prodromal, chronic ACG; aphakic/pseudophakic pupillary block; malignant glaucoma; fellow eye; nanophthalmos; traumatic secondary angle closure; microspherophakia; pigment dispersion; non-functioning iridectomy; combined mechanism; phacomorphic) — ARAVIND fitz 293 (Q4)
+- Contraindications (corneal oedema, corneal opacification, flat AC, completely sealed angle, primary synechial closure, uveitis, NVG, ICE syndrome) — ARAVIND fitz 293 (Q5)
+- Argon preferred: brown irides (sequential with Nd:YAG), chronic anticoagulants, angle-closure stage of NVG, blood dyscrasias such as haemophilia — ARAVIND fitz 293 (Q7); thermal, needs pigment, more energy, more late closures — Q6
+- Argon PI techniques hump, drumhead, chipping — ARAVIND fitz 294–295 (Q11)
+- Wavelengths: Nd:YAG 1064 nm (near infrared), argon blue-green 488–514 nm, diode 810 nm — ARAVIND fitz 292–293 (Q2, Q8)
+- Photodisruption (plasma, fluid and acoustic waves) for YAG iridotomy; photocoagulation (chromophore absorbs, heat, collagen contracts) — ARAVIND fitz 292–293 (Q3)
+- Laser iridoplasty = gonioplasty, iris-flattening to deepen the angle; plateau iris, nanophthalmos, POAG with anatomically narrow angle — ARAVIND fitz 297 (Q24); 200–400 mW, 0.1 s, 20–24 spots over 360° — Q25 (spot size misprinted, omitted); shrinks the peripheral iris — ARAVIND fitz 231 (Q10)
+- Malignant glaucoma: Nd:YAG hyaloidotomy photodisrupts the anterior hyaloid face — ARAVIND fitz 298 (Q27); hyperosmotics indicated — ARAVIND fitz 281 (Q49)
+- LPI complications: common — IOP spike, anterior uveitis, iris bleeding and hyphaema, focal cataract, posterior synechiae, visual symptoms, corneal decompensation; rare — aqueous misdirection, recurrent herpetic keratouveitis, retinal and subhyaloid haemorrhage, choroidal and retinal detachment after argon LPI, stage I macular hole — NAMRATA fitz 202 (Q6); corneal burn, pigment dissemination and iris atrophy, corectopia, monocular diplopia, glare — ARAVIND fitz 295 (Q12)
+- Trabeculectomy indication: PACG not responsive to iridotomy and/or iridoplasty — BAIDYA fitz 178 (printed p.164, Q23)
+- PI with trabeculectomy prevents ostium closure by iris and pupillary block — BAIDYA fitz 178 (Q24)
+- Scleral flap sutured more tightly in PACG and after malignant glaucoma — ARAVIND fitz 305 (4.18 Q26)
+- Shallow AC the commonest problem after trabeculectomy; raised-IOP causes include malignant glaucoma — ARAVIND fitz 307 (Q34–35); malignant glaucoma among complications — ARAVIND fitz 311
+- Gonioscopy yearly in open-angle glaucoma: with age an angle-closure component may develop as the lens thickens — ARAVIND fitz 240 (4.8 Q12)
+
+### Must know (new or changed)
+- Definition now quoted from NAMRATA fitz 196 ("e.g." written as "for example")
+- Classification of angle-closure glaucoma (primary/secondary × with/without pupillary block; pulling and pushing mechanisms) — ARAVIND fitz 229 (Q1)
+- Clinical stages: prodromal (haloes, white eye, intermittent mild pain, IOP 40–60), constant instability, acute congestive, chronic closed-angle (PAS, IOP high between attacks, vision and field loss), absolute (no PL, corneal anaesthesia, dilated circumcorneal vessels, atrophic iris, ectropion uveae, cupped disc, stony hard, staphyloma) — ARAVIND fitz 232–233 (Q19)
+- Absolute glaucoma management: topical antiglaucoma drugs, steroids, atropine; then cyclodestruction, retrobulbar alcohol (2–3 mL lignocaine, then 1 mL 95–100% alcohol; effect 3–6 months), evisceration/enucleation — ARAVIND fitz 236 (Q32–33)
+- Inverse glaucoma (spherophakia: miotics worsen block) — ARAVIND fitz 233 (Q22)
+- Two forms of ITC: appositional, synechial — ARAVIND fitz 230 (Q4)
+- Age: lens thickness grows, lens moves forward, pupil more miotic — ARAVIND fitz 230 (Q5)
+- Risk factors: family history, middle-aged female, older age, hyperopia, shallow AC, thick lens, short eye, anteriorly positioned ciliary body — BAIDYA fitz 166 (Q6); Asian or Inuit descent, narrow angle — NAMRATA fitz 201 (Q2); smaller corneal diameter, decreased corneal height, plateau iris configuration, thicker and more curved lens, more anterior iris insertion, Indians, Eskimos and other Asians, type-I personality — ARAVIND fitz 230 (Q3)
+- Combined mechanism: formal label for angle-closure plus open-angle elements — BAIDYA fitz 166 (Q5); after PI for an attack, IOP stays high with an open angle; treat the open-angle component — ARAVIND fitz 237 (Q35)
+- Plateau iris syndrome: anteriorly positioned ciliary body displaces peripheral iris; deep central AC; younger; occludable despite patent iridotomy; double hump — BAIDYA fitz 165–166 (Q4)
+- Phacomorphic pathogenesis: intumescent lens forces the iris root against the cornea — ARAVIND fitz 273 (Q16)
+
+### Disagreements (v4)
+22. Miotic failure: ARAVIND fitz 238 says above 50 mm Hg miotics do not help (and start pilocarpine below 40); BAIDYA fitz 166 says the sphincter is ischaemic above 40 mm Hg. Card: ladder uses Aravind's 50 (why mannitol first) and 40 (when to start pilocarpine); the pupil viva uses Baidya's 40.
+23. Pre-laser alpha-2 agonist timing: BAIDYA fitz 455 one drop before and a second drop at the end; ARAVIND fitz 294 half an hour before. Card: Baidya.
+24. Post-LPI steroid: BAIDYA "potent topical steroid four times daily for 1 week"; NAMRATA "prednisolone acetate 1% four times a day for 5–7 days"; ARAVIND 2-hourly for 1 day then tapered. Card: prednisolone acetate 1% four times a day for about a week (Baidya's duration, Namrata's drug).
+25. LPI site: BAIDYA 11–1 o'clock (some prefer 3 or 9 o'clock), outer third; NAMRATA 11–1 o'clock under the lid; ARAVIND upper nasal iris. Card: 11–1 o'clock, outer third; Aravind's reason in the step viva.
+26. UBM penetration: ARAVIND fitz 227 about 4–5 mm; BAIDYA fitz 730 "not more than 4 mm from the limbus". Card: "about 4 mm" (Baidya, newer).
+27. LPI complication lists differ in length (Baidya short; Namrata common/rare; Aravind 12 items). Card: Namrata's grouping plus Baidya's corneal burn and lens damage.
+28. Abraham lens power: NAMRATA +55 D (card, v2) vs ARAVIND +66 D — unchanged from v2 (#10).
+
+### Omitted (v4)
+- AS-OCT angle parameters by name (angle opening distance, trabecular–iris space area, angle recess area, lens vault cut-off, iris thickness values, iris curvature): none of the three books names or defines them. Baidya fitz 729 only says UBM measures angle width as a linear distance or geometric angle, the iris–meshwork area, iris thickness and contour — that wording is on the card. The card tells the candidate to use his thesis definitions.
+- Normal values of anterior chamber depth and lens thickness: not in the books. Only normal axial length (22.5–24.5 mm, Baidya fitz 223) is given.
+- "Eclipse" as a name for the pen-torch test: not in the books or on the department slide; the card calls it the pen-torch method, as the slide does.
+- Why pain is "relieved by sleep" (typed format item): no book reason; not on the card.
+- Dim room for gonioscopy: not in the three books (working notes G9 point 2).
+- Argon iridotomy settings; iridoplasty spot size (misprinted); hyaloidotomy settings (garbled).
+- Specific complications of iridoplasty and of surgical iridectomy: not in the books; the table says only what is sourced.
+- Lens extraction beyond the approved Kanski passage: none of the three books covers it for primary angle closure (grep: clear lens extraction only for microspherophakia, NAMRATA fitz 447; lens extraction for phacomorphic glaucoma, ARAVIND fitz 273).
+- Ibuprofen profile: only "500 mg twice daily for pain" (ARAVIND fitz 238); no row in the drug table.
+
+### Mnemonic (v4)
+- Kept: "I CAN SEE TILL SCHWALBE'S LINE" (MNEMONICS fitz 61). Also in the file: "PIGMENT" (causes of trabecular pigmentation; G = post angle-closure glaucoma, MNEMONICS p.37) — mentioned in Quick recall only as a pointer.
+
+### Coverage of the books' FAQs (question → where answered on the v4 card)
+BAIDYA fitz 165–166:
+- Q1 DD of acute PACG → Differential diagnosis table + mimics line; viva "Which conditions mimic…" not repeated
+- Q2 Classify PACG → Classification (ISGEO table)
+- Q3 Relative pupillary block → Definition (related terms)
+- Q4 Plateau iris syndrome → Definition (related terms); Step 3 viva; DD row
+- Q5 Combined mechanism → Definition (related terms); ladder step 6
+- Q6 Risk factors → Pathogenesis (risk factors)
+- Q7 Mid-dilated pupil precipitates → Viva (Diagnosis)
+- Q8 Pupil vertically oval → Step 2 viva
+NAMRATA fitz 201–202:
+- Q1 Van Herick → Step 3 viva
+- Q2 Risk factors → Pathogenesis
+- Q3 Mechanisms → Classification (four sites and mechanism list)
+- Q4 LPI in PACS → Ladder step 4
+- Q5 LPI technique → Viva (laser) + laser table
+- Q6 LPI complications → Viva (Complications)
+- Q7 Progression of PACS → Prognosis
+- Q8 ISGEO → Classification
+ARAVIND 4.5 (fitz 227–228): Q1–2 → Viva (Investigations, "What is UBM"); Q3 → Viva "UBM in each mechanism"; Q4 → Viva "angle measurements"; Q5 → UBM vs AS-OCT viva.
+ARAVIND 4.6 (fitz 229–237): Q1 → Classification; Q2 → ISGEO; Q3 → risk factors; Q4 → Pathogenesis; Q5 → Viva; Q6 → Viva; Q7–9 → related terms; Q8 → Step 3 viva + DD; Q10 → ladder + viva iridoplasty; Q11 → history table (Namrata's correct grouping; Aravind's garbled pairs not used); Q12 → Negative history row + viva; Q13 → Step 1 viva; Q14–16 → history model row + viva; Q17 → history model row + viva; Q18 → Prognosis; Q19 → Classification (stages); Q20 → DD + mimics line; Q21 → Step 2 viva; Q22 → Viva *(extra)*; Q23 → Viva; Q24 → Step 7 Do; Q25 → Step 4 viva; Q26 → Viva (provocative tests) + investigations row; Q27 → Step 8 viva; Q28 → Step 9 viva; Q29 → ladder + viva; Q30 → Viva (trabeculectomy); Q31 → Step 4 viva; Q32–34 → Viva *(extra)* absolute glaucoma; Q35 → related terms; Q36 → Recent advances.
+ARAVIND 4.7 (fitz 238) → The ladder, steps 1–3; drug table.
+ARAVIND 4.17 (fitz 292–298): Q1–2 → not on card (GX); Q3 → Viva (why YAG); Q4 → Viva (indications); Q5 → Viva (contraindications); Q6–8 → Viva (YAG vs argon); Q9 → Viva (technique) + laser table; Q10 → Viva (penetration); Q11 → laser table (argon techniques); Q12 → Viva (complications); Q13 → Step 5 viva; Q14–23 (ALT, SLT) → card GX; Q24–25 → laser table + viva iridoplasty; Q27 → Viva malignant glaucoma.

@@ -231,3 +231,133 @@ Sturge–Weber section; NVG begins mid-page.
 - **RUBEOTIC** (aetiology of NVG) — MNEMONICS fitz 65. Used in Quick recall; every item matches packet causes (PDR, CRVO, RD, uveitis, BRVO, Eales', OIS, trauma, tumours, CCF — NAMRATA fitz 213; ARAVIND fitz 246–247). "Choroidal melanoma" is the mnemonic's wording; the books say "malignant melanoma".
 - **ABCD** (treatment of NVG: Atropine, Beta-blockers, Cidamex, Dexamethasone) — MNEMONICS fitz 53. Used in Quick recall. Matches atropine, timolol and acetazolamide in the packet; "D" stands for a topical steroid (the packet's steroid is prednisolone acetate 1%). See the Cidamex flag above.
 - **PART B** (before dilatation: Pupillary reflex, Angle, Rubeosis, Tension, BCVA) — MNEMONICS fitz 50. Used in the Short-case version.
+
+## v4 additions
+
+Pass 1 writer, 8 Oct 2026. Packet rebuilt at `cache/packets/G5.txt` (BAIDYA fitz 190–194 · NAMRATA fitz 210–215 ·
+ARAVIND fitz 246–254), page ranges verified by opening the pages (Baidya NVG starts mid-page at fitz 190; Namrata fitz
+215 carries the last NVG viva line, then angle recession). Extra pages found by grep on the whole books are cited below.
+Badge changed to "Long case and short case (rubeosis iridis)" (brief; fact-check note 3 of the v2 check).
+Every v2 claim above is kept unless listed under "Changed".
+
+### Changed
+- `@badge` wording → "Long case and short case (rubeosis iridis)" — card brief.
+- Short-case block now `### Rubeosis iridis` with a :::say in the DigiNerve slide order (appearance → character →
+  course → arrangement → extent) — department slide, proforma transcript PDF page 12.
+- PRP settings re-verified on the page: 532 nm green/yellow, 500 µm, 0.1 s (0.05–0.2), mild white 2+–3+ burns, edges
+  1 burn-width apart, 3–4 sittings, up to the equator, 1200–1600 burns — BAIDYA fitz 451 (= printed p.437). Matches
+  progress.md / CONSISTENCY (R1 must match G5).
+- "Mildly dilated" pupil now "mid-dilated" in the record line only? NO — kept the book's "mildly dilated, oval, fixed"
+  (BAIDYA fitz 192) everywhere.
+
+### History (new)
+- Most NVG patients present or are detected in the angle-closure stage — NAMRATA fitz 214 (Q7)
+- Coloured haloes are due to corneal epithelial oedema acting as a diffraction grating — ARAVIND fitz 232 (4.6 Q14)
+- NVG common in post-vitrectomy PDR eyes, especially with untreated retinal detachment — NAMRATA fitz 210
+- After CRVO, NVI develops in about 50% of eyes, usually in 2–4 months; NVG develops in one-third of eyes with NVI — NAMRATA fitz 240 (CRVO Q5)
+- After CRAO, rubeosis iridis in 16–18% within 4–5 weeks; earlier with concomitant carotid obstruction — BAIDYA fitz 291
+- Floaters ("black dots") = mild fresh vitreous haemorrhage; sudden painless total loss = massive vitreous haemorrhage — BAIDYA fitz 249 (PDR)
+- Duration of diabetes is the strongest predictor of retinopathy; ask whether well or poorly controlled — BAIDYA fitz 245; risk factors: longer duration, poor glycaemic control, hypertension, dyslipidaemia, smoking — BAIDYA fitz 251
+- In a diabetic eye, longer duration, associated hypertension and hypercholesterolaemia raise the NVG risk; also ECCE with capsule rupture or loss of zonular support — ARAVIND fitz 249 (Q16)
+- Ocular ischaemic syndrome symptoms: loss of vision over weeks to months; ocular angina (40%), a dull ache over eye or brow; prolonged recovery after light exposure; amaurosis fugax (10%); transient focal neurological deficits; patient usually over 50, more often male — ARAVIND fitz 559 (7.16 Q5)
+- Extraocular causes: carotid artery obstruction, congestive heart failure, giant cell arteritis, carotid–cavernous fistula, Takayasu (pulseless) disease — ARAVIND fitz 247 (Q5 E); NAMRATA fitz 213 (Q1)
+- Precipitating surgical causes: RD surgery, cataract extraction, vitrectomy, radiation, Nd:YAG capsulotomy — ARAVIND fitz 247 (Q5 G)
+- Radiation therapy in the history — BAIDYA fitz 190
+- Giant cell arteritis: jaw claudication; temporal artery or scalp tenderness is the most specific — BAIDYA fitz 640; ESR often > 60 mm/hr (normal in about 20%), CRP raised — BAIDYA fitz 641
+- Carotid–cavernous fistula: arterialisation of episcleral veins is the hallmark; chemosis; exophthalmos; venous stasis may cause ocular ischaemia and raised episcleral venous pressure may cause glaucoma — ARAVIND fitz 557 (7.15 Q4)
+- Steroid intake asked to rule out steroid-induced glaucoma; ocular trauma to rule out angle-recession glaucoma — BAIDYA fitz 173 (NTG history)
+- Angle recession = tear between the longitudinal and circular muscles of the ciliary body; a gonioscopic diagnosis — NAMRATA fitz 215
+- Uveitic glaucoma: complicated cataract and band keratopathy in chronic cases — ARAVIND fitz 249 (Q18 ii)
+- Patients under 60 are more associated with hypercoagulable states; ask personal or family history of thrombosis — BAIDYA fitz 284
+- Avoid aspirin and other anti-clotting agents when necessary (vitreous haemorrhage) — BAIDYA fitz 300 (Q4); warfarin stopped before drainage-device surgery — ARAVIND fitz 322 (4.20 Q15)
+- Beta-blocker contraindications: congestive cardiac failure, 2nd/3rd-degree heart block, bradycardia, asthma, COPD — ARAVIND fitz 276 (4.15 Q11)
+- CAIs avoided in renal transplant, renal failure, sulpha allergy, chronic liver disease — ARAVIND fitz 281 (Q42)
+- Hyperosmotics contraindicated in anuria, severe dehydration, severe cardiac decompensation, pulmonary oedema — ARAVIND fitz 282 (Q50)
+- Oral glycerol 50% 1–1.5 g/kg only after ruling out diabetes — ARAVIND fitz 253; isosorbide safe in diabetics unlike glycerol — ARAVIND fitz 283 (Q54)
+- Smoking a risk factor for diabetic retinopathy — BAIDYA fitz 251
+
+### Examination (new)
+- PDR: ask/look for neuropathy and nephropathy — BAIDYA fitz 249; systemic exam for complications of diabetes and hypertension — NAMRATA fitz 210
+- Visual acuity depends on the stage; well-treated ischaemic events may keep working vision — BAIDYA fitz 191
+- Festooned pupil on dilatation from multifocal posterior synechiae — BAIDYA fitz 192
+- Ectropion uveae = out-rolling of the posterior pigment epithelium of the iris — BAIDYA fitz 192; eversion of the posterior pigmented layer at the pupillary margin as the fibrous tissue with the new vessels contracts — NAMRATA fitz 248 (PDR)
+- Ischaemic CRVO: marked RAPD (> 0.7 log unit on neutral density filter); VA counting fingers or worse — BAIDYA fitz 281
+- Cells and flare indicate a recent attack of angle closure — BAIDYA fitz 192
+- Number of clock hours of NVI should be noted — BAIDYA fitz 249
+- Gonioscopy is a must to look for NVA in an undilated iris (CRVO) — BAIDYA fitz 279
+- Before a drainage device: gonioscopy to find PAS (areas to avoid for the tube) and NVA (treat before surgery) — ARAVIND fitz 322 (4.20 Q14)
+- UBM images the anterior segment even when corneal oedema or opacity precludes gonioscopy — ARAVIND fitz 228 (4.5)
+- CRVO fundus: optociliary shunt vessels, NVD, NVE, NVI as a response to ischaemia — BAIDYA fitz 280
+- Ocular ischaemic syndrome signs: mid-peripheral retinal haemorrhages, narrowed arterioles, dilated veins, NV of disc, retina and iris; NVG — ARAVIND fitz 560
+- Other eye in CRVO: look for diabetic and hypertensive retinopathy, measure IOP, evaluate the angle — BAIDYA fitz 280; open-angle glaucoma is an ocular association of CRVO — BAIDYA fitz 283 (Q10); fellow eye at every follow-up — BAIDYA fitz 283 (Q13)
+- Example values in records (VA HM, PL+, PR accurate; LE 6/9; Tn 48/14 at 10 am; VH grade 3; CDR 0.8; NVI 11 to 8 o'clock; IOP 16 mm Hg in the short case) are illustrative case values, not clinical claims
+
+### Diagnosis
+- Baidya's provisional-diagnosis formula, now used as the third example line — BAIDYA fitz 193
+
+### Investigations (new)
+- Iris angiography / fluorophotometry and the indication for prophylactic PRP in diabetics with peripupillary leakage before lensectomy or vitrectomy — ARAVIND fitz 246 (Q3), fitz 250 (Q26)
+- FFA in CRVO once haemorrhages clear (about 3 months after onset); arteriovenous transit > 20 s; non-perfusion > 10 disc diameters = ischaemic (CVOS) — BAIDYA fitz 282, 284; NAMRATA fitz 238
+- FFA in ocular ischaemic syndrome: prolonged arm-to-retina time (> 20 s), prolonged AV transit, vessel staining, capillary non-perfusion, delayed patchy choroidal filling — ARAVIND fitz 560–561
+- B-scan when dense vitreous haemorrhage hides the retina: attached or detached, traction, vitreoretinal interface, foreign body — BAIDYA fitz 300 (Q5); B-scan mandatory to detect detachment or a mass — NAMRATA fitz 238
+- Carotid Doppler scan — NAMRATA fitz 237 (CRVO work-up); BAIDYA fitz 300; carotid colour Doppler, carotid angiography the gold standard, ERG reduced a- and b-waves, ophthalmodynamometry systolic often < 40 mm Hg — ARAVIND fitz 560–561
+- Blood: CBC, FBS, PPBS, HbA1c, ECG, lipid profile, urea, creatinine — BAIDYA fitz 284, 300; BP, fasting glucose, lipid profile, cardiac consultation — NAMRATA fitz 237
+- Thrombophilia screen, ESR, homocysteine in younger patients, bilateral occlusion or prior thrombosis — NAMRATA fitz 237; BAIDYA fitz 284
+- OCT for macular oedema in CRVO (cystoid oedema, subfoveal fluid) — BAIDYA fitz 285; NAMRATA fitz 238
+- OCT angiography shows capillary non-perfusion (extra) — BAIDYA fitz 285
+- Corneal thickness measurement postponed till the acute attack resolves — BAIDYA fitz 192
+- Fields and OCT RNFL as glaucoma baseline (v2, kept) — BAIDYA fitz 191
+
+### Management (new)
+- Standard intravitreal anti-VEGF doses: ranibizumab 0.5 mg/0.05 ml, bevacizumab 1.25 mg/0.05 ml, aflibercept 2 mg/0.05 ml — BAIDYA fitz 265 (DME section; doses quoted as the standard doses)
+- Bevacizumab is the most reported anti-VEGF in NVG; intracameral, intravitreal or both — NAMRATA fitz 212
+- When PRP is not possible (poor view): intravitreal bevacizumab, then trabeculectomy with MMC — NAMRATA fitz 212
+- Intravitreal injection site 4 mm (phakic), 3.5 mm (pseudophakic), 3 mm (aphakic) from the limbus; 26/30 G needle aimed at the mid-vitreous — BAIDYA fitz 462 (endophthalmitis chapter, generic technique)
+- PRP mechanism: destroying some photoreceptors cuts retinal oxygen use, so VEGF production falls — BAIDYA fitz 451
+- PRP: 3–4 sessions at 3–4-week intervals; one sitting risks worse macular oedema, intolerable pain, exudative RD, choroidal detachment, angle-closure glaucoma — BAIDYA fitz 452
+- PRP adverse effects: reduced night vision, scotomata, worse macular oedema — BAIDYA fitz 452
+- Indirect laser delivery for hazy media (cataract, vitreous haemorrhage) — BAIDYA fitz 452
+- PRP augmentation as needed — NAMRATA fitz 253 (PDR Q11)
+- Drug mechanisms: timolol (less cAMP in ciliary epithelium → aqueous production down 20–50%) — ARAVIND fitz 277 (Q13); brimonidine (less aqueous, more uveoscleral outflow, neuroprotection) — ARAVIND fitz 278 (Q25); CAIs (inhibit carbonic anhydrase II in ciliary epithelium) — ARAVIND fitz 279 (Q36); hyperosmotics (raise plasma osmolarity, draw water from the vitreous) — ARAVIND fitz 281 (Q48)
+- Adverse effects: beta-blockers ocular (allergy, punctate epithelial erosions, less tear secretion) and systemic (bradycardia, hypotension, heart failure, bronchospasm, depression) — ARAVIND fitz 277 (Q17–18); timolol irritation, ptosis, bronchospasm, bradycardia, hypotension — BAIDYA fitz 171; brimonidine allergic blepharoconjunctivitis, dry mouth, somnolence; avoid in infants and children; bradycardia, postural hypotension — ARAVIND fitz 278–279 (Q20, Q32, Q35); CAIs transient myopia, metabolic acidosis, potassium depletion, paraesthesia, nausea, urolithiasis, aplastic anaemia — ARAVIND fitz 280 (Q39); BAIDYA fitz 172; dorzolamide burning, stinging, SPK, periorbital dermatitis, thrombocytopenia — ARAVIND fitz 280–281 (Q41); hyperosmotics rebound IOP, diuresis, dehydration, angina, pulmonary oedema, heart failure, hyperglycaemia — ARAVIND fitz 282 (Q51)
+- After IV mannitol, the patient must not get up at once (hypotension, rarely coning) — ARAVIND fitz 282 (Q52)
+- Atropine keeps the iris and ciliary body at rest, breaks and prevents synechiae, decreases hyperaemia — ARAVIND fitz 175 (3.1 Q52); 1% atropine is the most powerful, longest-acting cycloplegic — ARAVIND fitz 198 (3.7)
+- Steroid ocular complications: raised IOP, less resistance to infection, delayed wound healing, complicated cataract — ARAVIND fitz 201 (3.7 Q21)
+- Prostaglandins may cause mild anterior uveitis (relative contraindication) — ARAVIND fitz 250 (Q23)
+- Trabeculectomy: antimetabolite complications (more with MMC): hypotony, bleb leak, bleb infection — ARAVIND fitz 309 (4.18 Q44); commonest cause of bleb failure is subconjunctival fibrosis — ARAVIND fitz 308 (Q41); wet-field cautery or underwater diathermy before filtering surgery — BAIDYA fitz 194
+- Drainage devices: NVG among the refractory-glaucoma indications — ARAVIND fitz 320 (4.20 Q8); Ahmed valve opens only above 8–10 mm Hg — ARAVIND fitz 321 (Q12); valved = simple one-step procedure — ARAVIND fitz 325 (Q32); IOP fall smaller than trabeculectomy — ARAVIND fitz 326 (Q35); complications: hyphaema, hypotony, tube occlusion by blood or fibrin, chronic iritis with neovascularisation, corneal oedema, diplopia, tube erosion, endophthalmitis — ARAVIND fitz 326–327 (Q37)
+- Cyclophotocoagulation: non-contact Nd:YAG 30–40 spots for 360°, 1–1.5 mm behind the limbus, sparing 3 and 9 o'clock — ARAVIND fitz 251, 331 (Q20); diode quick and easy, now most common — ARAVIND fitz 330 (Q15); retreat after at least 1 month, two-thirds need none — ARAVIND fitz 331 (Q21); complications: conjunctival hyperaemia, uveitis, malignant glaucoma, sympathetic ophthalmia, hypotony — ARAVIND fitz 331–332 (Q23)
+- Cyclocryotherapy relieves pain also by destroying corneal nerves — ARAVIND fitz 329 (4.21 Q7); complications: transient IOP rise, uveitis, pain, hyphaema, hypotony and phthisis, choroidal detachment, sympathetic ophthalmia — ARAVIND fitz 329–330 (Q11)
+- Carotid disease: carotid endarterectomy for symptomatic severe stenosis; antiplatelet drugs when inoperable; PRP or anterior retinal cryoablation still the first treatment of ocular neovascularisation — ARAVIND fitz 561–562 (7.16 Q8)
+
+### Must know (new)
+- Ocular ischaemic syndrome definition — ARAVIND fitz 559 (7.16 Q4)
+- NVG angle closure = secondary angle closure without pupillary block, anterior "pulling" mechanism — ARAVIND fitz 229 (4.6 Q1)
+- Why anterior-segment new vessels are commoner than disc new vessels in CRVO — BAIDYA fitz 283 (Q12)
+- Ischaemic CRVO: within 6 months NVI 49%, NVA 37%, NVG 29%, NVE 9%, NVD 6%; 45% chance of NVG at 3 years; non-ischaemic 10% NVA/NVI vs 35% ischaemic — BAIDYA fitz 282–283 (Q4, Q8)
+- Other names include rubeotic glaucoma (added to the v2 list) — ARAVIND fitz 246 (Q1)
+- Causes: grouped per ARAVIND fitz 246–247 (Q5) and NAMRATA fitz 213 (Q1)
+- Prognosis factors: early (pre-glaucoma or open-angle) stage, synechial closure ≤ 270°, working vision after well-treated ischaemia — NAMRATA fitz 212–213, BAIDYA fitz 191; poor: delayed diagnosis or poor management — NAMRATA fitz 210; trabeculectomy alone poor — NAMRATA fitz 213; useful vision rare once PAS extensive — BAIDYA fitz 194
+- Ex-PRESS shunt (extra) — ARAVIND fitz 253 (Q31); goniophotocoagulation settings (extra) — ARAVIND fitz 251 (Q27)
+
+### Disagreements (new)
+13. **Cryoprobe size for cyclocryotherapy** — ARAVIND fitz 253 (4.9 Q34): 3.5 mm at −60 to −80 °C; ARAVIND fitz 329 (4.21 Q8): commonly 2.5 mm. Same book. Card gives no probe size (temperature −60 to −80 °C only).
+14. **Prostaglandins** — Baidya "contraindicated" (card) vs Aravind "relative contraindication … may cause mild anterior uveitis". The card keeps "avoid" and adds the uveitis reason.
+15. **Ectropion uveae mechanism** — v2 item 5 still stands; Namrata's PDR chapter (fitz 248) agrees with the traction mechanism.
+16. **Timing of NVI after CRVO** — NAMRATA fitz 240: NVI usually in 2–4 months (100 days); ARAVIND fitz 249: NVG usually 3–5 months. Compatible (NVI precedes NVG); the card gives both, each with its own event.
+
+### Omitted (wanted, not in the books)
+- Atropine adverse effects and contraindications (no book page gives them); the drug row says only that it is the strongest, longest-acting cycloplegic and that cycloplegia treats NVG.
+- Adverse effects and contraindications of intravitreal anti-VEGF injection (no page); the card gives only its short action.
+- Carotid bruit as a bedside sign (not in the books).
+- RAPD grading (not in the books for this case).
+- Lens-induced glaucoma as an NVG differential: listed by ARAVIND fitz 249 but with no distinguishing points; left to card G11.
+- Number of anti-VEGF doses needed in NVG.
+
+### Mnemonic
+- Kept: RUBEOTIC (MNEMONICS p.65), ABCD with "Cidamex" glossed once as "(oral acetazolamide)" per CONSISTENCY item 9 (MNEMONICS p.53), PART B (MNEMONICS p.50). Re-verified with pdftotext on 8 Oct 2026.
+
+### Coverage of the books' FAQs
+- BAIDYA Q1 (definition) → Must know, Definition. Q2 (management) → The ladder, Drugs, Laser and surgery table.
+- NAMRATA Q1 (causes) → Must know, causes list; viva "three commonest". Q2 (where NV starts) → viva Diagnosis. Q3 (NVA without NVI 12%) → Step 5 viva. Q4 (normal vs new vessels) → Step 3 viva; DD table. Q5 (NVA on gonioscopy) → Step 5 viva. Q6 (hundred-day glaucoma) → related terms; viva Why did you ask. Q7 (stages) → Classification table; Step 5 viva; Step 4 viva. Q8 (surgery and NV) → viva Why did you ask (cataract surgery). Q9 (theories) → Pathogenesis.
+- ARAVIND 4.9: Q1 (other names) → Definition. Q2 (Weiss) → viva Diagnosis *(extra)*. Q3 (first sign) → viva Diagnosis. Q4 (ectropion uveae) → Step 2 viva. Q5 (aetiology) → causes list. Q6 (new vs normal) → Step 3 viva. Q7 (theories) → Pathogenesis. Q8 (proangiogenic factors) → Pathogenesis. Q9 (stages) → Classification. Q10 (Wand's) → Classification; viva. Q11 (types) → viva. Q12 (histopathology) → Pathogenesis. Q13 (cause of angle closure) → viva. Q14 (origin of NV) → viva (with Q2). Q15 (CRVO timing) → viva Why did you ask. Q16 (diabetic risk factors) → viva Why did you ask. Q17 (occlusive diseases) → causes list. Q18 (DD) → DD table; viva. Q19 (FHI) → DD table. Q20 (late complications) → Complications; viva. Q21 (other pupillary leakage) → viva Investigations. Q22 (why leak) → viva Investigations. Q23 (contraindicated drugs) → viva drugs; ladder. Q24 (treatment of choice) → viva. Q25 (PRP mechanism) → viva. Q26 (prophylactic PRP) → viva. Q27 (laser options; settings) → PRP settings per Baidya (newer); goniophotocoagulation *(extra)* viva; CPC settings in laser table. Q28 (surgical procedures) → Laser and surgery table. Q29 (management) → Aim; ladder. Q30 (cryo indication) → ladder; viva hazy media. Q31 (Ex-PRESS) → Recent advances *(extra)*. Q32 (cyclodestruction indication) → viva. Q33 (newer treatments) → Recent advances; viva. Q34 (probe sizes) → omitted (number no examiner would ask; book self-disagreement, item 13). Q35 (rubeosis iridis) → Definition; short-case viva. Q36 (bevacizumab) → ladder; viva drugs.

@@ -168,3 +168,164 @@ sheet p.661–663. Not cited because nothing from them stayed on the card: Baidy
 
 ## Mnemonic
 - None. The G3 packet has no MNEMONICS PDF page. The card says "none in your mnemonics file for this case".
+
+## v4 additions
+
+Packet rebuilt for v4 (`cache/packets/G3.txt`): ARAVIND fitz 319–327 (section 4.20; every page also read as a rendered
+image because the text layer drops the boxed graphics) · BAIDYA fitz 179–180, 187–194 · NAMRATA fitz 193–195, 204,
+212–213, 216–217, 357. Extra pages found by grep ("Ahmed", "Baerveldt", "Molteno", "drainage device", "valve", "shunt")
+and read in place: BAIDYA fitz 76, 123–124, 184, 241, 435, 610 · ARAVIND fitz 20–23 (model case sheet), 232 (4.6),
+253 (4.9), 265, 267 (4.12), 307–309 (4.19), 330–332 (4.21). Printed pages: Baidya = fitz − 14, Namrata = fitz − 18.
+
+The v2 fact-check (`G3_check.md`) found that the Aravind 4.20 text layer drops the boxed graphics. I rendered all nine
+pages (fitz 319–327) and used the graphics below; the v2 "Omitted" items for Q6, Q11, Q14 xi, Q28 and Q38 are now
+resolved.
+
+### Device, principle, classification
+- Principle (Q6, graphic): explant stimulates a fibrous enveloping capsule, the delimiting wall of the filtering bleb → aqueous drains through the tube into the space between plate surface and capsule → passive diffusion into periocular tissues → uptake by lymphatics and venous capillaries — ARAVIND fitz 319
+- Ridge where the tube inserts: physical separation of the capsule from the posterior tube orifice (prevents occlusion); directs flow onto the explant's upper surface — ARAVIND fitz 319 (Q5 iv)
+- Aqueous-shunt chart by route (graphic): (1) translimbal to anterior subconjunctival space, standard Krupin–Denver valve, demerit increased failure from subconjunctival fibrosis; (2) translimbal to a posterior sub-Tenon's reservoir, valved or flow-restricted (Ahmed valve, long Krupin valve) or non-valved (Molteno, Baerveldt); advantages protection of posterior tube exit, increased surface area → greater drainage, distension of sub-Tenon's space → large unilocular bleb, less implant erosion due to Tenon's capsule, more efficient flow through posterior tissue; (3) AC to suprachoroidal space through a cyclodialysis cleft or vitreous cavity through pars plana (modified Schocket implant), advantages no limbal dissection, less tube exposure; demerits more hyphaema, chronic inflammation, shunt–corneal touch, difficult technique — ARAVIND fitz 320
+- Baerveldt: external diameter 0.64 mm, internal 0.3 mm; single or double plate (graphic) — ARAVIND fitz 321 (Q10)
+- Baerveldt advantages (Q11, graphic): ease of implantation; larger surface area → greater drainage (compared with Molteno); flexible silicone conforms to the globe; fenestration holes → fibrous ingrowth → lower bleb height → less postoperative diplopia — ARAVIND fitz 321
+- Ahmed: goal of keeping IOP between 8–10 mm Hg; outflow only above 8–10 mm Hg; fully open at high pressure, opening narrows as pressure falls — ARAVIND fitz 321 (Q12)
+- *(extra)* Optimed glaucoma pressure regulator: silicone tube on a PMMA matrix of resistors, flow by capillary action — ARAVIND fitz 322 (Q13)
+- *(extra)* Express shunt: 3 mm stainless-steel tube, 400 µm diameter, 50 µm lumen, implanted through the limbus — ARAVIND fitz 253 (4.9 Q31)
+- *(extra)* Modified Schocket implant described in the route table only — ARAVIND fitz 320, 326 (Q34)
+- Hypertensive phase: Q39 prints "Hypertensive phase" with "Transient ↑ IOP in immediate postoperative" set directly beneath it, and "Hypotensive phase" beside it; the answer stops there. Late complication vii: inadequate IOP control with a properly functioning Baerveldt device = hypertensive phase — ARAVIND fitz 327. Card: "a transient rise in pressure soon after surgery, with poor control although the device works"
+
+### Indications, pre-operative evaluation
+- Indications added (newest book): failed previous glaucoma surgery with severe conjunctival scarring precluding accurate dissection; NVG; ICE syndrome; glaucoma after traumatic anterior segment disruption; congenital glaucoma where conventional procedures failed; pseudophakic glaucoma; post-keratoplasty glaucoma; aniridia; post-vitrectomy — BAIDYA fitz 179 (Q30)
+- Devices in neonates where commoner surgeries failed; most common site superotemporal then inferonasal; complications cornea–tube touch, implant migration, cataract — BAIDYA fitz 187
+- Glaucoma valve surgery or tube shunt in Peters' anomaly — BAIDYA fitz 76 (not on the card; congenital)
+- Silicone-oil glaucoma: GDD among the options — BAIDYA fitz 241; GDD better outcomes than trabeculectomy in oil-filled eyes; oil can migrate through the tube into the subconjunctival space, causing inflammation and failure — NAMRATA fitz 357
+- Uveitic glaucoma: Ahmed valve when inflammation is under control; steroid cover reduces inflammatory exudates blocking the lumen early after surgery — ARAVIND fitz 267 (4.12)
+- NVG: device after rubeosis regresses (Ahmed valve) — ARAVIND fitz 253; GDD often the primary operation where filtering surgery is likely to fail; Molteno, Baerveldt, Ahmed comparable to trabeculectomy; trabeculectomy alone poor, with MMC and preoperative bevacizumab and/or PRP up to 95% — NAMRATA fitz 213
+- Angle recession: GDD of limited benefit; trabeculectomy with antimetabolites effective but lower success than POAG — NAMRATA fitz 217
+- Repeat filtering procedure with antimetabolites or drainage implants after failure of filtration — ARAVIND fitz 309 (4.19 Q42)
+- Pre-op evaluation additions: preoperative IOP; corneal clarity, especially peripheral, for intraoperative confirmation of tube location; NVA treated pre-operatively to halt new growth by PRP or goniophotocoagulation (graphic) — ARAVIND fitz 322 (Q14)
+- Continue all other glaucoma drugs till surgery — ARAVIND fitz 322 (Q15)
+
+### Operation
+- Limbus-based flap: two-layer closure of Tenon's and conjunctiva with separate running absorbable sutures; fornix-based if tissue cover over the device is adequate, sutured only at the lateral corners — ARAVIND fitz 323 (Q16 i)
+- Two-stage: tie for 2–3 weeks, time for capsule development and acceptable resistance to outflow — ARAVIND fitz 323 (Q16 iii)
+- Rip cord left beneath the conjunctiva for pulling — ARAVIND fitz 323 (Q17)
+- Plate sutured to episclera → complication perforation of sclera — ARAVIND fitz 323 (Q20 iv)
+- Second plate above or below the superior rectus — ARAVIND fitz 324 (Q25)
+- AC tube: shortened with a sharp bevel (print "sharp level"); wet-field cautery at the insertion site; pars plana: tract perpendicular to the sclera 3–4 mm behind the limbus; tip checked free of vitreous; complete vitrectomy and clearance of the vitreous base in that quadrant — ARAVIND fitz 324 (Q26)
+- 21- or 23-gauge needle tract: tight fit, prevents aqueous leak around the tube — ARAVIND fitz 325 (Q27)
+- Patch graft prevents erosion of tube through sclera, hypotony, tube–corneal touch, perforation of sclera (graphic) — ARAVIND fitz 325 (Q28); non-occluding mattress suture over the tube near its insertion (Q29)
+- Healon through a paracentesis at the end: less hypotony and flat AC; intraoperative check of tube position; slows early drainage — ARAVIND fitz 325 (Q31)
+
+### Complications and management
+- Intraoperative causes: hyphaema from iris-root injury; lens damage from wrong tube length or direction; lens or endothelial damage from needle-tip trauma; scleral perforation and retinal tear from needle injury while suturing the plate; hypotony from a sclerotomy too wide or incomplete tube occlusion — ARAVIND fitz 326 (Q37)
+- Early: intraocular inflammation marked in chronic uveitis; aqueous misdirection from early hypotony and choroidal swelling; endophthalmitis from intraoperative contamination — ARAVIND fitz 326
+- Late (full list i–xiii) — ARAVIND fitz 327
+- Tube erosion: place a stent, which elongates the tube and protects it from laceration; stent material Storz silastic tube (graphic) — ARAVIND fitz 327 (Q38)
+- Valve complications (newest book): failure early or late; corneal decompensation from endothelial cell loss; double vision from extraocular muscle interference; hypotony; hyphaema; scleral perforation; tube problems; tube erosion and endophthalmitis; migration or expulsion of the plate — BAIDYA fitz 179 (Q31)
+- Over-filtration after filtering surgery (applied on the card, labelled as such, to device hypotony with a flat chamber): firm patching, Simmons shell, bandage contact lens, aqueous suppressants, atropine, steroids; surgical reformation of the AC with air, sodium hyaluronate or SF6, drainage of deep choroidal detachments — ARAVIND fitz 307–308 (4.19 Q37). This is a trabeculectomy answer; the card says so.
+- Cyclophotocoagulation indications: refractory pain in blind eyes; repeated failure of other glaucoma surgeries; glaucoma after PKP; high-risk cases where other surgery failed or is not feasible — ARAVIND fitz 330 (4.21 Q12). Diode: less energy than Nd:YAG; quick and easy; most commonly performed cyclodestructive procedure; portable — fitz 330–331 (Q15–16). Retreatment interval at least 1 month; 2/3 need no retreatment — fitz 331 (Q21). Complications: conjunctival hyperaemia, uveitis, malignant glaucoma, sympathetic ophthalmia, hypotony — fitz 331–332 (Q23)
+
+### History and examination
+- Compliance with previous medication to be asked — BAIDYA fitz 191
+- Hypermetropia goes with PACG (history of glasses) — BAIDYA fitz 191
+- Frequent change of glasses: high pressure impairs accommodation; field loss mistaken for poor vision — ARAVIND fitz 22 (model sheet Q2)
+- Haloes: corneal epithelial oedema; other causes (mucus in conjunctivitis, incipient cataract, vitreous opacities, snow blindness, tilted IOL); Fincham test — ARAVIND fitz 232 (4.6 Q14–17)
+- Buphthalmos: horizontal corneal diameter > 12 mm; Haab's striae = horizontal breaks in Descemet's membrane — BAIDYA fitz 184
+- Uveitic signs used to tell apart: posterior synechiae, PAS — ARAVIND fitz 265 (4.12 Q1); keratic precipitates, cells and flare — TYPED FORMAT (cornea, AC rows)
+- Angle recession: widening of the ciliary body band from retrodisplacement of the iris root; compare with the other eye — NAMRATA fitz 216
+- Sturge–Weber: port-wine stain; increased episcleral vessel dilatation — BAIDYA fitz 188; PG analogues not beneficial (high episcleral venous pressure), anterior uveal effusion — BAIDYA fitz 189, NAMRATA fitz 204
+- PG analogues and miotics better avoided in NVG (may increase inflammation) — NAMRATA fitz 212
+- Fluorescein 1% staining for corneal surface toxicity from long-term drops — BAIDYA fitz 192
+- Timolol may cause blepharitis — BAIDYA fitz 192
+- Goldmann 2-mirror for gonioscopy; 4-mirror for indentation — BAIDYA fitz 193
+- GAT before gonioscopy (gonioscopy lowers the next reading) and before dilatation (dilatation raises IOP 4–5 mm Hg transiently) — NAMRATA fitz 195 (Q6)
+- Brown's syndrome: absence of elevation in adduction, normal elevation in abduction, forced duction positive — BAIDYA fitz 610 (p.596). "A superonasal plate can mimic it" is my plain-word gloss of "pseudo-Brown's".
+- Near vision "N8 at 33 cm" — model sheet format, ARAVIND fitz 21 (illustration)
+
+### Investigations and follow-up
+- Diurnal variation: baseline, size of fluctuation, timing of peak; keep IOP below target with fluctuation < 5 mm Hg — NAMRATA fitz 194 (Q2)
+- Specular microscopy: endothelial cell density (cells/mm²); normal cornea 60–80% hexagonal cells; pleomorphism suggests endothelial stress; late adulthood about 2500 cells/mm² — BAIDYA fitz 123–124 (p.109–110)
+- B-scan of choroidal detachment: smooth dome-shaped hyper-reflective elevation; suprachoroidal space anechoic (serous) or echoic (haemorrhagic); "kissing choroids" — BAIDYA fitz 435 (p.421)
+- Previous records of fields, OCT RNFL for progression — BAIDYA fitz 191; baseline fundus photo, OCT, HFA 24-2 — ARAVIND fitz 23 (model sheet Q5)
+- Follow-up every 3 months (mild–moderate) or monthly (advanced); GAT at each visit; fields every 6 months (mild–moderate) or 3 months (advanced) — NAMRATA fitz 194
+
+### Drugs (short form; strengths and frequencies)
+- Timolol 0.5% OD or BD; bimatoprost 0.01%, 0.03% HS; dorzolamide 2% TID sometimes BD; brimonidine 0.1/0.15% TID; mechanisms, ocular and systemic side effects, beta-blocker contraindications (asthma, COPD, cardiac failure, bradycardia) — NAMRATA fitz 193 (table 1)
+- Acetazolamide 250 mg BD (no sulpha allergy) — ARAVIND fitz 253; oral side effects paraesthesia, nausea, diarrhoea, loss of appetite and taste, lassitude, renal stones — NAMRATA fitz 193; sulpha allergy → CAIs contraindicated — BAIDYA fitz 191
+
+### Changed from v2
+- "Opens above 8–10 mm Hg" kept; added "aims to keep IOP between 8–10 mm Hg" (same page)
+- Device vs trabeculectomy table extended with NVG, silicone-oil and angle-recession rows (NAMRATA fitz 213, 357, 217)
+- Complications table now carries a management column with what the books give (cryotherapy, stent, steroid cover, vitrectomy, Healon, laser release of the tie, cyclophotocoagulation), and the trabeculectomy over-filtration answer clearly labelled
+- Investigations moved to `## How I will proceed — investigations` with significance; specular microscopy and B-scan added
+- Example patient changed to 65 years (department sheet age range); all readings remain illustrations
+
+### Disagreements
+- All five v2 disagreements stand (valved vs non-valved; device vs trabeculectomy; anti-VEGF timing; cyclodestruction complications; second plate site).
+- **Post-traumatic glaucoma**: ARAVIND fitz 320 and BAIDYA fitz 179 list it as an indication; NAMRATA fitz 217 says devices have limited benefit in angle-recession glaucoma. Baidya's wording is "traumatic anterior segment disruption". The card keeps the indication and adds Namrata's caveat for angle recession, which is not a conflict in the strict sense.
+- **Hypertensive phase**: Q39's layout ties "transient ↑ IOP in the immediate postoperative period" to the hypertensive phase, and late complication vii calls it inadequate control with a working Baerveldt. The card states both in one line; timing in weeks is not given.
+
+### Omitted (wanted, not in the books)
+- **Aurolab aqueous drainage implant (AADI)**: not named in any of the three books (grep "aurolab", "AADI", "aqueous drainage implant": no hit). Left off the card as the brief instructs.
+- **Comparative trials** (Tube Versus Trabeculectomy, Ahmed Baerveldt Comparison, Ahmed Versus Baerveldt): no trial of drainage devices in any book. No trial line on the card.
+- **Management of the hypertensive phase, a blocked tube, an encapsulated bleb, established hypotony, diplopia, endophthalmitis** after a device: not given. The card gives prevention, the trabeculectomy over-filtration answer (labelled), and cyclophotocoagulation for uncontrolled pressure.
+- **Hypotony cut-off**: only NAMRATA fitz 357 region (giant retinal tear table, "IOP ≤5 mm") — wrong context; not used.
+- **Postoperative drop regimen** after a device: not given (only steroid cover in uveitic eyes).
+- **Imaging of the tube** (AS-OCT, UBM): the books cover AS-OCT and UBM in general (BAIDYA fitz 735–736) but not for tubes. Not on the card. Worth a senior's answer, given the candidate's AS-OCT thesis.
+- **Repeat device or tube revision** after a failed device: not given.
+- **Endophthalmitis signs** (hypopyon, vitritis) in a device eye: not given in the packet; the card names endophthalmitis without signs.
+
+### Mnemonic
+- None: `Ophthal mnemonics final.pdf` (pdftotext, grep "drainage|ahmed|molteno|baerveldt|tube|valve|seton|shunt|refractory") has no matching mnemonic.
+
+### Coverage of the books' FAQs
+Aravind 4.20 (fitz 319–327):
+- Q1 definition → What you must know: Definition; viva "Define a glaucoma drainage device"
+- Q2–Q4 seton, shunt, valve → Definition (related terms); viva
+- Q5 common features, ridge → Definition (parts); viva "What features do all devices share?"
+- Q6 principle → Pathogenesis; viva "What is the principle…?"
+- Q7 hydraulic conductivity → Definition (related terms); viva
+- Q8 indications → Indications; viva
+- Route chart → Classification table; viva "How do you classify aqueous shunts by route?"
+- Q9 Molteno → device table; viva
+- Q10–Q11 Baerveldt and its advantages → device table and bullet; viva
+- Q12 Ahmed → device table, bullet; viva "How does the Ahmed glaucoma valve work?"
+- Q13 Optimed → Classification *(extra)* line
+- Q14 pre-op evaluation → Indications and pre-operative evaluation; viva; Step 1 (useful vision)
+- Q15 drugs stopped → pre-op list; viva
+- Q16 techniques (flaps, one- and two-stage) → Operation steps 1, 4; Pathogenesis line
+- Q17 ligatures → Operation step 4; laser and surgery table; viva "Why and how is a non-valved tube tied?"
+- Q18 hypotony cause → viva (complications); complications table
+- Q19 device bleb vs trabeculectomy bleb → Step 3 viva; comparison table
+- Q20 positioning → Operation step 2–3; Step 2 viva
+- Q21 scleral perforation → Step 8 viva; complications table
+- Q22 superior rectus insertion → viva
+- Q23 superonasal complications → Step 2 viva
+- Q24 migration → Step 4 viva; complications table
+- Q25 second plate → Operation step 3; viva (with Q22)
+- Q26 tube installation (AC, pars plana) → Operation steps 5–6; Step 4 viva (position; pars plana)
+- Q27 needle tract → viva
+- Q28–Q30 patch graft → Step 3 viva; Operation step 7
+- Q31 Healon → Operation step 8; viva
+- Q32 valved vs non-valved → viva
+- Q33 sizing → device bullets; viva
+- Q34 modified Schocket → route table only (*(extra)* in effect)
+- Q35 IOP fall vs trabeculectomy → comparison table; viva
+- Q36 contraindicated medications → drugs table; viva
+- Q37 complications → complications table; Step vivas; viva
+- Q38 tube erosion → Step 3 viva; ladder; complications table
+- Q39 phases → viva (complications); Definition related term
+Baidya:
+- fitz 179 Q30 indications → Indications; viva
+- fitz 179 Q31 complications → complications table; viva "What are the complications of valve implantation?"
+- fitz 187 congenital glaucoma management (devices in neonates, site, complications; cyclodestruction) → Indications; Step 2 viva (inferonasal next); cyclophotocoagulation row
+- fitz 189 SWS Q3 (Ahmed > Molteno; cyclophotocoagulation) → viva (valved vs non-valved); differential row
+- fitz 193–194 NVG Q2 (anti-VEGF timing; valve; cyclodestruction for poor prognosis) → Recent advances; viva
+- Baidya Q26–Q29 (trabeculectomy, MMC), Q32–Q35 → card G2 / GX (not this card)
+Namrata (no device viva questions; device content is in the management text):
+- fitz 194 GDD indications → Indications; comparison table. Viva Q1–Q3 (POAG) → card G1
+- fitz 195 Q6 GAT before gonioscopy and dilatation → Step 6 viva. Q4–Q5, Q7–Q8 → card G1
+- fitz 204 SWS management (device, cyclophotocoagulation) → differential; viva (prostaglandin analogues). SWS viva → card G11
+- fitz 212–213 NVG management (device primary, comparable results; cyclodestruction repeat) → comparison table; viva. NVG viva → card G5
+- fitz 217 angle recession (limited benefit) → comparison table; differential. Angle-recession viva → card G11
+- fitz 357 silicone oil (device better than trabeculectomy; oil migration) → comparison table
