@@ -5,7 +5,7 @@ Next step: examiner review (pass 2) running for every card; then the independent
 
 | Card | Stage | Notes |
 |---|---|---|
-| GX | drafted | New in v3/v4: glaucoma treatment toolkit (§8.2) |
+| GX | reviewed | New in v3/v4: glaucoma treatment toolkit (§8.2) |
 | G1 | drafted | POAG + glaucomatous optic disc — add block "Glaucomatous optic disc" |
 | G4 | drafted | Primary angle-closure disease — thesis topic, deepest card |
 | G5 | reviewed | Neovascular glaucoma — add block "Rubeosis iridis" |
@@ -15,7 +15,7 @@ Next step: examiner review (pass 2) running for every card; then the independent
 | G9 | drafted | Gonioscopy (task) |
 | G10 | drafted | Humphrey field (chart) |
 | G2 | reviewed | POAG with trabeculectomy |
-| G3 | drafted | POAG with drainage device |
+| G3 | reviewed | POAG with drainage device |
 | G11 | drafted | New (extra, 8 Oct): other glaucomas the examiner may ask — buphthalmos, Sturge–Weber, lens-induced, uveitic, steroid-induced, pigmentary. Added on the candidate's request for wider topic coverage |
 
 ## How to resume (read this first if this session has stopped)
@@ -35,6 +35,10 @@ Next step: examiner review (pass 2) running for every card; then the independent
 - Every session must first rebuild the cache (master prompt §10.2): `pip install pymupdf`, extract the books to
   `Case_Cards/_work/cache/txt/`, `npm install` in `Case_Cards/_work/tools/`.
 - Cross-card decisions made during this upgrade are CONSISTENCY.md items 11–34; apply them.
+
+Budget decision (candidate, 8 Oct 12:50 IST): finish the running examiner reviews, build and send the PDF, then
+independent fact-checks only for GX, G1, G4, G5, G6 (cheaper model); G2's and G5's fact-checks were already running.
+Fact-checks for G3, G7, G8, G9, G10, G11 and the index are deferred to a later session.
 
 Questions for the user:
 Requests for other subjects:
