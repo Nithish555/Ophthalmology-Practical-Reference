@@ -5,7 +5,7 @@ Next step: examiner review (pass 2) running for every card; then the independent
 
 | Card | Stage | Notes |
 |---|---|---|
-| GX | reviewed | New in v3/v4: glaucoma treatment toolkit (§8.2) |
+| GX | checked | New in v3/v4: glaucoma treatment toolkit (§8.2) |
 | G1 | reviewed | POAG + glaucomatous optic disc — add block "Glaucomatous optic disc" |
 | G4 | reviewed | Primary angle-closure disease — thesis topic, deepest card |
 | G5 | checked | Neovascular glaucoma — add block "Rubeosis iridis" |
