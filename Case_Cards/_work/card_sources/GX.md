@@ -52,7 +52,7 @@ Each heading gives the fall in intraocular pressure (IOP) the class achieves.
 | **Mannitol 20%** intravenous, 1–2 g/kg over 20–30 minutes<br>**Glycerol 50%** oral, 1–1.5 g/kg<br>Isosorbide 45% oral, 1–2 g/kg | Raise plasma osmolarity, so water leaves the eye, mainly from the vitreous; vitreous volume and IOP fall | Ocular: rebound IOP rise, intraocular haemorrhage. Systemic: nausea, vomiting, thirst, confusion, diuresis, dehydration, hyperglycaemia, pulmonary oedema, heart failure | Anuria, severe dehydration, heart failure, pulmonary oedema, low blood pressure. Glycerol: not in diabetes (isosorbide is safe) |
 
 ### Drugs in the acute attack
-1. **Mannitol 20% intravenously, 1–2 g/kg over 20–30 minutes**, first. At very high pressure the ischaemic sphincter cannot respond to miotics.
+1. **Mannitol 20% intravenously, 1–2 g/kg over 20–30 minutes**, first, because miotics fail at very high pressure.
 2. If no nausea or vomiting: **acetazolamide 250–500 mg stat, then 250 mg four times a day**. Or **glycerol 50% 1–1.5 g/kg**, after ruling out diabetes. Add **apraclonidine 0.5%**.
 3. Once IOP is **below 40 mm Hg**: **pilocarpine 2%** four times in 30 minutes, then 6-hourly.
 4. **Timolol 0.5% twice a day** with **brimonidine 0.2% three times a day**, 10 minutes apart.
@@ -63,12 +63,12 @@ Each heading gives the fall in intraocular pressure (IOP) the class achieves.
 @widths 24 24 28 24
 | Drug (strength · frequency) | Mechanism of action | Adverse effects (ocular · systemic) | Contraindications and cautions |
 |---|---|---|---|
-| **Prednisolone acetate 1%** four times a day after laser or an attack; hourly for a failing bleb | Controls inflammation: blocks phospholipase A2, so fewer prostaglandins are made; suppresses fibroplasia under the bleb | Ocular: **IOP rise in steroid responders**, posterior subcapsular cataract, reactivated herpes simplex, secondary infection, corneal melting | Bleb infection: start it only 12–24 hours after antibiotics. Watch IOP: glaucoma patients respond more often |
+| **Prednisolone acetate 1%** four times a day after laser or an attack; hourly for a failing bleb | Blocks phospholipase A2, so fewer prostaglandins are made; suppresses fibroplasia under the bleb | Ocular: **IOP rise in steroid responders**, posterior subcapsular cataract, reactivated herpes simplex, secondary infection, corneal melting | Bleb infection: start it only 12–24 hours after antibiotics. Watch IOP: glaucoma patients respond more often |
 | **Atropine 1%** three times a day | **Cycloplegic**: paralyses the ciliary muscle, so the lens–iris diaphragm tightens and the chamber deepens. Also relieves ciliary spasm and prevents posterior synechiae | Systemic: flushing, tachycardia, fever, delirium | Can **precipitate angle closure** in an occludable angle. Used in neovascular and uveitic glaucoma, a shallow chamber after trabeculectomy and malignant glaucoma |
 | **Bevacizumab 1.25 mg in 0.05 ml** intravitreal, through the pars plana | Blocks **vascular endothelial growth factor (VEGF)**, so iris new vessels regress within 24–48 hours | The effect lasts only some weeks | An adjunct in neovascular glaucoma, given 2–3 days before panretinal photocoagulation (PRP) or surgery, for less bleeding. Never a substitute for PRP |
 
 ## Combinations
-A fixed combination needs complementary mechanisms and similar dosing. Pseudoexfoliation glaucoma usually needs more than one drug.
+A fixed combination needs complementary mechanisms and similar dosing.
 
 @widths 30 38 32
 | Combination | Why use it | Disadvantages |
@@ -101,8 +101,8 @@ A fixed combination needs complementary mechanisms and similar dosing. Pseudoexf
 | **Surgical peripheral iridectomy**: acute attack with a hazy cornea and closure under two-thirds | Basal iridectomy through a limbal incision, mostly at 12 o'clock; Nd:YAG iridotomy for the fellow eye | Possible when the cornea is too hazy for laser. Clean, triangular margins; it cannot close | An open intraocular operation. Closure over two-thirds needs trabeculectomy instead |
 | **Combined cataract surgery and trabeculectomy**: visually significant cataract with poor IOP control, drug intolerance or poor compliance, advanced glaucoma, pseudoexfoliation, one-eyed patient | Both operations in one sitting; an antimetabolite can be used | One operation; earlier visual recovery; fewer early IOP spikes | More hyphaema, uveitis, shallow chamber, hypotony; slower recovery; weaker long-term control than trabeculectomy alone |
 | **Cataract surgery alone**: IOP controlled on 1–2 drugs; no significant field or disc damage; older; good compliance | Cataract surgery through a temporal clear-corneal incision | Simpler, shorter, fewer complications; the conjunctiva is spared for later surgery | Early IOP spike; long-term control uncertain; later filtering surgery fails more often |
-| **Glaucoma drainage device**: Ahmed valve (valved); Molteno, Baerveldt (non-valved). Refractory glaucoma (neovascular, uveitic, congenital, post-keratoplasty); failed trabeculectomy; scarred conjunctiva | Superotemporal; plate at the equator, 8–10 mm behind the limbus; non-valved tube tied for 2–3 weeks; tube 1.5–2 mm inside, parallel to the iris; patch graft (card G3) | An option when filtering surgery has failed or is likely to fail | Smaller IOP fall; hypotony, tube block or migration, tube erosion and endophthalmitis, corneal decompensation, diplopia. Needs useful visual potential |
-| **Goniotomy** and **trabeculotomy**: primary congenital glaucoma (card G11) | Goniotomy needs a clear cornea: a Swan knife, under a direct goniolens, cuts the anterior meshwork just behind Schwalbe's line over about 120°. Trabeculotomy suits a hazy cornea: Schlemm's canal is found ab externo, deroofed, and a probe rotated into the chamber | Aqueous reaches Schlemm's canal directly. Trabeculotomy needs no view of the angle | Hyphaema, iridodialysis, shallow chamber. If they fail: combined trabeculotomy–trabeculectomy, a drainage device |
+| **Glaucoma drainage device** (Ahmed, Molteno, Baerveldt): refractory glaucoma (neovascular, uveitic, congenital, post-keratoplasty); failed trabeculectomy; scarred conjunctiva | Superotemporal; plate at the equator, 8–10 mm behind the limbus; non-valved tube tied for 2–3 weeks; tube 1.5–2 mm inside, parallel to the iris; patch graft (card G3) | An option when filtering surgery has failed or is likely to fail | Smaller IOP fall; hypotony, tube block or migration, tube erosion and endophthalmitis, corneal decompensation, diplopia. Needs useful visual potential |
+| **Goniotomy** and **trabeculotomy**: primary congenital glaucoma (card G11) | Goniotomy (clear cornea): a Swan knife cuts the meshwork just behind Schwalbe's line, over about 120°. Trabeculotomy (hazy cornea): Schlemm's canal is deroofed ab externo; a probe is rotated into the chamber | Aqueous reaches Schlemm's canal directly; trabeculotomy needs no view of the angle | Hyphaema, iridodialysis, shallow chamber. Failure: combined trabeculotomy–trabeculectomy |
 | **Non-penetrating surgery**: deep sclerectomy, viscocanalostomy, canaloplasty; for POAG | Deep sclerectomy: 5 × 5 mm superficial flap; deeper 4 × 4 mm flap removed with the roof of Schlemm's canal; space maintainer. Viscocanalostomy: canal dilated with viscoelastic; tight flap | Chamber not entered; inner meshwork kept, so less overfiltration and hypotony | Not for neovascular glaucoma or angle closure: there the iris root lies against the meshwork, so filtration fails |
 | **Cyclocryotherapy**: painful blind eye; repeated surgical failure; aphakic or post-keratoplasty glaucoma | 2.5 mm probe, anterior edge 1 mm from the limbus; **−60 to −80 °C for 60 seconds**; 3–4 freezes per quadrant, under 180° per session; repeat after at least 1 month | Also destroys corneal nerves, so it relieves pain | Pain, uveitis, hyphaema, transient IOP rise, **hypotony and phthisis**, anterior segment ischaemia, sympathetic ophthalmia |
 
@@ -160,9 +160,6 @@ A: **Lacrimal occlusion**: press the inner corner of the eye and keep the eyes c
 Q: Why are alpha-2 agonists avoided in infants?
 A: **Brimonidine crosses the blood–brain barrier** in children. Under 2 years it can cause somnolence, hypotension, bradycardia, apnoea, seizures and coma.
 
-Q: How does pilocarpine act in open-angle and in angle-closure glaucoma?
-A: **Open angle**: the longitudinal ciliary muscle pulls the scleral spur and opens the meshwork. **Angle closure**: miosis pulls the peripheral iris off the meshwork and breaks pupillary block.
-
 Q: In an acute attack, why wait until IOP is below 40 mm Hg before pilocarpine?
 A: **Sphincter ischaemia**: at very high pressure the iris sphincter is paralysed, so miotics fail. I first lower the pressure with mannitol and acetazolamide.
 
@@ -182,14 +179,8 @@ A: **Lens capsule seen through the opening** confirms it. At the time: a gush of
 Q: How does selective laser trabeculoplasty work, and why is it called selective?
 A: **Selective**: the 532 nm, 3-nanosecond pulse hits only melanin in pigmented meshwork cells, without heat spread. Cytokines then raise matrix metalloproteinases, making the meshwork more porous.
 
-Q: When will you not do laser trabeculoplasty?
-A: **Contraindications**: uveitic, neovascular and ICE syndrome glaucoma, synechial angle closure and angle recession. A scarred, distorted meshwork does not respond.
-
 Q: How does cyclophotocoagulation lower IOP, and why spare 3 and 9 o'clock?
 A: **Ciliary epithelium destruction** cuts aqueous production; outflow through the pars plana may also rise. The long posterior ciliary vessels and nerves lie at 3 and 9 o'clock.
-
-Q: Why is the diode the commonest laser for cyclophotocoagulation?
-A: **Diode laser (810 nm)** is well absorbed by uveal melanin and needs less energy than Nd:YAG. The unit is small, portable and durable.
 
 Q: How do you treat malignant glaucoma, and where does the laser come in?
 A: **Aqueous misdirection**: aqueous is forced backwards into the vitreous. I start strong mydriatic–cycloplegic drops, then intravenous mannitol. If these fail, **Nd:YAG hyaloidotomy** opens the anterior hyaloid face through a patent iridectomy. If the laser fails, pars plana vitrectomy removes the trapped fluid.
@@ -205,7 +196,7 @@ Q: Why do long-term drops lower the success of trabeculectomy?
 A: **Conjunctival changes**: more fibroblasts and inflammatory cells, and fewer goblet cells, so the bleb scars. Drops for over 3 years are an indication for mitomycin C.
 
 Q: Compare mitomycin C with 5-fluorouracil.
-A: **Mitomycin C** is an alkylating agent acting in all phases. It is used at 0.2–0.5 mg/ml for 1–5 minutes and is endothelium-toxic. **5-fluorouracil** acts in the S phase only. It is used at 50 mg/ml for 5 minutes, or as 5 mg injections, and is epithelium-toxic.
+A: **Mitomycin C** is an alkylating agent that acts in all phases of the cell cycle. It is far more potent, and toxic to the endothelium. In contrast, **5-fluorouracil** acts in the S phase only. It is toxic to the epithelium.
 
 Q: When will you advise a glaucoma drainage device rather than trabeculectomy?
 A: **Refractory glaucoma**: neovascular, uveitic, congenital, post-keratoplasty, aniridia; failed trabeculectomy with antimetabolite; heavily scarred conjunctiva. Useful visual potential is a must. In primary glaucoma trabeculectomy comes first, because its IOP fall is larger.
@@ -215,7 +206,3 @@ A: **Deep sclerectomy** or viscocanalostomy: the chamber is not entered and the 
 
 Q: How do you manage a painful blind eye, and how does cyclocryotherapy help?
 A: **Comfort, not vision**, is the aim: antiglaucoma drops, topical steroid and atropine first. Then cyclocryotherapy: ice crystals and ischaemic necrosis destroy the ciliary processes and the corneal nerves, so pain eases. If pain persists: retrobulbar alcohol injection, then evisceration or enucleation.
-
-### Recent advances
-Q: What newer treatments do your books describe? *(extra)*
-A: **Rho-kinase inhibitors** raise trabecular outflow, and **neuroprotectives** such as memantine may protect ganglion cells; both are still under study. **Microinvasive glaucoma surgery (MIGS)** handles tissue minimally, for mild to moderate glaucoma: canal stents, goniotomy, canal dilatation, suprachoroidal stents.

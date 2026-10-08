@@ -476,8 +476,16 @@ NAMRATA (fitz 189–225)
 
 ## Examiner additions
 
-Pass 2 (senior examiner), 8 Oct 2026. Builder 5,330 → 5,652 words; lint 5,979; `wc -w` 6,425. Q/A 51 → 52 (22 in the
-ten steps + 30 in the viva section). Every new or changed claim, with its page:
+Pass 2 (senior examiner), 8 Oct 2026. Builder 5,330 → 5,711 words (about 4% over 5,500; every addition is basic or
+important); lint 6,041; `wc -w` 6,487. Q/A 51 → 54 (22 in the ten steps + 32 in the viva section). Every new or changed
+claim, with its page:
+
+- New viva "Why did you ask about asthma?": beta-blockers contraindicated in asthma and COPD — NAMRATA fitz 193 (Table 1);
+  dorzolamide as the alternative class is already in the card's drug table (NAMRATA fitz 193)
+- New viva "When would you choose a drainage device or cyclophotocoagulation instead?": GDD for failed previous glaucoma
+  surgery with severe conjunctival scarring precluding dissection — BAIDYA fitz 179 (Q30 a); TSCPC in refractory glaucoma
+  after failed filtration or high risk of failure "like in aphakic, pseudophakic or neovascular glaucomas" — ARAVIND fitz
+  299 (4.17 Q33)
 
 - History row "laser treatment of the angle before surgery": risk of encapsulated blebs up to 3 times after ALT — ARAVIND
   fitz 296 (4.17 Q20)
@@ -520,7 +528,9 @@ Cut or merged for space (all minor; facts kept where noted): viva "How are corne
 cornea row); viva "How do you repair a conjunctival buttonhole?"; viva "Which drugs besides antimetabolites modulate wound
 healing?" (steroids kept in the new success question and the drug table); viva "Why do a tenonectomy?" (merged into Step
 3); the must-know indications paragraph now points to the viva answer; the two Recent-advances bullets now point to the
-two *(extra)* viva questions.
+two *(extra)* viva questions; the full-thickness list in Classification trimmed to three examples (laser sclerostomy,
+iridencleisis, goniopuncture dropped — ARAVIND fitz 301 Q1); the Pathogenesis bullet on intraocular causes dropped (it
+repeats the viva answer on causes of failure).
 
 Format changes (no new claims): Steps 5 and 6 swapped so the anterior chamber comes before the iridectomy, in slit-lamp
 order; 28 viva or step answers reworded to open with the bold keyword; ladder steps 1, 5, 6, 7 put in the first person.
