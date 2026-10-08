@@ -12,7 +12,8 @@ page before the next card (or the end of the file). Pages before the first card
 "Used" is the card's length in pages: full pages plus how far down its last page
 the text reaches (so 6.2 = six full pages and a fifth of a seventh). The type comes
 from the badge ("… · Long case"); cards longer than CARD_SPEC §4 allows are flagged
-(long ≤ 6 pages, short ≤ 2, task and chart ≤ 1.5).
+(v4: long ≤ 10 pages including the extra short-case page and the +10% allowance, short and fundus ≤ 3.3,
+task and chart ≤ 2.2, toolkit ≤ 6.6, viva sheet ≤ 8.8).
 
 Needs PyMuPDF (pip install pymupdf); without it, falls back to poppler's pdftotext
 (page counts only, no "used" figure).
@@ -22,14 +23,16 @@ import subprocess
 import sys
 
 MARGIN_PT = 850 / 20          # top and bottom page margins of build_cards.js (850 twips)
-LIMIT = {"long": 6, "short": 2, "task": 1.5, "chart": 1.5}
+LIMIT = {"long": 11, "short": 3.3, "fundus": 3.3, "task": 2.2, "chart": 2.2, "toolkit": 6.6, "viva": 8.8}
 
 
 def kind_from_badge(badge):
     last = badge.split(" · ")[-1].strip().lower() if badge else ""
-    for word in ("long", "short", "task", "chart", "fundus"):
+    for word in ("long", "short", "task", "chart", "fundus", "toolkit"):
         if last.startswith(word):
             return word
+    if last.startswith("viva"):
+        return "viva"
     return ""
 
 

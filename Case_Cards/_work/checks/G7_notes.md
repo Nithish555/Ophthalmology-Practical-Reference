@@ -221,3 +221,173 @@ This file replaces an earlier G7.md that had no notes file. The card was rewritt
 
 ## Mnemonic
 - None. The G7 packet has no mnemonics page, and Template B has no Quick recall section.
+
+## v4 additions
+
+Packet rebuilt 8 Oct 2026: `cache/packets/G7.txt` = BAIDYA fitz 273–288 (BRVO 273–278 for the hemi-CRVO versus BRVO row; CRVO 278–287) ·
+NAMRATA fitz 234–247 (CRVO 234–240; BRVO 241–247) · ARAVIND fitz 381–388 (6.6). Extra pages opened by grep: BAIDYA fitz 168, 265;
+NAMRATA fitz 251; ARAVIND fitz 207, 209 (4.1), 240–241 (4.8), 248–249 (4.9), 371 (6.4). Template B (v4), budget 1,100–1,700 (brief: aim
+1,600–1,700). Every v2 claim above is kept unless listed as changed here.
+
+### Header
+- @readmore now "Baidya p.251, 259–273 · Namrata p.216–229, 233 · Aravind 6.6, 6.4, 4.8, 4.9 · Kanski p.521" (fitz 265 = p.251; 273–287 = p.259–273; Namrata 234–247 = p.216–229; 251 = p.233).
+- Second instruction ("do applanation tonometry and gonioscopy"; Humphrey field) — `transcripts/lastyear.md` rows: the CRVO glaucoma case had AT, gonioscopy and HFA written. Department fact, not a book fact.
+
+### Spot (changed wording)
+- Hemi-CRVO picture "limited to the superior or inferior hemisphere" — KANSKI fitz 525 (approved, tagged; now in Must know). The Kanski passage itself is unchanged in content; it moved from Spot to Must know and was rewritten as full sentences.
+
+### Steps (new Do / Record / Viva)
+- Step 1: BCVA must be obtained; important indicator of final prognosis — BAIDYA fitz 279. Vision better than 20/200 (6/60) a good final prognostic sign — NAMRATA fitz 235. Counting fingers or worse = ischaemic — BAIDYA fitz 281.
+- Step 2: look for RAPD before dilating — NAMRATA fitz 236 ("ominous sign"). Not useful with a pharmacologically mydriatic or miotic pupil, glaucomatous disc damage; needs a normal fellow eye — ARAVIND fitz 384 (Q26). Marked RAPD > 0.7 log unit on neutral density filter — BAIDYA fitz 281; NAMRATA fitz 235. ERG needs no normal fellow eye, usable with optic nerve and pupil abnormalities — ARAVIND fitz 385–386 (Q35).
+- Step 3: NVI especially at the pupillary margin — BAIDYA fitz 279; NAMRATA fitz 236. Wand stage 1 = vessels at the pupillary margin — ARAVIND fitz 248 (4.9 Q10). NVI description order (thin, friable, arborising, irregular, clock hours) — CARD_SPEC §5 department slide (house format). Significant = NVI > 2 clock hours or any NVA — NAMRATA fitz 240 (Q7); ARAVIND fitz 387 (Q39). NVI in ischaemic CRVO usually at 2–4 months ("100 days glaucoma") — NAMRATA fitz 240 (Q5).
+- Step 4: IOP before gonioscopy and dilatation — BAIDYA fitz 168; NAMRATA fitz 195. Topical anaesthetic — ARAVIND fitz 207; fluorescein 0.25%, cobalt blue — ARAVIND fitz 209. "Tn by GAT … at 10 am" — CARD_SPEC §5 house format. IOP > 22 mm Hg must be explained: NVG, underlying open-angle glaucoma, angle-closure attack (cause or effect) — NAMRATA fitz 236. Intravitreal steroid → steroid-induced glaucoma — ARAVIND fitz 382 (Q14).
+- Step 5: undilated gonioscopy essential for NVA or angle closure; NVA without NVI in 12% — NAMRATA fitz 236. Gonioscopy a must in an undilated iris — BAIDYA fitz 279. Cross diagram writes the deepest structure — CONSISTENCY §2. The diagram values (SS all round) are illustrative, matching the say-it.
+- Step 6: department fundus order — CARD_SPEC §5; 20 D indirect and 90 D/78 D slit lamp — BAIDYA fitz 273 (BRVO), NAMRATA fitz 243. Disc: glaucomatous cupping (BAIDYA fitz 280), swelling acute (BAIDYA fitz 279), pallor late (NAMRATA fitz 237), shunts/NVD (BAIDYA fitz 280). Shunts carry retinal to choroidal blood, good compensatory circulation — BAIDYA fitz 287 (Q18). NVD smaller calibre than shunts, branch into a network; careful 90 D examination — NAMRATA fitz 237. Drawing colours — department sheets (v2 ledger).
+- Step 7: other eye — diabetic and hypertensive retinopathy, IOP, angle — BAIDYA fitz 280; NAMRATA fitz 237 (occludable angle → occlusion may be secondary to angle closure). Fellow-eye risk 1% per year, 7% in 5 years — BAIDYA fitz 281 (Q2); NAMRATA fitz 234.
+
+### Say-it (changed)
+- Tonometry now "Goldmann applanation tonometry … at 10 in the morning" (was non-contact): the glaucoma station did AT last year (`lastyear.md`); house format "Tn by GAT" (CARD_SPEC §5). Values illustrative.
+- Gonioscopy now "scleral spur seen in all quadrants, no new vessels" (CONSISTENCY §2 deepest-structure rule). Illustrative.
+- Two extra diagnosis lines (ischaemic CRVO with NVI and uncontrolled IOP; old CRVO with shunts, ERM, status post PRP) — formula from CARD_SPEC §4A/§5; the findings named are book facts (BAIDYA fitz 280: shunts, ERM in chronic CRVO; PRP marks on the department RVO sheet, fundus PDF p.18).
+
+### History table (new; one question per row)
+- Sudden, unilateral, painless — BAIDYA fitz 278; NAMRATA fitz 234. Neovascular risk greatest in the first 6 months — BAIDYA fitz 282. FFA once haemorrhages clear, about 3 months — BAIDYA fitz 284; NAMRATA fitz 238.
+- Diabetes a major risk factor — BAIDYA fitz 278; ARAVIND fitz 381 (Q9). NV in non-ischaemic CRVO → suspect DM / other proliferative retinopathy or carotid artery disease — ARAVIND fitz 384 (Q29).
+- Hypertension a major risk factor; artery compresses the vein — BAIDYA fitz 278; ARAVIND fitz 381 (Q9 i a); compression by atherosclerotic artery in the same adventitial sheath — NAMRATA fitz 234.
+- Glaucoma treatment history to be asked — BAIDYA fitz 279; BAIDYA fitz 273 (BRVO: "ask about … antiglaucoma medications"). Raised IOP → venous stasis, sluggish outflow — ARAVIND fitz 382 (Q13). Miotic pupil spoils RAPD — ARAVIND fitz 384 (Q26).
+- Hyperviscosity, dysproteinaemia (multiple myeloma), leukaemia, lymphoma, polycythaemia vera; under 60 more hypercoagulable states; personal or family history of thrombosis — BAIDYA fitz 278–279, 284; ARAVIND fitz 381 (Q9 i e–f).
+- Oral contraceptives, diuretics (and hepatitis B vaccine) — BAIDYA fitz 279; NAMRATA fitz 234; ARAVIND fitz 382 (Q9 v).
+
+### Differentials (new rows and the "how to tell" column)
+- Ischaemic vs non-ischaemic bedside signs — BAIDYA fitz 281–282 (table); FFA > 10 disc areas — NAMRATA fitz 238.
+- BRVO: wedge-shaped haemorrhage, apex at the blockage — BAIDYA fitz 273; always at an A-V crossing — BAIDYA fitz 275 (Q5); NAMRATA fitz 247 (Q2); superotemporal commonest — BAIDYA fitz 273, 275 (Q8). Obstruction at the optic nerve head → two quadrants; peripheral to the disc → one quadrant — BAIDYA fitz 273. RAPD may indicate CRVO or HRVO rather than BRVO; even major BRVOs have no RAPD — NAMRATA fitz 243. Collaterals across the horizontal raphe in BRVO, at the disc in CRVO — ARAVIND fitz 387 (Q43 iv).
+- OIS: veins dilated not tortuous; dot-blot haemorrhages mid-periphery; disc normal; carotid pulsation reduced; choroidal filling delayed; carotid ultrasound/CTA/MRA stenosed — BAIDYA fitz 281 (table).
+- DR: always bilateral; dilated and beaded veins; hard exudates always present (CRVO absent); haemorrhages and microaneurysms at the posterior pole — BAIDYA fitz 281 (table).
+- Other differentials listed (hypertensive retinopathy, blood dyscrasias/anaemia, radiation, venous stasis retinopathy, papilloedema, CRAO with CRVO, hyperviscosity) — BAIDYA fitz 280 (Q1); NAMRATA fitz 237; ARAVIND fitz 388 (Q50).
+
+### How I will proceed (new table)
+- FFA after haemorrhages clear (~3 months): AV transit > 20 s, masking, vessel-wall staining, non-perfusion, NVD/NVE, macular leakage — BAIDYA fitz 284; NAMRATA fitz 238. Indications: macular ischaemia before treatment, extent of CNP, conversion — ARAVIND fitz 385 (Q32).
+- OCT: CME ± subfoveal fluid, ERM/VMT; assessing and monitoring treatment of oedema — BAIDYA fitz 285; NAMRATA fitz 238 (cystic spaces, thickening, serous detachment).
+- Visual field charting helps differentiate ischaemic from non-ischaemic — BAIDYA fitz 286 (m); Goldmann V4e defect — NAMRATA fitz 238; profound field defect in ischaemic — BAIDYA fitz 282; commonest field defect central scotoma — ARAVIND fitz 383 (Q23). Humphrey fields stage glaucoma — card G1 (G1 ledger).
+- ERG: b-wave < 60% of normal — NAMRATA fitz 238; ARAVIND fitz 386; b-to-a ratio < 1 — BAIDYA fitz 286.
+- Systemic: BP, FBS, lipids — NAMRATA fitz 237; CBC, FBS, PPBS, HbA1c, ECG, lipids, urea, creatinine — BAIDYA fitz 284; under 60 / bilateral / prior thrombosis: thrombophilia screen, homocysteine, autoantibodies, ACE, treponemal serology, carotid Doppler — NAMRATA fitz 237; ARAVIND fitz 386 (Q36). Risk of future non-ocular thrombotic events — NAMRATA fitz 237.
+- B-scan when vitreous haemorrhage hides the retina, to detect RD or mass — NAMRATA fitz 238; BAIDYA fitz 286 (l).
+
+### How I will manage (new first-person ladder)
+- Goals: treat predisposing condition, keep central vision by minimising macular oedema, regress new vessels, prevent NVG — NAMRATA fitz 238. Refer to physician — BAIDYA fitz 286 (h).
+- Anti-VEGF first-line for macular oedema — NAMRATA fitz 238. Ranibizumab, aflibercept, bevacizumab — BAIDYA fitz 286. Standard doses ranibizumab 0.5 mg/0.05 ml, bevacizumab 1.25 mg/0.05 ml, aflibercept 2 mg/0.05 ml — BAIDYA fitz 265 (DME chapter; "standard doses for anti-VEGF pharmacotherapies"). Regimen 3 or 6 monthly ranibizumab injections then as required — NAMRATA fitz 238. Mechanism: ischaemia and stagnation stimulate VEGF → neovascularisation and macular oedema — NAMRATA fitz 239 (viva Q2); VEGF increases capillary permeability, validating anti-VEGF — NAMRATA fitz 247 (BRVO Q2). Disadvantage: cannot eliminate NV permanently; activity returns when stopped — BAIDYA fitz 286 (Q15).
+- Grid laser: no visual benefit — NAMRATA fitz 238; ARAVIND fitz 386–387 (Q38, Q42).
+- Steroids: IVTA, Ozurdex — BAIDYA fitz 286; reduce permeability and VEGF expression — NAMRATA fitz 238; cataract and raised IOP — NAMRATA fitz 238; ARAVIND fitz 382 (Q14 ii).
+- PRP for NVI/NVA, and for NVD/NVE with or without NVA/NVI — BAIDYA fitz 286; ARAVIND fitz 387 (Q40). Definitive treatment, anti-VEGF a temporising adjunct — NAMRATA fitz 239. Not prophylactic, except ischaemic with follow-up impossible — BAIDYA fitz 286–287; NAMRATA fitz 239; ARAVIND fitz 387 (Q41). PRP without NVI risks making future NVI refractory — NAMRATA fitz 239. PRP complications: loss of visual field, loss of dark adaptation (nyctalopia), raised IOP — NAMRATA fitz 251; decreased peripheral and night vision — ARAVIND fitz 371 (6.4 Q41). PRP settings live on G5 (CONSISTENCY / CARDS_GLAUCOMA).
+- IOP: topical or systemic antiglaucoma drugs; trabeculectomy or drainage valve if they fail; topical steroid and cycloplegic for anterior segment inflammation — BAIDYA fitz 286 (Q14c).
+- Follow-up monthly for 6 months, then tapered — NAMRATA fitz 240 (Q8). Content of each visit — BAIDYA fitz 283 (Q13a). Undilated gonioscopy each visit = synthesis (v2 ledger; ARAVIND fitz 387 Q38 ii).
+
+### Must know (new or changed)
+- Definition: "Retinal vein occlusion (RVO) is an obstruction of the retinal venous system [that] may involve the central, hemicentral or branch retinal vein" — NAMRATA fitz 234 (the only book definition). CRVO = thrombus within the lumen of the central retinal vein at or just proximal to the lamina cribrosa — BAIDYA fitz 283 (Q9); NAMRATA fitz 239 (viva Q2: site at or just proximal to the lamina cribrosa).
+- Hemiretinal vein occlusion definition — KANSKI fitz 525 (approved, tagged; text from the fact-checked v2 card, content unchanged).
+- Types, 75%, 34% by 3 years, indeterminate — as v2 ledger (BAIDYA fitz 281–282).
+- Table rows added: onset (amaurosis fugax present in non-ischaemic, absent in ischaemic) — BAIDYA fitz 281; ARAVIND fitz 383 (Q21–22). Marked deterioration on waking in ischaemic — NAMRATA fitz 234. Fundus row (less vs extensive haemorrhages; fewer vs more cotton-wool spots; less vs marked disc and macular oedema) — BAIDYA fitz 282. Natural course (resolve over 6–12 months vs do not) — BAIDYA fitz 282.
+- Why POAG: CRV pressure at the disc higher than IOP; raised IOP → stasis (Virchow's triad); mechanical stretching of the lamina in POAG; nasalisation and compression — ARAVIND fitz 382 (Q13). Posterior bowing of the lamina in glaucoma — BAIDYA fitz 283 (Q9b), 287 (Q17). Open-angle glaucoma first among ocular associations — BAIDYA fitz 283 (Q10).
+- CRVO → glaucoma: NVG, steroid-induced — ARAVIND fitz 382 (Q14); ACG attack cause or effect — NAMRATA fitz 236.
+- 100-day glaucoma: NVI ~50%, usually 2–4 months, "100 days glaucoma"; NVG in 1/3 of NVI — NAMRATA fitz 240 (Q5). NVG in ischaemic CRVO usually 3–5 months ("100 day glaucoma"), range 2 months to 2 years — ARAVIND fitz 249 (4.9 Q15). NVI 49%, NVA 37%, NVG 29%, NVE 9%, NVD 6% within 6 months — BAIDYA fitz 282–283.
+
+### Viva (new answers)
+- Commonest cause of visual loss: macular oedema — ARAVIND fitz 383 (Q17). Complications list: macular oedema, macular ischaemia, NVG, VH, TRD, optic atrophy — NAMRATA fitz 237.
+- Why distinguish the types: prediction of NV risk, poor visual prognosis, spontaneous improvement, follow-up interval — ARAVIND fitz 381 (Q8); BAIDYA fitz 282 (Q8).
+- "Tomato ketchup fundus" for ischaemic CRVO — ARAVIND fitz 384 (Q27). Blood and thunder — BAIDYA fitz 279; NAMRATA fitz 236.
+- Ischaemic index 50% ≈ 10 disc areas, threshold — NAMRATA fitz 240 (Q6); > 50% → 45% NVG — ARAVIND fitz 385 (Q31).
+- Conversion risk factors — ARAVIND fitz 382–383 (Q15).
+- NVI vs NVD — BAIDYA fitz 283 (Q12); BRVO more retinal NV — NAMRATA fitz 240 (Q15).
+- NV in non-ischaemic → DM or carotid disease — ARAVIND fitz 384 (Q29).
+- CVOS: grid reduced angiographic oedema, no VA benefit; scatter PRP failed to decrease NVI; poor VA strongest predictor of NVI — ARAVIND fitz 386–387 (Q38); no prophylactic PRP benefit; monthly follow-up 6 months — NAMRATA fitz 240 (Q8); prompt PRP — BAIDYA fitz 287 (Q19).
+- 56% vs 22% — BAIDYA fitz 287 (Q19). Refractory NVI after PRP without NVI — NAMRATA fitz 239.
+- Grid fails: diffuse leakage, foveal centre and all four parafoveal quadrants; collaterals across horizontal raphe in BRVO, at the disc in CRVO — ARAVIND fitz 387 (Q43).
+- Anti-VEGF cannot replace PRP — BAIDYA fitz 286 (Q15); NAMRATA fitz 239.
+- Waking: nocturnal hypotension — ARAVIND fitz 383 (Q18).
+- Site of block: non-ischaemic 6 mm behind the lamina; ischaemic at or immediately behind it, few collaterals, marked rise in venous pressure — ARAVIND fitz 382 (Q10–12); NAMRATA fitz 239 (viva Q2).
+- Young patient work-up — BAIDYA fitz 284; NAMRATA fitz 237; ARAVIND fitz 386 (Q36).
+- Prognosis: non-ischaemic > 6/60 in 50%; ischaemic < 6/60 in 93% — ARAVIND fitz 388 (Q48).
+- Why non-ischaemic here (6/36, no RAPD, no CWS; FFA < 10 disc areas) — as v2 ledger.
+- *(extra)* Vitrectomy for non-resolving VH or TRD; r-tPA, chorioretinal venous anastomosis variable; radial optic neurotomy abandoned owing to significant risks — NAMRATA fitz 239.
+- *(extra)* Cilioretinal artery occlusion with CRVO: sudden rise of intraluminal capillary pressure; cilioretinal perfusion pressure normally lower — BAIDYA fitz 283 (Q11).
+
+### Disagreements (v4)
+- **"90-day glaucoma" (the brief's wording) is not in any of the three books.** NAMRATA fitz 240 calls it "100 days glaucoma" and ties it to NVI at 2–4 months; ARAVIND fitz 249 (4.9 Q15) ties "100 day glaucoma" to NVG at 3–5 months (range 2 months to 2 years). The card says "100-day glaucoma" and gives both timings (they describe different events, NVI then NVG). Card G5 already uses Aravind's 3–5 months.
+- **Anti-VEGF doses** come from Baidya's DME chapter (fitz 265), not the CRVO pages; Baidya calls them the standard doses. No book gives a CRVO-specific dose.
+- **Proportion of NVI.** NAMRATA fitz 240: about 50% of eyes (all CRVO?) — BAIDYA fitz 282–283: 49% of ischaemic eyes in 6 months. Compatible; the card ties the half to ischaemic CRVO.
+- **Ischaemic index > 50%**: ARAVIND fitz 385 gives 45% NVG; BAIDYA fitz 282 gives 45% NVG at 3 years after ischaemic CRVO. Compatible.
+
+### Omitted (v4)
+- Adverse effects of intravitreal anti-VEGF (endophthalmitis, raised IOP, systemic): not in the three books. The card gives only the books' disadvantage (effect wears off; repeated injections).
+- The brief's "how to tell hemi-CRVO from BRVO" beyond the rows given: no book sentence compares them directly; the row is built from Baidya's BRVO signs, Namrata's RAPD line and Aravind's collateral line.
+- Exclude-first line under the differentials (long-case rule only); no book names which to exclude first.
+- Cyclocryotherapy and anterior retinal cryotherapy (ARAVIND fitz 387–388) — card G5.
+- Prevalence 0.1–0.4%, recurrence of non-ischaemic CRVO, age preference of types (ARAVIND Q3–5), pathological changes (Q16), amaurosis fugax mechanism (Q19), CRAO with CRVO (NAMRATA Q14), RELATE peripheral laser (NAMRATA Q16), trials SCORE/GENEVA/CRUISE/GALILEO/COPERNICUS — cut for length.
+
+### Mnemonic
+- None for CRVO in `Ophthal mnemonics final.pdf`. RUBEOTIC (causes of NVG, mnemonics PDF p.66, "Retinopathy and Retinal vein occlusion (PDR, CRVO)") is on card G5; the recall box points there.
+
+### Coverage of the books' FAQs
+BAIDYA (fitz 280–287):
+- Q1 differential diagnosis → Differentials (4 rows + "others" line).
+- Q2 prevalence, fellow eye 1%/7% → Step 7 viva (fellow-eye risk); prevalence cut (minor).
+- Q3 types → Must know. Q4 differentiate → Must know table. Q5 indeterminate → Must know. Q6 75% → Must know. Q7 basis (angiographic, 10 disc areas) → Must know. Q8 implications → viva "Why classify" + Must know numbers.
+- Q9 pathogenesis → Must know (definition, why POAG) + viva (site of block). Q10 ocular associations → Must know (open-angle glaucoma first).
+- Q11 cilioretinal artery occlusion → viva *(extra)*.
+- Q12 NVI vs NVD → viva. Q13 work-up → steps, proceed table, follow-up step. Q14 management → How I will manage.
+- Q15 anti-VEGF and NV → viva. Q16 prophylactic PRP → manage + viva. Q17 glaucoma causes CRVO → Must know. Q18 optociliary shunt → Step 6 viva. Q19 CVOS → viva.
+- Q20–Q30 are hypertensive retinopathy → not this card.
+NAMRATA (fitz 239–240):
+- Q1 risk factors → History table. Q2 pathogenesis → Must know + viva (site). Q3 types → Must know table. Q4 conversion → Must know (Baidya 34% by 3 years; Namrata's one year in Disagreements, v2).
+- Q5 sites of NV, 100 days → Must know + Step 3 viva. Q6 ischaemic index → viva. Q7 significant ASNV → Step 3 viva. Q8 CVOS → viva. Q9 FFA indications → proceed table. Q10 PRP indications → manage. Q11 treatment of choice for ME → manage. Q12 causes in the young → History row + viva (young work-up). Q13 risk factors for NVI → partly (RAPD, poor vision, > 10 disc areas in the type table and viva); duration < 1 month and venous pressure not on the card (length). Q14 CRAO with CRVO → others line in differentials only. Q15 NVI vs retinal NV → viva. Q16 laser for ME (RELATE) → omitted (minor).
+ARAVIND 6.6:
+- Q1–2 → Must know. Q3–5 (age, recurrence) → omitted (minor). Q6 crucial period → Must know (Baidya's 6 months; Aravind's 7 months in v2 Disagreements). Q7 33% → Must know. Q8 → viva. Q9 causes → History table. Q10–12 site of occlusion, malignant picture → viva. Q13 → Must know. Q14 → Must know + Step 4 viva. Q15 → viva. Q16 → omitted. Q17 → viva. Q18 → viva. Q19 → omitted (mechanism). Q20–22 → Must know table (onset row). Q23 → proceed table. Q24 morphological/functional tests → covered by steps and proceed table (not listed as such). Q25 → Must know table. Q26 → Step 2 viva. Q27 → viva (tomato ketchup). Q28 footprint = disc collaterals → Step 6 viva (shunts in an old occlusion; "footprint" wording cut). Q29 → viva. Q30 iris commonest site → Must know numbers (NVI 49%). Q31 → viva. Q32–34 → proceed table + Must know. Q35 → Step 2 viva + proceed table. Q36 → proceed table. Q37 → manage. Q38 → viva (CVOS). Q39 → Step 3 viva. Q40 → manage. Q41 → manage + viva. Q42–43 → viva (grid). Q44 steroids → manage. Q45–47 cryotherapy → card G5. Q48 → viva (prognosis). Q49 young prognosis → omitted (minor). Q50 → differentials.
+
+### Final card vs this ledger (after cutting to the word budget)
+The first v4 draft ran to 3,077 words (lint count); the card was cut to 1,869 (lint) / 1,766 (builder) / 1,997 (`wc -w`).
+These ledgered items are **not** on the final card (no need to fact-check them there):
+- Say-it: the two extra diagnosis lines. Step 5: the `:::gonio` cross (now a one-line Record, "BE (both eyes) scleral spur in all quadrants; no NVA"). Step 6: the "what do you look for at the disc" question and the 20 D lens.
+- History: the angiography-timing reason (now only in the FFA row) and "new vessels in a non-ischaemic eye suggest diabetes".
+- Differentials: the "others the books list" line; OIS carotid pulsation and choroidal filling (now "carotid stenosis on imaging"); DR posterior-pole haemorrhages and microaneurysms; BRVO "superotemporal"; collaterals across the horizontal raphe.
+- Proceed: AV transit > 20 s (now "delayed transit"), macular leakage, later conversion, OCT retinal thickening, ERG b-to-a ratio in the row (it stays in the Must know table), the under-60 panel (moved to the viva), "clots elsewhere", B-scan.
+- Manage: "anti-VEGF only bridges to PRP" (the viva says it only delays new vessels), topical steroid and cycloplegic, "then tapered".
+- Must know table: the Onset and Course rows. Numbers: NVA 37%, NVE 9%, NVD 6%, and "range 2 months to 2 years".
+- Viva: "why classify the type", "tomato ketchup", the complications list beyond macular ischaemia, NVG and vitreous haemorrhage, "new vessels in a non-ischaemic CRVO", the separate grid-laser question (its reason, diffuse leakage, is now one clause in the CVOS answer — ARAVIND fitz 387 Q43), chest X-ray and serum ACE in the under-60 answer, the *(extra)* vitrectomy and cilioretinal questions.
+Wording changes made while cutting (same facts):
+- Non-ischaemic block "6 mm behind it" (ARAVIND fitz 382 Q10: "6 mm behind lamina cribrosa").
+- "Antiphospholipid antibodies" in the under-60 screen (BAIDYA fitz 284: antiphospholipid antibody syndrome; NAMRATA fitz 237: lupus anticoagulant, anticardiolipin).
+- Must know now has 6 bullets: definition · hemiretinal (Kanski) · types · why POAG is a risk factor · CRVO causes glaucoma · 100-day glaucoma.
+- Q/A count: 7 in the steps + 12 in the viva section = 19. The brief asked for 15–18 in the viva section; 12 (the Template B minimum) is what fits the word budget.
+
+FAQ coverage changed by the cuts: ARAVIND Q8 and BAIDYA Q8 (why classify) — now only implicit in the Must know numbers; ARAVIND Q27 (tomato ketchup), Q29 (NV in non-ischaemic), BAIDYA Q11 (cilioretinal) — not on the card; ARAVIND Q43 — one clause in the CVOS answer.
+
+## Examiner additions
+
+Examiner pass 2 (senior examiner), 8 Oct 2026. Builder count 1,766 → 1,898 (lint 2,008; `wc -w` 2,133). Q/A pairs 19 → 22
+(steps 7 → 8; viva section 12 → 14). Every new claim below was found by grep in the books, page opened.
+
+### New or changed claims
+- Spot: "superficial flame-shaped and deep dot-blot haemorrhages" — NAMRATA fitz 236 ("both superficial flame shaped and deep blot type"); BAIDYA fitz 279 ("superficial or deep, dot and flame-shaped").
+- Step 6 Do, the disc in CRVO: swelling (acute) — BAIDYA fitz 279; pallor (late) — NAMRATA fitz 237, BAIDYA fitz 280 (optic atrophy); glaucomatous cupping — BAIDYA fitz 280; shunts and NVD — BAIDYA fitz 280; the work-up list "disc edema, disc pallor, shunts vessels, NVD" — BAIDYA fitz 283 (Q13a).
+- Step 6 viva, flame versus dot-blot: flame-shaped in the nerve fibre layer, which runs parallel to the retinal surface — BAIDYA fitz 255 (DR Q30), fitz 289 (HTN Q32), ARAVIND fitz 359 (6.3 Q24); dot-blot in the compact middle layer, whose structure is perpendicular to the retina — BAIDYA fitz 255 (Q30), ARAVIND fitz 359 (Q25); deep = inner nuclear or outer plexiform layer — NAMRATA fitz 260 (Q4). (DR and HTN pages; not added to @readmore.)
+- History row, oral contraceptives and diuretics as drug risk factors — BAIDYA fitz 279; NAMRATA fitz 234; ARAVIND fitz 382 (Q9 v). Wording only (was "Drug risk factors").
+- Manage step 2: doses now written "bevacizumab 1.25 mg/0.05 ml, ranibizumab 0.5 mg/0.05 ml, aflibercept 2 mg/0.05 ml" — CONSISTENCY item 19; BAIDYA fitz 265. Same figures as before, now in the G5 format and order.
+- Viva, risk factors: major systemic — DM, hypertension, hyperlipidaemia, cardiac disease, carotid insufficiency, especially over 60 — BAIDYA fitz 278; under 60, hypercoagulable states and inflammatory disease (vasculitis: SLE, sarcoidosis, Behçet's; HIV, syphilis, herpes zoster) — BAIDYA fitz 279; ARAVIND fitz 381–382 (Q9 iii–iv); OCP and diuretics — as above; ocular — open-angle glaucoma first, ischaemic optic neuropathy, tilted disc, optic disc drusen — BAIDYA fitz 283 (Q10); hypermetropia — BAIDYA fitz 279; NAMRATA fitz 234.
+- Viva, pathogenesis: artery and vein in a common sheath through the rigid sieve-like lamina cribrosa; compression by mechanical stretching and posterior bowing of the lamina in glaucoma; atherosclerotic artery aggravates; thrombus at or just proximal to the lamina — BAIDYA fitz 283 (Q9 a–d); NAMRATA fitz 239 (Q2). Block sites (unchanged) — ARAVIND fitz 382 (Q10–12).
+- Viva, "tomato ketchup fundus" = widespread haemorrhages in ischaemic CRVO — ARAVIND fitz 384 (Q27).
+- Viva, cotton-wool spots = ischaemic infarction of the nerve fibre layer — ARAVIND fitz 359 (6.3 Q26).
+- Viva, why the type matters: prediction of neovascular risk, poor visual prognosis, likelihood of spontaneous improvement, follow-up interval — ARAVIND fitz 381 (Q8); BAIDYA fitz 282 (Q8). New vessels in a non-ischaemic CRVO → suspect DM and other proliferative retinopathy, or carotid artery disease — ARAVIND fitz 384 (Q29).
+- Viva, complications: macular oedema, macular ischaemia, NVG, vitreous haemorrhage, tractional retinal detachment, optic atrophy — NAMRATA fitz 237; macular oedema the commonest cause of visual loss — ARAVIND fitz 383 (Q17).
+- Must know definition: "a thrombus blocks the central retinal vein at or just proximal to the lamina cribrosa" — wording only (BAIDYA fitz 283 Q9).
+
+### Removed or moved (no fact lost)
+- Must know: "Within 6 months: NVI 49%, NVG 29%" cut for length (BAIDYA fitz 282–283; still in this ledger). "Open-angle glaucoma heads the ocular associations" moved into the risk-factor viva.
+- Viva CVOS answer: "(56% versus 22%)" cut for length (BAIDYA fitz 287; ledger).
+- Differentials: the row "Ischaemic versus non-ischaemic CRVO" removed — it pointed to the Must know table, which holds the same content.
+- Spot: "the blood and thunder fundus" removed from Spot; the term is defined in the viva (keyword check passes).
+- Considered and not added (minor, over budget): trials CRUISE, GALILEO, COPERNICUS, SCORE, GENEVA (NAMRATA fitz 238); vitrectomy for non-resolving vitreous haemorrhage or tractional detachment (NAMRATA fitz 239).
+
+### Consistency
+- Item 31: "100-day glaucoma" only; NVI 2–4 months (NAMRATA fitz 240), NVG 3–5 months (ARAVIND fitz 249). Checked — no "90-day" on the card.
+- Item 19: anti-VEGF doses as above.
+- Item 32: not applicable (G7 only points to card G10 for fields).

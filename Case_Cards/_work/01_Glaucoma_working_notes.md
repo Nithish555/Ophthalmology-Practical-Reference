@@ -147,3 +147,30 @@ Each card also has a full writer's claims ledger (`checks/<ID>_notes.md`) and an
 5. **Imaging the tube (anterior segment OCT, UBM).**
    - Your books do not cover it.
    - Examiners may link it to your thesis on anterior segment OCT, so ask your seniors what answer they expect.
+
+## v4 upgrade (8 Oct 2026) — the five points to confirm with your seniors
+
+The v4 cards follow the newer book wherever the books disagree (cross-card decisions: `specs/CONSISTENCY.md` items
+11–34). Each card's full disagreement list is in its ledger (`checks/<ID>_notes.md`) and its fact-check report
+(`checks/<ID>_check_v4.md`, or `checks/GX_check.md`). These five matter most at the station:
+
+1. **What the department's gonioscopy grade means.** The department writes a Roman-numeral grade in each quadrant "by
+   modified Shaffer's grading"; the cards write the deepest structure seen (CONSISTENCY item 2). Ask which structure
+   each grade stands for, and whether to write the grade, the structure, or both. (G1, G4, G9, index)
+2. **ISGEO extent of iridotrabecular contact.** The cards say "3 or more quadrants (almost 270°)" (Baidya). Aravind
+   says more than 270°; Namrata more than 180°. Ask which figure the examiners expect. (G4, G9)
+3. **The colour of a glaucomatous disc.** The department's disc slide (and so the short-case script on G1) describes
+   the disc as "pale". No book calls a glaucomatous disc pale, and the cards teach that pallor out of proportion to
+   cupping points away from glaucoma. Ask how the department wants the colour said. (G1)
+4. **Antimetabolites.** Mitomycin C is the routine agent on the cards (Baidya), 0.2–0.5 mg/ml for 1–5 minutes;
+   5-fluorouracil 50 mg/ml for 5 minutes — one Aravind page prints 30 mg/ml. Ask the department's strengths. (G2, G3,
+   G4, G5, GX)
+5. **Laterality of pseudoexfoliation.** The cards follow Namrata: pseudoexfoliation glaucoma is usually unilateral
+   (one-eyed glaucoma favours it). Aravind says the syndrome is mostly bilateral. Know both answers. (G6)
+
+Other open points (lower priority) are in each card's check report: Nd:YAG iridotomy settings (Baidya 2–5 mJ;
+Namrata 4–8; Aravind 3–8); cup–disc asymmetry "> 0.2" or "≥ 0.2"; the upper limit of normal IOP (21 or 22);
+anti-VEGF timing before surgery in NVG; laser
+iridotomy in NVG; the CVOS "10 disc areas"; steroid schedule after laser iridotomy; laser trabeculoplasty in
+steroid-induced and uveitic glaucoma; argon laser trabeculoplasty power; the bleb-related endophthalmitis regimen.
+The index's own five points are in `checks/00_index_check_v4.md`.
