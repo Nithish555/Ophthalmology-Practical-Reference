@@ -223,7 +223,7 @@ A: **Coloured haloes** come from corneal epithelial oedema, which splits white l
 ### Ask 2 — the order of the examination earns marks
 1. **Pupils before any drop.** Look for a relative afferent pupillary defect before the pupil is dilated. Look for iris new vessels at the pupillary margin before dilating, too. Count anterior chamber cells, measure a squint by Hirschberg and test colour vision before dilating.
 2. **Tonometry before gonioscopy and dilatation.** Gonioscopy presses on the cornea and opens the angle, so a later reading is falsely low. Dilatation raises the pressure by 4–5 mm Hg, so a later reading is falsely high. Always note the method and the time.
-3. **The disc after dilatation.** Examine the disc and nerve fibre layer through a dilated pupil. Use a +90 D or +78 D lens at the slit lamp. **Exception:** do not dilate an eye with a narrow or closed angle until a laser iridotomy is done.
+3. **The disc after dilatation.** Examine the disc and nerve fibre layer through a dilated pupil. Use a +90 dioptre (D) or +78 D lens at the slit lamp. **Exception:** do not dilate an eye with a narrow or closed angle until a laser iridotomy is done.
 
 **Mnemonic — before you dilate: PART B.** Pupillary reflex · Angle · Rubeosis · Tension · BCVA (best corrected visual acuity). The angle means both the anterior chamber angle and the angle of a squint.
 
@@ -422,10 +422,10 @@ What the typed formats ask for on top of this proforma:
 
 ## The order
 1. **Particulars and chief complaint** (shorthand as on card A), each eye with its own duration. Jot the history beside it (the history table below).
-2. **Vision with pinhole**, right eye (RE) above left eye (LE): "6/24 → PH 6/18".
+2. **Vision with pinhole (PH)**, right eye (RE) above left eye (LE): "6/24 → PH 6/18".
 3. **Tonometry**: method, value, time (the department uses the non-contact tonometer).
 4. **Anterior segment**: the four checks below, before dilating.
-5. **Fundus description**, aloud, in the department's order below. It comes from the department's written fundus write-ups (proforma pages 21 and 30).
+5. **Fundus description**, aloud, in the department's order below. It comes from the department's two written fundus write-ups: optic atrophy and diabetic retinopathy.
 6. **Drawing**, colour-coded, every lesion labelled.
 7. **Diagnosis** with grade or stage and the lens status, one line per eye.
 8. **Plan**: eye + treatment, and the investigation that decides it.
@@ -438,6 +438,14 @@ What the typed formats ask for on top of this proforma:
 | Lens status | Part of the vision loss; a lens line in every diagnosis | "NS-2", "PCIOL" |
 | Pseudoexfoliation | Weak zonules, glaucoma; on the department's vein occlusion sheet | "PxF in ALC" |
 | Relative afferent pupillary defect (RAPD) | An ominous sign in vein occlusion; check before dilating | "Sluggish RTL", "RAPD ⊕" |
+
+@widths 30 70
+| Shorthand (as on card A) | Meaning |
+|---|---|
+| NS-2 | nuclear sclerosis grade 2 |
+| PCIOL | posterior chamber intraocular lens |
+| PxF in ALC | pseudoexfoliation on the anterior lens capsule |
+| RTL | round, reacting to light |
 
 Q: Why do you look at the iris before dilating?
 A: **Iris new vessels** are looked for at the pupillary margin, under high magnification, before the pupil is dilated. In vein occlusion they are an important sign that decides the management.
@@ -461,7 +469,7 @@ A: **Pseudoexfoliation** is linked with central retinal vein occlusion and glauc
 | Periphery | "Indirect ophthalmoscopy with a 20 dioptre lens shows the peripheries to be normal." |
 | Confirm | "On slit-lamp biomicroscopy with a plus 90 dioptre lens, the above findings were confirmed." |
 
-The diabetic retinopathy write-up (page 30) follows this order exactly. The optic atrophy write-up (page 21) puts the +90 dioptre confirmation before the periphery.
+The diabetic retinopathy write-up follows this order exactly. The optic atrophy write-up puts the +90 dioptre confirmation before the periphery.
 
 ### Describe each lesion, then name it
 @widths 24 76
@@ -505,7 +513,7 @@ Q: Why use both the direct and the indirect ophthalmoscope?
 A: The **direct ophthalmoscope** gives a 15 times magnified, erect image of a 10–15° field, up to the equator. The **indirect ophthalmoscope** gives a stereoscopic view of a 35° field, out to the ora serrata. It sees better through hazy media.
 
 Q: Why confirm with the +90 dioptre lens?
-A: **Slit-lamp biomicroscopy with a +90 D lens** is the best way to examine the disc and nerve fibre layer. It is done through a dilated pupil.
+A: **Slit-lamp biomicroscopy with a +90 dioptre (D) lens** is the best way to examine the disc and nerve fibre layer. It is done through a dilated pupil.
 
 ## What to draw — Kanski's colour code
 Two circles side by side, the right eye on the left. Write "RE" and "LE" above them (the department's circles are never labelled). Draw the disc on the nasal side, with the cup–disc ratio beside it. Every lesion gets a label and a pointer. Carry coloured pencils: red, blue, green, yellow, brown and black, and an eraser.
@@ -545,7 +553,7 @@ Where the department differs, use the standard colour and label it.
 
 ## Diagnosis, investigations and plan
 - **Diagnosis.** Write "Diagnosis:" with one line per eye and condition. Add the lens status and the grade, which the department's sheets leave out. Example: "Right eye high-risk proliferative diabetic retinopathy with clinically significant macular oedema · right eye pseudophakia".
-- **Plan**, eye + treatment: "(BE) panretinal photocoagulation (PRP)", "LE sectoral PRP", "LE intravitreal bevacizumab, 3 doses" (written "Inj Avastin").
+- **Plan**: the eye, then the treatment. Examples: "(BE, both eyes) panretinal photocoagulation (PRP)", "LE sectoral PRP". Or "LE intravitreal bevacizumab, 3 doses", written "Inj Avastin".
 - **Management**: say the ladder in the first person, as on card A (ask 5). The drug, laser and surgery profiles are on card RX.
 
 @widths 26 40 34
@@ -612,7 +620,7 @@ A: The hallmark flecks and the loss of the pupillary ruff are on the **pupillary
 ### Step 2 — Slit lamp, undilated
 **Do:** grade the chamber by Van Herick. Examine the pupillary margin and iris, and retro-illuminate for transillumination defects. Look for iridodonesis and phacodonesis, and compare the chamber depth of the two eyes.
 
-**Record:** "VH Gr IV (ND)" (Van Herick grade 4, normal depth); "PxF at the pupillary margin, no iris atrophy".
+**Record:** "VH Gr IV (ND)" (Van Herick grade 4, normal depth); "PxF (pseudoexfoliation) at the pupillary margin, no iris atrophy".
 
 Q: What are the four points to describe pseudoexfoliation?
 A: The **four-point description** gives the colour of the material (white) and its nature (flaky, dandruff-like). Then its location (pupillary margin as tufts; anterior lens capsule as a disc-shaped deposit), and whether there is iris atrophy.
@@ -623,7 +631,7 @@ A: A difference in depth, or **phacodonesis**, points to zonular dialysis. Ultra
 ### Step 3 — Applanation tonometry
 **Do:** consent, topical anaesthetic, fluorescein and a disinfected prism; both eyes (card G8).
 
-**Record:** "Tn by GAT (Goldmann applanation tonometry) 24 mm Hg (RE), 16 mm Hg (LE) at 11 am".
+**Record:** "Tn by GAT 24 mm Hg (RE), 16 mm Hg (LE) at 11 am". That is tension by Goldmann applanation tonometry, right eye and left eye.
 
 Q: Why measure the pressure before gonioscopy and dilatation?
 A: **Goldmann applanation tonometry** comes first. Gonioscopy presses on the cornea and opens the angle, so a later reading is falsely low. Dilatation raises the pressure by 4–5 mm Hg, so a later reading is falsely high.
@@ -637,9 +645,9 @@ Q: What is Sampaolesi's line? Is it specific?
 A: **Sampaolesi's line** is a dark, dense, scalloped band of pigment on or in front of Schwalbe's line. It is not specific: it also occurs in pigment dispersion syndrome and chronic inflammation.
 
 ### Step 5 — After dilatation: the lens and the disc
-**Do:** dilate, since the angle is open, and note how well the pupil dilates. Examine the anterior lens capsule, then the disc with a +90 D lens.
+**Do:** dilate, since the angle is open, and note how well the pupil dilates. Examine the anterior lens capsule, then the disc with a +90 dioptre lens.
 
-**Record:** "Three zones on the anterior lens capsule (target sign); NS-2; CDR ___".
+**Record:** "Three zones on the anterior lens capsule (target sign); NS-2; CDR ___" (nuclear sclerosis grade 2; cup–disc ratio).
 
 Q: Describe the deposit on the lens.
 A: The **three zones (target sign)** start with a central disc, absent in 20%. Next comes a clear zone, rubbed clean by the moving iris. Outside it lies a peripheral granular zone, seen only after dilatation.
@@ -762,7 +770,7 @@ The split is not official. If asked for the diagnosis early, give it at once.
 - **To find a checklist line**, look in the coverage map for its subject. The card and block named there answer it.
 - **Each case card holds only what is special to its case.** The generic proforma, fundus format and short-case method are on cards A, B and C.
 - **The full drug, laser and surgery profiles** are on each subject's toolkit card, the first card in each file.
-- **Revise ★ cards first.** JEH draws its exam cases from its own patients, so expect last year's pattern again.
+- **Revise ★ cards first.** Joseph Eye Hospital (JEH) draws its exam cases from its own patients, so expect last year's pattern again.
 
 ## Every card, by file
 ### 01_Glaucoma_Case_Cards
@@ -869,7 +877,7 @@ The split is not official. If asked for the diagnosis early, give it at once.
 | V3 | Instruments, by surgery | C | |
 
 **Key:**
-- ★ = kept at Joseph Eye Hospital (JEH) last year.
+- ★ = kept at JEH last year.
 - ×n = how many of last year's 34 patients had it.
 - For a task, ×n is how many of the 12 glaucoma patients carried it.
 - Counts overlap: G6's patient is one of G1's six, and R3 counts the same two patients as G7.
@@ -1029,7 +1037,7 @@ The split is not official. If asked for the diagnosis early, give it at once.
 |---|---|---|---|
 | **GX** · 01 Glaucoma (used by G1–G11) | Prostaglandin analogues, beta-blockers, alpha-2 agonists, carbonic anhydrase inhibitors (topical, oral), miotics, hyperosmotics; fixed combinations; drugs in the acute attack; newer drugs *(extra)* | Laser iridotomy, iridoplasty, laser trabeculoplasty (selective, argon), cyclophotocoagulation | Trabeculectomy with antifibrotics, combined surgery, drainage devices (valved and non-valved), non-penetrating surgery, cyclodestruction, lens extraction in angle closure; minimally invasive glaucoma surgery *(extra)* |
 | **RX** · 02 Retina (used by R0–R16) | Anti-vascular endothelial growth factor (anti-VEGF) agents; intravitreal steroids and implants | Panretinal photocoagulation, focal and grid laser, barrage laser, photodynamic therapy, cryotherapy | Vitrectomy, scleral buckling, pneumatic retinopexy, tamponades (gases, silicone oil) and their removal |
-| **CX** · 03 Cornea (used by C1–C11) | Antibacterials (fortified and commercial), antifungals (topical, oral, intrastromal, intracameral), antivirals, anti-Acanthamoeba agents, cycloplegics, steroids in graft rejection | Corneal scraping and culture, bandage contact lens, tissue adhesive, collagen cross-linking, ethylenediaminetetraacetic acid (EDTA) chelation, phototherapeutic keratectomy | Therapeutic and penetrating keratoplasty, deep anterior lamellar keratoplasty, endothelial keratoplasty (DSEK, DMEK), conjunctival flap, tarsorrhaphy, intracorneal ring segments |
+| **CX** · 03 Cornea (used by C1–C11) | Antibacterials (fortified and commercial), antifungals (topical, oral, intrastromal, intracameral), antivirals, anti-Acanthamoeba agents, cycloplegics, steroids in graft rejection | Corneal scraping and culture, bandage contact lens, tissue adhesive, collagen cross-linking, ethylenediaminetetraacetic acid (EDTA) chelation, phototherapeutic keratectomy | Therapeutic and penetrating keratoplasty, deep anterior lamellar keratoplasty, Descemet's stripping endothelial keratoplasty (DSEK) and Descemet's membrane endothelial keratoplasty (DMEK), conjunctival flap, tarsorrhaphy, intracorneal ring segments |
 | **MX** · 04 Lens, uvea, misc (used by M1–M9) | Topical, periocular and systemic steroids; cycloplegics; non-steroidal anti-inflammatory drugs; immunosuppressants and biologicals *(extra)* | Optical correction of aphakia and subluxation; neodymium-doped yttrium aluminium garnet (Nd:YAG) laser capsulotomy | Lensectomy (anterior, pars plana), capsular tension ring or segment, anterior-chamber, iris-fixated and scleral-fixated IOLs, IOL repositioning or exchange, paediatric cataract surgery, hyphaema wash-out |
 | **NX** · 05 Nerves (used by N1–N6) | Steroids in optic neuritis and arteritic ischaemic optic neuropathy; lubricants in lagophthalmos | Occlusion, prisms, botulinum toxin; diplopia charting and the Hess chart (how to do, read and record them) | Squint surgery for palsies (recession–resection, transposition); lid procedures for lagophthalmos (tarsorrhaphy, gold weight, lateral tarsal strip) |
 | **OX** · 06 Oculoplasty (used by O1–O5) | Thyroid eye disease: steroid regimens, selenium, radiotherapy. Myasthenia gravis: pyridostigmine, steroids, immunosuppressants, thymectomy | Ice-pack and neostigmine tests for myasthenia gravis | Ptosis surgery (Fasanella–Servat, Müller muscle–conjunctival resection, levator resection, frontalis sling and its materials); orbital decompression and the order of surgery in thyroid eye disease; orbital implants, dermis-fat and mucous-membrane grafts, prostheses |

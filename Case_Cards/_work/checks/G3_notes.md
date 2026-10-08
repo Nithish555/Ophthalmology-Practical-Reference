@@ -329,3 +329,22 @@ Namrata (no device viva questions; device content is in the management text):
 - fitz 212–213 NVG management (device primary, comparable results; cyclodestruction repeat) → comparison table; viva. NVG viva → card G5
 - fitz 217 angle recession (limited benefit) → comparison table; differential. Angle-recession viva → card G11
 - fitz 357 silicone oil (device better than trabeculectomy; oil migration) → comparison table
+
+### Inferences on the card (my linking of book facts; flag for the fact-check)
+- "A device as the first operation suggests a refractory secondary glaucoma" — from the indication lists (ARAVIND fitz 320; BAIDYA fitz 179) and NVG "often primary" (NAMRATA fitz 213).
+- Negative history: headache with vomiting → "or a blocked tube" (tube occlusion, ARAVIND fitz 327 xi, raises IOP); haloes "or endothelial failure" (haloes = corneal epithelial oedema of any cause, ARAVIND fitz 232; corneal decompensation, BAIDYA fitz 179).
+- Ladder step 3 and complications row "laser release of the tie" for an early pressure rise: release method from ARAVIND fitz 323 (Q17); the danger to an advanced disc from fitz 326 (Q37 early i). The books do not say "release early".
+- Complications row "Operate when quiet": ARAVIND fitz 267 (4.12: intraocular surgery avoided in active inflammation; Ahmed when inflammation is under control).
+- Prognosis lines are assembled from the causes of failure and complications above (no prognosis list in the books).
+- Viva "Without it, early drainage is unrestricted": a non-valved device has no flow restrictor (ARAVIND fitz 323 Q16 ii–iii).
+- Stent row "None given in your books": the books give no complication of stenting.
+
+### Cut for the word budget after drafting (book-supported, not on the final card)
+- *(extra)* Optimed regulator and Express shunt (ARAVIND fitz 322, 253); oral acetazolamide 250 mg BD row; Haab's striae / childhood-glaucoma negative row (BAIDYA fitz 184); retinal-detachment-surgery negative row (silicone oil stays in the comparison table); Molteno viva question (the facts stay in the device table); patch-graft technique (non-occluding mattress suture) and the "sharp bevel / wet-field cautery" details; "difficult technique" for the Schocket route.
+- @readmore therefore omits Baidya p.62, 170, 227 and Aravind 4.9.
+
+### Final state (v4 draft, 8 Oct 2026)
+- `wc -w` 5,977 (about 640 of these are table pipes, separators and Q:/A: markers); builder count 5,217 (budget 3,300–5,500), 0 warnings; lint count 5,534.
+- Q:/A: pairs 53 = 22 in the examination steps + 31 in the viva section; no short-case blocks (long case only).
+- Lint long-sentence flags left on purpose: the keywords line, the quoted exam diagnosis line, the quoted book definition (twice), and one 21-word diagnosis sentence in the closing say-it.
+- @readmore: Baidya p.109–110, 165, 173–180, 421, 596 · Namrata p.175–177, 186, 194–195, 198–199, 339 · Aravind 4.6, 4.12, 4.19, 4.20, 4.21, glaucoma model case sheet p.661–664.

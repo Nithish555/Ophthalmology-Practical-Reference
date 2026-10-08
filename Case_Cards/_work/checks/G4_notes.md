@@ -389,7 +389,7 @@ Aravind 4.2 tables) — the v4 card follows the check file.
 - Ibuprofen profile: only "500 mg twice daily for pain" (ARAVIND fitz 238); no row in the drug table.
 
 ### Mnemonic (v4)
-- Kept: "I CAN SEE TILL SCHWALBE'S LINE" (MNEMONICS fitz 61). Also in the file: "PIGMENT" (causes of trabecular pigmentation; G = post angle-closure glaucoma, MNEMONICS p.37) — mentioned in Quick recall only as a pointer.
+- Kept: "I CAN SEE TILL SCHWALBE'S LINE" (MNEMONICS fitz 61). Also in the file: "PIGMENT" (causes of trabecular pigmentation; G = post angle-closure glaucoma, MNEMONICS p.37) — not on the card (word budget).
 
 ### Coverage of the books' FAQs (question → where answered on the v4 card)
 BAIDYA fitz 165–166:
