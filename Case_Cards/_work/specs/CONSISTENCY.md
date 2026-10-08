@@ -81,3 +81,8 @@
     and G11. Aravind 4.10 says "young (third decade)" — the older book; logged in the working notes, not on the cards.
 29. **"Diamox"** where a book's wording is kept: gloss it once as "(oral acetazolamide)", as item 9 does for Cidamex.
 30. **SLT energy**: 0.5–1.5 mJ per spot (Baidya) on every card (item 13 applies).
+31. **"100-day glaucoma"** on every card — never "90-day" (no book uses it). Iris new vessels at 2–4 months after
+    ischaemic CRVO (Namrata); neovascular glaucoma at 3–5 months (Aravind).
+32. **Visual field severity grading**: none of the three books names the system, so G1 and G10 leave the table unnamed
+    (no "Hodapp–Parrish–Anderson" label). Mean deviation stages from Baidya's figure captions: early −6 dB or better ·
+    moderate −6 to −12 dB · severe −12 dB or worse; normal MD "typically within 2 dB of 0". Same wording on G1 and G10.
