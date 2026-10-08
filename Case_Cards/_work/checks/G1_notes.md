@@ -407,3 +407,90 @@ I = investigations; M = management; elsewhere = the card that owns it.
 - Q/A: 16 in the examination steps, 31 in the viva section, 6 in the short-case block.
 - Say-it: opening 157 words, closing 203 words, short-case description 89 words.
 - Example patient values (70-year-old man, 6/18 and 6/9, 18 and 16 mm Hg at 10 am, VH IV, PCIOL, SS all quadrants, CDR 0.8 / 0.6, bimatoprost at bedtime for 2 years) — department sheet, proforma PDF pp 7–9 (anonymised). Short-case values (CDR 0.9, pale, AV 2:3) — proforma PDF p.13 slide.
+
+## Examiner additions
+
+Pass 2 (senior examiner), 8 Oct 2026. Builder 5,677 → 6,047 words (budget 5,500; within the "about 6,050" ceiling the
+brief allows; every addition is basic or important, and *(extra)* and minor items were cut to make room). lint 6,041 →
+6,411; `wc -w` 6,448 → 6,820. Q/A 53 → 55 (steps 16 → 19, viva section 31 → 30, short case 6). Every new or changed
+claim, with its page:
+
+### Added (read-and-answer gaps and fixes)
+- Step 4 viva "normal IOP and why 21": 10–21 mm Hg — BAIDYA fitz 169 (Q3); mean 15.5 ± 2.57 mm Hg, mean ± 2 SD covers about
+  95%, upper end about 20.5 mm Hg — ARAVIND fitz 204 (4.1 Q1–2); asymmetry ≥ 4 mm Hg significant — BAIDYA fitz 168
+- Step 6 viva "optic nerve head changes in POAG": papillary (concentric enlargement, focal rim narrowing, asymmetric
+  cupping, saucerisation) / peripapillary (disc haemorrhage, nerve fibre layer changes, peripapillary atrophy) / vascular
+  (nasalisation, baring of circumlinear vessels) — ARAVIND fitz 241 (4.8 Q19); vertical elongation — ARAVIND fitz 241
+  (Q23); saucerisation = shallower bowing rather than excavation — ARAVIND fitz 242 (Q33); notching and bayoneting as disc
+  changes — BAIDYA fitz 175–176 (NTG Q9), 169
+- Step 6 Record: the full fundus order (red glow → media → disc in the slide order → vessels, AV ratio → PPA → RNFL →
+  background → macula and foveal reflex → periphery by indirect → "confirmed with +90 D") — department fundus formula,
+  proforma PDF p.21 (optic atrophy write-up) and p.13 (glaucomatous disc slide); house format, CARD_SPEC §5. Step 6 Do
+  gains macula and "indirect ophthalmoscope for the periphery" from the same formula
+- Short-case say-it rewritten in the department's fundus formula: distant direct ophthalmoscopy red glow, clear media,
+  [slide order unchanged], background and macula with foveal reflex, "indirect ophthalmoscopy shows the peripheries to
+  be normal", "slit-lamp biomicroscopy with a plus 90 dioptre lens confirmed" — proforma PDF p.21, p.13. Focused-exam
+  steps 2–3 match. New trap bullet on starting with red glow and ending with periphery and "+90 D confirmed" (same source)
+- RE | LE fundus record now copies the department sheet: "media clear … well-defined margins … tessellated fundus" —
+  proforma PDF p.9
+- Line under the RE | LE heading: the table is the recording order, the steps the order of examination — CARD_SPEC §2A
+  (order of examination); quick-recall order line now begins with acuity (Step 1)
+- Step 7 viva "normal monocular field": 60° superior, 75° inferior, 60° nasal, 100° temporal — BAIDYA fitz 196
+  (CONSISTENCY item 34); examiner's own field must be normal — BAIDYA fitz 176 (Q12)
+- Step 7 viva (glaucomatous v neurological) now gives the reason: the arcuate scotoma follows the arcuate nerve fibres
+  to the horizontal (median) raphe — ARAVIND fitz 221 (4.4 Q14); paracentral defects terminate at the horizontal
+  midline — BAIDYA fitz 197
+- Past-history row "Short sight (myopia)?": increased susceptibility to POAG — BAIDYA fitz 167; faulty IOP measurement
+  from decreased scleral rigidity; increasing ovality of the stretched disc raises POAG chance — ARAVIND fitz 244 (Q45)
+- Hypertension row reworded ("Raises POAG risk", no longer "a weak link") — BAIDYA fitz 167 (systemic illnesses raising
+  POAG risk); topical beta-blocker sub-optimal on systemic beta-blockers — NAMRATA fitz 190 (unchanged claim)
+- Humphrey indices: normal MD "typically within 0 dB to 2 dB", more negative as the field worsens — BAIDYA fitz 206
+  (CONSISTENCY item 32); the classification-table header now "Field (MD in dB)" since dB is expanded earlier
+- Trabeculectomy row: MMC 0.2–0.5 mg/ml for 1–5 minutes — ARAVIND fitz 313 (4.19 Q65) (CONSISTENCY item 12)
+- Pathogenesis: trabecular meshwork parts uveal (little resistance), corneoscleral, juxtacanalicular (major resistance)
+  — BAIDYA fitz 169–170 (Q5)
+- Aqueous viva extended: IOP set by aqueous production, outflow resistance and episcleral venous pressure (normal
+  8–10 mm Hg) — BAIDYA fitz 170 (Q7); ARAVIND fitz 204 (4.1 Q4–5)
+- Diurnal-variation viva: fluctuation follows aqueous production — ARAVIND fitz 239 (4.8 Q5); ≥ 8 mm Hg significant —
+  NAMRATA fitz 192 (CONSISTENCY item 33)
+- Field-sequence viva: generalised depression (earliest, not important for diagnosis) and baring of the blind spot
+  (early, very non-specific) before the paracentral scotoma — BAIDYA fitz 197
+- New viva "How will you know that his glaucoma is progressing?": GPA compares baseline and follow-up pattern deviation
+  — BAIDYA fitz 206; deepening, enlargement or a new scotoma — ARAVIND fitz 225 (4.4 Q38); OCT event analysis (change
+  beyond test–retest variability) and trend analysis (rate of change) — BAIDYA fitz 214; disc haemorrhage predicts rapid
+  progression — BAIDYA fitz 169; nasalisation can indicate progression — ARAVIND fitz 242 (Q31)
+- New viva "How would you manage ocular hypertension?": careful monitoring with baseline fields and RNFL/disc imaging;
+  treated with medications or laser; risk rises with IOP, age, CCT < 555 µm, larger C/D — BAIDYA fitz 175 (Q7)
+- New viva "How will you manage a glaucoma suspect?": baseline applanation, CCT, fundus photo, nerve fibre analysis,
+  fields; observe if no risk factors; follow up after two months; start therapy if progression documented — ARAVIND
+  fitz 24 (model sheet Q5)
+- Snuff-out glossed at first use ("sudden loss after trabeculectomy in advanced glaucoma") — ARAVIND fitz 23 (model
+  sheet: sudden loss of vision, "post trabeculectomy in advanced glaucoma—snuff out phenomena")
+- Neuroprotection (memantine, brimonidine, calcium channel blockers) moved from a viva into the *(extra)* recent-advances
+  bullet — NAMRATA fitz 194; ARAVIND fitz 289–290 (claim unchanged)
+- Opening say-it: "He does not smoke or drink alcohol" — example content for the department's personal-history line
+  (proforma PDF p.8 leaves it blank); not a book fact
+
+### Changed for CONSISTENCY
+- Item 28 (corrected 8 Oct 13:20): pigmentary glaucoma "Younger, 20–30 years" — NAMRATA fitz 192 ("Younger age group
+  20–30 years"); ARAVIND 4.10 "third decade". Replaces "30–50 years" (NAMRATA fitz 225, the pseudoexfoliation
+  differential table), which the earlier item 28 had required.
+- Items 11 (CCT), 13/30 (SLT 532 nm, 400 µm, 3 ns, 0.5–1.5 mJ; GX's 50–100 spots over 180° — Baidya gives a spot count
+  only for ALT/DLT, BAIDYA fitz 456), 14 (no laser trabeculoplasty in uveitic glaucoma), 15, 17, 22, 23
+  (glaukomflecken ×2), 32 (MD stage wording; table unnamed), 33, 34: checked, now all consistent.
+
+### Cut to make room (all book-supported; *(extra)* or minor, or owned by another card)
+- Types of disc damage I–IV (ARAVIND fitz 243) — minor
+- *(extra)* genes line (myocilin chromosome 1, optineurin 10; ARAVIND fitz 239) — myocilin kept in the juvenile OAG line
+- *(extra)* corneal hysteresis / dynamic contour tonometry bullet (ARAVIND fitz 243; BAIDYA fitz 754)
+- *(extra)* neuroprotection viva (content kept in the recent-advances bullet)
+- OCT pitfalls bullet, red and green disease (BAIDYA fitz 214) — minor
+- Anderson–Patella viva (BAIDYA fitz 206) — owned by card G10; a pointer "Anderson–Patella criteria: card G10" stays
+- Trabeculectomy-site viva (BAIDYA fitz 179) — on card G2
+- Drainage-device complications viva (BAIDYA fitz 179) — on card G3; the laser-and-surgery table keeps the list
+- "Damage already done cannot be reversed" in the Aim (repeated in follow-up and counselling)
+
+### Checked, no change
+- Disc-size measurement: none of the three books gives a method or normal disc diameter for glaucoma (megalopapilla
+  > 2.1 mm only, BAIDYA fitz 651), so no disc-size question was added.
+- Normal cup–disc ratio: no book gives a figure (only the department's sample write-up "CDR 0.3"), so none on the card.
