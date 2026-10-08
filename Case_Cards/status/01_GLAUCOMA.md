@@ -9,7 +9,7 @@ Next step: examiner review (pass 2) running for every card; then the independent
 | G1 | drafted | POAG + glaucomatous optic disc — add block "Glaucomatous optic disc" |
 | G4 | reviewed | Primary angle-closure disease — thesis topic, deepest card |
 | G5 | reviewed | Neovascular glaucoma — add block "Rubeosis iridis" |
-| G6 | drafted | Pseudoexfoliation — add block "Pseudoexfoliation" |
+| G6 | reviewed | Pseudoexfoliation — add block "Pseudoexfoliation" |
 | G7 | drafted | CRVO with POAG |
 | G8 | reviewed | Applanation tonometry (task) |
 | G9 | reviewed | Gonioscopy (task) |

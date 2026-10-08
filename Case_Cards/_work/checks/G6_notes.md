@@ -478,7 +478,7 @@ pass: 5,667 words (lint 5,986; `wc -w` 6,418); 52 Q/A pairs.
 - Item 15: acetazolamide "250 mg … two to four times a day" (drug table).
 - Item 17: CAI contraindications now "sulpha allergy, renal failure, chronic liver disease" (drug table; past-history rows) — ARAVIND fitz 281 (Q42). "Sulfa" changed to "sulpha" everywhere (history, viva, say-it), as on G1, G4 and GX.
 - Item 24: watering row now the standard wording (pilocarpine lacrimation, brimonidine allergy, surface toxicity; fluorescein 1% staining) — BAIDYA fitz 170; ARAVIND fitz 279 (Q32); NAMRATA fitz 191
-- Item 28: viva "PXF vs pigment dispersion" now "myopic men aged 30–50 years" (was "young") — NAMRATA fitz 225
+- Item 28 (as corrected by the coordinator, 8 Oct 13:20 IST): pigment dispersion age is now "20–30 years" in the comparison table and "young myopic men, 20–30 years" in the viva — NAMRATA fitz 192 ("younger age group 20–30 years"); ARAVIND fitz 255 (4.10 Q1, "young (3rd decade)"). NAMRATA fitz 225 (Table 3) prints 30–50 years: kept in the notes only, not on the card.
 - Item 29: "Postoperative Diamox (oral acetazolamide)" in the precautions table.
 - Item 30: SLT 0.5–1.5 mJ (already on the card; checked) — BAIDYA fitz 456
 - Items 16, 18–23, 25–27: not touched by this card (no laser suture lysis, malignant glaucoma, anti-VEGF, mannitol, steroid grading, drainage devices, glaukomflecken, ISGEO, LPI regimen or UBM depth on it). Items 1–10 checked: gonio cross shows the deepest structure (SS) only; no book names in the body.
