@@ -2,7 +2,7 @@
 @title Glaucoma treatment toolkit — every drug, laser and operation the glaucoma cards use
 @badge Read before the glaucoma case cards · Toolkit
 @kind toolkit
-@readmore Baidya p.110, 148–152, 156–158, 161, 164–166, 172–180, 374, 434–442, 578 · Namrata p.172–176, 179, 182–184, 186, 189, 194–195, 198–200, 205 · Aravind 1.4, 4.6, 4.7, 4.8, 4.9, 4.10, 4.12, 4.15–4.21, 6.4, glaucoma model case sheet p.665–667 · Kanski p.377
+@readmore Baidya p.148–152, 156–158, 161, 164–166, 172–180, 374, 434–442, 578 · Namrata p.172–176, 179, 182–184, 186, 189, 194–195, 198–200, 205 · Aravind 1.4, 4.6, 4.7, 4.8, 4.9, 4.10, 4.12, 4.15–4.21, 6.4, glaucoma model case sheet p.665–667 · Kanski p.377
 
 ## How to say a management plan in this subject
 **Keywords the examiner listens for:** target pressure · prostaglandin analogue · uveoscleral outflow · aqueous suppressant · fixed combination · laser peripheral iridotomy · selective laser trabeculoplasty · trabeculectomy with mitomycin C · glaucoma drainage device · cyclophotocoagulation
@@ -12,9 +12,7 @@ I will first set a target pressure from the baseline pressure and the stage of d
 :::
 
 ## Drugs
-Each heading gives the fall in intraocular pressure (IOP) the class achieves.
-
-### Prostaglandin analogues — first line; IOP falls 25–32%
+### Prostaglandin analogues — first line; intraocular pressure (IOP) falls 25–32%
 @widths 24 24 28 24
 | Drug (strength · frequency) | Mechanism of action | Adverse effects (ocular · systemic) | Contraindications and cautions |
 |---|---|---|---|
@@ -24,7 +22,7 @@ Each heading gives the fall in intraocular pressure (IOP) the class achieves.
 @widths 24 24 28 24
 | Drug (strength · frequency) | Mechanism of action | Adverse effects (ocular · systemic) | Contraindications and cautions |
 |---|---|---|---|
-| **Timolol 0.25%, 0.5%** twice a day, the first dose in the morning<br>**Betaxolol 0.5%** twice a day (cardioselective)<br>Levobunolol 0.5%, carteolol 1% once or twice a day | **Aqueous suppressant**: blocks cyclic adenosine monophosphate production in the ciliary epithelium, cutting aqueous production by 20–50% | Ocular: irritation, allergy, punctate epithelial erosions, dry eye. Systemic: **bradycardia**, hypotension, heart failure, **bronchospasm**, depression, sleep disturbance | **Asthma**, chronic obstructive pulmonary disease, heart failure, second- or third-degree heart block, bradycardia. Works poorly in a patient already on oral beta-blockers |
+| **Timolol 0.25%, 0.5%** twice a day, the first dose in the morning<br>**Betaxolol 0.5%** twice a day (cardioselective)<br>Levobunolol 0.5%, carteolol 1% once or twice a day | **Aqueous suppressant**: blocks cyclic adenosine monophosphate production in the ciliary epithelium, cutting aqueous production by 20–50% | Ocular: irritation, allergy, punctate epithelial erosions, dry eye. Systemic: **bradycardia**, hypotension, heart failure, **bronchospasm**, depression, sleep disturbance | **Asthma**, chronic obstructive pulmonary disease, heart failure, second- or third-degree heart block, bradycardia. Works poorly in a patient already on systemic beta-blockers |
 
 ### Alpha-2 agonists — IOP falls 15–20%
 @widths 24 24 28 24
@@ -36,14 +34,14 @@ Each heading gives the fall in intraocular pressure (IOP) the class achieves.
 @widths 24 24 28 24
 | Drug (strength · frequency) | Mechanism of action | Adverse effects (ocular · systemic) | Contraindications and cautions |
 |---|---|---|---|
-| **Dorzolamide 2%** three times a day<br>Brinzolamide 1% two or three times a day | Aqueous suppressant: inhibits carbonic anhydrase II in the ciliary epithelium | Ocular: burning, stinging, superficial punctate keratitis, periorbital dermatitis. Systemic: rarely thrombocytopenia | **Sulpha allergy**, renal failure, chronic liver disease |
-| **Acetazolamide 250 mg** tablet two to four times a day; 500 mg slow-release capsule twice a day | The same action, given by mouth | Ocular: transient myopia. Systemic: **paraesthesia**, metallic taste, nausea, **metabolic acidosis**, potassium loss, **renal stones**; rarely aplastic anaemia, Stevens–Johnson syndrome | Sulpha allergy, renal failure or transplant, chronic liver disease |
+| **Dorzolamide 2%** three times a day<br>Brinzolamide 1% two or three times a day | Aqueous suppressant: inhibits carbonic anhydrase II in the ciliary epithelium | Ocular: burning, stinging, superficial punctate keratitis, periorbital dermatitis. Systemic: thrombocytopenia | **Sulpha allergy**, renal failure, chronic liver disease |
+| **Acetazolamide 250 mg** tablet two to four times a day; 500 mg slow-release capsule twice a day | The same action, given by mouth | Ocular: transient myopia. Systemic: **paraesthesia**, metallic taste, nausea, **metabolic acidosis**, potassium loss, **renal stones**; aplastic anaemia, Stevens–Johnson syndrome | Sulpha allergy, renal failure or transplant, chronic liver disease |
 
 ### Miotics — IOP falls 15–20%
 @widths 24 24 28 24
 | Drug (strength · frequency) | Mechanism of action | Adverse effects (ocular · systemic) | Contraindications and cautions |
 |---|---|---|---|
-| **Pilocarpine 0.5–4%** two to four times a day | Open angle: the longitudinal ciliary muscle pulls the scleral spur and opens the meshwork. Angle closure: miosis pulls the iris off the meshwork and relieves pupillary block | Ocular: **browache**, **induced myopia**, dim vision in poor light, congestion, more inflammation, cataract, retinal holes and detachment. Systemic: salivation, urination | **Neovascular, uveitic and phacolytic glaucoma**. Young myopes tolerate it poorly. Ineffective in angle recession. Never with a prostaglandin analogue |
+| **Pilocarpine 0.5–4%** two to four times a day | Open angle: the longitudinal ciliary muscle pulls the scleral spur, tightening the meshwork and raising outflow. Angle closure: miosis pulls the iris off the meshwork and relieves pupillary block | Ocular: **browache**, **induced myopia**, dim vision in poor light, congestion, more inflammation, cataract, retinal holes and detachment. Systemic: salivation, urination | **Neovascular, uveitic and phacolytic glaucoma**. Young patients tolerate it poorly. Ineffective in angle recession. Never with a prostaglandin analogue |
 
 ### Hyperosmotic agents — for an acute rise
 @widths 24 24 28 24
@@ -63,9 +61,9 @@ Each heading gives the fall in intraocular pressure (IOP) the class achieves.
 @widths 24 24 28 24
 | Drug (strength · frequency) | Mechanism of action | Adverse effects (ocular · systemic) | Contraindications and cautions |
 |---|---|---|---|
-| **Prednisolone acetate 1%** four times a day after laser or an attack; hourly for a failing bleb | Blocks phospholipase A2, so fewer prostaglandins are made; suppresses fibroplasia under the bleb | Ocular: **IOP rise in steroid responders**, posterior subcapsular cataract, reactivated herpes simplex, secondary infection, corneal melting | Bleb infection: only 12–24 hours after antibiotics. Watch IOP: glaucoma patients respond more often |
+| **Prednisolone acetate 1%** four times a day after laser or an angle-closure attack; 6–8 times a day in neovascular glaucoma; steroid hourly for a failing bleb | Blocks phospholipase A2, so fewer prostaglandins are made; suppresses fibroplasia under the bleb | Ocular: **IOP rise in steroid responders**, posterior subcapsular cataract, reactivated herpes simplex, secondary infection, corneal melting | Bleb infection: only 12–24 hours after antibiotics. Watch IOP: glaucoma patients respond more often |
 | **Atropine 1%** three times a day | **Cycloplegic**: paralyses the ciliary muscle, so the lens–iris diaphragm tightens and the chamber deepens. Also relieves ciliary spasm and prevents posterior synechiae | Ocular: the strongest cycloplegic; the pupil stays dilated 7–10 days. Systemic: flushing, tachycardia, fever, delirium | Can **precipitate angle closure** in an occludable angle. Used in neovascular and uveitic glaucoma, a shallow chamber after trabeculectomy and malignant glaucoma |
-| **Bevacizumab 1.25 mg in 0.05 ml** intravitreal, through the pars plana | Blocks **vascular endothelial growth factor (VEGF)**, so iris new vessels regress within 24–48 hours | The effect lasts only some weeks | An adjunct in neovascular glaucoma, given 2–3 days before panretinal photocoagulation (PRP) or surgery, for less bleeding. Never a substitute for PRP |
+| **Bevacizumab 1.25 mg in 0.05 ml** intravitreal, through the pars plana | Blocks **vascular endothelial growth factor (VEGF)**, so iris new vessels regress within 24–48 hours | The effect lasts some weeks | An adjunct in neovascular glaucoma, given 2–3 days before panretinal photocoagulation (PRP) or surgery, for less bleeding. PRP remains the mainstay |
 
 ## Combinations
 A fixed combination needs complementary mechanisms and similar dosing.
@@ -97,9 +95,9 @@ A fixed combination needs complementary mechanisms and similar dosing.
 @widths 26 32 18 24
 | Procedure (indications) | Key steps and settings | Advantages | Disadvantages and complications |
 |---|---|---|---|
-| **Trabeculectomy**: not at target on maximal tolerated drugs, or progressing; side effects or poor compliance; baseline IOP over 40 mm Hg; one eye lost; difficult follow-up | Stop timolol 2 weeks and carbonic anhydrase inhibitors 1–2 days before, so a bleb forms without hypotony. Superotemporal or superonasal. Scleral flap **3 × 4 mm**, two-thirds thick; antimetabolite; Kelly punch, ostium **1.5 × 2 mm**; basal iridectomy, so the iris cannot block the ostium; **10-0 nylon** flap; watertight **8-0 vicryl** conjunctiva (card G2) | Plain operation lowers IOP about **41%**. The flap gives steadier IOP and less hypotony than full-thickness surgery | Shallow chamber (commonest), leak, overfiltration, malignant glaucoma, fibrosis and bleb failure, cataract, **bleb infection and endophthalmitis** |
-| **Surgical peripheral iridectomy**: acute attack with a hazy cornea and closure under two-thirds | Basal iridectomy through a limbal incision, mostly at 12 o'clock; Nd:YAG iridotomy for the fellow eye | Possible when the cornea is too hazy for laser. Clean, triangular margins; it cannot close | An open intraocular operation. Closure over two-thirds needs trabeculectomy instead |
-| **Combined cataract surgery and trabeculectomy**: visually significant cataract with poor IOP control, drug intolerance or poor compliance, advanced glaucoma, pseudoexfoliation, one-eyed patient | Both operations in one sitting; an antimetabolite can be used | One operation; earlier visual recovery; fewer early IOP spikes | More hyphaema, uveitis, shallow chamber, hypotony; slower recovery; weaker long-term control than trabeculectomy alone |
+| **Trabeculectomy**: not at target on maximal tolerated drugs, or progressing; side effects or poor compliance; baseline IOP over 40 mm Hg; one eye lost; difficult follow-up | Stop timolol 2 weeks and carbonic anhydrase inhibitors 1–2 days before, so a bleb forms without hypotony. Superotemporal or superonasal. Scleral flap **3 × 4 mm**, two-thirds thick; antimetabolite; Kelly punch, ostium **1.5 × 2 mm**; peripheral iridectomy, so the iris cannot block the ostium; **10-0 nylon** flap; watertight **8-0 vicryl** conjunctiva (card G2) | Plain operation lowers IOP about **41%**. The flap gives steadier IOP and less hypotony than full-thickness surgery | Shallow chamber (commonest), leak, overfiltration, malignant glaucoma, fibrosis and bleb failure, cataract, **bleb infection and endophthalmitis** |
+| **Surgical peripheral iridectomy**: acute attack with a hazy cornea and closure under two-thirds | Iridectomy through a limbal incision, mostly at 12 o'clock; Nd:YAG iridotomy for the fellow eye | Possible when the cornea is too hazy for laser. Clean, triangular margins; it cannot close | An open intraocular operation. Closure over two-thirds needs trabeculectomy instead |
+| **Combined cataract surgery and trabeculectomy**: visually significant cataract with poor IOP control, drug intolerance or poor compliance, advanced glaucoma, pseudoexfoliation, one-eyed patient | Both operations in one sitting; an antimetabolite can be used | One operation; earlier visual recovery; fewer early IOP spikes | More hyphaema, uveitis, shallow chamber, hypotony; slower recovery than cataract alone; weaker long-term control than trabeculectomy alone |
 | **Cataract surgery alone**: IOP controlled on 1–2 drugs; no significant field or disc damage; older; good compliance | Cataract surgery through a temporal clear-corneal incision | Simpler, shorter, fewer complications; the conjunctiva is spared for later surgery | Early IOP spike; long-term control uncertain; later filtering surgery fails more often |
 | **Glaucoma drainage device** (Ahmed, Molteno, Baerveldt): refractory glaucoma (neovascular, uveitic, congenital, post-keratoplasty); failed trabeculectomy; scarred conjunctiva | Superotemporal; plate at the equator, 8–10 mm behind the limbus; non-valved tube tied for 2–3 weeks; tube 1.5–2 mm inside, parallel to the iris; patch graft (card G3) | An option when filtering surgery has failed or is likely to fail | Smaller IOP fall; hypotony, tube block or migration, tube erosion and endophthalmitis, corneal decompensation, diplopia. Needs useful visual potential |
 | **Goniotomy** and **trabeculotomy**: primary congenital glaucoma (card G11) | Goniotomy (clear cornea): under a direct goniolens, a Swan knife cuts the anterior meshwork just behind Schwalbe's line, over about 120°. Trabeculotomy (hazy cornea): Schlemm's canal is deroofed ab externo; a probe is rotated into the chamber | Aqueous reaches Schlemm's canal directly; trabeculotomy needs no view of the angle | Hyphaema, iridodialysis, shallow chamber. Failure: combined trabeculotomy–trabeculectomy |
