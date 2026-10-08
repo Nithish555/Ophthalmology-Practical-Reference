@@ -14,7 +14,7 @@ Next step: examiner review (pass 2) running for every card; then the independent
 | G8 | reviewed | Applanation tonometry (task) |
 | G9 | reviewed | Gonioscopy (task) |
 | G10 | drafted | Humphrey field (chart) |
-| G2 | reviewed | POAG with trabeculectomy |
+| G2 | checked | POAG with trabeculectomy |
 | G3 | reviewed | POAG with drainage device |
 | G11 | reviewed | New (extra, 8 Oct): other glaucomas the examiner may ask — buphthalmos, Sturge–Weber, lens-induced, uveitic, steroid-induced, pigmentary. Added on the candidate's request for wider topic coverage |
 
