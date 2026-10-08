@@ -58,7 +58,7 @@ the type, then complications, before the numbers questions.
 
 ## 4. Structure, keywords, readability
 
-- Headings match Template B in order. Boxes closed; Q:/A: outside boxes; tables ≤ 3 columns, cells consistent, @widths sum to 100.
+- Headings match Template B in order (Template B has no Examiner traps section, so step 6 of the spec does not apply). Boxes closed; Q:/A: outside boxes; tables ≤ 3 columns, cells consistent, @widths sum to 100.
 - Keywords: 10 (short-card range 6–10). All 10 appear in a say-it or a viva answer (lint passes). "Blood and thunder" now lives in its viva answer, not in Spot.
 - Keyword-first: the new answers open with the bold term (risk factors, ischaemic index, the type, complications).
 - Sentences: one 22-word sentence split (risk factors). Lint reports only the Keywords line and the quoted RVO definition (allowed).

@@ -10,10 +10,10 @@ Next step: examiner review (pass 2) running for every card; then the independent
 | G4 | checked | Primary angle-closure disease — thesis topic, deepest card |
 | G5 | checked | Neovascular glaucoma — add block "Rubeosis iridis" |
 | G6 | checked | Pseudoexfoliation — add block "Pseudoexfoliation" |
-| G7 | drafted | CRVO with POAG |
+| G7 | reviewed | CRVO with POAG |
 | G8 | reviewed | Applanation tonometry (task) |
 | G9 | reviewed | Gonioscopy (task) |
-| G10 | drafted | Humphrey field (chart) |
+| G10 | reviewed | Humphrey field (chart) |
 | G2 | checked | POAG with trabeculectomy |
 | G3 | reviewed | POAG with drainage device |
 | G11 | reviewed | New (extra, 8 Oct): other glaucomas the examiner may ask — buphthalmos, Sturge–Weber, lens-induced, uveitic, steroid-induced, pigmentary. Added on the candidate's request for wider topic coverage |

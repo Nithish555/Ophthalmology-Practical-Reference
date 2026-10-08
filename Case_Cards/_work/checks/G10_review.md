@@ -51,7 +51,7 @@ hemifield test had two of its five results. The model say-it skipped zones 1–2
 
 ## 4. Structure, keywords, readability
 
-- Headings match Template E. One say-it box, closed; Q:/A: outside it; 3 tables, ≤ 4 columns, @widths sum to 100.
+- Headings match Template E (no Examiner traps section in this template). One say-it box, closed; Q:/A: outside it; 3 tables, ≤ 4 columns, @widths sum to 100.
 - Keywords: 10. All used in the say-it or a viva answer (lint passes). "Reliability indices" restored to the say-it.
 - Four sentences over 20 words split (programmes, zone 7, Bjerrum line, visual field answer).
 - Readability fix: "A higher threshold means lower sensitivity" sat next to "higher dB = more sensitive" — a tired reader would
