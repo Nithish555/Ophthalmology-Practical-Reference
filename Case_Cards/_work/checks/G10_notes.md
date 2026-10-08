@@ -158,3 +158,87 @@ IMAGING PDF (YOSI) fitz 24 and 25. Card word count (wc -w): 779 (budget 600–78
 
 ## Mnemonic
 - None. The G10 packet has no mnemonics page, and Template E has no Quick recall section.
+
+## v4 additions
+
+Packet rebuilt 8 Oct 2026: `cache/packets/G10.txt` = BAIDYA fitz 195–208 (= printed p.181–194), ARAVIND fitz 220–226 (4.4), BAIDYA
+fitz 175, 177, 178 (= p.161, 163, 164: neuroimaging indications, SWAP/FDT, threshold, decibel, damage grading). Extra pages opened by
+grep: BAIDYA fitz 173 (= p.159, NTG dense hemifield defect), BAIDYA fitz 339 (= p.325, tubular vision differential), NAMRATA fitz 194–195
+(= p.176–177, field frequency, trabeculectomy indication, severity scale). Imaging PDF "Visual fields" (pdf page 25 slide, page 26 key
+points) re-read with pdftotext and rendered (`cache/render/g10_imaging_p25.png`, zone crops `g10_z*.png`). Practice printouts
+`Short Viva/fields viva.pdf` pp 1–4 rendered (`cache/render/g10_fv-01…04.png`) and read for layout and teaching values only; no name,
+ID, date of birth or test date copied. Template E (v4); budget 800–1,100 (brief: about 1,100, up to about 1,200).
+
+### Header
+- @readmore now "Baidya p.159, 161, 163–164, 181–194 · Namrata p.176–177 · Aravind 4.4" (fitz − 14; Namrata fitz − 18).
+
+### What it is (new or changed)
+- Higher threshold = lower sensitivity — BAIDYA fitz 177 (Q19).
+- Decibel = 0.1 log unit of attenuation of the maximal stimulus; higher dB = dimmer stimulus — BAIDYA fitz 178 (Q20); ARAVIND fitz 223–224 (Q30).
+- "SITA-Standard" and "SITA-Fast" labels — practice printouts pp 1–4 (layout, not a clinical claim). SITA takes 50% of the regular threshold time — ARAVIND fitz 224 (Q31).
+- Everything else as the v2 ledger (BAIDYA fitz 195–199; ARAVIND Q5, Q29, Q32, Q34).
+
+### Reading order (rewritten as full sentences; same facts)
+- Zone order and content — BAIDYA fitz 198–206 (as v2). Read the reliability first and identify the pattern on the pattern deviation plot; conclude with the probable NFL/ONH defect — IMAGING p.26 key points.
+- Numbers above, probability symbols below, symbol key p<5%, <2%, <1%, <0.5% — practice printouts (layout).
+- Superior field defect ↔ inferior pole: "Inferior arcuate fibres are more susceptible resulting in arcuate scotomas earlier in superior visual field defect" — BAIDYA fitz 177 (Q16) (direct; the v2 fact-check found it).
+
+### Model say-it (new)
+- Every number in the say-it (fixation losses 1/15, false positives 2%, false negatives 3%, MD −8 dB, PSD 9 dB, VFI 80%) is illustrative, chosen to fit the books' cut-offs (reliability — BAIDYA fitz 200; moderate MD −6 to −12 dB — BAIDYA fitz 208). Not taken from any printout.
+- "Meets the Anderson and Patella criteria" — the criteria as BAIDYA fitz 206. Superior arcuate ↔ inferior rim — BAIDYA fitz 177.
+
+### Findings to name (now two tables)
+- Fixation losses: reliable below 20% — BAIDYA fitz 200. False positives > 15% unreliable, trigger-happy, white scotoma — BAIDYA fitz 200, 201. False negatives > 33% unreliable; fatigue, inattention or advanced damage; clover leaf — BAIDYA fitz 200, 201.
+- Low foveal threshold with good acuity → check optical correction — BAIDYA fitz 200 (d).
+- Uniform generalised defect (cataract, media opacity, small pupil, uncorrected refractive error) → pattern deviation probability plot normal — BAIDYA fitz 204 (iii).
+- Pattern deviation highlights localised defects typical of glaucoma — BAIDYA fitz 203 (c).
+- GHT outside normal limits p<1%, borderline p<3% — BAIDYA fitz 205. "General reduction of sensitivity" = overall depressed field — IMAGING slide zone 7 (p.25).
+- MD: overall deviation; normal typically within 0 to 2 dB; more negative as the field worsens — BAIDYA fitz 205–206 (card wording "within 2 dB of 0", as the v2 fact-check).
+- PSD: high = focal loss; low = no loss or diffuse loss — BAIDYA fitz 206.
+- VFI: percent of normal age-adjusted field; 0 blind, 100 normal; from PDNP, not affected by cataract — BAIDYA fitz 204 (ii).
+- Defect sequence and descriptions — BAIDYA fitz 197; ARAVIND fitz 221–222 (Q11, Q14, Q16–Q19), as v2.
+- **New row: dense hemifield (altitudinal) defect.** Deep focal notching of the rim "is associated with a highly localized dense arcuate field defect or even a dense upper hemifield defect" (normal-tension glaucoma) — BAIDYA fitz 173. Altitudinal defects respecting the horizontal midline are the commonest defect of NAAION — BAIDYA fitz 178 (Q22c). "Focal nerve fibre bundle type defects (altitudinal, arcuate, and nasal step)" — BAIDYA fitz 624 (optic neuritis), supporting "altitudinal" as a nerve-fibre-bundle defect.
+- Tubular vision and temporal island — BAIDYA fitz 197 (8); central island and temporal island — ARAVIND fitz 221 (Q11 viii).
+
+### Grading or classification
+- Anderson and Patella criteria — BAIDYA fitz 206; ARAVIND fitz 225–226 (Q40); IMAGING p.26 (as v2).
+- Grading table — ARAVIND fitz 225 (Q39); BAIDYA fitz 207–208 (as v2).
+- Staging of glaucoma damage with the same MD cut-offs (mild: minimal cupping, nasal step or paracentral scotoma; moderate: rim thinning, arcuate; severe: marked cupping, within central 5°; end-stage: gross cupping, small residual field) — BAIDYA fitz 178 (Q21); card G1 classification table (G1 ledger). The card points to G1 instead of repeating the table.
+
+### What each finding leads to (new lines)
+- Fields every 6 months in mild to moderate, every 3 months in advanced cases (yearly in high-risk ocular hypertension) — NAMRATA fitz 194.
+- Trabeculectomy indication: progression of visual fields despite maximum medical therapy — NAMRATA fitz 194.
+- Target pressure set by the severity of damage — NAMRATA fitz 194–195; card G1 for the formula.
+- Neuroimaging when the field respects the vertical midline, progresses rapidly, or the disc shows more pallor than cupping — BAIDYA fitz 175 (Q5).
+- Serial 10-2 when advanced loss threatens fixation — ARAVIND fitz 224 (Q32); size V for the macular split — BAIDYA fitz 199 (d) (as v2).
+
+### Viva (new answers)
+- Superior field first: inferior arcuate fibres more susceptible; central fibres originate closest to the disc and exit its most central part — BAIDYA fitz 177 (Q16).
+- Bjerrum's area: central 25°, initial defects between 10° and 25° — BAIDYA fitz 196–197; CONSISTENCY §4.
+- Decibel definition — BAIDYA fitz 178 (Q20).
+- GHT rationale: glaucomatous loss not symmetrical in superior and inferior hemifields — BAIDYA fitz 204.
+- 10-2 — ARAVIND fitz 224 (Q32); 68 points, 2° — BAIDYA fitz 199.
+- SWAP and FDT detect early glaucoma — BAIDYA fitz 177 (Q17, Q18); ARAVIND fitz 222–223 (Q23–26). SWAP limitation: nuclear sclerosis may give a false appearance or progression of defects; no use in moderate to advanced glaucoma — BAIDYA fitz 177.
+- *(extra)* Tubular vision differential (high myopia, aphakic glasses, retinitis pigmentosa, glaucoma, extensive PRP, extensive choroiditis, chronic atrophic papilloedema, alcohol poisoning, hysteria/malingering, hypovolaemia, pituitary tumours) — BAIDYA fitz 339 (Q23).
+
+### Disagreements (v4)
+- **Hodapp–Parrish–Anderson.** The brief asked for it "if the books give it". None of the three books (nor the imaging PDF) uses the name; ARAVIND Q39 calls the table "criteria to grade glaucomatous field defects" and BAIDYA gives it only in figure captions. The card leaves it unnamed (as v2). Proposal for CONSISTENCY in the reply.
+- **MD sign in BAIDYA fitz 178 (Q21)** ("mild … MD < –6 dB; moderate … MD < –12 dB; severe … MD > –12 dB") is sign-garbled; the figure captions (fitz 207–208) say "−6 dB or better", "between −6 and −12 dB", "−12 dB or worse". The card uses the captions (as v2 and G1).
+- **Zone numbering**: Baidya 8 zones vs imaging handout 7 zones (as v2). Card: Baidya.
+- **Reliability cut-offs**: Baidya vs Aravind vs imaging (as v2). Card: Baidya.
+- **Severity scale for target IOP** (NAMRATA fitz 195: mild = normal SAP field; moderate = one hemifield, not within 5°; severe = both hemifields and within 5°) differs from the MD grading. Not on the card (G1 owns target pressure).
+
+### Omitted (v4)
+- **Temporal wedge defect**: not in any of the three books or the imaging PDF. Not on the card.
+- Hodapp–Parrish–Anderson name (above).
+- Event analysis; SITA-Standard versus SITA-Fast differences; stimulus duration; catch-trial method; learning effect — not in the books.
+- Programmes/strategies detail (macular programme, Fastpac, full threshold, suprathreshold, staircase 4/2 dB), fixation targets, gaze tracking, short-term fluctuation, overview printout, average fluctuation > 3 dB and 2 adjacent points > 5 dB progression criteria, angioscotomas, true/false baring, kinetic and Goldmann perimetry, tangent screen — in the packet, cut for length.
+
+### Mnemonic
+- None for perimetry or field defects in `Ophthal mnemonics final.pdf` (grep: perimetr, visual field, scotoma, humphrey). Template E has no Quick recall section.
+
+### Coverage of the books' FAQs
+BAIDYA perimetry chapter (fitz 195–208) has no FAQ list; its numbered teaching points are covered: kinetic vs static (What it is: static only; kinetic omitted), definitions (threshold, central field, Bjerrum's area → What it is, viva), defects 1–8 → Findings table, single-field interpretation zones 1–8 → Reading order, Anderson and Patella → Grading, progression tools → What each finding leads to.
+BAIDYA glaucoma FAQs on fields (fitz 175–178): Q5 neuroimaging → What each finding leads to; Q6 NTG perimetry 4–6 monthly → omitted (G1); Q11 normal extent → omitted (minor); Q12 confrontation → card G1; Q16 → viva; Q17 SWAP, Q18 FDT → viva; Q19 threshold → What it is; Q20 decibel → viva; Q21 grading → Grading (points to G1); Q22 neurological field defects → viva (glaucomatous vs neurological) and altitudinal row.
+ARAVIND 4.4: Q1–3 (visual field, extent, blind spot) → omitted (minor); Q4–5 kinetic/static → What it is (static); Q6 variables → Reading order zone 2; Q7 generalised decrease → Findings (total vs pattern deviation row) and viva (cataract); Q8–10 isopter, scotoma, depression → omitted (kinetic terms); Q11 sequence → Findings table 2; Q12 angioscotoma → omitted; Q13 Bjerrum's area → viva (Baidya's 10–25°); Q14 arcuate → table 2; Q15 arcuate differential → viva; Q16–19 → table 2; Q20 true/false baring → omitted; Q21 → viva; Q22 SAP → What it is; Q23–26 SWAP/FDT → viva; Q27–28 false positive/negative → Findings table 1 (Baidya cut-offs); Q29 threshold → What it is; Q30 decibel → viva; Q31 strategies → What it is (SITA only); Q32 programmes, 10-2 → What it is + viva; Q33 HFA test list → omitted; Q34 30-2 → What it is; Q35 MD, Q36 PSD, Q37 GHT → Findings table 1 + viva; Q38 progression → viva; Q39 grading → Grading table; Q40 Anderson → Grading; Q41–43 tangent screen, Goldmann, other tests → omitted.
+IMAGING key points → Reading order (stepwise, reliability first, pattern on pattern deviation, conclude with NFL/ONH), Grading (Anderson on 2 reliable fields), What each finding leads to (serial-field signs, non-glaucomatous causes).
