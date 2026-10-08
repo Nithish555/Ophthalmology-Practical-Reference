@@ -299,3 +299,17 @@ Aravind 4.8 Q38–39 → SLT row; PG drug of choice in angle recession (PG table
 Baidya POAG FAQ Q9 (first line) → say box + viva. Q23 (trabeculectomy indications, relative contraindications) → surgery table. Q24–26 (PI with trab, site) → surgery table/G2. Q27–29 (MMC) → antimetabolite table + viva. Q30–31 (valve) → surgery table + choosing tables. Q32 (non-penetrating) → surgery table + viva. Q33 (MIGS) → surgery table + viva (extra). Q34–35 (laser trabeculoplasty) → laser table + viva.
 Baidya NTG Q6 (betaxolol) → β-blocker table. Baidya SWS Q3 → PG contraindication; Ahmed vs Molteno (valved table). Baidya NVG Q2 → acute-attack and NVG notes in tables (drugs to avoid). Baidya buphthalmos Q9 → α2 agonists under 2 years (table); goniotomy → G11.
 Namrata POAG viva Q10 (classify drugs, side effects) → drug tables + viva. Namrata PACG viva Q4–6 (LPI indications, technique, complications) → laser table (full on G4). Namrata PXG viva Q2 (cataract surgery in PXG) → card G6. Namrata NVG → drugs to avoid (tables), anti-VEGF → card G5.
+
+## Cross-card consistency (checked against the v2 cards G1–G6 and their fact-checks)
+- Same as G1: latanoprost 0.005%, travoprost 0.004%, bimatoprost 0.01/0.03%, timolol 0.25/0.5% twice daily, betaxolol 0.5%, brimonidine 0.1/0.15/0.2% three times (sometimes twice), dorzolamide 2% three times, acetazolamide 250 mg 2–4 times, pilocarpine 0.5–4% 2–4 times; IOP fall by class; PG at bedtime, timolol in the morning; laser trabeculoplasty indications and contraindications; cataract alone versus combined.
+- Same as G4: acute-attack regimen (mannitol 1–2 g/kg over 20–30 min; acetazolamide 250–500 mg stat then 250 mg four times a day; glycerol 1–1.5 g/kg; apraclonidine 0.5%; pilocarpine 2% below 40 mm Hg; timolol 0.5% + brimonidine 0.2%; prednisolone acetate 1%; ibuprofen 500 mg); Nd:YAG LPI 2–5 mJ, 1–3 pulses, 150–200 µm, pilocarpine 1%, Abraham +55 D, IOP at 1 hour, steroid 1 week; argon LPI uses; Kanski lens-extraction line (no new Kanski facts).
+- Same as G2: MMC 0.2–0.5 mg/ml for 1–5 min, 4.5 × 4.5 mm sponge; 5-FU 50 mg/ml for 5 min, 5 mg injections, 21 injections (105 mg); flap 3 × 4 mm; ostium 1.5 × 2 mm; 10-0 nylon; 8-0 vicryl; 41% IOP fall; laser suture lysis 50 µm, 0.02–0.1 s, 250–1000 mW.
+- Same as G3: Ahmed opens above 8–10 mm Hg; non-valved tube tied 2–3 weeks; plate 8–10 mm behind limbus; tube 1.5–2 mm, parallel to iris; no miotics or α-agonists after GDD; valved = valveless in efficacy except Sturge–Weber.
+- Same as G5: timolol 0.5%, brimonidine 0.2%, dorzolamide 2%, mannitol 1–2 g/kg; miotics and PGs avoided in NVG.
+- CLASH to align: G5 prints MMC 0.2–0.4 mg/ml for 2 min (Aravind 4.9 NVG chapter); GX and G2 print 0.2–0.5 mg/ml for 1–5 min (Aravind 4.18 Q65, 4.19 Q5, the dedicated sections). No newer book gives a dose. G5's values fall inside the range; propose G5 use the G2/GX wording.
+- Minor: G5 gives acetazolamide 250 mg twice daily (Aravind 4.9); GX gives 250 mg two to four times a day (Baidya). Compatible; no change needed.
+
+## Final counts (8 Oct 2026)
+- `wc -w` 3,855 (tables add pipe tokens); lint_card.py body words 3,502; builder rendered words 3,368; builder warnings 0.
+- 30 Q/A pairs, all in the viva section (Drugs 12 · Lasers 8 · Surgery 8 · Recent advances 2, both extra).
+- Test build: 7 PDF pages including the cover, so 6 card pages (toolkit budget 4–6).

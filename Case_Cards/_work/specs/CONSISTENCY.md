@@ -39,3 +39,15 @@
     of **520 µm**; a thinner cornea reads falsely low and a thicker one falsely high, by about **0.7 mm Hg per 10 µm**
     (Aravind 4.1, fitz 210; Baidya fitz 754). Categories: thin **< 500 µm**, thick **> 570 µm** (Namrata fitz 196).
     Use the same wording on G1, G8 and every card that mentions CCT.
+12. **Antimetabolites** (8 Oct 2026, from GX): every card prints **mitomycin C 0.2–0.5 mg/ml for 1–5 minutes** (Aravind
+    4.19, the dedicated wound-healing section; Baidya and Namrata give no dose). Aravind's NVG and uveitic chapters quote
+    0.2–0.4 mg/ml for 2 minutes, which lies inside that range — do not print it as a separate figure.
+    **5-fluorouracil 50 mg/ml for 5 minutes** intraoperatively, or **5 mg subconjunctival injections** after surgery,
+    as the GX card gives them.
+13. **Laser settings** follow Baidya where it gives them (Nd:YAG iridotomy, SLT, ALT, transscleral
+    cyclophotocoagulation); argon laser peripheral iridoplasty from Aravind 4.17 (200–400 mW, 0.1 s, 20–24 spots over
+    360°; no spot size — Aravind's printed "100–200 mm" is a misprint). The GX card holds the full settings; case cards
+    quote GX.
+14. **Laser trabeculoplasty is contraindicated in uveitic glaucoma** on every card (Baidya; Aravind 4.12).
+15. **Acetazolamide**: maintenance "250 mg two to four times a day"; the acute attack "250–500 mg stat, then 250 mg four
+    times a day" (as on GX and G4).
