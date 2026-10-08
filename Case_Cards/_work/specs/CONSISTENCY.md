@@ -69,3 +69,11 @@
     into the anterior chamber, bevel up (pars plana tube 3–4 mm, bevel down); patch graft covering 3–5 mm of tube.
     **Hypertensive phase**: "a transient pressure rise soon after surgery, with poor control although the device
     works". No trials and no Aurolab implant on any card (not in the books). GX and G2 must match these figures.
+23. **Spelling "glaukomflecken"** on every card (Namrata and Aravind; Baidya prints "glaucomflecken").
+24. **Watering history row** (G1 and G4 wording): watering may be lacrimation from pilocarpine, brimonidine allergy or
+    surface toxicity of long-term drops — the standard row on every glaucoma card that asks it.
+25. **ISGEO extent of appositional contact**: "3 or more quadrants (almost 270°)" (Baidya) on every card.
+    **Vogt's triad**: Baidya's and Namrata's version on every card.
+26. **Laser peripheral iridotomy peri-procedure regimen**: apraclonidine or brimonidine, one drop before and one after;
+    prednisolone acetate 1% four times daily for about a week (Baidya) — the same on G4 and GX.
+27. **UBM depth of penetration**: "about 4 mm" (Baidya) wherever it appears.

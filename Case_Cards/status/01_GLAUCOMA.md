@@ -7,7 +7,7 @@ Next step: pass 1 (ledger + v4 draft) running for every card in parallel since 8
 |---|---|---|
 | GX | drafted | New in v3/v4: glaucoma treatment toolkit (§8.2) |
 | G1 | ledger | POAG + glaucomatous optic disc — add block "Glaucomatous optic disc" |
-| G4 | ledger | Primary angle-closure disease — thesis topic, deepest card |
+| G4 | drafted | Primary angle-closure disease — thesis topic, deepest card |
 | G5 | drafted | Neovascular glaucoma — add block "Rubeosis iridis" |
 | G6 | ledger | Pseudoexfoliation — add block "Pseudoexfoliation" |
 | G7 | ledger | CRVO with POAG |

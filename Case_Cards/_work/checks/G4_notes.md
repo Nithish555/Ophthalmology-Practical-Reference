@@ -417,7 +417,7 @@ ARAVIND 4.7 (fitz 238) → The ladder, steps 1–3; drug table.
 ARAVIND 4.17 (fitz 292–298): Q1–2 → not on card (GX); Q3 → Viva (why YAG); Q4 → Viva (indications); Q5 → Viva (contraindications); Q6–8 → Viva (YAG vs argon); Q9 → Viva (technique) + laser table; Q10 → Viva (penetration); Q11 (argon techniques) → not on the card (card GX; cut for length); Q12 → Viva (complications); Q13 → Step 5 viva; Q14–23 (ALT, SLT) → card GX; Q24–25 → laser table (iridoplasty row) + ladder step 6; Q27 → Viva malignant glaucoma.
 
 ### v4 card statistics (writer, end of pass 1)
-- `wc -w` 6,496 · lint count 6,041 (budget 5,500 + 10%) · builder count 5,736, 0 warnings.
+- `wc -w` 6,498 · lint count 6,043 (budget 5,500 + 10%) · builder count 5,738, 0 warnings. Lint long-sentence flags left on purpose: the Keywords line, one exam-wording diagnosis line (21 words), the quoted book definition, and the approved Kanski text (kept verbatim).
 - Q/A pairs 54: 23 in the nine examination steps, 31 in the viva section (no short-case block on this card).
 - Kanski: the three approved bullets are unchanged from v2 (diffed against tag v2-build); the v2 viva answer on lens
   extraction is kept word for word. No new Kanski fact.
