@@ -35,3 +35,7 @@
 9. **"Cidamex"** in the NVG mnemonic: keep the mnemonic word as printed and gloss it once as "(oral acetazolamide)".
 10. **No book names or page numbers in the card body**; they go only in @readmore (printed pages: Baidya = fitz − 14,
     Namrata = fitz − 18, Kanski = fitz − 4; Aravind by section number).
+11. **Central corneal thickness (CCT) wording** (8 Oct 2026, from G8): Goldmann applanation is calibrated for a mean CCT
+    of **520 µm**; a thinner cornea reads falsely low and a thicker one falsely high, by about **0.7 mm Hg per 10 µm**
+    (Aravind 4.1, fitz 210; Baidya fitz 754). Categories: thin **< 500 µm**, thick **> 570 µm** (Namrata fitz 196).
+    Use the same wording on G1, G8 and every card that mentions CCT.

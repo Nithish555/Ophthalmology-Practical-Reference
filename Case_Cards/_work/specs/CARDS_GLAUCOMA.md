@@ -22,15 +22,15 @@ live on GX; case cards keep the short form and end their drug table with "Full p
 | # | Card | `@kind` | Sources (fitz; Baidya printed = fitz − 14, Namrata = fitz − 18) |
 |---|---|---|---|
 | GX | Glaucoma treatment toolkit | toolkit | Aravind 1.4 (fitz 44), 4.7 (238), 4.15 (275), 4.16 (286), 4.17 (292), 4.18 (301), 4.19 (315), 4.20 (319), 4.21 (328) · Baidya 166–194 (drug tables 170–172; trabeculectomy, SLT, GDD 173–180) · Namrata 189–225 |
-| G1 | ★ POAG, incl. the glaucomatous optic disc (L+S) | long | Baidya 166 (NTG 172), 195–215 (perimetry, OCT) · Namrata 189 · Aravind 4.8 (239), 4.4 (220), 4.15 (275), 4.16 (286), 4.3 · Proforma 7–9, 13 · Glaucoma case format · Aravind model glaucoma sheet |
+| G1 | ★ POAG, incl. the glaucomatous optic disc (L+S) | long | Baidya 166 (NTG 172), 195–215 (perimetry, OCT) · Namrata 189 · Aravind 4.8 (239), 4.4 (220), 4.15 (275), 4.16 (286), 4.3 (GDx nerve-fibre imaging) · Proforma 7–9, 13 · Glaucoma case format · Aravind model glaucoma sheet |
 | G2 | POAG with trabeculectomy — bleb assessment, failed bleb | long | Aravind 4.18 (301), 4.19 (315) · Baidya 166–194 (trabeculectomy passages) · Namrata 189–225 · Proforma 11 (bleb slide) |
 | G3 | POAG with glaucoma drainage device | long | Aravind 4.20 (319) · Baidya 187–194 · Namrata 194, 204, 213, 217 |
 | G4 | ★ Primary angle-closure disease (PACS / PAC / PACG), post-laser iridotomy, the acute attack. **The deepest card**: thesis on AS-OCT angle parameters and phacoemulsification in PACS | long | Baidya 162–165 · Namrata 196–202 · Aravind 4.6 (229; haloes and the Fincham test at 232), 4.7 (238), 4.5 UBM (227), 4.17 lasers (292), 4.14 lens-induced (differential) · Proforma 10–11 · approved Kanski uses in CONSISTENCY.md (text already on the v2 card; Kanski itself is not in the repo) |
 | G5 | ★ Neovascular glaucoma, incl. rubeosis iridis (L+S) | long | Baidya 190–194 · Namrata 210–214 · Aravind 4.9 (246) · Proforma 12 |
 | G6 | ★ Pseudoexfoliation syndrome and glaucoma (L+S) | long | Baidya 181–182 · Namrata 221–225 · Aravind 4.11 (259) · Proforma 12 |
 | G7 | ★ CRVO with POAG / hemi-CRVO with POAG | short | Baidya 278 · Namrata 234 · Aravind 6.6 (381) · FUNDUS CASE 18–19 |
-| G8 | ★ Applanation tonometry — perform and record | task | Aravind 4.1 (204), 4.3 · Baidya 752–754 · Glaucoma case format |
-| G9 | ★ Gonioscopy — perform, grade, draw | task | Aravind 4.2 (212) · Baidya 752–754, 162–165 · Namrata 196–202 · Glaucoma case format (Scheie, Shaffer, Spaeth) · Proforma 9 |
+| G8 | ★ Applanation tonometry — perform and record | task | Aravind 4.1 (204) · Baidya 752–754 (tonometry) · Namrata 196 (CCT) · Glaucoma case format |
+| G9 | ★ Gonioscopy — perform, grade, draw | task | Aravind 4.2 (212) · Baidya 755–756 (gonioscopy), 162–165 · Namrata 196–202 · Glaucoma case format (Scheie, Shaffer, Spaeth) · Proforma 9 |
 | G10 | ★ Humphrey field in glaucoma (last year's task) | chart | Baidya 195–208 (single-field interpretation 198) · Aravind 4.4 (220) · `Short Viva/fields viva.pdf` pp 1–4 · Imaging PDF "Visual fields" |
 | G11 | Other glaucomas the examiner may ask — childhood and secondary glaucomas (not on the checklist; extra) | viva | Baidya 183–186 (buphthalmos), 187–189 (Sturge–Weber) · Namrata 203–205 (Sturge–Weber short case), 206–209 (buphthalmos short case), 218–220 (steroid-induced) · Aravind 4.10 pigmentary, 4.12 uveitic, 4.13 steroid-induced, 4.14 lens-induced · angle recession and malignant glaucoma: grep the three books |
 

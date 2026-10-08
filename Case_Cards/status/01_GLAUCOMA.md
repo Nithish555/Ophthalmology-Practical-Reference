@@ -11,8 +11,8 @@ Next step: pass 1 (ledger + v4 draft) running for every card in parallel since 8
 | G5 | ledger | Neovascular glaucoma — add block "Rubeosis iridis" |
 | G6 | ledger | Pseudoexfoliation — add block "Pseudoexfoliation" |
 | G7 | ledger | CRVO with POAG |
-| G8 | ledger | Applanation tonometry (task) |
-| G9 | ledger | Gonioscopy (task) |
+| G8 | drafted | Applanation tonometry (task) |
+| G9 | drafted | Gonioscopy (task) |
 | G10 | v2 | Humphrey field (chart) |
 | G2 | v2 | POAG with trabeculectomy |
 | G3 | ledger | POAG with drainage device |

@@ -216,3 +216,11 @@ ARAVIND 4.1 (Q1–53):
 ARAVIND 4.8 Q36 (CCT) → Normal values. ARAVIND 4.3 → not relevant (GDx VCC).
 BAIDYA p.738–740 (instrument section; no FAQ list): every point → Instrument check, Steps, Common errors, Viva.
 NAMRATA POAG viva Q6 (why GAT before gonioscopy and dilatation) → Steps row 1 · Q9 (role of CCT) → Normal values.
+
+### v4 format decisions and final counts
+- Final counts: lint 1,210 words (task budget 800–1,100, +10% = 1,210); builder 1,138; `wc -w` 1,301 (counts the header lines, table pipes and arrows). 13 Q/A pairs, all in the viva section (Template D: the Steps table's "Why" column is the step viva). One `:::say` box (the spoken result), so every keyword is used in a say box or an answer.
+- Steps became a 2-column table (Step | Why); consent, instruction, anaesthetic, fluorescein, disinfection (before and after) and the order relative to other tests are all rows.
+- Common errors became a 2-column table (Error | Effect on the reading).
+- v2 items cut for the budget (still verified, can return): peak IOP 3–4 hours after the cortisol peak; posture (0.3–6 mm Hg); Tono-Pen in the operation theatre; Mackay–Marg and pneumatic tonometers for corneal scarring; the "Tono-Pen: CCT influences" point; NCT disadvantages (tear-film damage, false positives and negatives); Pascal's-principle wording; Schiotz advantages (portable, cheap, screening) and the Moses effect.
+- Lint flags the Keywords line as a 43-word "sentence"; it is a list line, not prose, so it was left.
+- "Examiners tick it" (Steps row 2) rests on the candidate's observed-station checklist (consent, patient instruction, tonometer checked, topical drops applied, handling) noted in the v2 ledger.
