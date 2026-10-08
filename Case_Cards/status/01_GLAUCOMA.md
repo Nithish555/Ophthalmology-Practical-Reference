@@ -11,8 +11,8 @@ Next step: examiner review (pass 2) running for every card; then the independent
 | G5 | reviewed | Neovascular glaucoma — add block "Rubeosis iridis" |
 | G6 | drafted | Pseudoexfoliation — add block "Pseudoexfoliation" |
 | G7 | drafted | CRVO with POAG |
-| G8 | drafted | Applanation tonometry (task) |
-| G9 | drafted | Gonioscopy (task) |
+| G8 | reviewed | Applanation tonometry (task) |
+| G9 | reviewed | Gonioscopy (task) |
 | G10 | drafted | Humphrey field (chart) |
 | G2 | reviewed | POAG with trabeculectomy |
 | G3 | reviewed | POAG with drainage device |
