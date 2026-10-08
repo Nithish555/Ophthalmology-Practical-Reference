@@ -233,9 +233,9 @@ Written 8 Oct 2026 (pass 1, v4 upgrade). Packet rebuilt at `cache/packets/G6.txt
 NAMRATA fitz 221–225 (p.203–207), ARAVIND fitz 259–264 (4.11); supporting pages listed in the packet header. Everything
 below is NEW or CHANGED on the v4 card. Unchanged v2 claims keep their entries above.
 
-@readmore v4 = Baidya p.125–126, 129, 150, 154, 156–158, 161–162, 165, 167–169, 190, 442, 731–732, 736–737 · Namrata
-p.174–176, 203–207, 342, 344, 418 · Aravind 1.1, 4.2, 4.6, 4.8, 4.9, 4.10, 4.11, 4.15, 4.17, 4.18; glaucoma model case
-sheet p.661–667.
+@readmore v4 = Baidya p.125–127, 129, 150, 154, 156–158, 161–162, 165–169, 190, 442, 731–732, 736–737 · Namrata
+p.174–176, 181, 198, 200–207, 342, 344, 418 · Aravind 4.2, 4.6, 4.8, 4.9, 4.10, 4.11, 4.15, 4.17, 4.18; glaucoma model
+case sheet p.661–667. (The pinhole question, Aravind 1.1, was cut in the final pass; its ledger line stays for reference.)
 
 ### History (new rows)
 - Chief complaints: mostly asymptomatic; sudden unilateral redness and pain; gradual loss of vision — BAIDYA fitz 181; "gradually diminishing vision for distance" — NAMRATA fitz 221
@@ -421,3 +421,33 @@ Aravind 4.11 (fitz 259–264):
 - Q26 Special features at surgery → Cataract surgery precautions table; viva (capsular tension ring, small pupil, soft shell).
 - Q27 LOXL1 → viva (Recent advances, extra); Recent advances.
 Aravind model case sheet "Why do we ask…?" (fitz 22–23): Q1 night blindness — not used (miotic-specific, POAG card G1); Q2 frequent change of glasses → negative history; Q3 sudden loss of vision → Step 1 viva; Q4 structural abnormalities → RE | LE table.
+
+### Late v4 edits during trimming (all facts already listed above unless noted)
+- Positive row "sudden pain and redness" folded into the negative "No redness?" row ("seen in a few PXF patients") — BAIDYA fitz 181; NAMRATA fitz 221.
+- Related terms added: Sampaolesi's line (BAIDYA fitz 183 Q6) and target sign (NAMRATA fitz 222; ARAVIND fitz 260 Q10 E).
+- LOXL1 moved from Recent advances to Pathogenesis as *(extra)* (ARAVIND fitz 264 Q27); trabecular aspiration stays in Recent advances.
+- Steroids can raise the pressure — NAMRATA fitz 218–220 (steroid-induced glaucoma chapter); typed format asks type and duration.
+- SLT "no heat spread to nearby tissue" — ARAVIND fitz 297 (Q22: "preventing thermal transfer to the surrounding tissue").
+- Dropped for space in the final pass: Spaeth pigment grading (left to G9); the disc and systemic rows of the comparison table (facts kept in Step 7 and Systemic associations); the "Order" recall line; the Malyugin ring in the precautions table (kept in the viva); the iris bullet of Pathogenesis (kept in Steps 3 and 6 and the short-case viva); the pseudophakia diagnosis example.
+
+### Inferences on the card (teaching links, not book sentences) — check these first
+- "PXG is usually unilateral, so the affected eye can show [an RAPD]" — NAMRATA fitz 224 + BAIDYA fitz 168.
+- "A complicated first eye warns me to plan the second with care" (viva, Why did you ask) — from the cataract risks (NAMRATA fitz 223; BAIDYA fitz 143) and bilateral disease (ARAVIND fitz 259 Q7).
+- "Inflammation heavier after surgery … shown by increased flare. So I give steroids …" — NAMRATA fitz 221 (flare) + NAMRATA fitz 224 and ARAVIND fitz 264 Q26 (steroids, heparin-surface-modified IOL).
+- Latanoprost "caution in uveitis and after herpes keratitis" — drawn from its adverse effects (uveitis, reactivation of dendritic keratitis: ARAVIND fitz 281 Q45); no book lists these as contraindications.
+- Prognosis "better / worse" lines — a summary of NAMRATA fitz 221, 224; ARAVIND fitz 261, 263.
+- "A physician checks the heart and blood pressure" and the fitness row (blood pressure, sugar, heart) — from the systemic associations (BAIDYA fitz 181) and ARAVIND fitz 25.
+- "PXF shows only flare and pigment" (negative history) — NAMRATA fitz 221 (flare, floating pigment) + NAMRATA fitz 223 (AC reaction and other uveitis signs absent).
+
+### Counts (final v4 pass 1)
+- `wc -w` card file: 6,178 · builder: 5,440 (budget 3,300–5,500, no warnings) · lint: 5,758 (within +10%).
+- Q/A pairs: 54 = 19 in the eight steps (2/2/3/2/3/3/2/2) + 31 in the viva section (5/9/3/3/8/2/1) + 4 in the short-case block.
+- Say-it: opening 158 words, closing about 215 words; short-case description about 115 words.
+- Lint leftovers: the Keywords line (a list, 14 terms) and the quoted Baidya definition (46 words, kept verbatim).
+
+### Proposals for CONSISTENCY.md
+- **Diamox:** gloss it once as "(oral acetazolamide)", as decision 9 does for "Cidamex". No book links the brand to the generic, so the card keeps "Postoperative Diamox" as printed.
+- **Age of pigment dispersion:** G6 keeps 30–50 years (NAMRATA fitz 225); G1 used 20–30 (NAMRATA fitz 192); ARAVIND fitz 255 says 3rd decade. Agree one figure for G1, G6 and G11.
+- **SLT energy:** use Baidya's 0.5–1.5 mJ (BAIDYA fitz 456) on every card (Aravind prints 0.3–2.0 mJ and "0.2–1.7 mW").
+- **Brimonidine strength:** the books differ (NAMRATA 0.1/0.15%; ARAVIND 0.2% tartrate, 0.15% purite). G6 writes 0.15%; GX may list all three.
+- **PART B mnemonic** (MNEMONICS fitz 50, "before dilatation of the pupil"): fits the pupil steps of G1, G4 and G5 as well.
