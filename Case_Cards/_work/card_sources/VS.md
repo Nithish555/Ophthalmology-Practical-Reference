@@ -171,7 +171,7 @@
 | 3:14:50 | Gonioscopy crosses | Scleral spur visible all round, both eyes |
 | 3:15:00 | Anterior segment tables with two small photographs | Van Herick 3; left IOL with an open capsulotomy |
 | 3:16:10 | Fundus table | Left CDR 0.6 with temporal pallor; peripheral laser marks |
-| 3:16:30 | Macula table | Shallow superotemporal detachment 2–5 o'clock with folds, macula involved, no break seen |
+| 3:16:30 | Macula table | Shallow detachment 2–5 o'clock (called superotemporal; in a left eye this is temporal) with folds, macula involved, no break seen |
 | 3:17:30 | **Left fundus photograph** | "Pale elevated retina superotemporally, involving the macula" |
 | 3:17:50 | Case summary | Read aloud |
 | 3:18:00 | **Fundus drawing, both eyes** | The examiner asked for it to be explained: blue = detached retina, black = laser marks |

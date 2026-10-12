@@ -27,9 +27,10 @@ A: Torch test (iris shadow on the nasal side) and the Van Herick slit-lamp gradi
 - grade 4: chamber ≥ 1 corneal thickness;
 - grade 3: ¼–½;
 - grade 2: ¼;
-- grade 1: < ¼.
+- grade 1: < ¼;
+- grade 0: iris touching the cornea.
 
-Grades 2 and 1 need gonioscopy.
+Grades 2, 1 and 0 need gonioscopy.
 Q: PACG with a significant cataract — what plan? (V2)
 A: Control the IOP medically first; judge the lens contribution (lens thickness). If controlled → cataract surgery alone and watch the IOP; sequential glaucoma surgery if needed. Combined surgery when uncontrolled with extensive synechial closure.
 Q: Target IOP for moderate glaucomatous damage? (V2)
@@ -57,9 +58,9 @@ A: VEGF from widely ischaemic retina that cannot itself support new vessels acts
 Q: Collaterals versus NVD? (V3)
 A: Collaterals are looped, do not branch and do not leak on FFA.
 Q: Why is superotemporal BRVO the commonest? (V3)
-A: Most arteriovenous crossings are in that quadrant. (added) It also drains the macula, so it is most often symptomatic.
+A: Most arteriovenous crossings are in that quadrant. (added) Temporal occlusions affect the macula and are noticed; nasal ones often go undetected.
 Q: Normal central macular thickness on OCT, and the oedema threshold? (V3)
-A: About 250 µm; more than 270–280 µm suggests oedema.
+A: About 250 µm; more than 270–280 µm suggests oedema — (added) the exact values depend on the OCT machine.
 Q: Dose of intravitreal ranibizumab? (V3)
 A: (added) 0.5 mg in 0.05 mL. Dexamethasone implant 0.7 mg; triamcinolone 4 mg/0.1 mL.
 Q: When do you do PRP in a CRVO? (V3)
@@ -71,11 +72,11 @@ A: Disc → macula → vessels → background.
 Q: Classify retinal detachment. (V8)
 A: Rhegmatogenous, tractional, exudative, combined.
 Q: Slit-lamp clues to a rhegmatogenous RD? (V8)
-A: Shafer's sign (pigment in the anterior vitreous — only in unoperated eyes) and a lower IOP than the other eye (≥ 5 mm Hg).
+A: Shafer's sign (pigment in the anterior vitreous — only in unoperated eyes) and a lower IOP than the other eye (about 4–5 mm Hg).
 Q: Lincoff's rules — the gist? (V8)
 A: The shape of the detachment points to the break. An inferior RD with equal sides → break near 6 o'clock; one side higher → break on that side; superior RD on one side → break near its highest border; crossing 12 o'clock → break near 12.
 Q: Degenerations that need prophylaxis versus those that do not? (V8)
-A: Treat lattice with holes (barrage laser) in at-risk eyes. Paving-stone (cobblestone) and microcystoid degeneration need no treatment.
+A: Treat lattice with holes (barrage laser) in at-risk eyes. Paving-stone (cobblestone), microcystoid and honeycomb degeneration and peripheral drusen need no treatment.
 Q: Indications for an encircling band? (V8)
 A: Breaks in several quadrants, extensive detachment or degeneration, (added) proliferative vitreoretinopathy.
 Q: Definition and signs of pathological myopia? (V7, V8)
@@ -89,7 +90,7 @@ A: Jules Gonin — find the break and seal it.
 Q: Commonest cause of unilateral and bilateral proptosis in adults? (V4)
 A: Thyroid eye disease, for both.
 Q: Name the TED signs. (V4)
-A: Dalrymple (lid retraction), von Graefe (lid lag on downgaze), Stellwag (infrequent blinking), Kocher (staring look), Möbius (weak convergence — early), Ballet (muscle restriction), Braley (IOP rises on upgaze).
+A: Dalrymple (lid retraction), von Graefe (lid lag on downgaze), Stellwag (infrequent blinking), Kocher (staring look), Möbius (weak convergence), Ballet (muscle restriction), Braley (IOP rises on upgaze). (added) The commonest and earliest sign is lid retraction.
 Q: CT in TED? If the tendon is involved? (V4)
 A: Fusiform enlargement of the muscle belly sparing the tendon. Tendon involved → orbital myositis.
 Q: Which exophthalmometer after a lateral orbitotomy? (V4)
@@ -101,7 +102,7 @@ A: Axial myopia (commonest), lid retraction, enophthalmos of the other eye, shal
 Q: Localise a third nerve lesion from the orbit to the nucleus. (V5)
 A:
 - Orbit — one division.
-- Fissure or cavernous sinus — III, IV, V1, V2, VI together.
+- Fissure — III, IV, V1, VI; cavernous sinus — also V2.
 - Subarachnoid space — PCOM aneurysm (pupil, pain), meningitis.
 - Fascicle — Nothnagel, Claude, Benedikt, Weber.
 - Nucleus — bilateral ptosis and opposite superior rectus weakness.
@@ -117,8 +118,8 @@ Q: Bacterial versus fungal keratitis? (V6)
 A: **Bacterial:** fast, sharp margins, dense infiltrate, sterile mobile hypopyon. **Fungal:** slow, vegetable trauma, dry raised ulcer, feathery margins, satellite lesions, immobile convex-topped hypopyon.
 Q: Where do you take a corneal scraping from? (V6)
 A: The leading edge and base, after removing debris; avoid thin areas.
-Q: Watson criteria for Mooren's ulcer? (V6)
-A: Crescentic peripheral ulcer with an undermined edge, no scleritis, no detectable systemic disease.
+Q: Mooren's ulcer — diagnostic features, and Watson's classification? (V6)
+A: Diagnosis: crescentic peripheral ulcer with an undermined edge, no scleritis, no detectable systemic disease. (added) Watson's types: 1 unilateral elderly painful; 2 bilateral aggressive young; 3 bilateral indolent elderly.
 Q: Goal of treating infectious keratitis? (V6)
 A: Eliminate the infection and prevent complications.
 Q: When is glue suitable for a corneal perforation? (V6)

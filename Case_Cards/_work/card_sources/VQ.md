@@ -101,7 +101,7 @@ Find the topic, jump to the time, and read the card named in the last column. Ti
 | Adnexa first; no digital tonometry after perforation | 2:30:04 | V6 corrections |
 | Scraping site, KOH smear, B-scan | 2:34:22 | V6 viva |
 | Antibiotic choice; monotherapy | 2:37:00 | V6 viva |
-| Mooren's ulcer versus PUK; Watson criteria | 2:38:04 | V6 viva |
+| Mooren's ulcer versus PUK; diagnostic features and Watson's types | 2:38:04 | V6 viva |
 | Syringing in infectious keratitis | 2:40:00 | V6 |
 | Peritomy; goal of treatment; glue versus therapeutic PK | 2:42:06 | V6 viva |
 | Anterior segment OCT for thinning | 2:47:00 | V6 viva |
