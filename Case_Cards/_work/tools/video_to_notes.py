@@ -34,14 +34,23 @@ def run(cmd, **kw):
 
 
 def download(url, out):
+    """Video + captions; if YouTube refuses the video ("confirm you're not a bot" on cloud IPs), fall back to the
+    captions alone through the embedded-player client, which still serves them (seen 12 Oct 2026)."""
     os.makedirs(out, exist_ok=True)
     base = os.path.join(out, 'video')
-    run([sys.executable, '-m', 'yt_dlp', '-f', 'bv*[height<=720][ext=mp4]+ba[ext=m4a]/b[height<=720]/b',
-         '--merge-output-format', 'mp4', '--write-info-json', '--write-subs', '--write-auto-subs',
-         '--sub-langs', 'en.*,en', '--sub-format', 'vtt', '-o', base + '.%(ext)s', url])
+    try:
+        run([sys.executable, '-m', 'yt_dlp', '-f', 'bv*[height<=720][ext=mp4]+ba[ext=m4a]/b[height<=720]/b',
+             '--merge-output-format', 'mp4', '--write-info-json', '--write-subs', '--write-auto-subs',
+             '--sub-langs', 'en.*,en', '--sub-format', 'vtt', '-o', base + '.%(ext)s', url])
+    except subprocess.CalledProcessError:
+        print('video download refused; fetching captions only (web_embedded client)', file=sys.stderr)
+        run([sys.executable, '-m', 'yt_dlp', '--skip-download', '--ignore-no-formats-error',
+             '--extractor-args', 'youtube:player_client=web_embedded', '--write-info-json', '--write-subs',
+             '--write-auto-subs', '--sub-langs', 'en,en-orig,en.*', '--sub-format', 'vtt', '-o', base + '.%(ext)s',
+             url])
     vids = [p for p in glob.glob(base + '.*') if p.endswith(('.mp4', '.mkv', '.webm'))]
     subs = sorted(glob.glob(base + '*.vtt'), key=lambda p: ('auto' in p or '-orig' in p, p))
-    return vids[0], (subs[0] if subs else None)
+    return (vids[0] if vids else None), (subs[0] if subs else None)
 
 
 def ts(sec):
@@ -132,16 +141,19 @@ def main():
     else:
         video, subs = a.source, None
     subs = a.subs or subs
-    dur = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', video],
-                               text=True, capture_output=True).stdout.strip() or 0)
-    raw = extract_frames(video, a.out, a.every, a.scene)
-    kept = dedupe(raw, a.out)
+    if video:
+        dur = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0',
+                                    video], text=True, capture_output=True).stdout.strip() or 0)
+        raw = extract_frames(video, a.out, a.every, a.scene)
+        kept = dedupe(raw, a.out)
+    else:
+        dur, raw, kept = 0, [], []
     segs = parse_vtt(subs) if subs else []
     with open(os.path.join(a.out, 'transcript.txt'), 'w') as f:
         for t, text in segs:
             f.write(f'[{ts(t)}] {text}\n')
     with open(os.path.join(a.out, 'timeline.md'), 'w') as f:
-        f.write(f'# Timeline — {os.path.basename(video)} ({ts(dur)}); {len(raw)} candidate frames, {len(kept)} kept\n\n')
+        f.write(f'# Timeline — {os.path.basename(video or "captions only")} ({ts(dur)}); {len(raw)} candidate frames, {len(kept)} kept\n\n')
         for i, (path, t) in enumerate(kept):
             end = kept[i + 1][1] if i + 1 < len(kept) else dur
             said = ' '.join(text for st, text in segs if t <= st < end)
