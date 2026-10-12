@@ -162,3 +162,159 @@ The earlier drafts/G9.md (no notes file) was replaced by this version.
 ## Mnemonic
 - "I CAN SEE TILL SCHWALBE'S LINE" (iris root, ciliary body, scleral spur, trabecular meshwork, Schwalbe's line) — MNEMONICS PDF fitz 61
 - Goldmann three-mirror lens: "The smallest the lens, the more peripheral the view" — MNEMONICS PDF fitz 58
+
+## v4 additions
+
+Packet rebuilt 8 Oct 2026: `cache/packets/G9.txt` — ARAVIND fitz 212–217 (4.2), 22 (model sheet), 52 (1.5),
+233–234 (4.6), 238 (4.7), 240 (4.8), 248 (4.9), 255 (4.10) · BAIDYA fitz 755–756 (= p.741–742), 162–165
+(= p.148–151), 166 (= p.152), 168 (= p.154), 181 (= p.167), 183 (= p.169), 185 (= p.171), 135 (= p.121),
+279 (= p.265), 729 (= p.715) · NAMRATA fitz 196–202 (= p.178–184), 191 (= p.173), 222–223 (= p.204–205),
+236 (= p.218), 372 (= p.354) · typed Glaucoma Case Presentation Format · proforma PDF p.9 transcript ·
+lastyear.md · mnemonics PDF. Also used: ARAVIND fitz 243 (4.8 Q39, miotics in angle recession).
+Note on the caller's page list: the gonioscopy instrument pages in Baidya are fitz 755–756 (p.741–742); fitz 752–754
+(p.738–740) are the tonometers (card G8).
+
+### New or changed claims (v4)
+Indications
+- Exclude angle closure and look for secondary causes of open-angle glaucoma (angle recession, pseudoexfoliation, pigment dispersion) — BAIDYA fitz 168; NAMRATA fitz 191 (adds PAS, angle neovascularisation)
+- Gonioscopy of both eyes in all patients in whom angle closure is suspected — NAMRATA fitz 198
+- Gonioscopy every year in open-angle glaucoma: with age the lens thickens and an angle-closure component may develop, which may need iridotomy — ARAVIND fitz 240 (4.8 Q12)
+- Post-operative: ostium, cyclodialysis, iridotomy — ARAVIND fitz 214 (Q10 vi); iridotomy patency — BAIDYA fitz 755
+- Undilated gonioscopy for angle new vessels in CRVO — BAIDYA fitz 279 ("a must ... in an undilated iris"); NAMRATA fitz 236 ("undilated gonioscopy is essential")
+- Therapeutic: indentation breaks an acute attack; goniotomy, goniophotocoagulation — ARAVIND fitz 214 (Q10 B)
+- Optical gonioscopy is the gold standard; AS-OCT and UBM are other methods — BAIDYA fitz 756; UBM gives high-quality images but gonioscopy remains the gold standard for narrow angle and angle closure (PAS extent, PAS versus apposition); imaging is complementary, not a substitute — BAIDYA fitz 729
+Instrument check
+- Goldmann single, two- and three-mirror; Zeiss four-mirror, Posner, Sussman — BAIDYA fitz 755; ARAVIND fitz 212 (Q4)
+- Goldmann two-mirror to see angle structures; Zeiss four-mirror for indentation — BAIDYA fitz 164, 193
+- Start with a two-mirror lens (Goldmann) to avoid artefactual distortion of the angle by inadvertent pressure on the cornea — NAMRATA fitz 198
+- Goldmann: 12 mm contact, steeper than cornea → viscous coupling agent; stabilises the globe; suits trabeculoplasty; angle mirror smallest and dome-shaped — BAIDYA fitz 756 (v2)
+- Zeiss four-mirror: 9 mm, no coupling agent, entire angle quickly, indentation; not for trabeculoplasty (eye not stabilised) — BAIDYA fitz 755 (v2); Posner — permanently attached holder rod; Sussman — held directly, the patient's own tears as fluid bridge — ARAVIND fitz 213
+- Direct lenses (Koeppe, Barkan, Swan-Jacob, Richardson); hand-held microscope; supine; general anaesthesia in infantile glaucoma; erect view — BAIDYA fitz 755; ARAVIND fitz 212 (Q4–5)
+- Anhydrous glycerin (one or two drops) for gonioscopy through corneal oedema — ARAVIND fitz 233 (4.6 Q24)
+Steps
+- Van Herick first as an initial guide — BAIDYA fitz 163; IOP before gonioscopy (preferably GAT) — BAIDYA fitz 164; NAMRATA fitz 198
+- Why IOP before gonioscopy: gonioscopy pressure opens the angle and lowers IOP; GAT after gonioscopy reads low — NAMRATA fitz 195 (Q6)
+- Defer gonioscopy until corneal oedema resolves in acute attacks — BAIDYA fitz 164, 193
+- Dilatation avoided in narrow angles and contraindicated in angle closure until iridotomy — BAIDYA fitz 164; NAMRATA fitz 199
+- Topical anaesthesia; lens placed at the slit lamp with or without a fluid bridge; rotated through 360°; patient looks in the direction of the mirror in use to see into a narrow angle — ARAVIND fitz 213
+- Semi-dark room for slit-lamp examination (examiner's eyes partly dark-adapted) — ARAVIND fitz 52 (1.5 Q3)
+- Slit beam 2 mm wide, axis at a right angle to the mirror; opposite angle viewed — BAIDYA fitz 756
+- Mirror image of the opposite angle — BAIDYA fitz 755; "mirror at 12 o'clock shows the inferior angle; at 3 o'clock the 9 o'clock angle" is a direct application (v2 accepted)
+- Grade without pressure first — NAMRATA fitz 198; ARAVIND fitz 217 ("without indentation or manipulation")
+- Indentation: gentle posterior pressure with the Zeiss four-mirror forces aqueous into the angle, pushing the peripheral iris back; apposition opens, PAS stays closed — BAIDYA fitz 755; extent of PAS — NAMRATA fitz 199; varying the pressure — ARAVIND fitz 214 (Q8)
+- Grade O needs indentation with the Zeiss lens to tell apposition from synechiae — ARAVIND fitz 217
+- Double-hump sign on indentation gonioscopy in plateau iris — BAIDYA fitz 166
+- Axially depressing the central cornea may force open the angle temporarily (acute attack) — ARAVIND fitz 238 (4.7)
+- Note list (structures, iris configuration, PAS, neovascularisation, pigmentation, Sampaolesi's line) — TYPED FORMAT; pseudoexfoliation material ("whitish material in the angle") — BAIDYA fitz 141, 181; ARAVIND fitz 214
+- Disinfect the lens before and after use — Template D requirement; no book gives an agent for goniolenses (see Omitted)
+How to record
+- Deepest structure per quadrant; :::gonio RE SS ×4, LE S=TM, rest SS — CONSISTENCY 2; last year's sheet (lastyear.md) (v2)
+- Aravind model wording: "Trabecular meshwork seen in all four quadrants with a patent ostium and peripheral iridectomy seen superiorly" — ARAVIND fitz 22
+- Department line on "modified Shaffer" — CONSISTENCY 2 wording, verbatim (v2)
+Normal values and interpretation (structures table)
+- Order from the iris root forwards: CBB, SS, TM, SL — ARAVIND fitz 214 (Q9); mnemonic "I CAN SEE TILL SCHWALBE'S LINE" — MNEMONICS PDF fitz 61
+- CBB: pink, dull brown or slate-grey band just behind the spur; width depends on iris insertion; narrower in hypermetropes, wider in myopes — BAIDYA fitz 756 (ARAVIND: grey or dark brown — Disagreement 6, Baidya used)
+- SS: narrow (prominent) white band/line just behind the trabeculum; posterior lip of the scleral sulcus; attachment of the longitudinal ciliary muscle — BAIDYA fitz 756; ARAVIND fitz 214
+- Iris processes insert at the level of the scleral spur and cover the ciliary body to a varying extent — BAIDYA fitz 756
+- TM: from SL to SS, average width 600 µm — BAIDYA fitz 756; pigmented band, posterior part = primary outflow site — ARAVIND fitz 214; anterior non-pigmented — ARAVIND fitz 216
+- Schlemm's canal: slightly darker line deep to the posterior trabeculum, especially if non-pigmented; blood sometimes seen — BAIDYA fitz 756
+- SL: most anterior, whitish to variably pigmented; peripheral end of Descemet's membrane and anterior limit of the trabeculum — BAIDYA fitz 755; junction of angle structures and cornea — ARAVIND fitz 214
+- Shaffer, Scheie, Spaeth, occludable angle — CONSISTENCY 1 = ARAVIND fitz 216–217 (v2, unchanged)
+- Spaeth width = angle between tangents to the peripheral third of the iris and the inner corneoscleral wall — ARAVIND fitz 217
+- Van Herick 4 ≥ 1, 3 ¼–½, 2 ¼, 1 < ¼; < ¼ may be occludable — CONSISTENCY 3; NAMRATA fitz 201; BAIDYA fitz 163–164; grade 0 = iridocorneal contact — NAMRATA fitz 201
+Common errors
+- Pressure → apposition opens (looks open) — BAIDYA fitz 755; NAMRATA fitz 198 (artefactual distortion)
+- Gonioscopy before tonometry → IOP falsely low — NAMRATA fitz 195
+- Angle recession must be confirmed by comparing with the fellow eye — NAMRATA fitz 372
+- Others v2 (opposite quadrant, Sampaolesi/pigmented SL, synechial without indentation, iris processes)
+Viva
+- Principle: total internal reflection at the precorneal tear film / tear–air interface; goniolens replaces it with an interface of higher refractive index than cornea and tears; indirect mirror sends rays out at much less than the critical angle — BAIDYA fitz 755; ARAVIND fitz 212 (v2)
+- Direct versus indirect table — ARAVIND fitz 213–214 (Q7): indirect — equipment available, quicker, compression possible, slit lamp light and optics; orientation confusing initially, difficult in narrow angles · direct — binocular comparison, simple orientation, can see over a convex iris; special equipment, time-consuming, expensive, uncomfortable supine
+- Iris processes versus PAS; normal versus new vessels; Sampaolesi's line versus pigmented TM — ARAVIND fitz 215 (Q11–13) (v2)
+- New vessels: Wand's stage 4 = vessels cross the scleral spur — ARAVIND fitz 248 (4.9 Q10)
+- Sampaolesi's line: dark, dense, scalloped band of pigment on or anterior to Schwalbe's line; seen in pseudoexfoliation, not exclusive — also pigment dispersion syndrome and chronic inflammation — BAIDYA fitz 183 (Q6), 181; NAMRATA fitz 222–223 ("dark, dense and uneven wavy pigmentation along Schwalbe's line")
+- Pseudoexfoliation: dandruff-like deposit on the trabecular meshwork — BAIDYA fitz 181
+- Pigmentary glaucoma: wide-open angle; dense, homogeneous dark-brown pigment over the full circumference of the TM; pigmented Schwalbe's line — ARAVIND fitz 255 (4.10 Q4)
+- Causes of TM pigmentation (11 listed; card names 6: pigmentary glaucoma/pigment dispersion, pseudoexfoliation, trauma, after laser iridotomy, after acute angle closure, anterior uveitis) — ARAVIND fitz 215 (Q14)
+- Causes of PAS: PACG, anterior uveitis, ICE syndrome, after intraocular surgery, trauma — ARAVIND fitz 216 (Q17)
+- After trauma: angle recession, trabecular dialysis, cyclodialysis, foreign bodies — ARAVIND fitz 216 (Q18); blood — ARAVIND fitz 215 (Q15)
+- Angle recession: separation of circular from longitudinal ciliary muscle fibres; posterior displacement of the iris and widening of the CBB on gonioscopy; compare with the fellow eye — NAMRATA fitz 372; tear in the circular muscle of the ciliary body — BAIDYA fitz 135
+- Cyclodialysis: separation of the ciliary body attachment from the scleral spur; can cause hypotony — NAMRATA fitz 372; BAIDYA fitz 135
+- Miotics ineffective in angle-recession glaucoma (trabecular scarring); prostaglandin analogues drug of choice — ARAVIND fitz 243 (4.8 Q39)
+- Blood in the angle: post-traumatic, post-surgical, post-laser; ghost cells as candy-stripe — ARAVIND fitz 215 (Q15); blood in Schlemm's canal: raised episcleral venous pressure (carotid-cavernous fistula, dural shunt, Sturge–Weber, superior vena cava obstruction, ocular hypotony, after gonioscopy) or low IOP (after trabeculectomy, hypotony) — ARAVIND fitz 215–216 (Q16)
+- Angle closure: chronic — PAS late; acute/subacute — occludable configuration — ARAVIND fitz 233 (4.6 Q23)
+- Congenital glaucoma (direct gonioscopy): smooth, homogeneous, compacted TM; high anterior iris insertion; vascular loops at the iris root from the major arterial circle (Loch Ness monster phenomenon); fine fluffy tissue on the peripheral iris (Lister's morning mist) — BAIDYA fitz 185
+
+### Disagreements (v4)
+- **CBB colour**: BAIDYA fitz 756 "pink, dull brown or slate grey"; ARAVIND fitz 214 "gray or dark brown". Card: Baidya (newer).
+- **Which Goldmann lens**: BAIDYA fitz 164, 193 and NAMRATA fitz 198 name the two-mirror lens for grading; BAIDYA fitz 756 describes the three-mirror. Card: "Goldmann two- or three-mirror lens".
+- **Van Herick "suspicious" grades**: NAMRATA fitz 201 calls grades 0–2 suspicious of angle closure; BAIDYA fitz 163–164 and NAMRATA fitz 198 say < ¼ (grade 1) may be occludable. Card: CONSISTENCY 3 (< ¼).
+- **Sampaolesi's line position**: BAIDYA "on Schwalbe's line or anterior to it"; NAMRATA "along Schwalbe's line"; ARAVIND fitz 255 "a pigment line anterior to Schwalbe's line". Card: Baidya.
+- **Principle wording**: ARAVIND Q1 "total internal refraction" (typo) versus Q3 and BAIDYA "reflection". Card: reflection (v2).
+- v2 disagreements 1–10 stand.
+
+### Omitted (v4)
+- **Corneal wedge (parallelepiped) technique** for finding Schwalbe's line: not in the three books (searched "parallelepiped", "corneal wedge", "wedge", "optical section"). The card identifies each structure by the books' descriptions instead.
+- **Order of quadrants**: no book gives one (only "rotate through 360°"). The card gives the opposite-angle rule only.
+- **Inversion in the mirror beyond "mirror image of the opposite angle"** (for example whether left and right are reversed within the image): not in the books.
+- **Goniolens disinfection agent and method; coupling-fluid name; contact-lens care**: not in the books.
+- **Dim room "because light constricts the pupil and opens the angle"; beam kept off the pupil**: not in the books (Kanski only, not approved). The card says "semi-dark room", which the books give for any slit-lamp examination.
+- **Grading of PAS extent in clock hours; Spaeth pigment grade numbering below 4**: not stated (CONSISTENCY 1 supplies 0–4).
+- **Provocative tests** (ARAVIND fitz 234) — belong to G4.
+- **Cycloscopy** (ARAVIND Q2), lens dimensions (single mirror 62°, Zeiss 64°), Ritch and Trabeculens lenses, goniotomy steps: left off for the budget.
+- **PXF versus pigmentary glaucoma gonioscopy table** (ARAVIND fitz 261 Q15; garbled two-column text): belongs to G6/G11.
+
+### Mnemonic
+- "I CAN SEE TILL SCHWALBE'S LINE" (angle structures) — MNEMONICS PDF fitz 61 (mnemonic 60 / 71; page footer 63).
+- "The smallest the lens, the more peripheral the view" (Goldmann three-mirror) — MNEMONICS PDF fitz 58 (mnemonic 57 / 71; page footer 60).
+
+### Coverage of the books' FAQs
+ARAVIND 4.2: Q1 definition, Q3 principle → Viva 1 · Q2 cycloscopy → omitted (budget) · Q4 lenses → Instrument check · Q5–6 direct, indirect → Instrument check, Viva 2 · Q6 technique → Steps · Q7 comparison → Viva 2 · Q8 compression → Steps, Viva 3 · Q9 structures → Normal values table · Q10 uses → Indications · Q11–13 → Viva · Q14 TM pigment → Viva · Q15–16 blood → Viva · Q17 PAS causes → Viva · Q18 trauma → Viva · Shaffer, occludable, Scheie, Spaeth → Normal values.
+ARAVIND 4.6 Q23 (findings in angle closure) → Viva; Q24 (oedema, glycerin) → Instrument check, Steps · 4.7 (gonioscopy of both eyes in an attack; corneal indentation) → Viva 3 · 4.8 Q12 (yearly gonioscopy) → Indications; Q39 (miotics in angle recession) → Viva · 4.9 Q10 (Wand stage 4) → Viva · 4.10 Q4 (pigmentary glaucoma) → Viva.
+BAIDYA p.741–742 (instrument section): every point → Instrument check, Normal values, Viva · p.150, 154 → Steps, Indications · p.152 (double hump) → Viva 3 · p.169 Q6 (Sampaolesi) → Viva · p.171 (congenital) → Viva *(extra)* · p.715 (gold standard) → Indications/Viva.
+NAMRATA PACG (p.178–184): Q1 Van Herick → Normal values · Q2–Q8 (risk factors, mechanisms, LPI, ISGEO) → card G4 · examination text (two-mirror first, indentation, gradings) → Instrument check, Steps · POAG Q6 → Steps · p.354 Q6 (rings of trauma) → Viva (angle recession, cyclodialysis).
+
+### v4 format decisions and final counts
+- Final counts: lint 1,207 words (task budget 800–1,100, +10% = 1,210; the `:::gonio` block counts about 35); builder 1,138; `wc -w` 1,394. 13 Q/A pairs, all in the viva section.
+- Steps became a 2-column table (Step | Why); consent, instruction, anaesthetic, disinfection (before and after), the order relative to Van Herick, tonometry and dilatation, and deferral for corneal oedema are all rows. Fluorescein is not used in gonioscopy (no book mentions it), so it has no row.
+- New tables: lenses (Lens | Contact and coupling | Best for) and the angle structures (Structure | How to recognise it). Shaffer, occludable, Scheie, Spaeth and Van Herick kept exactly per CONSISTENCY 1 and 3; Van Herick grade 0 (NAMRATA fitz 201) dropped to keep CONSISTENCY 3's four grades.
+- `:::gonio` unchanged in content (CONSISTENCY 2); caption shortened. The department line is CONSISTENCY 2's wording, split into two sentences, with "POAG" spelt out (abbreviation rule, as the v2 fact-check did).
+- Inferred, kept as procedure: "Disinfect the lens before and after each patient — it touches every patient's cornea" (Template D asks for disinfection; no book gives a goniolens agent); "The lens curve is steeper than the cornea" is the book's reason for the coupling fluid (BAIDYA fitz 756).
+- Cut for the budget (verified, can return): CBB narrower in hypermetropes, wider in myopes; TM width 600 µm; Schlemm's canal blood; trabecular dialysis; blood in Schlemm's canal causes; Wand stage 4; pigmentary-glaucoma gonioscopy; indentation breaking an acute attack is kept only under Indications; the Goldmann three-mirror mnemonic (only the angle-structures mnemonic stays).
+- Lint flags the Keywords line (35 words, a list) and the CONSISTENCY 2 sentence (22 words, contains a quotation); both left as they are.
+
+## Examiner additions
+
+Pass 2 (senior examiner), 8 Oct 2026. Every new or changed claim, with its page. Review: `checks/G9_review.md`.
+
+### Added
+- Record a closed quadrant as appositional (opens on indentation) or synechial (PAS) — BAIDYA fitz 755 (indentation opens apposition, PAS stays closed); ARAVIND fitz 217 (grade O needs indentation to tell them apart); two forms of iridotrabecular contact, appositional and synechial — ARAVIND fitz 230 (4.6 Q4)
+- Written example: pigmented TM as the deepest structure = Shaffer grade 2 (moderately narrow) — ARAVIND fitz 216 (book Shaffer, Arabic numeral, outside the diagram, per CONSISTENCY 1–2)
+- CBB wider in myopic eyes (narrower in hypermetropes) — BAIDYA fitz 756
+- Blood in Schlemm's canal: after gonioscopy, raised episcleral venous pressure (carotid-cavernous fistula, dural shunt, Sturge–Weber, superior vena cava obstruction, ocular hypotony), low IOP (after trabeculectomy, hypotony) — ARAVIND fitz 215–216 (Q16); blood can sometimes be seen in the canal — BAIDYA fitz 756
+- Plateau iris on indentation: double hump — BAIDYA fitz 166; sine-wave peripheral iris "hanging over the anterior ciliary processes" — ARAVIND fitz 231 (4.6 Q8)
+- ISGEO staging: PACS = posterior-meshwork ITC in 3 or more quadrants (almost 270°), no PAS, normal IOP, disc and field — BAIDYA fitz 165; PAC = ITC > 270° with elevated IOP and/or PAS, normal disc and fields; PACG = adds optic nerve and field damage — ARAVIND fitz 229 (4.6 Q2). Same wording as card G4.
+- Direct versus indirect rewritten as sentences: direct — erect view, can see over a convex iris, time-consuming, supine; indirect — quicker, compression possible, orientation confusing initially — ARAVIND fitz 212 (Q5), 213–214 (Q7)
+- Angle recession: widening of the ciliary body band is the most important sign; compare with the fellow eye — NAMRATA fitz 216, 372
+
+### Moved or changed
+- Occludable-angle definition moved from Normal values into the viva (same wording) — ARAVIND fitz 217 (CONSISTENCY 1).
+- Old viva "Gonioscopy in angle closure?" replaced by the occludable + ISGEO answer (acute/chronic line from ARAVIND fitz 233 dropped).
+- "IOP" avoided in the new answer ("pressure"), because the card never expands IOP.
+- Indications line shortened to "secondary causes" (Step 12 lists them).
+
+### Disagreement noted
+- ITC extent for PACS: BAIDYA fitz 165 "3 or more quadrants (almost 270°)"; ARAVIND fitz 229 "greater than 270°"; NAMRATA fitz 200 "> 180°". Card: Baidya (newest), as on G4.
+
+### Cut for the budget (verified; all are on other cards)
+- Viva "Why do miotics fail in angle-recession glaucoma?" (ARAVIND fitz 243) — on G11.
+- *(extra)* congenital glaucoma gonioscopy (BAIDYA fitz 185) — on G11.
+- Indications "indentation can break an acute attack" (ARAVIND fitz 214) — on G4.
+- Common-errors row "not comparing the fellow eye" (NAMRATA fitz 372) — kept in the trauma answer.
+- The mnemonic line "I CAN SEE TILL SCHWALBE'S LINE" (MNEMONICS PDF fitz 61) — the order stays in Step 10 and the structures table.
+
+### Not added (considered)
+- Deferring gonioscopy 4–6 weeks after acute trauma (NAMRATA fitz 216): on G11; budget.
+- Goldmann three-mirror: central lens 30° posterior pole, equatorial and peripheral mirrors (BAIDYA fitz 756; ARAVIND fitz 213): budget.
+- Coupling-fluid name: the books name methylcellulose only for UBM and laser lenses (BAIDYA fitz 729, UBM; NAMRATA fitz 452, YAG capsulotomy lens), never for a goniolens.
+- Van Herick technique (slit beam at the temporal limbus at 60°): only on the department slide; it is on G4 Step 3.

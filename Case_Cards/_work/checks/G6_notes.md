@@ -226,3 +226,287 @@ Department (non-packet) sources used for wording and context only, not for clini
 
 ## Mnemonic
 - **PIGMENT** (causes of trabecular pigmentation) — MNEMONICS PDF fitz 38 (Part I, 37/71): Pseudoexfoliation and Pigment dispersion syndrome · Iritis · Glaucoma (post angle-closure glaucoma) · Melanosis of the angle (oculodermal melanosis) · Endocrine (diabetes, Addison's) · Naevus (Cogan–Reese syndrome) · Trauma.
+
+## v4 additions
+
+Written 8 Oct 2026 (pass 1, v4 upgrade). Packet rebuilt at `cache/packets/G6.txt`: core BAIDYA fitz 181–183 (p.167–169),
+NAMRATA fitz 221–225 (p.203–207), ARAVIND fitz 259–264 (4.11); supporting pages listed in the packet header. Everything
+below is NEW or CHANGED on the v4 card. Unchanged v2 claims keep their entries above.
+
+@readmore v4 = Baidya p.125–127, 129, 150, 154, 156–158, 161–162, 165–169, 190, 442, 731–732, 736–737 · Namrata
+p.174–176, 181, 198, 200–207, 342, 344, 418 · Aravind 4.2, 4.6, 4.8, 4.9, 4.10, 4.11, 4.15, 4.17, 4.18; glaucoma model
+case sheet p.661–667. (The pinhole question, Aravind 1.1, was cut in the final pass; its ledger line stays for reference.)
+
+### History (new rows)
+- Chief complaints: mostly asymptomatic; sudden unilateral redness and pain; gradual loss of vision — BAIDYA fitz 181; "gradually diminishing vision for distance" — NAMRATA fitz 221
+- PXF often an incidental finding on routine examination — NAMRATA fitz 221; BAIDYA fitz 181
+- Sudden loss of vision in a glaucoma patient: acute IOP rise with corneal oedema; CRVO; snuff-out after trabeculectomy in advanced glaucoma — ARAVIND fitz 23 (model case sheet Q3)
+- CRVO as a PXF complication — ARAVIND fitz 261 (Q16)
+- Mitomycin C essential after topical medication for over 3 years — BAIDYA fitz 179 (Q28 e)
+- Timolol side effects (bronchospasm, bradycardia) and brimonidine side effects (dry mouth, somnolence) — ARAVIND fitz 277, 279
+- Laser trabeculoplasty: higher success than POAG, shorter duration — ARAVIND fitz 263 (Q23 iv)
+- PXF raises the risk of PC rent; friable posterior capsule — BAIDYA fitz 143 (Q2, Q4)
+- Late IOL dislocation from spontaneous loss of zonular support in PXF — NAMRATA fitz 362; late IOL decentration and prolapse into the posterior segment — NAMRATA fitz 223 (Q2)
+- Haloes: corneal epithelial oedema; other causes mucus, incipient cataract, vitreous opacities, snow blindness, tilted IOL; Fincham test — ARAVIND fitz 232 (4.6 Q14–17)
+- Watering: pilocarpine causes lacrimation — BAIDYA fitz 170 (side effects); punctal stenosis — ARAVIND fitz 276 (Q7)
+- Iris transillumination defects from trauma, post-herpes — BAIDYA fitz 183 (Q8)
+- Angle-recession glaucoma in the differential of unilateral glaucoma, with PXG — NAMRATA fitz 216
+- Frequent change of glasses: accommodation impaired by high pressure; field loss confused with poor vision — ARAVIND fitz 22 (model case sheet Q2)
+- PDS: young, myopic, male — ARAVIND fitz 255 (4.10 Q1); NAMRATA fitz 225 (Table 3)
+- Beta-blocker contraindications: CCF, second- or third-degree heart block, bradycardia, asthma, COPD — ARAVIND fitz 276 (Q11)
+- CAI avoided in sulfa allergy, renal failure, renal transplant, chronic liver disease — ARAVIND fitz 281 (Q42)
+- Steroid use: note type and duration; bronchial asthma contraindicates beta-blockers — TYPED FORMAT (Glaucoma Case Presentation Format) p.1
+- Diabetes and hypertension weighed before surgery in a glaucoma patient — ARAVIND fitz 25 (model case sheet, "POAG with significant cataract")
+
+### Examination (new or changed)
+- IOP before gonioscopy or dilatation, preferably by GAT; record the time — BAIDYA fitz 164, 168; NAMRATA fitz 191
+- Dilatation avoided in narrow angles; contraindicated in angle closure until iridotomy — BAIDYA fitz 164; NAMRATA fitz 199
+- RAPD can be seen in advanced glaucoma — BAIDYA fitz 168
+- "PXG usually unilateral" + "RAPD in advanced cases" → "the affected eye can show it": my link of NAMRATA fitz 224 and BAIDYA fitz 168
+- Asymmetric pupil in PXF — NAMRATA fitz 222
+- Poor mydriasis from atrophic/fibrotic sphincter — NAMRATA fitz 222; ARAVIND fitz 260 (Q10 D)
+- Transillumination test positive in PXF; iridodonesis common; poorly dilating pupil — NAMRATA fitz 360
+- Retro-illumination of the fundus (beam coaxial, then slightly off-axis through the pupil margin) — BAIDYA fitz 745; uses include pseudoexfoliation — BAIDYA fitz 746; ARAVIND fitz 56 (1.5)
+- Transillumination defects: peripupillary in PXF, mid-peripheral in pigmentary glaucoma — ARAVIND fitz 255 (4.10 Q3), 257 (Q11); NAMRATA fitz 221, 223
+- PDS mechanism: rubbing of posterior iris and zonules — NAMRATA fitz 225 (Table 3); ARAVIND fitz 256 (Campbell's theory)
+- AC shallow in PXF; floating pigment; flare — NAMRATA fitz 221; AC shallow in PXF — NAMRATA fitz 360
+- Pinhole: admits central rays; improves 2 lines or more → refractive error; no gain → organic cause — ARAVIND fitz 31 (1.1 Q20–21)
+- Vision loss in PXG marked from nuclear sclerosis — NAMRATA fitz 224 (Table 2)
+- Greater visual field loss in PXG than POAG — NAMRATA fitz 192
+- Sampaolesi's line vs pigmented TM: salt-and-pepper / brown sugar; dark and granular / fine; discontinuous / continuous — ARAVIND fitz 215 (4.2 Q13; checked on the rendered page)
+- Spaeth TM pigmentation 0 (none) to 4 (dense) — ARAVIND fitz 217 (not used on the card in the end; kept in G9)
+- PDS gonioscopy: wide open angle, dense homogeneous dark brown pigment in the full circumference — ARAVIND fitz 255 (4.10 Q4); "prominent uniform dark pigmentation band" — NAMRATA fitz 223
+- Occludable angle reasons: zonular weakness with forward lens–iris diaphragm; lens thickening from cataract — ARAVIND fitz 262 (Q19)
+- Disc: diffuse rim damage (sectoral preference in POAG); more glaucomatous optic atrophy — ARAVIND fitz 261 (Q17); diffuse loss of NRR — NAMRATA fitz 192
+- Confrontation method: 60 cm, finger from periphery, each quadrant; a rough assessment — BAIDYA fitz 176 (Q12)
+- Cataract, media opacity and small pupil cause uniform generalized depression; pattern deviation probability plot normal in it, and reveals scotomas masked under it — BAIDYA fitz 204
+- Gonioscopy cross: deepest structure only (SS) — CONSISTENCY §2 (unchanged from v2)
+
+### Diagnosis and differentials
+- Uveitic glaucoma excluded: AC reaction and other signs of uveitis absent — NAMRATA fitz 223
+- PACG differentiated by its characteristic clinical signs — NAMRATA fitz 223 (card: gonioscopy names the sign)
+- Primary amyloidosis: generalized systemic disorder, bilateral, fine whitish powdery deposits throughout the eye — NAMRATA fitz 223
+- True exfoliation: thin clear membrane separating from the anterior capsule; glaucoma infrequent — NAMRATA fitz 223; scroll-like, may float in AC — ARAVIND fitz 259 (Q1)
+- DD list incl. melanosis and melanoma, uveitis — ARAVIND fitz 263 (Q22); trauma/herpes transillumination defects — BAIDYA fitz 183 (Q8)
+- Causes of TM pigmentation (adds pseudophakic pigment dispersion, after YAG iridotomy) — ARAVIND fitz 215 (4.2 Q14); PIGMENT mnemonic — MNEMONICS fitz 38
+- PXF vs PDS rows: PDS no systemic association; PXF management surgical in most, PDS medical in most — ARAVIND fitz 257 (4.10 Q11); "Usually bilateral" PDS — NAMRATA fitz 223
+- Pressure rise in pigmentary glaucoma from pigment release and diminished outflow — ARAVIND fitz 256 (4.10 Q8)
+- PXG vs POAG: higher IOP and greater 24-hour fluctuation; diffuse NRR loss; greater field loss — NAMRATA fitz 192
+- Diagnosis lines in exam wording (house style "with intraocular pressure under control with medical management") — department POAG sheet, proforma PDF p.9
+
+### Investigations
+- Diurnal variation: IOP every 3 hours for 24 hours; a difference of 8 mm Hg or more between any two readings is significant — NAMRATA fitz 192 (POAG chapter)
+- Phasing gives the true magnitude of IOP reduction — NAMRATA fitz 223; phasing defined — ARAVIND fitz 239 (4.8 Q4)
+- Pachymetry to correct IOP — NAMRATA fitz 192; GAT accurate for CCT 520 µm, thin corneas read falsely low, thick falsely high — ARAVIND fitz 243
+- Baseline perimetry, RNFL imaging — NAMRATA fitz 223
+- Homocysteine: risk factor; lower if high — BAIDYA fitz 183 (Q7, Q9)
+- Specular: reduced count — NAMRATA fitz 223; density, size, shape — ARAVIND fitz 260 (Q13); polymegathism — ARAVIND fitz 260 (Q10 A)
+- UBM for zonular dialysis — ARAVIND fitz 263 (Q25)
+- A-scan biometry and keratometry; B-scan for hazy media — NAMRATA fitz 223; B-scan when mature cataract hides the disc — NAMRATA fitz 222
+- Systemic fitness (blood pressure, sugar, heart) — inference from BAIDYA fitz 181 (systemic associations) and ARAVIND fitz 25 (systemic diseases considered before surgery)
+
+### Management
+- Target IOP definition — BAIDYA fitz 175 (Q8)
+- PG analogue preferred to beta-blocker as first line because of the latter's systemic side effects — BAIDYA fitz 170 (Q9)
+- Review after 2 months; substitute or add a drug if target not met — ARAVIND fitz 25 (model case sheet)
+- Latanoprost 0.005% once daily (at bedtime) — BAIDYA fitz 172; ARAVIND fitz 281 (Q44, Q46)
+- PG mechanism: uveoscleral outflow via ciliary muscle relaxation and extracellular-matrix remodelling — ARAVIND fitz 281 (Q43)
+- PG side effects: lid skin pigmentation, lash changes, hyperaemia, reactivation of dendritic keratitis, iris pigmentation, uveitis, CME, no systemic effects — ARAVIND fitz 281 (Q45)
+- Timolol 0.5% twice daily — ARAVIND fitz 277 (Q12); BAIDYA fitz 171 (0.25–0.5%); more effective in the morning — ARAVIND fitz 277 (Q14)
+- Beta-blocker mechanism: inhibits cAMP in ciliary epithelium, less aqueous — ARAVIND fitz 277 (Q13); ocular side effects allergy, punctate epithelial erosions; systemic bradycardia, hypotension, heart failure, bronchospasm — ARAVIND fitz 277 (Q17–18)
+- Brimonidine 0.15% — NAMRATA fitz 193 (0.1/0.15%); ARAVIND fitz 278 (0.15% purite, 0.2% tartrate); three times, sometimes twice — NAMRATA fitz 193; mechanism less aqueous formation, more uveoscleral outflow — ARAVIND fitz 278 (Q25); allergic blepharoconjunctivitis, dry mouth, somnolence — ARAVIND fitz 279 (Q32); contraindicated under 2 years — NAMRATA fitz 193
+- Dorzolamide 2% three times daily — ARAVIND fitz 280 (Q40); BAIDYA fitz 172; inhibits carbonic anhydrase II in ciliary epithelium — ARAVIND fitz 279 (Q36); burning, stinging, SPK — ARAVIND fitz 280 (Q41)
+- Acetazolamide 250 mg tablets 2–4 times daily — BAIDYA fitz 172; paraesthesia, metabolic acidosis, potassium depletion, GI upset, urolithiasis, aplastic anaemia — ARAVIND fitz 280 (Q39); renal calculi — BAIDYA fitz 172
+- Fixed combinations: simple dosing, adherence, lower preservative and systemic toxicity; drawback: timing (timolol morning, PG bedtime) — ARAVIND fitz 284–285 (4.15 Q66–67)
+- Lacrimal occlusion and closing the eyes for 3 minutes — ARAVIND fitz 277 (Q19)
+- Laser trabeculoplasty when drops cannot be used reliably (cost, memory, instillation, intolerance) — NAMRATA fitz 194
+- SLT: frequency-doubled Q-switched Nd:YAG 532 nm, 3 ns, 400 µm, 0.5–1.5 mJ — BAIDYA fitz 456; 50–100 adjacent spots over 180° — ARAVIND fitz 258 (4.10); targets pigmented (melanin) cells, no thermal transfer — ARAVIND fitz 297 (Q22); PXG an SLT indication — ARAVIND fitz 297 (Q21)
+- ALT: 50 µm, 0.1 s, junction of pigmented and non-pigmented TM, 40–50 spots over 180°, end point blanching or tiny bubble — BAIDYA fitz 456; exfoliative glaucoma an ALT indication — ARAVIND fitz 295 (Q14)
+- LT advantages: good control for 3–5 years; half need additional drops; best results in pseudoexfoliation syndrome — BAIDYA fitz 456
+- LT complications: transient IOP rise, low-grade uveitis, pigment dispersion, hyphaema, PAS — BAIDYA fitz 456; ALT complications incl. PAS, encapsulated blebs up to 3 times more after ALT — ARAVIND fitz 296 (Q18, Q20)
+- LT mechanism: TM shrinkage stretching adjacent areas; IL-1β and TNF-α → matrix metalloproteinases — BAIDYA fitz 180 (Q34), 456
+- Trabeculectomy principle (limbal fistula, aqueous around the scleral flap into subconjunctival space) — ARAVIND fitz 301–302 (Q6); indications in POAG — ARAVIND fitz 302 (Q7); PI with trabeculectomy — BAIDYA fitz 178 (Q24)
+- Trabeculectomy complications (shallow AC, hypotony, choroidal effusion, bleb leak, bleb infection, cataract, failure) — ARAVIND fitz 311 (Q50), 307 (Q34)
+- Combined surgery indications (multiple medications, significant field loss, ocular risk factors incl. exfoliation), advantages and disadvantages; cataract alone indications, advantages and disadvantages — ARAVIND fitz 25–26 (model case sheet)
+- Exfoliation—zonular weakness listed among surgical considerations in a glaucoma patient — ARAVIND fitz 25
+- Follow-up: annual without glaucoma, quarterly with glaucoma — BAIDYA fitz 183 (Q9) (unchanged)
+- Physician review for heart and blood pressure — counselling inference from BAIDYA fitz 181 (as in v2)
+
+### What you must know (new or changed)
+- PXF definition quoted verbatim — BAIDYA fitz 182 (Q1)
+- PXG: secondary open-angle glaucoma, more aggressive: high IOP at onset, faster progression, poor response to medical therapy — NAMRATA fitz 221
+- Glaucoma capsulare definition — ARAVIND fitz 259 (Q5)
+- Iridodonesis = quivering of the iris — BAIDYA fitz 141
+- Classification: open-angle and angle-closure glaucoma both occur — ARAVIND fitz 262 (Q18); ARAVIND fitz 257 (4.10 Q11)
+- Origin and deposition sites — ARAVIND fitz 259 (Q6)
+- Systemic: deposits in heart, blood vessels, lung, kidney; skin — BAIDYA fitz 181; lungs, heart, liver, kidneys, skin, gall bladder, cerebral meninges — ARAVIND fitz 263 (Q21); aortic aneurysm — NAMRATA fitz 225
+- Why PXG is more aggressive: listed facts from NAMRATA fitz 221, 192, 224; ARAVIND fitz 261 (Q17), 263 (Q23); "blocked from within" = ARAVIND fitz 262 (Q18 A, active production within the meshwork)
+- Cataract risks: poor dilatation, zonular dialysis and vitreous loss, IOL dislocation/decentration, corneal decompensation, heightened inflammation, IOP rise, late IOL prolapse — NAMRATA fitz 223 (Q2); friable posterior capsule, PC rent risk — BAIDYA fitz 143
+- Precautions: NAMRATA fitz 224 (Table 1); ARAVIND fitz 264 (Q26) (unchanged from v2), plus:
+  - Malyugin ring — a square pupil expander with 4 coils, 4–0 polypropylene, 7 mm and 6.25 mm — BAIDYA fitz 751–752
+  - Soft-shell method: dispersive OVD first over the capsule, then cohesive; dispersive coats the endothelium — BAIDYA fitz 751
+  - Chop: less stress on the zonules; effective in small pupil and pseudoexfoliation; more efficient than divide and conquer — BAIDYA fitz 750
+  - CTR distributes force to the whole zonular apparatus — NAMRATA fitz 436; capsular support devices important in PXF — NAMRATA fitz 436
+- Subluxated lens by clock hours: ≤3 phaco + foldable IOL; 3–5 with CTR; 5–7 Cionni ring; ≥7 ICCE with anterior vitrectomy + SF IOL or AC IOL — BAIDYA fitz 139–140 (Q7)
+- Theories (elastic microfibril, basement membrane, glycosaminoglycan, amyloid) — ARAVIND fitz 262 (Q20) (viva, extra)
+- IFA: hypoperfusion, peripupillary leakage — ARAVIND fitz 260 (Q12); fluorescein leaks at pupillary ruff defects in exfoliation syndrome — ARAVIND fitz 250 (4.9 Q21) (viva, extra)
+- Trabecular aspiration — ARAVIND fitz 263 (Q24) (recent advances, extra)
+- Postoperative inflammation: disrupted blood–aqueous barrier, increased flare — NAMRATA fitz 221; heparin-surface-modified IOL to minimise postoperative iritis — ARAVIND fitz 264 (Q26 c); longer steroids — NAMRATA fitz 224. The "so" linking flare to heavier postoperative inflammation is my inference.
+- Prognosis lines: drawn from NAMRATA fitz 221, 224; ARAVIND fitz 261, 263; BAIDYA fitz 456. "Better when" factors are a teaching summary of these, not a book list.
+
+### Disagreements (v4)
+- **SLT energy**: BAIDYA fitz 456 0.5–1.5 mJ; ARAVIND fitz 258 0.3–2.0 mJ; ARAVIND fitz 297 "0.2–1.7 mW" (unit misprint). Card: Baidya.
+- **ALT power**: BAIDYA fitz 456 "200–1200 MW"; ARAVIND fitz 296 800–1200 mW. Card gives no power (not needed; GX has the full profile).
+- **Brimonidine strength**: NAMRATA fitz 193 0.1/0.15%; ARAVIND fitz 278 0.2% tartrate, 0.15% purite. Card: 0.15% (common to both).
+- **Timolol strength**: BAIDYA fitz 171 0.25–0.5%; ARAVIND fitz 277 0.5%. Card: 0.5% (inside Baidya's range).
+- **Aravind 4.11 Q8** (glaucoma capsulare usually unilateral, PXF glaucoma tends to be bilateral) is left off the card because it conflicts with NAMRATA fitz 224 Table 2 (PXG usually unilateral). See the v2 entry above.
+- **Aravind 4.11 Q15** (gonioscopy PXF vs pigmentary) still contradicts the newer books; the card follows Baidya and Namrata (see v2 entry).
+- **Age of pigment dispersion**: card keeps 30–50 years (NAMRATA fitz 225). ARAVIND fitz 255 says 3rd decade; NAMRATA fitz 192 says 20–30 for pigmentary glaucoma. Unchanged from v2; flagged for CONSISTENCY.
+
+### Omitted (v4)
+- A technique for eliciting iridodonesis and phacodonesis (no book describes one); the card says "watch for quivering".
+- RAPD grading (no grading system in the books); the card records RAPD as present or absent.
+- Generic name of "Diamox": still not linked in any book; kept as printed (see Proposals).
+- Pilocarpine in PXF: no book comments; left off the drug table.
+- Aravind Q21 ocular deposition sites in full (extraocular muscles, orbital septa, vortex veins and others): left off for space; the origin and main sites from Q6 are on the card.
+- PXF detected earliest in the ciliary body or zonules (ARAVIND fitz 260 Q10 F): dropped for space.
+- Namrata's "pigmentation more prominent in the superior quadrant" (single source): still left off.
+- Personal history (smoking, alcohol): no PXF-specific reason in the books; left to the index proforma.
+
+### Mnemonic (v4)
+- **PIGMENT** (causes of trabecular pigmentation) — MNEMONICS PDF fitz 38 (Part I, 37/71) — unchanged.
+- **PART B** (before dilatation of the pupil, don't forget: Pupillary reflex · Angle · Rubeosis · Tension · BCVA) — MNEMONICS PDF fitz 50 (Part II, 49/71). Added: it fits the PXF rule "pupils and angle before dilating".
+
+### Coverage of the books' FAQs
+Baidya (fitz 182–183):
+- Q1 What is PXF → What you must know › Definition (quoted).
+- Q2 True exfoliation → Definition › related terms; viva "Why did you ask about glass blowing?"; DD table.
+- Q3 Incidence → viva "How common is PXF…".
+- Q4 Pathophysiology → Pathogenesis (material).
+- Q5 Complications → Complications; viva "complications during and after cataract surgery".
+- Q6 Sampaolesi's line → Step 5 viva.
+- Q7 Risk factors → viva "risk factors"; Definition › who gets it.
+- Q8 DD → viva "differential diagnosis"; DD table.
+- Q9 Management → The ladder; Follow-up.
+Namrata (fitz 223–225):
+- Q1 Sampaolesi's line → Step 5 viva.
+- Q2 Cataract-surgery complications → viva (Complications group); What you must know › Cataract surgery.
+- Q3 PXG vs POAG → viva; comparison table.
+- Q4 Zonular weakness → viva "Why are the zonules weak?"; Pathogenesis.
+- Q5 PXG vs PDS → viva; comparison table.
+Aravind 4.11 (fitz 259–264):
+- Q1–Q3 True exfoliation, risk factor, DD of delamination → Definition › related terms; DD table.
+- Q4 What is PXF (material) → Pathogenesis.
+- Q5 Glaucoma capsulare → Definition › related terms.
+- Q6 Origin → Pathogenesis.
+- Q7 Epidemiology → Definition › who gets it.
+- Q8 Capsulare vs PXF glaucoma → NOT on the card (conflicts with Namrata Table 2; see Disagreements).
+- Q9 Incidence of glaucoma 40% → viva; At a glance.
+- Q10 Clinical features → Steps 2, 3, 5, 6; viva "corneal signs".
+- Q11 Zonular weakness → viva; Pathogenesis.
+- Q12 IFA → viva (extra).
+- Q13 Specular → viva (Investigations); investigations table.
+- Q14 Classification → Classification table.
+- Q15 Gonioscopy PXF vs pigmentary → Step 5 viva, following the newer books (Aravind's own table reversed; see Disagreements).
+- Q16 Complications → Complications; Step 7 viva (CRVO, RD).
+- Q17 PXG vs POAG → viva; Step 4 and Step 7 viva.
+- Q18 Mechanisms → Pathogenesis; Step 4 viva.
+- Q19 Occludable angles → Step 5 viva.
+- Q20 Theories → viva (extra).
+- Q21 Sites → Systemic associations (systemic sites); Pathogenesis › origin (main ocular sites).
+- Q22 DD → viva "differential diagnosis".
+- Q23 Medical-management points → viva (Management — drugs); Aim.
+- Q24 Trabecular aspiration → Recent advances (extra).
+- Q25 Pre-operative findings → viva (Management — laser and surgery).
+- Q26 Special features at surgery → Cataract surgery precautions table; viva (capsular tension ring, small pupil, soft shell).
+- Q27 LOXL1 → viva (Recent advances, extra); Recent advances.
+Aravind model case sheet "Why do we ask…?" (fitz 22–23): Q1 night blindness — not used (miotic-specific, POAG card G1); Q2 frequent change of glasses → negative history; Q3 sudden loss of vision → Step 1 viva; Q4 structural abnormalities → RE | LE table.
+
+### Late v4 edits during trimming (all facts already listed above unless noted)
+- Positive row "sudden pain and redness" folded into the negative "No redness?" row ("seen in a few PXF patients") — BAIDYA fitz 181; NAMRATA fitz 221.
+- Related terms added: Sampaolesi's line (BAIDYA fitz 183 Q6) and target sign (NAMRATA fitz 222; ARAVIND fitz 260 Q10 E).
+- LOXL1 moved from Recent advances to Pathogenesis as *(extra)* (ARAVIND fitz 264 Q27); trabecular aspiration stays in Recent advances.
+- Steroids can raise the pressure — NAMRATA fitz 218–220 (steroid-induced glaucoma chapter); typed format asks type and duration.
+- SLT "no heat spread to nearby tissue" — ARAVIND fitz 297 (Q22: "preventing thermal transfer to the surrounding tissue").
+- Dropped for space in the final pass: Spaeth pigment grading (left to G9); the disc and systemic rows of the comparison table (facts kept in Step 7 and Systemic associations); the "Order" recall line; the Malyugin ring in the precautions table (kept in the viva); the iris bullet of Pathogenesis (kept in Steps 3 and 6 and the short-case viva); the pseudophakia diagnosis example.
+
+### Inferences on the card (teaching links, not book sentences) — check these first
+- "PXG is usually unilateral, so the affected eye can show [an RAPD]" — NAMRATA fitz 224 + BAIDYA fitz 168.
+- "A complicated first eye warns me to plan the second with care" (viva, Why did you ask) — from the cataract risks (NAMRATA fitz 223; BAIDYA fitz 143) and bilateral disease (ARAVIND fitz 259 Q7).
+- "Inflammation heavier after surgery … shown by increased flare. So I give steroids …" — NAMRATA fitz 221 (flare) + NAMRATA fitz 224 and ARAVIND fitz 264 Q26 (steroids, heparin-surface-modified IOL).
+- Latanoprost "caution in uveitis and after herpes keratitis" — drawn from its adverse effects (uveitis, reactivation of dendritic keratitis: ARAVIND fitz 281 Q45); no book lists these as contraindications.
+- Prognosis "better / worse" lines — a summary of NAMRATA fitz 221, 224; ARAVIND fitz 261, 263.
+- "A physician checks the heart and blood pressure" and the fitness row (blood pressure, sugar, heart) — from the systemic associations (BAIDYA fitz 181) and ARAVIND fitz 25.
+- "PXF shows only flare and pigment" (negative history) — NAMRATA fitz 221 (flare, floating pigment) + NAMRATA fitz 223 (AC reaction and other uveitis signs absent).
+
+### Counts (final v4 pass 1)
+- `wc -w` card file: 6,178 · builder: 5,440 (budget 3,300–5,500, no warnings) · lint: 5,758 (within +10%).
+- Q/A pairs: 54 = 19 in the eight steps (2/2/3/2/3/3/2/2) + 31 in the viva section (5/9/3/3/8/2/1) + 4 in the short-case block.
+- Say-it: opening 158 words, closing about 215 words; short-case description about 115 words.
+- Lint leftovers: the Keywords line (a list, 14 terms) and the quoted Baidya definition (46 words, kept verbatim).
+
+### Proposals for CONSISTENCY.md
+- **Diamox:** gloss it once as "(oral acetazolamide)", as decision 9 does for "Cidamex". No book links the brand to the generic, so the card keeps "Postoperative Diamox" as printed.
+- **Age of pigment dispersion:** G6 keeps 30–50 years (NAMRATA fitz 225); G1 used 20–30 (NAMRATA fitz 192); ARAVIND fitz 255 says 3rd decade. Agree one figure for G1, G6 and G11.
+- **SLT energy:** use Baidya's 0.5–1.5 mJ (BAIDYA fitz 456) on every card (Aravind prints 0.3–2.0 mJ and "0.2–1.7 mW").
+- **Brimonidine strength:** the books differ (NAMRATA 0.1/0.15%; ARAVIND 0.2% tartrate, 0.15% purite). G6 writes 0.15%; GX may list all three.
+- **PART B mnemonic** (MNEMONICS fitz 50, "before dilatation of the pupil"): fits the pupil steps of G1, G4 and G5 as well.
+
+## Examiner additions
+
+Pass 2 (senior examiner), 8 Oct 2026. Every NEW or CHANGED claim on the card, with its page. Builder count after the
+pass: 5,667 words (lint 5,986; `wc -w` 6,418); 52 Q/A pairs.
+
+### Read-and-answer gaps filled
+- PXF mostly bilateral, unilateral cases also present (positive-history "Which eye?" row; Definition › Who gets it) — ARAVIND fitz 259 (4.11 Q7)
+- Other causes of capsular delamination: trauma, intraocular inflammation, idiopathic with advanced age (related term "True exfoliation") — ARAVIND fitz 259 (Q3)
+- IOP before gonioscopy and dilatation: gonioscopy pressure on the cornea opens the angle and lowers IOP (later GAT reads low); dilatation gives a transient rise of 4–5 mm Hg (Step 4 viva) — NAMRATA fitz 195 (Q6)
+- IOP asymmetry ≥ 4 mm Hg between the eyes is significant (RE | LE table, Tension row) — BAIDYA fitz 168
+- Pigment origin: iris pigment epithelium disrupted by frictional interaction with PXF material on the lens capsule; pigment dispersed on the endothelium — NAMRATA fitz 221; meshwork blocked by liberated iris pigment — ARAVIND fitz 262 (Q18 A b) (Pathogenesis, "Pigment" bullet)
+- Krukenberg spindle gloss "a spindle of pigment on the endothelium" (DD table, first use) — ARAVIND fitz 91 (2.4: pigment from the uveal tract deposited on the corneal endothelium, aggregated in the shape of a spindle)
+- Ocular hypertension: IOP above normal (often > 21 mm Hg), open angles, no detectable glaucomatous damage (related terms) — BAIDYA fitz 175 (Q7)
+- Second drug when the target is not reached; combination therapy advisable because monotherapy is usually insufficient (new viva, Management — drugs) — NAMRATA fitz 223; substitute or add after 2 months — ARAVIND fitz 25; timolol contraindications — ARAVIND fitz 276 (Q11)
+- Laser trabeculoplasty contraindications: uveitic glaucoma, ICE syndrome, NV glaucoma, synechial angle closure, angle recession (new viva; "Not in uveitic glaucoma" in the SLT row) — BAIDYA fitz 456; CONSISTENCY 14
+- SLT end point "tiny small bubbles"; target "intracellular melanin of pigmented TM" (SLT row: key steps and advantages) — BAIDYA fitz 456; ARAVIND fitz 297 (Q22)
+- ALT power 200–1200 mW added to the ALT row (Baidya prints "MW") — BAIDYA fitz 456; GX row 91; CONSISTENCY 13
+- Mitomycin C 0.2–0.5 mg/ml for 1–5 minutes (trabeculectomy row) — ARAVIND fitz 313 (4.18 Q65), fitz 315 (4.19); CONSISTENCY 12
+- Snuff-out = sudden loss of vision after trabeculectomy in advanced glaucoma (Step 1 viva, wording made explicit) — ARAVIND fitz 23 (model case sheet Q3); same wording as G2
+
+### CONSISTENCY items applied
+- Item 11 (CCT): investigations row now "thin < 500 µm; thick > 570 µm" and "calibrated for 520 µm … about 0.7 mm Hg per 10 µm" — NAMRATA fitz 196; ARAVIND fitz 210; BAIDYA fitz 754
+- Item 12: mitomycin C dose (above). Item 13: SLT and ALT settings now match GX. Item 14: LT not in uveitic glaucoma (above).
+- Item 15: acetazolamide "250 mg … two to four times a day" (drug table).
+- Item 17: CAI contraindications now "sulpha allergy, renal failure, chronic liver disease" (drug table; past-history rows) — ARAVIND fitz 281 (Q42). "Sulfa" changed to "sulpha" everywhere (history, viva, say-it), as on G1, G4 and GX.
+- Item 24: watering row now the standard wording (pilocarpine lacrimation, brimonidine allergy, surface toxicity; fluorescein 1% staining) — BAIDYA fitz 170; ARAVIND fitz 279 (Q32); NAMRATA fitz 191
+- Item 28 (as corrected by the coordinator, 8 Oct 13:20 IST): pigment dispersion age is now "20–30 years" in the comparison table and "young myopic men, 20–30 years" in the viva — NAMRATA fitz 192 ("younger age group 20–30 years"); ARAVIND fitz 255 (4.10 Q1, "young (3rd decade)"). NAMRATA fitz 225 (Table 3) prints 30–50 years: kept in the notes only, not on the card.
+- Item 29: "Postoperative Diamox (oral acetazolamide)" in the precautions table.
+- Item 30: SLT 0.5–1.5 mJ (already on the card; checked) — BAIDYA fitz 456
+- Items 16, 18–23, 25–27: not touched by this card (no laser suture lysis, malignant glaucoma, anti-VEGF, mannitol, steroid grading, drainage devices, glaukomflecken, ISGEO, LPI regimen or UBM depth on it). Items 1–10 checked: gonio cross shows the deepest structure (SS) only; no book names in the body.
+
+### The writer's seven inferences — verdicts
+1. RAPD "the affected eye can show one" — reworded to the books: RAPD indicates advanced glaucoma (NAMRATA fitz 191; BAIDYA fitz 168); the test needs a normal fellow eye (ARAVIND fitz 384, 6.6 Q26); PXG usually unilateral (NAMRATA fitz 224). The closing "so it is worth looking for" is a mild teaching link.
+2. "A complicated first eye warns me to plan the second with care" — removed. The question is now "Why did you ask about previous cataract surgery?": zonular dialysis, vitreous loss, PC rent (BAIDYA fitz 143; NAMRATA fitz 223); late IOL dislocation from loss of zonular support (NAMRATA fitz 362). "So in an operated eye I check the IOL position" is an examination instruction, not a clinical claim.
+3. "Inflammation heavier … shown by increased flare. So I give steroids" — the causal "so" removed. Now: postoperative iritis common in PXF (ARAVIND fitz 264 Q26 c); PXF disrupts the blood–aqueous barrier with markedly increased flare (NAMRATA fitz 221); aggressive, longer steroids (NAMRATA fitz 224 Table 1); heparin-surface-modified IOL (ARAVIND fitz 264).
+4. Latanoprost "caution in uveitis and after herpes keratitis" — replaced by the book contraindication: prostaglandin analogues contraindicated in uveitis because they increase blood–aqueous barrier breakdown (ARAVIND fitz 285, 4.15 Q72; also fitz 266 "contraindicated in the inflamed eye"). Herpes moved to adverse effects as "reactivated herpes keratitis" (ARAVIND fitz 281 Q45).
+5. Prognosis — no book gives a prognosis list. "Poor" now points to the book facts under "Why PXG is more aggressive" (NAMRATA fitz 221, 224; ARAVIND fitz 261 Q17, 263 Q23) plus weak zonules (NAMRATA fitz 223). "Good" is an arrangement of BAIDYA fitz 183 Q9 (routine examination; yearly follow-up without glaucoma) and ARAVIND fitz 263 Q23 (treat aggressively, frequent follow-up). Flag for the fact-checker: arranged, not quoted.
+6. "A physician checks the heart and blood pressure" — reworded: "Before surgery, I weigh his diabetes and hypertension with his physician" (ARAVIND fitz 25: systemic diseases — diabetes, hypertension — among surgical considerations). Investigations row now "Weighed before surgery, with the physician"; heart from the MI association (BAIDYA fitz 181). Counsel line now states the association only ("PXF is systemic, linked with heart attack, stroke and hypertension").
+7. "PXF shows only flare and pigment" — wrong as worded (PXF can have posterior synechiae and uveitis: ARAVIND fitz 261 Q16; BAIDYA fitz 182 Q5). Now: "Uveitic glaucoma shows an anterior chamber reaction and other signs of uveitis (NAMRATA fitz 223). PXF shows flakes on the pupillary margin and capsule (BAIDYA fitz 181)."
+
+### Other changes
+- Negative row "glass blowing or furnace work" → "glass blowing or infrared exposure" ("furnace" is not in the books) — BAIDYA fitz 182 (Q2)
+- Past-history table split to one question per row (heart attack; heart failure / heart block / slow pulse; high blood pressure; diabetes; sulpha allergy; kidney or liver disease) — facts unchanged from the v4 ledger.
+- New trap bullet: Sampaolesi's line is not specific to PXF — BAIDYA fitz 183 (Q6); NAMRATA fitz 222
+- Fixed-combination advantages and drawback moved from the viva into ladder step 2 (ARAVIND fitz 284–285, Q66–67) to save words.
+- Malyugin ring kept by name only ("a pupil expansion ring such as the Malyugin ring") — BAIDYA fitz 751–752
+- @readmore: added Baidya p.740, Namrata p.177–178, Aravind 2.4, 4.1, 4.19, 6.6.
+
+### Cut for space (all *(extra)* or duplicated)
+- Viva: theories of pathogenesis (ARAVIND fitz 262 Q20) and iris fluorescein angiography (ARAVIND fitz 260 Q12) — both *(extra)*.
+- Pathogenesis bullet on LOXL1 (*(extra)*; kept as a one-line pointer in Recent advances and as the viva question).
+- Viva "Why did you ask about the family?" (the past-history row already gives the reason).
+- Viva "Why use a fixed combination?" (moved into ladder step 2).
+- Viva "Why is SLT called selective?" (folded into the SLT row of the laser table).
+- The Malyugin ring description (square, four coils).
+
+### Disagreement noted (not changed)
+- ARAVIND fitz 296 (4.17 Q15) lists "inflammatory glaucoma" as an ALT contraindication, but ARAVIND fitz 297 (Q21) lists "inflammatory glaucoma" as an SLT indication. The card follows Baidya and CONSISTENCY 14 (LT contraindicated in uveitic glaucoma).

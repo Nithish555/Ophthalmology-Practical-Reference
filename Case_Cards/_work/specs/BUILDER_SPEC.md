@@ -1,21 +1,21 @@
 # BUILDER SPEC — turn the card files into Word (.docx) and PDF
 
 ## Goal
-A script `/home/claude/cards/build/build_cards.js` (Node + docx-js, which is installed globally: `require('docx')`
-works) that converts card files written in the small Markdown dialect of CARD_SPEC.md §3 into ONE .docx per subject,
+A script `Case_Cards/_work/tools/build_cards.js` (Node + docx-js: run `npm install` inside `Case_Cards/_work/tools/`;
+`node_modules` stays out of git) that converts card files written in the small Markdown dialect of CARD_SPEC.md §3 into ONE .docx per subject,
 then a PDF via LibreOffice (`soffice --headless --convert-to pdf --outdir <dir> <file.docx>`).
 
 Usage:
-    node build/build_cards.js --subject "Glaucoma" --file-title "01 · Glaucoma case cards" \
-        --out build/out/01_Glaucoma_Case_Cards.docx drafts/G1.md drafts/G4.md …
-    node build/build_cards.js --subject "Index and master case format" --file-title "00 · Index and master case format" \
-        --no-contents --out build/out/00_Index_and_Master_Case_Format.docx drafts/00_index.md
+    node Case_Cards/_work/tools/build_cards.js --subject "Glaucoma" --file-title "01 · Glaucoma case cards" \
+        --out Case_Cards/_work/cache/build/01_Glaucoma_Case_Cards.docx Case_Cards/_work/card_sources/G1.md Case_Cards/_work/card_sources/G4.md …
+    node Case_Cards/_work/tools/build_cards.js --subject "Index and master case format" --file-title "00 · Index and master case format" \
+        --no-contents --out Case_Cards/_work/cache/build/00_Index_and_Master_Case_Format.docx Case_Cards/_work/card_sources/00_index.md
 
 Read the docx skill before writing code: load it with the Skill tool (`anthropic-skills:docx`) and follow its docx-js
 guidance (A4 page size, numbering config for bullets, table widths, etc.).
 
 ## The dialect (from CARD_SPEC.md §3 — read it; this is a summary)
-Header lines at the top of each file: `@card`, `@title`, `@badge`, `@kind` (long|short|task|chart|fundus|index),
+Header lines at the top of each file: `@card`, `@title`, `@badge`, `@kind` (long|short|fundus|task|chart|toolkit|viva|index),
 `@readmore`. A file may contain SEVERAL cards (each starts with `@card`).
 Body: `## ` section heading · `### ` sub-heading · plain lines → paragraph (consecutive lines join; blank line ends) ·
 `- ` bullet, `  - ` nested bullet · `1. ` numbered (renumber from 1 for each new list) · `**bold**`, `*italic*` ·
@@ -66,13 +66,18 @@ Any unknown `:::name` → a plain light-grey box. Warn (to stderr) about anythin
 Per card: word count, number of viva pairs, tables and their column counts, any parse warnings.
 
 ## Your task
-1. Snapshot the current drafts first (they are being edited by others): copy `/home/claude/cards/drafts/G*.md`
-   (not the _notes/_check files) to `/home/claude/cards/build/test_input/` and build from that copy.
-2. Write the script; build `build/out/test_Glaucoma.docx` from the snapshot in this order: G1 G4 G5 G6 G7 G8 G9 G10 G2 G3;
+1. Snapshot the current card sources first (they may be edited by others): copy `Case_Cards/_work/card_sources/G*.md`
+   to `Case_Cards/_work/cache/build/test_input/` and build from that copy.
+2. Write the script; build `Case_Cards/_work/cache/build/test_Glaucoma.docx` from the snapshot in this order: G1 G4 G5 G6 G7 G8 G9 G10 G2 G3;
    convert to PDF.
 3. Render pages with `pdftoppm -r 60 -png` and LOOK at a good sample (the cover, the first two pages of G1, a page
    with a big table, a say-it box, the viva section, the gonio diagram page, and G8). Fix what looks wrong
    (overflows, ugly spacing, split rows, wrong numbering, unreadable colours).
-4. Write `/home/claude/cards/build/page_map.py`: given the PDF, report the page range and page count of each card
+4. Write `Case_Cards/_work/tools/page_map.py`: given the PDF, report the page range and page count of each card
    (find each card's first page by its header-bar text).
 5. Reply with: how to run it, the page count per card from the test build, and any issues you could not fix.
+
+## v4 changes (8 Oct 2026)
+- `KIND_LABEL` gains `toolkit: 'Toolkit'` and `viva: 'Viva sheet'`.
+- `WORD_BUDGET` = the v4 budgets (CARD_SPEC §4): long 3,300–5,500 (L+S may use the extra page) · short 1,100–1,700 ·
+  fundus 1,100–1,700 · task 800–1,100 · chart 800–1,100 · toolkit 2,200–3,300 · viva 3,000–4,500.
