@@ -13,11 +13,11 @@ Not kept in the repo (rebuild them if needed): the video itself, the 1,475 frame
 working notes.
 
 To rebuild from the video:
-1. `ffmpeg -i session.mp4 -vf fps=1/10 -q:v 3 frames/f_%05d.jpg` — one frame every 10 s; frame n is at (n−1)×10 s.
+1. `ffmpeg -i session.mp4 -vf fps=1/10 -q:v 3 frames/f_%05d.jpg` — one frame every 10 s; because the fps filter rounds to the nearest 10 s, frame n shows the picture at about (n−1)×10 + 5 s.
 2. `python3 ../tools/video_slides.py frames/ seg/` — merges identical frames into slide segments, tags webcam
    (gallery or speaker) views, and draws contact sheets. Add `--extra DIR` with `x_<seconds>.jpg` frames taken at
    scene changes to catch slides shown for less than 10 s.
-3. `python3 ../tools/prep_figures.py figures.csv frames/ slides/` — cuts the figures.
+3. `python3 ../tools/prep_figures.py figures.csv allframes/ slides/` — cuts the figures (`allframes/` holds both the `f_` and the `x_` frames).
 4. Build (from `Case_Cards/_work/tools/`):
 
         node build_cards.js --subject "Long-case survival (video)" \

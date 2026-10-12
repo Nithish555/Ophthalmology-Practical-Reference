@@ -13,3 +13,17 @@ t_drug_timeline,f_01425.jpg,216 150 1076 636,1016 626 1076 636,"Timeline of anti
 t_bimatoprost_sr_gonio,f_01436.jpg,400 308 1088 538,,"Bimatoprost SR (Durysta) intracameral implant seen on gonioscopy as a small white rod lying in the inferior angle (three gonio photos)"
 t_allergy_1,f_01446.jpg,466 296 734 408,,"Topical allergy photo 1 (left image): periocular region only - bilateral eczematous contact dermatitis of upper and lower lids with erythema, scaling and hyperpigmentation, conjunctival congestion; face masked, crop excludes rest of face"
 t_allergy_2,f_01446.jpg,812 300 1040 404,,"Topical allergy photo 2 (right image): periocular region only - lid-skin erythema/pigmentation with watering, conjunctival injection; crop excludes rest of face"
+c2_fundus_re,x_2573.5.jpg,88 0 1022 707,88 0 210 34,RE colour fundus photo (fellow eye) shown full-screen ~0:42:52; blur = fundus-camera header text (patient ID/date); right rim stops before zoom watermark
+c2_fundus_le,f_00270.jpg,152 3 1022 707,152 3 290 34,LE colour fundus photo (ischaemic CRVO) full-screen; blur = fundus-camera header text; far-right rim trimmed to exclude speaker tile and zoom watermark
+c2_fundus_chart_re,x_2694.5.jpg,264 8 967 706,685 46 967 108,Hand-drawn fundus chart RE (OD ticked) - normal disc and vessels; blank Patient/Date fields blurred as a precaution
+c2_fundus_chart_le,x_2697.5.jpg,292 35 930 662,,Hand-drawn fundus chart LE - disc collaterals; dot-blot and flame haemorrhages all quadrants; tortuous veins; DATE line excluded
+c2_nvi_diagram,f_00256.jpg,906 371 1278 624,,Hand-drawn diagram LE iris - NVI at pupillary margin; bottom of outer circle cut to exclude zoom watermark
+c2_oct,f_00283.jpg,386 0 1024 716,,Cirrus HD 5-line raster OCT (labelled OD) - vertical scan through fovea; CRT 272 um per slide
+c3_fundus_re,f_00463.jpg,13 38 748 598,,RE colour fundus - disc oedema (hyperaemic elevated disc with blurred margins)
+c3_fundus_le,f_00463.jpg,748 130 1236 598,,LE colour fundus - normal disc and macula; top strip of photo cut to exclude speaker tile
+c3_fundus_diagram,x_4893.5.jpg,180 120 1050 565,,Hand-drawn fundus diagrams: RE disc oedema / LE normal fundus
+c3_nine_gaze,x_4906.0.jpg,160 127 1145 456,,Gaze photos rows 1-2 (dextroelevation/elevation/laevoelevation; dextroversion/primary/laevoversion); top edge at y127 (just below the speaker tile) so brows/upper lids of the top row are trimmed but every eye is complete
+c3_downgaze,f_00491.jpg,160 458 838 686,,Gaze photos row 3 (dextrodepression and depression with upper lids held up); laevodepression panel omitted because zoom watermark lies over it
+c3_worms_eye,x_4909.9.jpg,330 236 1110 515,676 340 702 374; 600 476 890 515,Worm's-eye view (head tilted back) - brows/lids/globes; blur = mouse cursor on nasal bridge and nostrils at lower edge
+c3_mri_t1_axial,f_00569.jpg,360 181 768 510,,Axial T1 (fat-suppressed) MRI orbits - round well-defined right intraconal retrobulbar mass
+c3_mri_t2_axial,f_00569.jpg,769 346 1152 624,,Axial T2 MRI orbits - homogeneously hyperintense right intraconal mass; right proptosis; cropped above zoom watermark
