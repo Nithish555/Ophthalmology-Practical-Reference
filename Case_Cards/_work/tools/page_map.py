@@ -65,7 +65,9 @@ def scan_pdftotext(path):
         txt = subprocess.run(["pdftotext", "-f", str(p), "-l", str(p), "-layout", path, "-"],
                              capture_output=True, text=True, check=True).stdout
         lines = [l.strip() for l in txt.splitlines() if l.strip()]
-        if lines and re.match(r"^[A-Z]{0,3}\d{1,3}[a-z]?\s{2,}\S", lines[0]):   # "G1  Title…"
+        # "G1  Title…" / "VV Title…" (pdftotext may collapse the double space); the badge line just
+        # below (or below a wrapped title line) has "·"
+        if len(lines) > 1 and re.match(r"^[A-Z]{1,3}\d{0,3}[a-z]?\s+\S", lines[0]) and any("·" in l for l in lines[1:3]):
             starts.append((p, lines[0], lines[1] if len(lines) > 1 else ""))
     return pages, starts, None
 

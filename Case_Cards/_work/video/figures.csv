@@ -1,0 +1,15 @@
+name,frame,crop,blur,note
+c1_gonio_re,f_00053.jpg,150 0 1020 715,,Case 1 RE gonioscopy crosses and Shaffer table
+c1_gonio_le,f_00056.jpg,150 0 1020 715,,Case 1 LE gonioscopy crosses and Shaffer table
+c1_disc_re,f_00060.jpg,160 15 655 715,,Case 1 RE optic disc colour and red-free
+c1_disc_le,f_00063.jpg,615 0 1030 715,,Case 1 LE optic disc colour and red-free
+c1_disc_diagrams,f_00066.jpg,155 185 1120 515,,Case 1 disc diagrams RE and LE
+c7_fundus_le,f_01186.jpg,233 62 1001 692,240 128 440 160,"LE (OS) colour fundus photo, posterior pole: shallow temporal RD with curvilinear folds involving macula; hazy image; camera label (name/ID/dates) blurred; 'OS' kept"
+c7_fundus_diagram,f_01189.jpg,160 80 1118 630,1050 76 1120 130,"Fundus charts OD (normal) and OS (blue = detached retina temporally ~1-5 o'clock incl. macula; black = peripheral laser marks superotemporal and inferior; brown scalloped line = ora); webcam tile corner blurred; mouse cursor near VI of OD chart"
+c7_as_le,f_01200.jpg,262 166 962 662,,"LE slit-lamp photo (enlarged re-share): PCIOL with residual PCO and central Nd:YAG posterior capsulotomy opening; blurry"
+t_gat_calibration,f_01413.jpg,788 236 1106 404,,"IOP Measurement slide: Goldmann tonometer calibration check-weight bar (positions 0, 2, 6) mounted on the tonometer; slide says calibrate once a month"
+t_outflow_pathways,f_01419.jpg,202 144 770 628,,"AGM slide: anterior-segment diagram of aqueous inflow (beta-blockers, alpha2 agonists, CAIs on ciliary body), trabecular outflow (muscarinic agonists) and uveoscleral outflow (prostaglandin agonists)"
+t_drug_timeline,f_01425.jpg,216 150 1076 636,1016 626 1076 636,"Timeline of antiglaucoma medications 1875-2014 (pilocarpine 1875 ... FC brimonidine/brinzolamide 2014); presenter's red circles on dorzolamide 1994, latanoprost/brimonidine 1996, bimatoprost/travoprost 2001, FC brimonidine/brinzolamide 2014; blur removes top edge of zoom watermark"
+t_bimatoprost_sr_gonio,f_01436.jpg,400 308 1088 538,,"Bimatoprost SR (Durysta) intracameral implant seen on gonioscopy as a small white rod lying in the inferior angle (three gonio photos)"
+t_allergy_1,f_01446.jpg,466 296 734 408,,"Topical allergy photo 1 (left image): periocular region only - bilateral eczematous contact dermatitis of upper and lower lids with erythema, scaling and hyperpigmentation, conjunctival congestion; face masked, crop excludes rest of face"
+t_allergy_2,f_01446.jpg,812 300 1040 404,,"Topical allergy photo 2 (right image): periocular region only - lid-skin erythema/pigmentation with watering, conjunctival injection; crop excludes rest of face"

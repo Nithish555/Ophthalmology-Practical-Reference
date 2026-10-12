@@ -51,23 +51,28 @@ const BOXES = {
   short: { fill: 'F4F6F8', edge: '7F8C8D' },
 };
 const PLAIN_BOX = { fill: 'F2F2F2', edge: null };                  // any unknown :::name
-const KIND_LABEL = { long: 'Long case', short: 'Short case', fundus: 'Fundus case', task: 'Task', chart: 'Chart', index: 'Index' };
+const KIND_LABEL = { long: 'Long case', short: 'Short case', fundus: 'Fundus case', task: 'Task', chart: 'Chart', index: 'Index', video: 'Video case', guide: 'Guide' };
 const WORD_BUDGET = { long: [2300, 3200], short: [700, 1000], task: [550, 750], chart: [550, 750] };
 const COVER_SUBTITLE = 'M.S. Ophthalmology practical examination · Tamil Nadu Dr M.G.R. Medical University · 16 October 2026';
 const COVER_NOTE = 'Every card follows the same headings. The generic long-case proforma is in 00 · Index and master case format.';
 const COVER_KEY = '★ kept at JEH last year · Long case · Short case · Task · Chart';
 const GONIO_WIDTH_CM = 11;
 const GONIO_PX = { width: 1400, height: 600 };                      // must match gonio_png.py
+const FIGURE_MAX_CM = { width: 16, height: 10.5 };                 // :::figure images are scaled to fit inside this box
 
 // ───────────────────────────── command line ─────────────────────────────
 function usage(msg) {
   if (msg) process.stderr.write(`build_cards.js: ${msg}\n`);
-  process.stderr.write('usage: node build_cards.js --subject NAME --file-title TEXT --out FILE.docx [--no-contents] [--report FILE] CARD.md ...\n');
+  process.stderr.write('usage: node build_cards.js --subject NAME --file-title TEXT --out FILE.docx [--no-contents] [--report FILE]\n'
+    + '       [--cover-title TEXT] [--cover-subtitle TEXT] [--cover-note TEXT] [--cover-key TEXT] [--contents-col LABEL] CARD.md ...\n');
   process.exit(2);
 }
 
 function parseArgs(argv) {
-  const o = { subject: '', fileTitle: '', out: '', contents: true, report: '', files: [] };
+  const o = {
+    subject: '', fileTitle: '', out: '', contents: true, report: '', files: [],
+    coverTitle: '', coverSubtitle: COVER_SUBTITLE, coverNote: COVER_NOTE, coverKey: COVER_KEY, contentsCol: '',
+  };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     const val = () => { if (i + 1 >= argv.length) usage(`${a} needs a value`); return argv[++i]; };
@@ -76,6 +81,13 @@ function parseArgs(argv) {
     else if (a === '--out') o.out = val();
     else if (a === '--report') o.report = val();
     else if (a === '--no-contents') o.contents = false;
+    else if (a === '--cover-title') o.coverTitle = val();
+    else if (a === '--cover-subtitle') o.coverSubtitle = val();
+    else if (a === '--cover-note') o.coverNote = val();
+    else if (a === '--cover-key') o.coverKey = val();
+    // "--contents-col LABEL": the last contents column shows the badge part that holds a time
+    // (e.g. "1:16:46–1:41:38") instead of the ★ last-year count
+    else if (a === '--contents-col') o.contentsCol = val();
     else if (a === '-h' || a === '--help') usage();
     else if (a.startsWith('--')) usage(`unknown option ${a}`);
     else o.files.push(a);
@@ -197,6 +209,8 @@ function parseBlocks(lines, card) {
       }
       if (name === 'gonio') {
         push(parseGonio(inner, card, n));
+      } else if (name === 'figure') {
+        push(parseFigure(inner, card, n));
       } else {
         if (!BOXES[name]) warn(card, n, `unknown box ":::${name}" — rendered as a plain grey box`);
         push({ type: 'box', kind: name, n, blocks: parseBlocks(inner, card) });
@@ -402,6 +416,49 @@ function parseGonio(lines, card, n) {
   return g;
 }
 
+// :::figure — "src: path/to/image.jpg" (relative to the card file), "caption: …", optional "width: 12" (cm).
+function parseFigure(lines, card, n) {
+  const f = { type: 'figure', n, src: '', caption: '', widthCm: 0 };
+  for (const { text, n: ln } of lines) {
+    const t = text.trim();
+    if (!t) continue;
+    const m = t.match(/^(src|caption|width)\s*:\s*(.*)$/i);
+    if (!m) { warn(card, ln, `cannot read figure line "${snippet(t)}" — expected "src: …", "caption: …" or "width: …"`); continue; }
+    const key = m[1].toLowerCase();
+    if (key === 'src') f.src = path.resolve(path.dirname(card.file), m[2].trim());
+    else if (key === 'caption') f.caption = m[2].trim();
+    else {
+      const w = Number(m[2].replace(/cm/i, '').trim());
+      if (w > 0) f.widthCm = Math.min(w, FIGURE_MAX_CM.width);
+      else warn(card, ln, `cannot read figure width "${m[2]}" — the default width is used`);
+    }
+  }
+  if (!f.src) warn(card, n, 'figure block has no "src:" line — left out');
+  return f;
+}
+
+// Pixel size and docx-js image type of a PNG or JPEG, read from the file header.
+function imageInfo(buf) {
+  if (buf.length > 24 && buf.readUInt32BE(0) === 0x89504e47) {
+    return { type: 'png', width: buf.readUInt32BE(16), height: buf.readUInt32BE(20) };
+  }
+  if (buf.length > 4 && buf[0] === 0xff && buf[1] === 0xd8) {
+    let i = 2;
+    while (i + 9 < buf.length) {
+      if (buf[i] !== 0xff) { i++; continue; }
+      const marker = buf[i + 1];
+      if (marker === 0xd8 || marker === 0x01 || (marker >= 0xd0 && marker <= 0xd7)) { i += 2; continue; }
+      const len = buf.readUInt16BE(i + 2);
+      // SOF0–SOF15 except DHT (C4), JPG (C8) and DAC (CC)
+      if (marker >= 0xc0 && marker <= 0xcf && ![0xc4, 0xc8, 0xcc].includes(marker)) {
+        return { type: 'jpg', width: buf.readUInt16BE(i + 7), height: buf.readUInt16BE(i + 5) };
+      }
+      i += 2 + len;
+    }
+  }
+  return null;
+}
+
 // ───────────────────────────── inline text ─────────────────────────────
 // **bold**, *italic*, <br>. Unpaired markers stay literal (and are reported by the stray check).
 function parseInline(s) {
@@ -476,6 +533,7 @@ function blockText(b) {
     case 'list': return b.items.map(it => it.text).join(' ');
     case 'table': return [b.header, ...b.rows].map(r => r.join(' ')).join(' ');
     case 'gonio': return [b.caption, ...['RE', 'LE'].flatMap(e => Object.values(b[e] || {}))].join(' ');
+    case 'figure': return b.caption;
     case 'box': return '';
     default: return b.text || '';
   }
@@ -486,11 +544,13 @@ function cardStats(card) {
   const tables = [];
   const boxes = [];
   let gonio = 0;
+  let figures = 0;
   walk(card.blocks, b => {
     words += plain(blockText(b)).split(' ').filter(w => /[\p{L}\p{N}]/u.test(w)).length;
     if (b.type === 'table') tables.push(b.header.length);
     if (b.type === 'box') boxes.push(b.kind);
     if (b.type === 'gonio') gonio++;
+    if (b.type === 'figure') figures++;
   });
   // viva pairs, and Q/A pairing checks (in reading order)
   let pairs = 0;
@@ -510,7 +570,7 @@ function cardStats(card) {
       card.notes.push(`line ${b.n}: ${b.lines} consecutive lines joined into one paragraph ("${snippet(plain(b.text), 50)}")`);
     }
   });
-  return { words, tables, boxes, gonio, pairs };
+  return { words, tables, boxes, gonio, figures, pairs };
 }
 
 // ───────────────────────────── rendering helpers ─────────────────────────────
@@ -561,6 +621,7 @@ class Builder {
     this.card = null;
     this.numberedLists = 0;
     this.gonioCount = 0;
+    this.figureCount = 0;
     this.tmp = null;
     this.bookmarks = new Map();
   }
@@ -636,7 +697,7 @@ class Builder {
         break;
       case 'para': {
         // a short lead-in line stays with the list, table or box it introduces
-        const leadIn = next && ['list', 'table', 'box', 'gonio'].includes(next.type) && plain(b.text).length < 160;
+        const leadIn = next && ['list', 'table', 'box', 'gonio', 'figure'].includes(next.type) && plain(b.text).length < 160;
         items.push({ p: { keepNext: leadIn || undefined, children: this.runs(b.text, {}, 'paragraph') } });
         break;
       }
@@ -684,6 +745,9 @@ class Builder {
         break;
       case 'gonio':
         items.push(...this.gonio(b, width));
+        break;
+      case 'figure':
+        items.push(...this.figure(b, width));
         break;
       default:
         warn(this.card, b.n, `unknown block type ${b.type}`);
@@ -832,6 +896,54 @@ class Builder {
     return out;
   }
 
+  // ── :::figure images ──
+  figure(b, width) {
+    if (!b.src) return [];
+    let buf;
+    let info = null;
+    try {
+      buf = fs.readFileSync(b.src);
+      info = imageInfo(buf);
+      if (!info) warn(this.card, b.n, `figure "${path.basename(b.src)}" is not a PNG or JPEG — left out`);
+    } catch (e) {
+      warn(this.card, b.n, `cannot read figure "${b.src}" (${e.message}) — left out`);
+    }
+    const out = [];
+    if (info) {
+      // docx-js sizes images in 96-dpi pixels; fit inside the width (and the text width) and the height cap
+      const pxPerCm = 96 / 2.54;
+      const maxW = Math.min(b.widthCm || FIGURE_MAX_CM.width, (width / 1440) * 2.54) * pxPerCm;
+      const maxH = FIGURE_MAX_CM.height * pxPerCm;
+      const scale = Math.min(maxW / info.width, maxH / info.height);
+      const k = ++this.figureCount;
+      out.push({
+        p: {
+          alignment: AlignmentType.CENTER,
+          keepNext: b.caption ? true : undefined,
+          keepLines: true,
+          spacing: { before: 80, after: 30 },
+          children: [new ImageRun({
+            type: info.type,
+            data: buf,
+            transformation: { width: Math.round(info.width * scale), height: Math.round(info.height * scale) },
+            // a unique drawing id (docx-js would give every image id 1)
+            altText: { id: String(5000 + k), name: `Figure ${k}`, title: `Figure ${k}`, description: plain(b.caption || path.basename(b.src)) },
+          })],
+        },
+      });
+    }
+    if (b.caption && info) {
+      out.push({
+        p: {
+          alignment: AlignmentType.CENTER,
+          spacing: { before: 0, after: 100 },
+          children: this.runs(b.caption, { italics: true, size: SIZE.caption, color: COL.dark }, 'figure caption'),
+        },
+      });
+    }
+    return out;
+  }
+
   drawGonio(b) {
     if (!this.tmp) this.tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'cards-gonio-'));
     const k = ++this.gonioCount;
@@ -915,16 +1027,17 @@ class Builder {
   cover(cards) {
     this.card = null;
     const items = [];
-    items.push({ p: { heading: HeadingLevel.TITLE, spacing: { before: 900, after: 120 }, children: this.runs(`${this.opts.subject} — Case Cards`, {}, 'cover title') } });
+    const o = this.opts;
+    items.push({ p: { heading: HeadingLevel.TITLE, spacing: { before: 900, after: 120 }, children: this.runs(o.coverTitle || `${o.subject} — Case Cards`, {}, 'cover title') } });
     items.push({
       p: {
         spacing: { before: 0, after: 200 },
         border: { bottom: { style: BorderStyle.SINGLE, size: 12, color: COL.navy, space: 8 } },
-        children: [new TextRun({ text: COVER_SUBTITLE, size: 22, color: COL.teal })],
+        children: [new TextRun({ text: o.coverSubtitle, size: 22, color: COL.teal })],
       },
     });
-    items.push({ p: { spacing: { before: 120, after: 60 }, children: this.runs(COVER_NOTE, {}, 'cover') } });
-    items.push({ p: { spacing: { before: 0, after: 120 }, children: this.runs(COVER_KEY, { size: 18, color: '595959', starColor: COL.goldOnWhite }, 'cover key') } });
+    if (o.coverNote) items.push({ p: { spacing: { before: 120, after: 60 }, children: this.runs(o.coverNote, {}, 'cover') } });
+    if (o.coverKey) items.push({ p: { spacing: { before: 0, after: 120 }, children: this.runs(o.coverKey, { size: 18, color: '595959', starColor: COL.goldOnWhite }, 'cover key') } });
     items.push({ p: { heading: HeadingLevel.HEADING_2, children: [new TextRun('Contents')] } });
 
     const colW = toTwips([7, 47, 12, 34], TEXT_W);
@@ -936,16 +1049,25 @@ class Builder {
       verticalAlign: VerticalAlign.CENTER,
       children: [new Paragraph({ spacing: { before: 0, after: 0, line: 245, lineRule: 'auto' }, children })],
     });
-    const head = ['No.', 'Card', 'Type', 'Last year'].map((h, j) =>
+    const head = ['No.', 'Card', 'Type', this.opts.contentsCol || 'Last year'].map((h, j) =>
       cell([new TextRun({ text: h, bold: true, color: COL.white, size: SIZE.table })], colW[j], { fill: COL.navy }));
     const rows = [new TableRow({ tableHeader: true, cantSplit: true, children: head })];
     cards.forEach((c, k) => {
-      // the ★ part of the badge; "at JEH last year" is already said by the column header and the key
-      const star = c.badge.split(/\s+·\s+/).find(s => s.includes('★'));
-      const starText = star ? star.replace('★', '').replace(/\s+at JEH last year\b/i, '').trim() : '';
-      const lastYear = star
-        ? this.runs(`★ ${starText}`, { size: SIZE.table, starColor: COL.goldOnWhite }, 'contents')
-        : [new TextRun({ text: '—', size: SIZE.table, color: COL.grey })];
+      let lastYear;
+      if (this.opts.contentsCol) {
+        // the badge part that holds a time such as "0:04:24–0:37:14"
+        const t = c.badge.split(/\s+·\s+/).find(s => /\d+:\d\d/.test(s));
+        lastYear = t
+          ? this.runs(t.trim(), { size: SIZE.table }, 'contents')
+          : [new TextRun({ text: '—', size: SIZE.table, color: COL.grey })];
+      } else {
+        // the ★ part of the badge; "at JEH last year" is already said by the column header and the key
+        const star = c.badge.split(/\s+·\s+/).find(s => s.includes('★'));
+        const starText = star ? star.replace('★', '').replace(/\s+at JEH last year\b/i, '').trim() : '';
+        lastYear = star
+          ? this.runs(`★ ${starText}`, { size: SIZE.table, starColor: COL.goldOnWhite }, 'contents')
+          : [new TextRun({ text: '—', size: SIZE.table, color: COL.grey })];
+      }
       const sh = k % 2 ? COL.zebra : undefined;
       rows.push(new TableRow({
         cantSplit: true,
@@ -1010,7 +1132,7 @@ class Builder {
       creator: 'build_cards.js',
       title: this.opts.fileTitle,
       subject: `${this.opts.subject} — case cards`,
-      description: COVER_SUBTITLE,
+      description: this.opts.coverSubtitle,
       styles: {
         default: {
           document: {
@@ -1079,7 +1201,7 @@ function report(cards, opts) {
     lines.push('');
     lines.push(`${c.id}  ${c.title}   [${c.kind || '?'} · ${path.basename(c.file)}]`);
     lines.push(`    words ${fmt(s.words)}${budget ? ` (budget ${fmt(budget[0])}–${fmt(budget[1])})${flag}` : ''} · viva pairs ${s.pairs}`);
-    lines.push(`    tables ${s.tables.length}${s.tables.length ? ` (columns: ${s.tables.join(', ')})` : ''} · boxes ${s.boxes.length ? s.boxes.join(', ') : 'none'} · gonio diagrams ${s.gonio}`);
+    lines.push(`    tables ${s.tables.length}${s.tables.length ? ` (columns: ${s.tables.join(', ')})` : ''} · boxes ${s.boxes.length ? s.boxes.join(', ') : 'none'} · gonio diagrams ${s.gonio} · figures ${s.figures}`);
     lines.push(`    warnings: ${c.warnings.length ? '' : 'none'}`);
     for (const w of c.warnings) lines.push(`      - ${w}`);
     if (c.notes.length) {

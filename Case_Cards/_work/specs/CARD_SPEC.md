@@ -52,7 +52,8 @@ Header lines (each on its own line, at the top, in this order):
     @kind long
     @readmore Baidya p.152–167 · Namrata p.171–178 · Aravind 4.8, 4.15
 
-- `@kind` is one of: `long` (long case or long+short), `short`, `fundus`, `task`, `chart`.
+- `@kind` is one of: `long` (long case or long+short), `short`, `fundus`, `task`, `chart`; and for the video
+  cards (set 08) `video` (one case from the recorded mock exam) or `guide` (overview, viva bank, topic finder, talk).
 - `@readmore` uses **printed** page numbers (the packet header of every page gives "fitz N = printed p.M").
   Aravind is cited by section number (4.8, 4.15 …).
 
@@ -81,6 +82,16 @@ Body syntax:
     LE | S=II TM | T=III SS | I=III SS | N=III SS
     caption: Modified Shaffer grading — deepest structure seen in each quadrant
     :::
+    :::figure                     ← an image (JPEG or PNG), centred, scaled to fit 16 × 10.5 cm, caption below
+    src: ../video/slides/c1_disc_re.jpg    ← path relative to the card file
+    caption: Right optic disc — colour and red-free photographs (0:09:40)
+    width: 9                      ← optional maximum width in cm
+    :::
+
+Builder options for a set that is not a subject of case cards (used for 08):
+`--cover-title`, `--cover-subtitle`, `--cover-note`, `--cover-key` replace the cover texts, and
+`--contents-col "Time in video"` makes the last contents column show the badge part that holds a time
+(e.g. `0:04:24–0:37:14`) instead of the ★ last-year count.
 
 Rules: no other Markdown (no `#` single-hash headings, no `>` quotes, no HTML except `<br>` in table cells, no
 horizontal rules, no code blocks, no footnotes). Every table row must have the same number of cells as its header.
