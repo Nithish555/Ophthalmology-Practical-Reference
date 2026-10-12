@@ -11,6 +11,8 @@ Each chat adds a line when it starts and when it delivers, so parallel chats don
 | 7 Oct 2026 09:05 | chat A | 00_Index_and_Master_Case_Format | **DONE** — 11 pp (A master long-case proforma + 8–10 min presentation · B master fundus format · C master short-case method · D card index) |
 | 7 Oct 2026 09:05 | chat A | 01_Glaucoma_Case_Cards | **DONE** — 45 pp, all 10 cards (G1, G4, G5, G6, G7, G8, G9, G10, G2, G3); every card independently fact-checked against Baidya, Namrata and Aravind |
 
+| 12 Oct 2026 | video chat | 08_Long_Case_Survival_Video_Guide | **DONE** — 12 cards (V0 overview · V2–V8 the seven video cases · V10 glaucoma talk · VV viva bank · VS slide atlas · VQ topic finder), 48 images from the Cochin Ophthalmic Club live mock long-case exam video; how it was made: `_work/video/README.md` |
+
 **Not started:** 02 RETINA · 03 CORNEA · 04 MISC · 05 NERVES · 06 OCULOPLASTY · 07 VIVA
 
 **Before starting a new subject, read `_work/README.md`.** It holds the shared specs (card templates, house format,

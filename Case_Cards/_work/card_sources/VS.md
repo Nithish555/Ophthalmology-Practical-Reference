@@ -85,6 +85,78 @@
 | 1:22:30 | Differentials | TED first; intraconal masses; needs investigation |
 | 1:34:40 | **MRI orbits, axial T1 and T2** (edit view, about 15 s, during the viva) | Discussed as "the CT": no muscle thickening; intraconal globular homogeneous mass |
 
+## Case 4 — left pupil-sparing partial third nerve palsy (card V5)
+@widths 12 40 48
+| Time | Slide | What was said |
+|---|---|---|
+| 1:48:30 | Title — case sheet | Apology that one picture was missing; thanks to the examiners |
+| 1:48:40 | Demographics and complaints: man, 73, businessman | Double vision 7 days; left lid drooping 3 days |
+| 1:49:10 | History of presenting illness | Sudden painless diplopia, horizontal with a vertical element, worse looking right; relieved when the lid dropped |
+| 1:50:00 | Negative history | Myasthenia, giant cell arteritis, raised pressure and brainstem symptoms all asked about |
+| 1:50:30 | **Patient photograph, primary gaze** | "Closing the left eye on purpose to relieve the diplopia" |
+| 1:50:40 | Past history | Similar right-sided palsy 5 years ago, recovered in a year |
+| 1:51:00 | Medical and personal history | Diabetes 20 years, treatment stopped; bypass surgery; smoker |
+| 1:51:30 | General examination; **vitals (BP 220/110)** (9 s) | Read out without comment — the examiner's first criticism |
+| 1:51:50 | Central nervous system and cranial nerve tables | All other cranial nerves, motor, sensory and cerebellar normal |
+| 1:53:20 | Ocular examination | Lid lifted: left eye exotropic and hypotropic |
+| 1:53:30 | Ptosis evaluation | Fissure 5 mm, MRD1 −1, MRD2 6, levator 4 mm; ice test negative |
+| 1:53:50 | **Versions — nine-gaze photographs and H-charts** | Left eye limited in all gazes except abduction |
+| 1:54:37 | **Ductions, right eye** (3 s) and **left eye** | Right full; left −3 up, in and down-and-out; intorsion present |
+| 1:54:50 | Hirschberg and cover tests | Left exotropia 30° with hypotropia |
+| 1:55:20 | Prism bar cover test | Secondary deviation larger than primary |
+| 1:55:50 | Forced duction and saccades | Forced duction negative; floating saccades |
+| 1:56:00 | Vision, refraction, IOP, colour, fields | 6/9 both with glasses; IOP 17 and 18 |
+| 1:56:30 | Lids, cornea, AC, pupil, lens tables | Pupils 2 mm, equal and reacting; cataract both eyes |
+| 1:57:20 | Fundus | Normal, CDR 0.5 |
+| 1:57:30 | **Diplopia charting** and **Worth four-dot** | Separation greater to the right and up; crossed diplopia |
+| 1:57:50 | Summary | Read aloud |
+| 1:58:10 | Provisional diagnosis | Isolated pupil-sparing partial left oculomotor palsy, microvascular; severe ptosis; cataract; hypermetropic astigmatism |
+
+## Case 5 — right perforated corneal ulcer (card V6)
+@widths 12 40 48
+| Time | Slide | What was said |
+|---|---|---|
+| 2:17:50 | Title — case presentation | Introduces herself |
+| 2:18:05 | Demographics: woman, 55, housewife | — |
+| 2:18:10 | Chief complaints | Sudden painful loss of vision since morning, after 2 weeks of redness, watering and photophobia |
+| 2:18:20 | History of present illness | Diagnosed elsewhere with a corneal ulcer; poked the eye with her finger this morning |
+| 2:19:00 | Negative history | No foreign body, contact lens, dry eye, diabetes or autoimmune disease |
+| 2:19:20 | Ocular history | Scraping: smears and culture negative; on natamycin, moxifloxacin, atropine, oral ketoconazole |
+| 2:19:50 | Past medical history | Hypertension 4 years |
+| 2:20:05 | General and systemic examination | Normal; BP 130/80 |
+| 2:20:20 | Vision and IOP | Right perception of light, projection accurate; IOP "low" by digital tonometry (later criticised) |
+| 2:20:40 | Eye movements | Full |
+| 2:20:50 | Adnexa table | Oedematous lid margin, blocked meibomian glands, matted lashes; ROPLAS negative |
+| 2:21:30 | Cornea on diffuse illumination (text) | Large infiltrate, overhanging edges, perforation 1 to 5:30 o'clock with iris, vessels 12 to 7 o'clock, Seidel positive |
+| 2:22:20 | **Right cornea photographs** | — |
+| 2:22:30 | **Corneal diagram, frontal and slit views** | "This is my corneal diagram" |
+| 2:23:00 | Slit-lamp findings with **slit photograph** | Perforation and incarcerated iris; infiltrate about 8 × 6 mm |
+| 2:23:20 | AC, iris, pupil, lens table | AC flat; pupil irregular; lens not seen |
+| 2:24:00 | Fundus | No view; B-scan normal |
+| 2:24:10 | Summary | Read aloud |
+| 2:24:20 | Probable diagnosis | Right corneal ulcer with perforation; hypertension. The examiner noted perforated ulcers are rarely long cases |
+
+## Case 6 — anterior uveitis in high axial myopia (card V7)
+@widths 12 40 48
+| Time | Slide | What was said |
+|---|---|---|
+| 2:48:25 | Title (edit view) and demographics: man, 49 | Introduces the patient |
+| 2:48:50 | History of presenting complaints | Redness, pain, photophobia and blurring of the right eye for a week; episodes every 6 months for 5 years |
+| 2:49:20 | Negative history | — |
+| 2:49:30 | Past ocular history | Swelling last year treated with antibiotics; glasses since 12; LASIK in the right eye 25 years ago |
+| 2:50:00 | Past medical and family history | Diabetes and hypertension 18 years; ischaemic heart disease |
+| 2:50:30 | General, CNS and systemic examination | Normal |
+| 2:51:00 | Ocular examination with **primary-gaze photograph** | Head posture; Hertel 21 and 20 mm; left exotropia, right hypotropia |
+| 2:51:30 | **Movement chart** and **nine-gaze photographs** (3 s) | Right eye limited in elevation, abduction and slightly adduction |
+| 2:51:40 | Vision and refraction | −12 D and −21 D |
+| 2:52:30 | Anterior segment tables | Circumcorneal congestion; fine KPs; cells 2+, flare 1+; posterior subcapsular cataract both |
+| 2:53:16 | **Right and left anterior segment photographs** | — |
+| 2:53:30 | Fundus table | Large discs, extensive peripapillary atrophy, tessellated fundus |
+| 2:53:50 | **Fundus photographs** | — |
+| 2:55:03 | **Anterior segment** and fundus diagrams (under 1 s each) | — |
+| 2:55:00 | Summary | Read aloud |
+| 2:56:30 | Provisional diagnosis | Immature cataract both eyes, high myopia, right post-LASIK, right acute non-granulomatous anterior uveitis, "pseudoproptosis" |
+
 ## Case 7 — left pseudophakic RD in a vitrectomised eye (card V8)
 @widths 12 40 48
 | Time | Slide | What was said |
