@@ -19,7 +19,7 @@
 | Symptoms and duration | Central blur, metamorphopsia, a gap in the centre of letters, reading difficulty, often noticed on covering the good eye. Under 6 months predicts better closure and vision. |
 | Age, sex, cause | Woman over 60 = idiopathic. Young patient: ask about blunt trauma, high myopia, eclipse or laser exposure, lightning. Also diabetic or vein-occlusion oedema, uveitis, previous retinal detachment surgery. |
 | Fitness to posture | Neck or back disease, obesity, breathlessness; planned air travel or high-altitude trips; one-eyed patient. |
-| Visual acuity | Usually 6/18–6/60 once full thickness; worse than 6/60 is unusual — look for another cause (cataract, age-related macular degeneration, glaucoma). |
+| Visual acuity | Usually 6/18–6/60 once full thickness; large, long-standing holes fall below 6/60. Vision worse than the hole explains — look for cataract, age-related macular degeneration or glaucoma. |
 | Lens | Nuclear sclerosis matters: most phakic eyes develop cataract within 1–2 years of vitrectomy. |
 | The hole on biomicroscopy | Round, punched-out red defect at the foveola, about one-third of a disc diameter in stage 3; grey cuff of subretinal fluid; yellow dots in the base; operculum on the hyaloid; Weiss ring if complete PVD; epiretinal membrane. |
 | Watzke–Allen test | Thin vertical slit beam across the hole with a macular lens: patient sees a **break** in the line = positive (FTMH). Narrowing or bending only = pseudohole, lamellar hole or cyst. |
@@ -51,8 +51,11 @@ A: Gass blamed tangential traction of the prefoveal cortex. OCT shows that holes
 Q: Give the Gass staging.
 A: 1A — impending hole, yellow spot (foveolar detachment); 1B — occult hole, yellow ring; 2 — small full-thickness hole under 400 µm, often eccentric or crescentic; 3 — full-thickness hole of 400 µm or more with a cuff of fluid and an operculum, vitreous not fully detached; 4 — any full-thickness hole with complete PVD (Weiss ring).
 
-Q: Give the IVTS OCT classification.
-A: Vitreomacular adhesion (VMA) — perifoveal separation with foveal attachment within 3 mm and no retinal change; VMT — the same with distortion of the fovea; both focal (≤1500 µm) or broad (>1500 µm). FTMH — by minimum width: small ≤250 µm, medium >250–400 µm, large >400 µm; with or without VMT; primary or secondary. Gass 1 = VMT; 2 = small or medium FTMH with VMT; 3 = medium or large with VMT; 4 = FTMH without VMT.
+Q: How does the IVTS classify the vitreomacular interface?
+A: Vitreomacular adhesion (VMA) — perifoveal vitreous separation with the cortex still attached within a 3 mm radius of the fovea and no retinal change; VMT — the same with distortion of the foveal surface or retina, but no full-thickness defect. Both are graded focal (≤1500 µm) or broad (>1500 µm), isolated or with other macular disease.
+
+Q: How does the IVTS classify a full-thickness hole, and how does it match Gass?
+A: By minimum width — small ≤250 µm, medium >250–400 µm, large >400 µm; by vitreous — with or without VMT; by cause — primary (from VMT) or secondary. Gass 1 = VMT; 2 = small or medium FTMH with VMT; 3 = medium or large FTMH with VMT; 4 = FTMH without VMT.
 
 Q: What is an operculum?
 A: A disc of condensed vitreous cortex and glial tissue on the detached hyaloid over the hole; about 40% contain photoreceptor elements. Most are pseudo-opercula — the hole forms mainly by retraction, not tissue loss.
@@ -77,7 +80,7 @@ Q: What does the Amsler grid show?
 A: Central distortion with lines bowed towards the centre and sometimes a small central scotoma; it documents early holes and monitors the fellow eye.
 
 Q: What is the typical vision by stage?
-A: Stage 1–2 about 6/9–6/24; stages 3–4 about 6/30–6/120. Vision worse than 6/60 is rare and should prompt a search for another cause.
+A: Stages 1–2 about 6/9–6/24; stages 3–4 about 6/30–6/120, large old holes being worst. Vision much worse than the hole explains should prompt a search for another cause.
 
 ### Investigations
 Q: What does OCT measure, and which indices predict outcome?
@@ -86,7 +89,7 @@ A: Minimum linear diameter (narrowest point, used for IVTS size), base diameter 
 Q: What do fluorescein angiography and autofluorescence show?
 A: Angiography: an early, well-defined window defect that does not enlarge and does not leak — this separates it from CME and CNV. Autofluorescence: a bright foveolar spot because the macular pigment that normally masks the RPE is displaced.
 
-Q: Any other tests?
+Q: Which other tests may help?
 A: Microperimetry (dense central scotoma, fixation stability), multifocal electroretinography (reduced central response) and B-scan when media are hazy to judge the vitreous.
 
 Q: How is closure described on postoperative OCT?
@@ -154,7 +157,7 @@ A: Brilliant blue G (0.025–0.05%) — ILM; trypan blue (0.15%) — epiretinal 
 - Offering laser to the hole itself; laser is only for peripheral breaks.
 - Forgetting posture, air travel, nitrous oxide and the one-eyed patient before advising gas.
 - Missing the fellow eye and not warning a phakic patient that cataract will follow.
-- Accepting vision worse than 6/60 as "just the hole" without looking for another cause.
+- Blaming the hole for vision that is worse than its size explains, without looking for cataract, macular degeneration or glaucoma.
 :::
 
 :::recall
