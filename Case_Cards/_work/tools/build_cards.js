@@ -64,14 +64,14 @@ const FIGURE_MAX_CM = { width: 16, height: 10.5 };                 // :::figure 
 function usage(msg) {
   if (msg) process.stderr.write(`build_cards.js: ${msg}\n`);
   process.stderr.write('usage: node build_cards.js --subject NAME --file-title TEXT --out FILE.docx [--no-contents] [--report FILE]\n'
-    + '       [--cover-title TEXT] [--cover-subtitle TEXT] [--cover-note TEXT] [--cover-key TEXT] [--contents-col LABEL] CARD.md ...\n');
+    + '       [--cover-title TEXT] [--cover-subtitle TEXT] [--cover-note TEXT] [--cover-key TEXT] [--contents-col LABEL] [--contents-head LABEL] CARD.md ...\n');
   process.exit(2);
 }
 
 function parseArgs(argv) {
   const o = {
     subject: '', fileTitle: '', out: '', contents: true, report: '', files: [],
-    coverTitle: '', coverSubtitle: COVER_SUBTITLE, coverNote: COVER_NOTE, coverKey: COVER_KEY, contentsCol: '',
+    coverTitle: '', coverSubtitle: COVER_SUBTITLE, coverNote: COVER_NOTE, coverKey: COVER_KEY, contentsCol: '', contentsHead: '',
   };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
@@ -88,6 +88,8 @@ function parseArgs(argv) {
     // "--contents-col LABEL": the last contents column shows the badge part that holds a time
     // (e.g. "1:16:46–1:41:38") instead of the ★ last-year count
     else if (a === '--contents-col') o.contentsCol = val();
+    // "--contents-head LABEL": rename the last contents column but keep showing the ★ part of the badge
+    else if (a === '--contents-head') o.contentsHead = val();
     else if (a === '-h' || a === '--help') usage();
     else if (a.startsWith('--')) usage(`unknown option ${a}`);
     else o.files.push(a);
@@ -1049,7 +1051,7 @@ class Builder {
       verticalAlign: VerticalAlign.CENTER,
       children: [new Paragraph({ spacing: { before: 0, after: 0, line: 245, lineRule: 'auto' }, children })],
     });
-    const head = ['No.', 'Card', 'Type', this.opts.contentsCol || 'Last year'].map((h, j) =>
+    const head = ['No.', 'Card', 'Type', this.opts.contentsCol || this.opts.contentsHead || 'Last year'].map((h, j) =>
       cell([new TextRun({ text: h, bold: true, color: COL.white, size: SIZE.table })], colW[j], { fill: COL.navy }));
     const rows = [new TableRow({ tableHeader: true, cantSplit: true, children: head })];
     cards.forEach((c, k) => {
@@ -1064,7 +1066,7 @@ class Builder {
         // the ★ part of the badge; "at JEH last year" is already said by the column header and the key
         const star = c.badge.split(/\s+·\s+/).find(s => s.includes('★'));
         const starText = star ? star.replace('★', '').replace(/\s+at JEH last year\b/i, '').trim() : '';
-        lastYear = star
+        lastYear = star && !/:\s*none\s*$/i.test(starText)
           ? this.runs(`★ ${starText}`, { size: SIZE.table, starColor: COL.goldOnWhite }, 'contents')
           : [new TextRun({ text: '—', size: SIZE.table, color: COL.grey })];
       }

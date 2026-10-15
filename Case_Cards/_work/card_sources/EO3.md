@@ -25,7 +25,7 @@
 | Capsule and vitreous | Posterior capsule or anterior rim, Soemmering's ring, Elschnig pearls, vitreous in the chamber or wound (peaked pupil) — decides the secondary IOL |
 | Retinoscopy and refraction | About +10 D in a previously emmetropic adult, with +3 D more for near |
 | Lamellar cataract: undilated and dilated, distant direct ophthalmoscopy, slit lamp, retroillumination | Disc-shaped opacity in one lamella, clear centre, clear cortex, riders at its edge; record size in mm, density and the clear zone |
-| IOP and gonioscopy | Intraocular pressure (IOP) for aphakic glaucoma; bleb function and angle in S.No 48 |
+| Intraocular pressure (IOP) and gonioscopy | Aphakic glaucoma; bleb function and angle in S.No 48 |
 | Cornea | Microcornea; vitreous touch, aphakic bullous keratopathy |
 | Alignment, nystagmus, amblyopia | Sensory squint in unilateral aphakia; nystagmus means early dense bilateral cataract and a poor outlook |
 | Fundus with +90 D and indirect ophthalmoscope | Disc cupping (0.9 in S.No 48), retinal detachment, cystoid macular oedema |
@@ -50,7 +50,7 @@ Q: What is the optical state of an aphakic eye?
 A: High hypermetropia, because the lens supplies about +16 to +19 D of the eye's power; at the spectacle plane a previously emmetropic eye needs about +10 to +11 D, plus about +3 D for near. Accommodation is lost.
 
 Q: What is a zonular (lamellar) cataract?
-A: An opacity confined to one lamella of the lens, usually around the fetal nucleus, with a clearer centre inside and clear cortex outside, and short spoke-like opacities (riders) straddling its equator. It is the commonest visually significant developmental cataract, usually bilateral and symmetrical.
+A: An opacity confined to one lamella of the lens, usually in the fetal nucleus around a clearer embryonic nucleus, with clear cortex outside, and short spoke-like opacities (riders) straddling its equator. It is the commonest visually significant developmental cataract, usually bilateral and symmetrical.
 
 Q: Why does it form a shell, and what are riders?
 A: An insult acting for a short period of lens growth makes only the fibres laid down then opaque; later fibres are clear and bury the opacity. Its diameter dates the insult (larger means later). Riders are small arcuate cortical opacities at the edge of the zone, like riders astride a horse.
@@ -116,7 +116,7 @@ Q: What are the steps of paediatric cataract surgery?
 A: Small incisions, sutured because of low scleral rigidity; high-viscosity viscoelastic; anterior continuous curvilinear capsulorhexis (CCC) or vitrectorhexis (elastic capsule); aspiration of the soft lens; primary posterior capsulorhexis with anterior vitrectomy in young children; in-the-bag single-piece hydrophobic acrylic IOL; intensive topical steroid and cycloplegic afterwards.
 
 Q: When do you do a primary posterior capsulotomy and anterior vitrectomy?
-A: Visual axis opacification is almost certain in young children if the capsule is left. Under 5 years: posterior capsulorhexis with anterior vitrectomy; 5–8 years: posterior capsulorhexis with or without vitrectomy; over 8 years: keep the capsule and use neodymium:YAG (Nd:YAG) capsulotomy later. The anterior hyaloid otherwise acts as a scaffold for lens epithelial cells.
+A: Visual axis opacification is almost certain in young children if the capsule is left. Under 5 years: posterior capsulorhexis with anterior vitrectomy; 5–8 years: posterior capsulorhexis with or without vitrectomy; over 8 years: keep the capsule and use neodymium-doped yttrium aluminium garnet (Nd:YAG) laser capsulotomy later. The anterior hyaloid otherwise acts as a scaffold for lens epithelial cells.
 
 Q: How do you choose IOL power in a child?
 A: Keratometry and immersion A-scan under anaesthesia; SRK/T, Holladay 1 or Hoffer Q for short eyes; implant if axial length is over 17 mm and corneal diameter over 10 mm. Under-correct for the myopic shift: 20% under 2 years, 15% at 2–4, 10% at 4–8, emmetropia after 8. Rough guide (rule of 7): age in years plus target hypermetropia is about 7.

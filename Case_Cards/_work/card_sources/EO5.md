@@ -56,7 +56,7 @@ Q: What causes ciliary staphyloma?
 A: Long-standing raised IOP: absolute glaucoma after chronic angle closure, neovascular, uveitic or traumatic glaucoma; buphthalmos. Scleritis: necrotising scleritis, scleromalacia perforans. Trauma: perforating injury, scleral scar. Surgery: surgically induced necrotising scleritis, a thin scleral flap. Rarely herpes zoster or tuberculous scleritis.
 
 Q: Why does the ciliary region give way?
-A: The sclera is thinnest (about 0.3 mm) just behind the rectus insertions, over the ciliary body; the anterior ciliary vessels pierce it here, leaving weak canals; and this zone is the usual site of anterior scleritis. In an infant the whole sclera is distensible.
+A: The sclera is thinnest (about 0.3 mm) just behind the rectus insertions, close to this zone; the anterior ciliary vessels pierce it here, leaving weak canals; and this zone is the usual site of anterior scleritis. In an infant the whole sclera is distensible.
 
 Q: Where does the ciliary body lie on the surface?
 A: From the scleral spur, just behind the limbus, to the ora serrata about 6 mm (nasal) to 7 mm (temporal) behind the limbus: the pars plicata in front (about 2 mm) and the pars plana behind (about 4 mm). A bulge 2–8 mm behind the limbus therefore overlies it.

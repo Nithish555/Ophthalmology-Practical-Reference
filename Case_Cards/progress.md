@@ -13,6 +13,8 @@ Each chat adds a line when it starts and when it delivers, so parallel chats don
 
 | 12 Oct 2026 | video chat | 08_Long_Case_Survival_Video_Guide | **DONE** — 12 cards (V0 overview · V2–V8 the seven video cases · V10 glaucoma talk · VV viva bank · VS slide atlas · VQ topic finder), 48 images from the Cochin Ophthalmic Club live mock long-case exam video; how it was made: `_work/video/README.md` |
 
+| 15 Oct 2026 | exam-day chat | 09_Exam_Day_Case_List_Viva_Guide | **DONE** — 25 cards, 113 pp: E0 (tomorrow's 53-patient list sorted by diagnosis, ★ 19 arrived) · glaucoma G1, G4, G2, G5, G7 · new viva cards ER1–ER7, EC1–EC7, EO1–EO5 (30–45 viva Q&A each, facts from Baidya, Namrata, Aravind) |
+
 **Not started:** 02 RETINA · 03 CORNEA · 04 MISC · 05 NERVES · 06 OCULOPLASTY · 07 VIVA
 
 **Before starting a new subject, read `_work/README.md`.** It holds the shared specs (card templates, house format,

@@ -26,7 +26,7 @@
 | Iris and pupil | **Iridodonesis**; displaced pupil (ectopia lentis et pupillae); poor dilation in Marfan (hypoplastic dilator) |
 | Lens: direction, clock hours of zonular loss, visible edge, zonules, **phacodonesis**, cataract, size | "Lens equator seen superotemporally in the undilated pupil, 4 clock hours of loss, stretched zonules, clear lens." Small round lens: microspherophakia |
 | Vitreous in the anterior chamber | Changes the surgery (anterior vitrectomy) |
-| IOP and gonioscopy | Intraocular pressure (IOP): pupil block; angle recession after trauma; open angle with high IOP in phacolytic glaucoma |
+| Intraocular pressure (IOP) and gonioscopy | Pupil block; angle recession after trauma; open angle with high IOP in phacolytic glaucoma |
 | Fundus | Lens in the vitreous, mobile or resting inferiorly on the retina; lattice, breaks, retinal detachment (RD) |
 | Distant direct ophthalmoscopy | Dark crescent of the lens edge across the red glow: subluxation |
 | Fellow eye | Subluxated in heritable disease; normal after trauma |

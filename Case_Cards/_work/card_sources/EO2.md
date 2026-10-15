@@ -20,7 +20,7 @@
 | Watering, photophobia, large or cloudy eye in infancy | Developmental glaucoma; microcornea, aniridia and Axenfeld–Rieger eyes carry a lifelong glaucoma risk |
 | Poor vision, squint, nystagmus | Amblyopia (anisometropic, deprivation, strabismic); nystagmus means poor vision from infancy (aniridia, foveal hypoplasia, macular coloboma) |
 | Family history, consanguinity; maternal rubella, alcohol | Coloboma and Axenfeld–Rieger are often autosomal dominant; aniridia two-thirds familial; microphthalmos with rubella and fetal alcohol syndrome |
-| Systemic: ears, face, spine, teeth, umbilicus, heart, kidneys | Preauricular tags, microtia (Goldenhar); missing teeth, periumbilical skin folds (Rieger syndrome); CHARGE with coloboma; Wilms tumour with sporadic aniridia |
+| Systemic: ears, face, spine, teeth, umbilicus, heart, kidneys | Preauricular tags, microtia (Goldenhar); missing teeth, periumbilical skin folds (Rieger syndrome); heart and ear defects with coloboma; Wilms tumour with sporadic aniridia |
 | Corneal diameter, horizontal and vertical, both eyes | Normal adult 11.5–12 mm horizontally; microcornea less than 10 mm; megalocornea 13 mm or more. Record "right 9 mm, left 11.5 mm" |
 | Eyeball size; axial length by A-scan | Microphthalmos: axial length 2 standard deviations below the mean for age (adult below about 21 mm); nanophthalmos below about 20.5 mm with thick sclera |
 | Pupil: position, distance from centre, shape, reaction | "Pupil displaced superotemporally, 2 mm from the centre, round, reacting" = corectopia. Keyhole pupil pointing inferonasally = typical iris coloboma |
@@ -51,7 +51,7 @@ Q: How do microphthalmos, nanophthalmos and isolated microcornea differ?
 A: Isolated microcornea: small cornea, normal axial length. Microphthalmos: the whole eye is small; simple, or complex (with coloboma, cataract, persistent fetal vasculature). Nanophthalmos: simple microphthalmos with axial length below about 20.5 mm, thick sclera, crowded anterior segment, hypermetropia of +8 to +20 dioptres (D), and angle closure and uveal effusion after surgery.
 
 Q: What are the associations of microcornea?
-A: Ocular: hypermetropia; angle closure, and later open-angle glaucoma (about 20%); congenital cataract; uveal coloboma; persistent fetal vasculature; Axenfeld–Rieger, Peters anomaly; amblyopia. Systemic: rubella, fetal alcohol syndrome, CHARGE, Nance–Horan, Weill–Marchesani, Ehlers–Danlos.
+A: Ocular: hypermetropia; angle closure, and later open-angle glaucoma (about 20%); congenital cataract; uveal coloboma; persistent fetal vasculature; Axenfeld–Rieger, Peters anomaly; amblyopia. Systemic: rubella, fetal alcohol syndrome, CHARGE (coloboma, heart defects, choanal atresia, retarded growth, genital and ear anomalies; CHD7 gene), Nance–Horan, Weill–Marchesani, Ehlers–Danlos.
 
 Q: How do you tell megalocornea from buphthalmos?
 A: Megalocornea: bilateral, clear, non-progressive cornea of 13 mm or more, X-linked recessive (CHRDL1) so mostly males, normal IOP and disc, deep chamber, iridodonesis, later lens subluxation and early cataract. Buphthalmos: raised IOP, photophobia, watering, corneal oedema, horizontal or concentric Haab's striae, an enlarging eye, cupping and axial myopia.
@@ -138,9 +138,6 @@ A: PAX6 (aniridia, some Peters anomaly and coloboma); PITX2 and FOXC1 (Axenfeld�
 
 Q: Give the key points of the left iris coloboma in S.No 6 (details on card ER5).
 A: Inferonasal keyhole pupil, from failure of closure of the embryonic fissure; complete (full thickness, to the root) or partial (margin only); incomplete forms show only on transillumination. Look for a lens notch, ciliary body, retinochoroidal and disc coloboma, and CHARGE. Tinted or iris-printed contact lens for glare; screen for retinal detachment (23–40% with retinochoroidal coloboma).
-
-Q: What is CHARGE?
-A: Coloboma, Heart defects, choanal Atresia, Retarded growth and development, Genital hypoplasia, Ear anomalies with deafness; CHD7 gene.
 
 Q: What are the causes of congenital corneal opacity?
 A: STUMPED: Sclerocornea; Tears in Descemet's membrane (congenital glaucoma, forceps); Ulcer (herpes, bacterial, neurotrophic); Metabolic (mucopolysaccharidoses); Peters anomaly (posterior corneal defect); Endothelial dystrophy (congenital hereditary endothelial dystrophy, posterior polymorphous dystrophy); Dermoid.
