@@ -45,7 +45,7 @@ Q: Define keratoconus.
 A: A bilateral, usually asymmetric, progressive, non-inflammatory ectasia with central or paracentral stromal thinning, apical protrusion and irregular astigmatism (the classic triad). The 2015 global consensus says truly unilateral keratoconus does not exist.
 
 Q: Who gets it?
-A: Teenagers, usually noticed around 15; more males (Baidya); about 400 per 100,000, more in South Asians, who present younger, often with vernal disease; 6–18% have an affected relative.
+A: Teenagers, usually noticed around 15; more males; about 400 per 100,000, more in South Asians, who present younger, often with vernal disease; 6–18% have an affected relative.
 
 Q: What is the pathogenesis?
 A: A genetically susceptible cornea plus mechanical stress, chiefly rubbing: raised matrix metalloproteinases, reduced inhibitors, keratocyte apoptosis driven by interleukin-1, oxidative stress and loss of collagen lamellae.
@@ -67,7 +67,7 @@ A: Two or more of: six or more café-au-lait macules (over 5 mm before puberty, 
 
 ### Examination and signs
 Q: What is the earliest sign?
-A: Scissoring of the retinoscopy reflex; at the slit lamp the Fleischer ring is the earliest (Baidya). Subclinical disease shows only on topography or tomography.
+A: Scissoring of the retinoscopy reflex; at the slit lamp the Fleischer ring is the earliest. Subclinical disease shows only on topography or tomography.
 
 Q: Describe Munson and Rizzuti signs.
 A: Munson: V-shaped bulge of the lower lid on downgaze, in moderate to advanced disease. Rizzuti: a penlight from the temporal side is focused by the cone into a sharp beam just inside the nasal limbus.
@@ -80,6 +80,9 @@ A: Fine vertical stress lines in the posterior stroma and Descemet membrane at t
 
 Q: Explain the oil-droplet reflex and scissoring.
 A: Oil droplet (Charleux): through a dilated pupil the cone shows a dark ring round a bright centre, from total internal reflection. Scissoring: the cone and its periphery differ in power, so near neutralisation two reflex bands move in opposite directions.
+
+Q: What causes prominent corneal nerves?
+A: Ocular: keratoconus, Fuchs dystrophy, congenital glaucoma, dry eye, trauma, ageing. Systemic: NF1, leprosy, multiple endocrine neoplasia type 2B, Refsum disease, ichthyosis; a useful link to the listed nodules.
 
 Q: What types of cone are there?
 A: Nipple: 5 mm or less, central or inferonasal, easiest to fit. Oval: 5–6 mm, inferotemporal, more hydrops. Globus: over 75% of the cornea, hardest to fit.
@@ -175,5 +178,5 @@ A: An unrelated congenital, usually unilateral, non-progressive excavation of th
 - CXL Dresden: riboflavin 0.1%, UVA 370 nm, 3 mW/cm² for 30 minutes, 5.4 J/cm², thinnest 400 µm.
 - Ladder: stop rubbing, spectacles, rigid lens, CXL if progressing, rings, DALK, PK.
 - Lisch nodules mean NF1 (17q11.2); Brushfield spots mean Down syndrome.
-- Signs mnemonic "FROM SCVO": Fleischer ring, Rizzuti, Oil droplet, Munson, Scissoring, Corneal nerves prominent, Vogt striae, Opacity at the apex.
+- Acute hydrops: Descemet break; medical treatment for 2–4 months, air or gas to speed it; DALK or PK later for the scar.
 :::

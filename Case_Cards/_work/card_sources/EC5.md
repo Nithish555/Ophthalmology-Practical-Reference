@@ -154,7 +154,7 @@ Q: Contrast Fuchs endothelial dystrophy with granular dystrophy.
 A: Fuchs is posterior: endothelial cell loss with central guttae (beaten-metal look), Descemet thickening, then stromal and epithelial oedema with bullae; women 4:1, after 50; blur worst on waking; thick cornea. Granular is anterior stromal deposits with normal thickness and endothelium.
 
 Q: What is the genetics of Fuchs dystrophy?
-A: Late-onset: mostly a CTG trinucleotide repeat expansion (CTG18.1) in the transcription factor 4 (TCF4) gene on chromosome 18; early-onset: mutations in collagen VIII alpha-2 (COL8A2). Autosomal dominant with variable penetrance; many cases seem sporadic.
+A: Late-onset: mostly a cytosine–thymine–guanine (CTG) trinucleotide repeat expansion (CTG18.1) in the transcription factor 4 (TCF4) gene on chromosome 18; early-onset: mutations in collagen VIII alpha-2 (COL8A2). Autosomal dominant with variable penetrance; many cases seem sporadic.
 
 Q: How is Fuchs dystrophy managed?
 A: Early: 5% sodium chloride drops 4–8 times a day and ointment at night; a hairdryer at arm's length in the morning; bandage contact lens for ruptured bullae. Surgery: Descemet membrane endothelial keratoplasty (DMEK) or Descemet stripping automated endothelial keratoplasty (DSAEK); PK if the stroma is scarred; combine with cataract surgery when needed.
@@ -166,7 +166,7 @@ Q: What is Schnyder corneal dystrophy?
 A: An autosomal dominant disorder of corneal lipid metabolism (UbiA prenyltransferase domain-containing 1 gene): central subepithelial cholesterol crystals in a ring or disc, stromal haze and early arcus; about half have raised serum cholesterol, so check the lipid profile. Some have no crystals.
 
 Q: What treatments for TGFBI dystrophies are under research?
-A: Allele-specific gene editing and small interfering RNA that silence the mutant TGFBI allele are experimental; femtosecond-assisted DALK and repeat PTK with mitomycin C are current refinements.
+A: Allele-specific gene editing and small interfering ribonucleic acid, both silencing the mutant TGFBI allele, are experimental; femtosecond-assisted DALK and repeat PTK with mitomycin C are current refinements.
 
 ## Examiner traps
 :::trap

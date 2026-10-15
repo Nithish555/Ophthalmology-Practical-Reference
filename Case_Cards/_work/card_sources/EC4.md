@@ -71,7 +71,7 @@ Q: How do you test the mobility of a hypopyon and what does it tell you?
 A: Note the level, ask the patient to tilt the head or lie on one side for about 10 minutes, and look again: a fluid bacterial hypopyon shifts and levels again; a thick fungal one stays fixed. Measure the height in mm at the slit lamp; a falling height is a sign of healing.
 
 Q: What signs show the ulcer is healing or worsening?
-A: Healing: less pain, sharper and blunted margins, smaller and less dense infiltrate, less oedema and AC reaction, falling hypopyon, re-epithelialisation, vessels growing in. Worsening: more pain, enlarging dense infiltrate, thinning, rising hypopyon, new satellites, scleral spread, perforation.
+A: Healing: less pain, blunted, well-defined margins, smaller and less dense infiltrate, less oedema and AC reaction, falling hypopyon, re-epithelialisation, vessels growing in. Worsening: more pain, enlarging dense infiltrate, thinning, rising hypopyon, new satellites, scleral spread, perforation.
 
 Q: Why do you check the lacrimal sac and syringe?
 A: Chronic dacryocystitis is a reservoir of pneumococcus and causes ulcus serpens and recurrence. Press over the sac and syringe; if mucopus regurgitates, treat the sac by dacryocystorhinostomy (DCR), or dacryocystectomy in an emergency, before corneal or intraocular surgery.

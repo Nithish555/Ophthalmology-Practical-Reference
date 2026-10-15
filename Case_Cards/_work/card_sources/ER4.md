@@ -125,7 +125,7 @@ Q: What do the landmark glycaemic control trials teach?
 A: Diabetes Control and Complications Trial (DCCT, type 1): intensive control cut the onset of retinopathy by 76% and progression by 54%, with lasting benefit (metabolic memory) despite possible early worsening. United Kingdom Prospective Diabetes Study (UKPDS, type 2): intensive glucose control cut microvascular end points by 25%; tight blood pressure control cut retinopathy progression by about a third. ACCORD and FIELD: fenofibrate slowed progression and reduced laser need.
 
 Q: What are the screening and follow-up intervals?
-A: Type 1: from 5 years after diagnosis (from puberty), then yearly. Type 2: at diagnosis, then yearly. Pregnancy: before conception or in the first trimester, then each trimester. Follow-up: no DR yearly; mild NPDR 6–12 months; moderate 4–6 months; severe 2–3 months; non-high-risk PDR about 2 months or treat.
+A: Type 1: 5 years after diagnosis (not usually before puberty), then yearly. Type 2: at diagnosis, then yearly. Pregnancy: before conception or in the first trimester, then each trimester. Follow-up: no DR yearly; mild NPDR 6–12 months; moderate 4–6 months; severe 2–3 months; non-high-risk PDR about 2 months or treat.
 
 ### Complications and prognosis
 Q: What are the complications of PRP?
@@ -148,7 +148,7 @@ Q: What did ETDRS conclude about early PRP and aspirin?
 A: Early scatter laser is not advised for mild or moderate NPDR but may be considered for severe NPDR or early PDR, especially in type 2 diabetes; aspirin neither helps nor worsens retinopathy or haemorrhage. Focal laser halved moderate visual loss in CSME (about 24% to 12% at 3 years).
 
 Q: What is new?
-A: Faricimab (VEGF-A and angiopoietin-2) and aflibercept 8 mg for longer intervals; biosimilars; the fluocinolone implant lasting up to 3 years; pattern scan laser (PASCAL) with 10–30 ms burns for faster, less painful PRP; subthreshold micropulse laser for DME; and anti-VEGF in severe NPDR (Protocol W cut progression but gave no visual gain).
+A: Faricimab (VEGF-A and angiopoietin-2) and aflibercept 8 mg for longer intervals; biosimilars; the fluocinolone implant lasting up to 3 years; pattern scan laser (PASCAL) with 10–30 ms burns for faster, less painful PRP; subthreshold micropulse laser for DME; and anti-VEGF in moderate to severe NPDR (Protocol W cut progression but gave no visual gain).
 
 ## Examiner traps
 :::trap
