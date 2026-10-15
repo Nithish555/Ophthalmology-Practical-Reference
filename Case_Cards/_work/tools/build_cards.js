@@ -51,7 +51,7 @@ const BOXES = {
   short: { fill: 'F4F6F8', edge: '7F8C8D' },
 };
 const PLAIN_BOX = { fill: 'F2F2F2', edge: null };                  // any unknown :::name
-const KIND_LABEL = { long: 'Long case', short: 'Short case', fundus: 'Fundus case', task: 'Task', chart: 'Chart', index: 'Index', video: 'Video case', guide: 'Guide' };
+const KIND_LABEL = { long: 'Long case', short: 'Short case', fundus: 'Fundus case', task: 'Task', chart: 'Chart', index: 'Index', video: 'Video case', guide: 'Guide', viva: 'Viva card' };
 const WORD_BUDGET = { long: [2300, 3200], short: [700, 1000], task: [550, 750], chart: [550, 750] };
 const COVER_SUBTITLE = 'M.S. Ophthalmology practical examination · Tamil Nadu Dr M.G.R. Medical University · 16 October 2026';
 const COVER_NOTE = 'Every card follows the same headings. The generic long-case proforma is in 00 · Index and master case format.';
@@ -155,7 +155,7 @@ function readCards(file) {
   for (const c of cards) {
     if (!c.title) warn(c, c.line, 'no "@title" line');
     if (!c.kind) warn(c, c.line, 'no "@kind" line');
-    else if (!KIND_LABEL[c.kind.toLowerCase()]) warn(c, c.line, `unknown @kind "${c.kind}" (expected long, short, task, chart, fundus or index)`);
+    else if (!KIND_LABEL[c.kind.toLowerCase()]) warn(c, c.line, `unknown @kind "${c.kind}" (expected long, short, task, chart, fundus, index, video, guide or viva)`);
     c.kind = c.kind.toLowerCase();
     c.blocks = parseBlocks(c.body, c);
   }
